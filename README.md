@@ -5,5 +5,5 @@ Experiment for retrieving pesticide names based on their morphology.
 
 - Use `Experiment_English.ipynb` to extract keywords based on the retrieved substrings. Directory (Docs_English) with .txt files needed.
 
-- Use `Experiment_Portuguese.ipynb` to extract keywords based on the retrieved substrings. Directory (Docs_Portuguese) with .txt files needed.
+- Use `Experiment_Portuguese.ipynb` to extract keywords based on the translated substrings. Directory (Docs_Portuguese) with .txt files needed.
 
