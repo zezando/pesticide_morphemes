@@ -1,0 +1,554 @@
+http://dx.doi.org/10.20438/ecs.v6i2.208
+
+CARACTERIZAÇÃO TEÓRICA DA MOLÉCULA DE GLIFOSATO
+
+José Diêgo Marques de Lima1, Djardiel da Silva Gomes1, Amanda Marques de Lima2, Nilton Ferreira Frazão3, Ricardo Gondim Sarmento4
+
+¹ Departamento de Física, Universidade Federal Rural de Pernambuco, Recife-PE.  ²  Unidade Acadêmica de Biologia e Química, Universidade Federal de Campina Grande, Cuité-PB  3 Professor da  Unidade Acadêmica de Física e Matemática, Universidade Federal de Campina  Grande, Cuité-PB.  4  Professor do Departamento de Ciências Biológicas, Universidade Federal do Piauí, Floriano-PI. E-mail para correspondência: diego.mlima@ufrpe.br
+
+Resumo
+
+O  glifosato  (N-(fosfonometil)glicina)  é  um  herbicida  amplamente  utilizado,  todavia,  sua  aplicação  indiscriminada  tem  acarretado  vários  problemas  ambientais.  Nesse  sentido,  este trabalho tem como objetivo principal fornecer uma caracterização desta molécula,  provendo  um  suporte  teórico  para  a  compreensão  das  propriedades  deste  composto.  Assim, empregou-se simulações computacionais baseadas na Dinâmica Molecular (com  o UFF) e na DFT (com LDA-PWC, GGA-PBE e B3LYP) para calcular as propriedades de  interesse. Então, realizou-se a caracterização estrutural, eletrônica e optoeletrônica da  molécula de glifosato isolada, obtendo a conformação de menor energia, o estudo dos  orbitais  moleculares  de  fronteira,  da  densidade  de  estados  acrescidos  de  suas propriedades vibracionais e termodinâmicas.
+
+Palavras-chave: Glifosato; Dinâmica Molecular; Teoria do Funcional da Densidade.
+
+
+
+1
+
+Introdução
+
+A  N-(fosfonometil)glicina,  comumente  chamada  de  “glifosato”,  possui  a  fórmula
+
+molecular C3H8NO5P, sendo classificada como um composto organofosforado (ver
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+1
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+Figura  1).  Quimicamente,  esta  molécula  possui  três  grupos  funcionais:  um
+
+fosfonato, um amino e um carboxilato (AMARANTE JUNIOR; SANTOS, 2002). Já
+
+comercialmente,  o  glifosato  é  conhecido  como  um  herbicida  do  tipo  não-seletivo
+
+amplamente utilizado na agricultura, onde sua aplicação é geralmente feita através
+
+da  pulverização,  sendo  absorvido  principalmente  pelas  folhas,  a  partir  das  quais
+
+consegue se espalhar por toda a planta. Uma vez que o seu mecanismo de ação
+
+consiste em realizar a inibição da enzima EPSPs, ele provoca uma lenta morte de
+
+todas as partes do vegetal (KRUSE; TREZZI; VIDAL, 2000).
+
+Figura 1: Estrutura de Lewis da molécula de glifosato.
+
+Adaptado de Cox, 1998.
+
+Todavia, ao ser utilizado em regiões que estão próximas a recursos hídricos
+
+superficiais,  este  herbicida  acaba  por  tornar-se  um  poluente  em  potencial  de
+
+reservatórios  de  água.  E,  apesar  de  ser  considerado  de  baixa  toxicidade,  sua
+
+exposição  constante  e  em  elevadas  doses  pode  provocar  em  seres  humanos
+
+diversos  problemas,  como  dermatite,  hipertermia,  conjuntivite,  arritmia  cardíaca,
+
+bem como possíveis relações com casos de câncer (COX, 1998).
+
+Com o objetivo de estudar a forma estrutural e as propriedades eletrônicas,
+
+ópticas,  vibracionais  e  termodinâmicas  da  molécula  de  glifosato,  este  trabalho
+
+empregou  os  métodos  computacionais  aproximativos  da  Dinâmica  Molecular  (do
+
+inglês Molecular Dynamics – MD) e da Teoria do Funcional da Densidade (do inglês
+
+Density  Functional  Theory  –  DFT)  (FRAZÃO  et.  al.,  2012).  Nesse  sentido,  a
+
+compreensão  de  tais  características  moleculares  é  potencialmente  útil  no
+
+desenvolvimento  de
+
+técnicas  para  despoluição  de  reservatórios  de  água
+
+contaminados com tal herbicida (PIMENTA; MELO, 2004).
+
+2  Métodos Computacionais
+
+Os cálculos de Dinâmica Molecular foram realizados com o código Forcite através
+
+do  uso  do  Campo  de  Força  Universal  (do  inglês  Universal  Force  Field  –  UFF)
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+2
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+(MORGON; COUTINHO, 2007). Nesse caso, para interações não-ligadas (do tipo
+
+van der Waals e eletrostáticas), considerou-se um raio de corte médio de 18,5 Å,
+
+sendo este baseado nos átomos (VERLET, 1967).
+
+As  propriedades  quânticas  para  o  estado  fundamental  da  molécula  foram
+
+estimadas  com  a  Teoria  do  Funcional  da  Densidade,  sendo  essencialmente
+
+organizados a partir dos códigos DMol³ e Gaussian 03 (Frisch et. al., 2004), através
+
+do  algoritmo  autoconsistente  de  Kohn-Sham  (KOHN;  SHAM,  1965).  Para  os
+
+resultados desta pesquisa, utilizou-se a base de função numérica DNP, com um raio
+
+de corte orbital global. Além disso, o funcional de troca-correlação foi tratado com
+
+as  aproximações  LDA-PWC  e  GGA-PBE,  ambos  com  acurácia  fina  (PERDEW;
+
+BURKE;  ERNZERHOF,  1996).  O  funcional  híbrido  B3LYP  foi  considerado,  aqui,
+
+apenas  para  detalhar  os  modos  normais  de  vibração  e  as  propriedades
+
+termodinâmicas  da  molécula,  devido  ao  custo  computacional  relativamente  alto
+
+(BECKE, 1989).
+
+Finalmente,  utilizou-se  o  VEDA  (do  inglês  Vibrational  Energy  Distribution
+
+Analysis),  que  é  um  software  desenvolvido  para  apresentar  os  espectros  de
+
+absorção infravermelha e atividade Raman através de uma otimização de geometria
+
+em termos das coordenadas internas do sistema. Uma de suas principais funções
+
+é,  dessa  maneira,  determinar  os  modos  normais  de  vibração  das  moléculas,
+
+associando-os a uma distribuição energética (JAMROZ, 2010).
+
+3  Resultados e Discussões
+
+Para  encontrar  o  estado  de  menor  energia  do  glifosato  fez-se,  inicialmente,  uma
+
+otimização  geométrica  clássica  mais  grotesca  no  módulo  Forcite.  A  partir  disso,
+
+pôde-se, então, utilizar o cálculo quântico de convergência através da DFT, com os
+
+funcionais LDA-PWC e GGA-PBE, de forma separada, no DMol³. Por conseguinte,
+
+a  representação  estrutural de  cada  otimização  e  a  numeração  escolhida  para  os
+
+átomos é mostrada na Figura 2, onde foi possível observar algumas diferenças entre
+
+os métodos aplicados.
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+3
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+Figura 2: Otimização de geometria do glifosato para encontrar a conformação de menor  energia utilizando as aproximações do UFF (2,844 eV) e dos funcionais LDA-PWC (-24.117,622 eV) e GGA-PBE (-24.244,522 eV).
+
+Com  o  UFF,  a  energia  total  do  sistema  convergiu  para  aproximadamente
+
+2,844 eV em um total de 140 iterações, enquanto que para o LDA-PWC e o GGA-
+
+PBE os resultados foram cerca de -24.117,622 eV e -24.244,522 eV após 21 e 17
+
+passos, respectivamente. Apesar de o valor energético encontrado com o método
+
+clássico divergir tanto com respeito aos métodos quânticos (isso ocorre pois a MD
+
+não  considera  oscilações  de  altas  frequências),  realizar  primeiramente  o  cálculo
+
+com  o  Campo  de  Força  Universal
+
+reduziu  consideravelmente  o  custo
+
+computacional.
+
+A partir disso, a densidade de carga (em Å-3) no estado de menor energia da
+
+molécula de glifosato foi calculada com os funcionais de troca-correlação LDA-PWC
+
+e  GGA-PBE,  representada  na  Figura  3,  ao  ser  plotada  sobre  uma  superfície
+
+equipotencial. As regiões de coloração mais azulada contêm os maiores valores de
+
+cargas positivas no glifosato, enquanto as de cores avermelhadas representam uma
+
+maior presença de cargas negativas. É possível notar, então, que as áreas próximas
+
+aos  núcleos  dos  átomos  de  oxigênio  e  de  nitrogênio  possuem  maior
+
+eletronegatividade que  as  adjacentes  aos  núcleos  de  hidrogênio,  como  já  era  de
+
+fato esperado.
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+4
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+Figura 3: Densidade de carga na molécula de glifosato plotada em uma superfície  equipotencial. A escala de cores está em Å-3, onde as cores avermelhadas mostram uma predominância de cargas negativas e as azuladas, de cargas positivas.
+
+O Orbital Molecular Ocupado de Maior Energia (do inglês Highest Occupied
+
+Molecular Orbital –  HOMO)  e  o Orbital Molecular  Desocupado  de  Menor  Energia
+
+(do  inglês  Lowest  Unoccupied  Molecular  Orbital  –  LUMO)  compõem  os  orbitais
+
+moleculares de fronteira encontrados com o LDA-PWC e o GGA-PBE. Assim, da
+
+Figura  4,  é  notória  a  ocorrência  de  uma  predominância  dos  orbitais  HOMO  nos
+
+grupos funcionais do fosfonato e do amino para as duas aproximações do funcional
+
+de  troca-correlação  utilizadas.  Todavia,  em  ambos  os  casos,  os  orbitais  LUMO
+
+estão quase que totalmente dispostos sobre os átomos que compõem o grupo do
+
+carboxilato.
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+5
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+Figura 4: Orbitais moleculares de fronteira do glifosato, os quais foram determinados com  os funcionais LDA-PWC e GGA-PBE. Existe uma predominância dos orbitais HOMO no fosfonato e no amino, bem como dos orbitais LUMO no carboxilato.
+
+Na sequência, a densidade de estados (do inglês Density of States – DOS)
+
+foi calculada com os funcionais LDA-PWC e GGA-PBE para a molécula de glifosato,
+
+considerando  uma  adição  de  doze  bandas  vazias  além  das  ocupadas.  Assim,  a
+
+Figura 5 apresenta as DOS estimadas, bem como os valores encontrados para a
+
+energia de Fermi e dos orbitais HOMO e LUMO. As considerações com funcional o
+
+LDA-PWC previram que o glifosato, no estado fundamental, possui uma energia de
+
+Fermi  de  aproximadamente  -6,783  eV,  o  que  coincidiu  com  a  energia  do  orbital
+
+HOMO.  Por  sua  vez,  para  o  orbital  LUMO  obteve-se  cerca  de  -2,087  eV,
+
+caracterizando  um  gap  de  4,696  eV.  Já  o  GGA-PBE  previu  para  o  glifosato  uma
+
+energia de Fermi no estado fundamental, mais uma vez, igual a encontrada para o
+
+orbital HOMO e estimada em -6,469 eV. A energia para o orbital LUMO foi de -1,715
+
+eV, o que gera um gap de cerca de 4,754 eV. Em ambos os casos, a presença da
+
+linha da energia de Fermi próxima à banda de valência (região à esquerda do gap)
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+6
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+na  figura  5  indica  que  a  molécula  possui  características  semelhantes  a  um
+
+semicondutor do tipo p.
+
+Figura 5: Estimativas da densidade de estados para o glifosato com os funcionais LDA-PWC e GGA-PBE para valores próximos à energia de Fermi.
+
+Já  as  informações  sobre  o  espectro  de  absorção  infravermelha  de  uma
+
+molécula permitem, por conseguinte, estimar os seus modos normais de vibração.
+
+Para  o  glifosato  isso  foi  calculado  através  da  DFT  com  os  funcionais  de  troca-
+
+correlação LDA-PWC, GGA-PBE e B3LYP, sendo apresentadas na Figura 6, onde
+
+a intensidade é, por conveniência, dada em unidades arbitrárias (u.a.) e o número
+
+de  onda  em  cm-1.  Para  comparações  com  a  simulação,  utilizou-se  um  gráfico  de
+
+resultados  experimentais  obtidos  por  Undabeytia  et.  al.  (2002)  para  0,5  mM  de
+
+glifosato em um estado de protonação com pH 7,0, após uma liofilização.
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+7
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+Figura 6: Espectro de absorção infravermelha (em u.a.) do glifosato calculado com as
+
+aproximações LDA-PWC, GGA-PBE e B3LYP, bem como a curva experimental encontrada
+
+por Undabeytia et. al. para os respectivos números de onda (em cm-1).
+
+O glifosato possui quatro constantes de dissociação ácida: pKa1 < 2,0, pKa2
+
+= 2,6, pKa3 = 5,6 e pKa4 = 10,6 (COUTINHO; MAZO, 2005). Assim, quando o pH é
+
+7,0, a maior parte das moléculas do glifosato no experimento perdem três prótons.
+
+Segundo Undabeytia et. al. (2002), os estiramentos P–O para a curva experimental
+
+da absorção infravermelha do glifosato correspondem aos picos em 979 cm-1 e 1091
+
+cm-1.  Foi  possível  notar  que  a  simulação  no  vácuo  realizada  neste  trabalho
+
+encontrou  esse  modo  vibracional  para  valores  entre  844,9  cm-1  e  1291,2  cm-1,
+
+coincidindo a região dos dados empíricos, apesar de estes estarem considerando
+
+um estado com pH 7,0.
+
+Na Figura 6 são notórias algumas divergências locais quanto às estimativas
+
+das  intensidades  de  absorção  dadas  pelos  funcionais  utilizados  para  os  cálculos
+
+computacionais empregados. Todavia, todos eles preveem no glifosato um total de
+
+48 modos normais de vibração. É possível, ainda, observar que, de modo geral, as
+
+simulações no vácuo feitas através da DFT geraram resultados plausíveis quando
+
+comparados com os dados experimentais de Undabeytia et. al.
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+8
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+Da mesma forma do que foi feito para a absorção infravermelha, a atividade
+
+Raman (em unidades arbitrárias, u.a.) é mostrada na Figura 7 e foi calculada para
+
+o glifosato através da DFT com os funcionais LDA-PWC, GGA-PBE e B3LYP, onde
+
+considerou-se uma temperatura na simulação de 300 K, bem como um comprimento
+
+de onda da luz incidente de 488,00 nm. Tal método previu, mais uma vez, um valor
+
+total de 48 modos normais de vibração.
+
+Figura 7: Atividade Raman (em u.a.) do glifosato determinada com os funcionais descritos
+
+para os números de onda (em cm-1) correspondentes. A curva experimental foi encontrada
+
+por Costa et. al. para uma radiação incidente com comprimento de onda dado por λ = 632,8
+
+nm.
+
+O  trabalho  de  Costa  et.  al.  (2012)  apresenta,  em  condições  ambientes,  o
+
+espectro  Raman  para  o  glifosato  no  estado  sólido  incidindo  uma  radiação  com
+
+comprimento de onda de 632,8 nm. A atividade encontrada experimentalmente por
+
+eles corresponde à faixa de 400 a 1800 cm-1 e apresenta picos aproximadamente
+
+semelhantes aos encontrados teoricamente neste presente trabalho.
+
+Com os cálculos feitos com o B3LYP, observaram-se os que estiramentos da
+
+ligação C═O ocorrem no glifosato para 1867,0 cm-1. Já de acordo com a literatura,
+
+o grupo funcional do carboxilato apresenta uma considerável absorção na região de
+
+1660-1820 cm-1 graças a essa ligação. Além disso, os estiramentos das ligações do
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+9
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+tipo O–H ocorrem para essa molécula entre os números de onda de 3804,3 cm-1 até
+
+3834,0 cm-1. Entretanto, esse modo vibracional é recorrente entre 3700 cm-1 e 3600
+
+cm-1,  o  que  o  indica  que  a  simulação  previu  um  deslocamento  no  espectro  de
+
+absorção nessas localidades (PAIVA et. al., 2012).
+
+Ainda de acordo com a simulação, os estiramentos N–H, C–O e C–C estão
+
+localizados em 3510,1 cm-1, 1867,0 cm-1 e 904,7 cm-1, na respectiva ordem, para o
+
+glifosato. Por sua vez, as ligações C–H têm absorção entre 2896,7 cm-1 e 3070,4
+
+cm-1, enquanto que as do tipo C–N apresentam vibrações para 1083,4 cm-1 e 1174,1
+
+cm-1.  Todos  esses  modos  estão  em  plena  concordância  com  o  previsto  pela
+
+literatura (PAIVA et. al., 2012).
+
+A  intensidade  (em  u.a.)  das  radiações  eletromagnéticas  absorvidas  na
+
+região do ultravioleta e visível foi calculada com os funcionais LDA-PWC e GGA-
+
+PBE e é apresentada na Figura 8 para os respectivos comprimentos de onda (em
+
+nanômetros,  nm),  considerando  os  doze  estados  singleto  de  menor  energia.  É
+
+possível  observar,  então,  que  a  DFT  prevê  uma  absorção  de  fótons  apenas  na
+
+região correspondente ao ultravioleta e, consequentemente, estima que existirá a
+
+reflexão de toda a radiação que está na faixa do visível. Tal informação fornece uma
+
+explicação consideravelmente plausível para o fato de os cristais dessa molécula
+
+serem, em condições ambientes, de cor branca.
+
+Figura 8: Espectro de absorção ultravioleta (dado em u.a.) do glifosato, calculado com o
+
+LDA-PWC e GGA-PBE, em função dos comprimentos de onda em nm.
+
+Sabe-se que este herbicida é encontrado, em condições normais, no estado
+
+de sólido cristalino. Nesse caso, sua capacidade térmica molar a volume constante
+
+CV pode ser calculada tratando apenas as contribuições das vibrações moleculares,
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+10
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+aproximando-as por sólidos de Einstein. Por conseguinte, a Figura 9 apresenta a
+
+quantidade  vibracional  de  CV/R  (onde  R  é  a  constante  dos  gases  ideais)  que  foi
+
+estimada  com  o  funcional  B3LYP  para  as  temperaturas  de  T→0  até  10.000  K,
+
+considerando um mol de moléculas.
+
+Figura 9: Contribuição vibracional para CV/R em função da temperatura (em K),
+
+considerando 1 mol de moléculas de glifosato e estimada pelo funcional B3LYP.
+
+É, também, notório que quando T→0, CV/R→0, como esperado pela terceira
+
+Lei  da  Termodinâmica.  Por  outro  lado,  observa-se  que  quando  T→  ∞,  então
+
+CV/R→48, que é justamente o número de modos normais de vibração do glifosato.
+
+Uma  vez  que  o  teorema  da  equipartição  da  energia  afirma  que  cada  modo
+
+vibracional contribui com R/2 devido à energia cinética e mais R/2 devido à energia
+
+potencial (aproximada por um potencial harmônico) para a capacidade térmica total
+
+a volume constante do sistema, o resultado encontrado condiz com o dito teorema
+
+para temperaturas muito maiores que a ambiente (ROY, 2001).
+
+4  Considerações Finais
+
+De  fato,  a  crescente  utilização  de  agrotóxicos  tem  causado  diversos  problemas
+
+ambientais  que  são  cada  vez  mais  agravantes.  Em  especial,  o  herbicida  não-
+
+seletivo  glifosato,  que  é  um  dos  mais  comercializados,  apresenta-se  como  um
+
+poluidor de águas superficiais e alimentos, podendo ocasionar grandes problemas
+
+de saúde para os seres humanos e demais animais.
+
+Em geral, a partir das propriedades estruturais, eletrônicas, optoeletrônicas
+
+e  vibracionais  de  um  certo  composto,  pode-se  ter  uma  melhor  compreensão  do
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+11
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+comportamento do mesmo em um certo meio, bem como das possíveis interações
+
+com  outras  moléculas.  Uma  vez  que  o  glifosato  é  um  conhecido  poluidor,  tais
+
+informações formam uma importante base teórica para futuros estudos acerca de
+
+técnicas  de  sua  remoção.  Visto  isso,  este  trabalho  tratou  de  apresentar  as
+
+características  físicas  mais  fundamentais  do  glifosato  com  o  uso  da  Dinâmica
+
+Molecular e a Teoria do Funcional da Densidade.
+
+A  otimização  de  geometria  desta  molécula  resultou  em  estruturas  com
+
+energia total de 2,844 eV, -24.117,622 eV e -24.244,522 eV de acordo com o UFF,
+
+LDA-PWC e GGA-PBE, respectivamente. Por conseguinte, a Teoria do Funcional
+
+da Densidade previu para o glifosato, em seu estado fundamental, a predominância
+
+do orbital molecular de fronteira LUMO no grupo funcional do carboxilato, com uma
+
+autoenergia  de  -2,087 eV  de  acordo  com o LDA-PWC e  de  -1,715 eV  de  acordo
+
+com  o  GGA-PBE.  Para  ambas  as  aproximações  a  energia  do  orbital  HOMO
+
+coincidiu com a energia de Fermi com os valores de -6,783 eV para o LDA-PWC e
+
+de -6,469 eV para o GGA-PBE, possibilitando a respectivas estimativas de que o
+
+gap de energia é de 4,696 eV e 4,754 eV. Ademais, a presença do orbital HOMO
+
+ocorre majoritariamente nos grupos funcionais do fosfonato e da amina. Finalmente,
+
+a presença da energia de Fermi próxima à banda de valência na DOS indica que a
+
+molécula possui, dessa forma, características semelhantes a um semicondutor do
+
+tipo p.
+
+O estudo da absorção IR e da atividade Raman com a DFT encontrou um
+
+total de 48 modos normais de vibração para a molécula de glifosato. As curvas foram
+
+obtidas com os funcionais LDA-PWC, GGA-PBE e B3LYP, apresentando resultados
+
+relativamente  próximos  aos  ditos  na  literatura.  A  partir  disso,  calculou-se  a
+
+capacidade térmica molar a volume constante para um sólido composto por um mol
+
+de moléculas glifosato, sendo possível notar que esta se anula no zero absoluto e
+
+tende para 48R em altas temperaturas, concordando com o teorema da equipartição
+
+de energia.
+
+Como  perspectivas  para
+
+trabalhos
+
+futuros,  pretende-se  estudar  as
+
+propriedades dos cristais de glifosato e suas interações com estruturas de carbono,
+
+em especial o fulereno C60. Os cálculos realizados neste trabalho podem, ainda, ser
+
+replicados para outros tipos de herbicidas bem conhecidos como, por exemplo, o
+
+picloram, a atrazina, o 2,4-D, o glufosinato, o DCMU e a dicamba.
+
+Educ. Ci. e Saúde, v. 6, n. 2, p. 1-14, jul./dez., 2019
+
+12
+
+EDUCAÇÃO CIÊNCIA E SAÚDE | http://dx.doi.org/10.20438/ecs.v6i2.208
+
+
+

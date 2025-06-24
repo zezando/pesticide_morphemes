@@ -1,0 +1,2452 @@
+
+
+CENTRO DE CIÊNCIAS BIOLÓGICAS
+
+MESTRADO EM CIÊNCIAS BIOLÓGICAS
+
+Efeito de pesticidas organofosforados e carbamatos sobre a
+
+acetilcolinesterase eritrocitária humana e seu potencial uso como
+
+biomarcador da exposição ocupacional
+
+AMANDA GUEDES LINHARES
+
+
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+CENTRO DE CIÊNCIAS BIOLÓGICAS
+
+MESTRADO EM CIÊNCIAS BIOLÓGICAS
+
+Efeito de pesticidas organofosforados e carbamatos sobre a
+
+acetilcolinesterase eritrocitária humana e seu potencial uso como
+
+biomarcador da exposição ocupacional
+
+AMANDA GUEDES LINHARES
+
+Prof. Dr. LUIZ BEZERRA DE CARVALHO JÚNIOR
+
+Orientador
+
+RECIFE
+
+2013
+
+Catalogação na Fonte: Bibliotecário Bruno Márcio Gouveia, CRB-4/1788
+
+Linhares, Amanda Guedes
+
+Efeito  de  pesticidas  organofosforados
+
+a  acetilcolinesterase eritrocitária humana e seu potencial uso como biomarcardor da exposição ocupacional / Amanda Guedes Linhares. – Recife: O Autor, 2014.
+
+carbamatos
+
+sobre
+
+e
+
+81 f.: il.
+
+Orientador: Luiz Bezerra de Carvalho Júnior
+
+Dissertação (mestrado) – Universidade Federal de Pernambuco. Pós-
+
+graduação em Ciências Biológicas, 2014.
+
+Inclui bibliografia e anexos
+
+1.
+
+Pesticidas I. Carvalho Júnior , Luiz Bezerra de (orient.) II. Título.
+
+632.95                            CDD (22.ed.)                  UFPE/CCB-2014-126
+
+Linhares, A. G.                                                                                                 Folha de aprovação
+
+AMANDA GUEDES LINHARES
+
+Efeito de pesticidas organofosforados e carbamatos na
+
+acetilcolinesterase eritrocitária humana e seu potencial uso como
+
+biomarcador da exposição ocupacional
+
+Dissertação
+
+apresentada
+
+à  Coordenação  do  Programa  de  Pós- Graduação  em  Ciências  Biológicas,  da  Universidade  Federal  de  Pernambuco  –  UFPE,  como  requisito  final  exigido  para  obtenção  do  grau  de  Mestre  em  Ciências Biológicas.
+
+Data de aprovação: ____ /____ /________
+
+BANCA EXAMINADORA:
+
+__________________________________
+
+_________________________________
+
+Prof. PhD. Luiz Bezerra de Carvalho Jr.
+
+Dra. Elba Verônica M. Maciel de Carvalho
+
+UFPE – Laboratório de Enzimologia
+
+UFPE – Laboratório de Glicoproteínas
+
+Departamento de Bioquímica
+
+Departamento de Bioquímica
+
+__________________________________
+
+Dr. Caio Rodrigo Dias de Assis
+
+UFPE – Laboratório de Enzimologia
+
+Departamento de Bioquímica
+
+Recife, 2013
+
+Linhares, A. G.                                                                                                       Agradecimentos
+
+
+
+I
+
+Linhares, A. G.                                                                                                       Resumo
+
+RESUMO
+
+Apesar  do  aumento  na  produtividade  agrícola  proporcionado  pelos  pesticidas,  o  uso  inadequado  dessas  substâncias  traz  impactos  negativos  à  saúde  humana  e  ambiental.  Estimativas de eficiência de aplicação relatam que apenas cerca de 0,1% dos pesticidas  aplicados atingem as pragas-alvo, enquanto o restante se espalha pelo  ambiente. Além  disso, os recursos  financeiros  economizados  ao se evitar o ataque de pragas terminam  sendo  gastos  na  recuperação  dos  danos  à  saúde  pública  e  ao  meio  ambiente  causados  pelos próprios pesticidas. Diversas metodologias vêm sendo desenvolvidas utilizando as  enzimas  colinesterases  como  biomarcadores  de  pesticidas  organofosforados  e  carbamatos, tendo em vista sua alta especificidade em relação a esses compostos. Para  utilização dessas biomoléculas como biomarcadores de pesticidas, estudos preliminares  são  realizados  analisando-se  as  alterações  provenientes  de  sua  interação.  O  presente  trabalho  teve  como  objetivo  desenvolver  um  método  para  extração  e  determinação  da  atividade da AChE eritrocitária humana e avaliar a precisão do método na detecção de  pesticidas,  comparando  os  resultados  de  inibição  com  a  legislação  nacional  e  internacional  vigente.  Dessa  forma,  membranas  de  eritrócitos  livres  de  hemoglobina  foram  extraídas  e  utilizadas  na  análise  da  atividade  da  acetilcolinesterase  (AChE)  ancorada nessas células. A evidência da atividade da enzima foi comprovada através da  inibição seletiva utilizando dibrometo de 1,5-bis (4-alil-dimetilamônio-fenil) pentan-3- ona  (BW284c51),  tetraisopropil  pirofosforamidato  (Iso-OMPA)  e  brometo  de  neostigmina.  As  amostras  de  sangue  foram  expostas  a  treze  concentrações  de  três  pesticidas  organofosforados  (diclorvós,  clorpirifós  e  diazinon)  e  dois  carbamatos  (carbaril e carbofuran). As concentrações dos pesticidas capazes de inibir a atividade da  enzima em 50% (CI50) foram 10,66 µM (diclorvós), 21,42 µM (clorpirifós), 109,98 µM  (carbaril) e 5,44 µM (carbofuran). O diazinon não atingiu 50% de inibição da atividade  enzimática na faixa de concentração utilizada. Os resultados relativos a 20% de inibição  da  atividade  enzimática  (CI20  -  nível  utilizado  na  estimativa  dos  limites  mínimos  de  resíduos  de  compostos  anticolinesterásicos)  foram  inferiores  aos  valores  de  ingestão  diária  aceitável  (IDA)  para  cada  pesticida  recomendados  pela  ANVISA,  OMS,  FAO,  ATSDR,  EFSA  e  USEPA  com  exceção  do  organofosforado  diazinon.  Sendo  assim,  o  cut-off de 20% de inibição da atividade da AChE eritrocitária foi escolhido para avaliar  a sensibilidade e a especificidade, parâmetros de confiabilidade do método, capazes de  minimizar a influência de falsos positivos e falsos negativos na análise. Os valores de  sensibilidade para os  pesticidas investigados situaram-se acima de 80%, exceto  para o  diazinon, enquanto que os valores de especificidade para todos os pesticidas estiveram  acima  de  60%.  Estes  resultados  sugerem  que  os  métodos  de  extração  da  AChE  eritrocitária  e  de  determinação  de  sua  atividade  propostos  podem  ser  ferramentas adequadas para o monitoramento da exposição ocupacional aos agrotóxicos.
+
+Palavras-chave: Acetilcolinesterase. Eritrócito. Biomarcador. Organofosforados. Carbamatos.
+
+II
+
+Linhares, A. G.                                                                                                                    Abstract
+
+
+
+III
+
+Linhares, A. G.                                                               Lista de Figuras da Revisão Bibliográfica
+
+LISTA DE FIGURAS DA REVISÃO BIBLIOGRÁFIA
+
+Figura  1  –  Antigo  uso  do  inseticida  organoclorado  DDT  no  combate  ao  piolho,  na
+
+década de 1950. Foto do Museu norueguês da infância Norsk Barnemuseum, Stavanger,
+
+Noruega (WHO, 2008)..................................................................................................... 4
+
+Figura 2 – Fórmula estrutural geral dos organofosforados............................................... 8
+
+Figura  3  –  Metabolismo  e  ativação  do  OP  diazinon  em  fígado  humano  adaptado  de
+
+Kappers et al. (2001)...................................................................................................... 10
+
+Figura  4  –  Metabolismo  e  ativação  do  OP  clorpirifós  em  fígado  humano  adaptado  de
+
+Wessels et al. (2003)....................................................................................................... 10
+
+Figura 5 – Fórmula estrutural geral dos carbamatos...................................................... 11
+
+Figura 6 – Formas das  colinesterases  encontradas em vertebrados. Splicing alternativo
+
+do  RNA  mensageiro  pode  originar  isoformas  hidrofílicas  e  anfifílicas  da  enzima
+
+(adaptado de Chatonnet e Lockridge, 1989)................................................................... 14
+
+Figura 7 – Estrutura tridimensional da AChE da arraia elétrica  Torpedo californica. A
+
+estrutura é apresentada como um diagrama de fitas, com o N-terminal abaixo à esquerda
+
+e o C-terminal acima à direita. A entrada da cavidade do sítio ativo situa-se no topo e a
+
+superfície da cavidade é delineada em rosa. Triptofano 84, o resíduo-chave no sub-sítio
+
+aniônico do sítio ativo, está representado em roxo enquanto o triptofano 279, o resíduo-
+
+chave  do  sítio  aniônico  periférico  está,  em  azul,  na  entrada  da  cavidade.  O  resíduo-
+
+chave  do  sub-sítio  esterásico  do  sítio  ativo,  serina  200,  é  mostrado  em  vermelho
+
+enquanto os resíduos fenilalanina 288 e fenilalanina 290, que delineam a bolsa acil, são
+
+mostrados em preto (Silman e Sussman, 2005).............................................................. 16
+
+Figura  8  –  Desenho  esquemático  do  ciclo  da  acetilcolina  onde  é  possível  observar  o
+
+papel  da  acetilcolinesterase  desativando  o  excesso  desse  neurotransmissor.  Colina  e
+
+acetato são liberados na fenda sináptica e a colina é reabsorvida pelo neurônio, onde a
+
+acetilcolina  é  ressintetizada  pela  ação  da  enzima  Colina  acetil-transferase.  O  acetato
+
+atravessa a barreira hemato-encefálica e é metabolizado em outros tecidos.................. 17
+
+Figura 9 – Desenho esquemático da hidrólise da acetilcolina, catalizada pela AChE, na
+
+qual  observa-se  a  ação  dos  sítios  aniônico  (atração  e  posicionamento  do  substrato)  e
+
+esterásico (quebra da ligação éster)  (fonte: Fukuto, 1990)............................................ 18
+
+Figura 10 - Hidrólise de ésteres pela AChE. Acima, observa-se a acilação do sítio ativo
+
+da  enzima  e  abaixo  a  desacilação.  O  esquema  inicia-se  com  a  formação  do  complexo
+
+IV
+
+Linhares, A. G.                                                               Lista de Figuras da Revisão Bibliográfica
+
+enzima-substrato  reversível  e  os  intermediários  tetraédricos  similares  ao  estado  de
+
+transição são mostrados entre colchetes (Fonte: Tõugu, 2001)...................................... 18
+
+Figura 11 – Representação da AChE eritrocitária na qual observa-se o dímero unido por
+
+pontes  dissulfeto  e  ligado  à  membrana  eritrocitária  através  de  âncoras  de  fosfatidil-
+
+inositol (fonte: Taylor, 1991).......................................................................................... 20
+
+Figura 12 – Representação esquemática da interação entre o inibidor (clorpirifós-oxon)
+
+e  o  sítio  ativo  da  AChE.  A  tríade  catalítica  situa-se  próximo  à  base  de  uma  cavidade
+
+estreita  e  profunda  que  alcança  o  centro  da  estrutura  globular  da  proteína.  O
+
+alinhamento  aromático  nas  paredes  da  cavidade  direciona  a  molecula  servindo  como
+
+mecanismo-guia  para  posicionar  o
+
+inibidor.  Adaptado  de  Casida  e  Quistad
+
+(2004).............................................................................................................................. 21
+
+Figura  13  –  Estado  de  transição  na  interação  entre  enzima  e  organofosforado.  No
+
+detalhe, as ligações envolvidas. Adaptado de ATSDR (2007)....................................... 22
+
+Figura  14  –  Representação  esquemática  entre  as  duas  possibilidades  de  ocorrência
+
+durante a duração do complexo enzima-OP: reativação espontânea ou aging. Adaptado
+
+de ATSDR (2007)........................................................................................................... 22
+
+Figura  15  –  Antes  de  sofrer  ―aging‖,  R2  estava  atraindo  os  elétrons  do  ―P‖.  Após  a
+
+remoção  de  R2,  esses  elétrons  são  compartilhados  com  ―O‖-Serina,  fortalecendo  a
+
+ligação, que não pode ser hidrolisada nem mesmo com a presença de oximas (ATSDR,
+
+2007)............................................................................................................................... 22
+
+Figura  16  –  Ação  de  uma  oxima  sobre  a  ligação  fosfoéster  entre  a  enzima  e  o
+
+organofosforado. Adaptado de ATSDR (2007).............................................................. 23
+
+V
+
+Linhares, A. G.                                                                                       Lista de Figuras do Artigo
+
+LISTA DE FIGURAS DO ARTIGO
+
+Figure 1 – Effect of (A) BW284c51, (B) Iso-OMPA and (C) neostigmine bromide from
+
+0.001  to  10  mM  on  frozen  blood  samples  of  human  RBC  AChE  activity.  RBC:  red
+
+blood cell; AChE: acetylcholinesterase; Iso-OMPA: tetraisopropyl pyrophosphoramide;
+
+BW284c51: 1,5-bis(4-allyldimethylammoniumphenyl) pentan-3-one dibromide….… 47
+
+Figure 2 – Effect of  (A) dichlorvos, (B) diazinon and (C) chlorpyrifos from 0.01 to 100
+
+µg/mL  on  frozen  blood  samples  of  human  RBC  AChE  activity.  RBC:  red  blood  cell;
+
+AChE: acetylcholinesterase…………………………………………………………… 48
+
+Figure 3 - Effect of (A) carbaryl and (B) carbofuran from 0.01 to 100 µg/mL on frozen
+
+blood  samples  of  human  RBC  AChE  activity.  RBC:  red  blood  cell;  AChE:
+
+acetylcholinesterase……………………………....…………………………………… 49
+
+VI
+
+Linhares, A. G.                                                              Lista de Tabelas da Revisão Bibliográfica
+
+LISTA DE TABELAS DA REVISÃO BIBLIOGRÁFICA
+
+Tabela  1  –  Classes  de  inseticidas  mais  vendidos  no  mundo  e  sua  participação  no  mercado  mundial  (Nauen  e  Bretschneider,  2002;  Jeschke  et  al.,  2011a;  University  of York, 2013b)..................................................................................................................... 7
+
+Tabela  2  -  Exemplos  de  inseticidas  organofosforados  de  acordo  com  os  grupamentos
+
+éster ligados ao átomo de fósforo (Paudyal, 2008; Assis et al., 2011)............................. 9
+
+Tabela  3  -  Exemplos  de  inseticidas  organofosforados  de  acordo  com  a  lipofilicidade
+
+(Assis et al., 2011)............................................................................................................ 9
+
+Tabela
+
+4
+
+-
+
+Sinais
+
+e
+
+sintomas
+
+das
+
+intoxicações
+
+por
+
+inseticidas
+
+organofosforados............................................................................................................ 12
+
+Tabela  5  –  Fatores  causadores  de  variação  da  atividade  das  colinesterases  do
+
+sangue............................................................................................................................. 26
+
+VII
+
+Linhares, A. G.                                                                                       Lista de Tabelas do Artigo
+
+LISTA DE TABELAS DO ARTIGO
+
+Table  1  –  ADI,  IC20  and  IC50  for  human  RBC  AChE  referring  to  pesticides  under
+
+study…………………………………………………………………………………… 53 Table  2  –  Sensitivity  and  Specificitya  of  the  human  erythrocyte  AChE  and  pesticide
+
+inhibition method in relation to pesticides under study………………………..……… 54
+
+VIII
+
+Linhares, A. G.                                                                                                Lista de Abreviações
+
+LISTA DE ABREVIAÇÕES
+
+Abreviação
+
+Descrição
+
+AChE
+
+ANVISA
+
+ATSDR
+
+BChE
+
+CB
+
+ChE
+
+CI20
+
+CI50
+
+DDT
+
+DMSO
+
+DTNB
+
+EFSA
+
+EPA
+
+EPI
+
+FAO
+
+HCl
+
+IDA
+
+OMPA
+
+OMS
+
+OP
+
+PC
+
+SNC
+
+TEPP
+
+Tris
+
+WHO
+
+Acetilcolinesterase
+
+Agência Nacional de Vigilância Sanitária
+
+Agency for Toxic Substances and Disease Registry
+
+Butirilcolinesterase
+
+Carbamato
+
+Colinesterase
+
+Concentração capaz de inibir a enzima em 20% de sua atividade
+
+Concentração capaz de inibir a enzima em 50% de sua atividade
+
+Dicloro-difenil-tricloroetano
+
+Dimetilsulfóxido
+
+5,5‘Ditiobis(2-nitrobenzóico)
+
+European Food Safety Authority
+
+Environmental Protection Agency
+
+Equipamento de Proteção Individual
+
+Food and Agriculture Organization
+
+Ácido clorídrico
+
+Ingestão Diária Aceitável
+
+Octametil-pirofosforamida
+
+Organização Mundial da saúde
+
+Organofosforado
+
+Peso Corporal
+
+Sistema Nervoso Central
+
+Tetraetil-pirofosfato
+
+Tris-hidróximetil-aminometano
+
+World Health Organization
+
+IX
+
+Linhares, A. G.                                                                                                                    Sumário
+
+SUMÁRIO
+
+RESUMO........................................................................................................................ II
+
+ABSTRACT.................................................................................................................. III
+
+LISTA DE FIGURAS DA REVISÃO BIBLIOGRÁFICA....................................... IV
+
+LISTA DE FIGURAS DO ARTIGO.......................................................................... VI
+
+LISTA DE TABELAS DA REVISÃO BIBLIOGRÁFICA..................................... VII
+
+LISTA DE TABELAS DO ARTIGO....................................................................... VIII
+
+LISTA DE ABREVIAÇÕES....................................................................................... IX
+
+1. INTRODUÇÃO........................................ ................................................................. 1
+
+2. CAPÍTULO I - REVISÃO BIBLIOGRÁFICA....................................................... 3
+
+2.1. Uso de agrotóxicos e problemas de saúde pública.................................................... 3
+
+2.2. Pesticidas................................................................................................................... 5
+
+- Organofosforados e Carbamatos................................................................................... 6
+
+2.3. Enzimas colinesterases............................................................................................ 13
+
+- Acetilcolinesterase....................................................................................................... 16
+
+- Acetilcolinesterase eritrocitária................................................................................... 19
+
+2.4. Interação entre a AChE e os pesticidas................................................................... 20
+
+2.5. Monitoramento da exposição ocupacional.............................................................. 24
+
+- AChE eritrocitária no monitoramento da exposição ocupacional.............................. 24
+
+3. REFERÊNCIAS DA REVISÃO BIBLIOGRÁFICA............................................ 27
+
+4. CAPÍTULO II – DEVELOPMENT OF A METHOD FOR EXTRACTION AND
+
+ASSAY  OF  HUMAN  ERYTHROCYTE  ACETYLCHOLINESTERASE  AND
+
+PESTICIDE INHIBITION.......................................................................................... 39
+
+5. CONCLUSÃO........................................................................................................... 60
+
+6. ANEXOS.................................................................................................................... 61
+
+X
+
+Linhares, A. G.                                                                                                                Introdução
+
+1.   INTRODUÇÃO
+
+As políticas de crédito agrícola implementadas na década de 70 impulsionaram a
+
+utilização e produção de agrotóxicos, alterando o padrão de consumo dessas substâncias
+
+ao  oferecer  subsídios  à  sua  aquisição.  Embora  a  utilização  dos  agrotóxicos  tenha
+
+proporcionado  o  aumento  da  produtividade  agrícola,  possibilitando  a  produção  de
+
+alimentos a um custo menor, o uso indiscriminado desses produtos pode trazer prejuízos
+
+à saúde humana e animal e ao meio ambiente (DOMINGUES et al., 2004).
+
+Os  trabalhadores  agrícolas  estão  expostos  a  grandes  riscos  de  intoxicação,
+
+devido  ao  contato  intenso  com  agrotóxicos.  Esses  compostos  são  potencialmente
+
+tóxicos  aos  humanos,  podendo  causar  efeitos  adversos  ao  sistema  nervoso  central  e
+
+periférico, ter ação imunodepressora ou ser cancerígenos, entre outros efeitos.
+
+Em  geral,  as  conseqüências  do  uso  indiscriminado  de  agrotóxicos  são
+
+condicionadas  por  fatores  intrinsecamente  relacionados,  tais  como  o  uso  inadequado
+
+dessas  substâncias,  a  alta  toxicidade  de  certos  produtos,  a  falta  de  utilização  de
+
+equipamentos de proteção e a precariedade dos mecanismos de vigilância. Esse quadro
+
+é  agravado  pelo  baixo  nível  socioeconômico  e  cultural  da  grande  maioria  desses
+
+trabalhadores (OLIVEIRA-SILVA et al., 2001).
+
+Entre  os  pesticidas  mais  utilizados  e  causadores  de  intoxicações  ocupacionais
+
+estão  os  organofosforados  e  os  carbamatos,  pertencentes  à  classe  dos  inibidores  das
+
+enzimas colinesterases (ChEs). Seu mecanismo de ação se dá através da fosforilação do
+
+sítio  ativo  dessas  enzimas,  no  caso  dos  organofosforados  e  carbamilação,  no  caso  dos
+
+carbamatos, causando a inibição da atividade enzimática (Fukuto, 1990).
+
+As  enzimas  colinesterases  são  hidrolases  do  grupo  das  serino-esterases,  com
+
+afinidade por ésteres de colina. Existem dois tipos de colinesterases: acetilcolinesterase
+
+(AChE;  EC  3.1.1.7)  e  butirilcolinesterase  (BChE;  EC  3.1.1.8).  A  primeira  ocorre  no
+
+cérebro,  gânglios  do  sistema  nervoso  autônomo  e  placas  motoras  onde  sua  função  é
+
+modular  os
+
+impulsos  nervosos  na  fenda  sináptica  através  da  hidrólise  do
+
+neurotransmissor  acetilcolina.  Ela  também  pode  ser  encontrada  na  membrana  dos
+
+eritrócitos  (onde  sua  função  ainda  não  foi  elucidada)  sendo  sintetizada  durante  a
+
+hematopoiese, com meia-vida de aproximadamente 120 dias. A BChE é sintetizada no
+
+fígado e predomina no plasma, células  gliais,  pâncreas e na parede do trato  digestivo,
+
+apresentando  meia-vida  de  7  a  14  dias.  É  apontada  como  uma  enzima
+
+1
+
+Linhares, A. G.                                                                                                                Introdução
+
+detoxificadora/ativadora  de  compostos  xenobióticos  (CHATONNET  E  LOCKRIDGE,
+
+1989; ÇOKUGRAS, 2003).
+
+Os  organofosforados  e  carbamatos  são  absorvidos  por  via  oral,  respiratória  e
+
+cutânea,  sendo  esta  ultima  a  causa  mais  comum  de  intoxicações  ocupacionais.
+
+Dependendo da quantidade da substância tóxica absorvida, do tempo de exposição e de
+
+outros  fatores,  à  exemplo  da  idade  e  das  condições  de  saúde,  essa  intoxicação  pode
+
+acarretar  danos  irreversíveis,  como  infertilidade  (ou  problemas  relacionados  à
+
+fertilidade), indução de efeitos teratogênicos e genéticos e câncer conforme revisto por
+
+Matos  e  colaboradores  (1988).  Também  são  relatados  efeitos  deletérios  sobre  os
+
+sistemas  nervoso,  respiratório,  cardiovascular,  genito-urinário,  gastro-intestinal,  pele,
+
+olhos,  além  de  alterações  hematológicas  e  reações  alérgicas  a  estas  substâncias.  Essa
+
+condição  encontrada  no  meio  rural  representa  a  necessidade  do  monitoramento  e  da
+
+prevenção da exposição ocupacional.
+
+O  monitoramento  de  pesticidas  através  de  métodos  baseados  na  inibição  de
+
+colinesterases  geralmente  requer  amostras  de  sangue  frescas,  para  evitar  a  hemólise  e
+
+devido à baixa estabilidade térmica das enzimas mesmo sob resfriamento. Tais técnicas
+
+apresentam  outras  desvantagens,  como:  1)  a  não  diferenciação  entre  as  atividades  da
+
+AChE eritrocitária e da BChE plasmática (a inibição da AChE eritrocitária correlaciona-
+
+se  melhor  com  a  inibição  da  AChE  no  SNC),  quando  se  utiliza  a  atividade  das
+
+colinesterases  totais;  2)  a  baixa  precisão  causada  pela  interferência  da  hemoglobina,
+
+quando  se  utiliza  somente  a  atividade  da  AChE  eritrocitária  sem  a  completa  lise  e
+
+lavagem da hemoglobina por centrifugação.
+
+Assim,  o  trabalho  teve  por  objetivo  desenvolver  um  método  para  a  extração  e
+
+análise  da  AChE  eritrocitária  humana  no  qual,  não  apenas  fosse  utilizada  somente  a
+
+atividade dessa enzima, como também fosse permitido o congelamento de amostras para
+
+análises em  laboratórios  distantes dos locais  de coleta e sem  interações colorimétricas
+
+indesejáveis  como  ocorre  com  a  hemoglobina.  Também  foi  objetivo  avaliar  a
+
+sensibilidade  e  especificidade  do  método  para  mensurar  a  exposição  aos  pesticidas,
+
+comparando  os  resultados  de  inibição  com  os  regulamentos  nacionais  e  internacionais
+
+vigentes.
+
+2
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+2.  CAPÍTULO I - REVISÃO BIBLIOGRÁFICA
+
+2.1 Uso de agrotóxicos e problemas de saúde pública
+
+No  Brasil,  os  agrotóxicos  foram  primeiramente  utilizados  em  programas  de  saúde
+
+pública, no combate aos vetores de doenças e controle de parasitas (Fig. 1), passando a
+
+ser  utilizados  mais  intensivamente  na  agricultura  a  partir  da  década  de  1960.  A
+
+utilização  em
+
+larga  escala  deu-se  quando  os  pesticidas
+
+foram
+
+incluídos,
+
+compulsoriamente, nos financiamentos agrícolas, assim como os adubos e fertilizantes
+
+químicos.  Em  1975,  com  o  Plano  Nacional  de  Desenvolvimento  (PND),  responsável
+
+pela  abertura  do  Brasil  ao  comércio  de  agrotóxicos  (TRAPÉ,  1993),  o  produtor  rural
+
+brasileiro passou a ter acesso ao crédito agrícola, decorrente do movimento globalizante
+
+conhecido  como  “Revolução  verde”,  que  instituiu  a  obrigatoriedade  do  uso  de
+
+agrotóxicos  para  todos  os  financiamentos  sob  o  discurso  tecnológico  de  garantir  a
+
+produção  livre  de  pragas  e  como  símbolo  da  ―agricultura  moderna‖  mais  produtiva
+
+(SOBREIRA,  2004).  Essa  obrigatoriedade,  somada  à  propaganda  dos  fabricantes,
+
+determinou  um  enorme  incremento  e  disseminação  da  utilização  dos  agrotóxicos,
+
+conseqüentemente,  a  indústria  de  agrotóxicos  tem  registrado  lucros  crescentes  e  os
+
+países  latino-americanos,  principalmente  o  Brasil,  foram  se  situando  entre  os  maiores
+
+consumidores mundiais.
+
+Nos últimos dez anos, o mercado mundial de agrotóxicos cresceu 93% enquanto o
+
+mercado brasileiro  cresceu 190%. Em 2008, o  Brasil ultrapassou  os Estados Unidos e
+
+assumiu  o  posto  de  maior  mercado  mundial  de  agrotóxicos.  Na  safra  que  envolveu  o
+
+segundo semestre de 2010 e o primeiro semestre de 2011, o mercado nacional de venda
+
+de  agrotóxicos  movimentou  936  mil  toneladas  de  produtos,  sendo  833  mil  toneladas
+
+produzidas no País, e 246 mil toneladas importadas (ANVISA/UFPR, 2012). Em 2010,
+
+o  mercado  nacional  movimentou  cerca  de  US$  7,3  bilhões  e  representou  19%  do
+
+mercado  global  de  agrotóxicos.  Em  2011  houve  um  aumento  de  16,3%  das  vendas,
+
+alcançando US$ 8,5 bilhões, sendo que as lavouras de soja, milho, algodão e cana-de-
+
+açúcar  representam  80%  do  total  das  vendas  do  setor.  Existe  uma  concentração  do
+
+mercado  de  agrotóxicos  em  determinadas  categorias  de  produtos.  Os  herbicidas,  por
+
+exemplo,  representaram  45%  do  total  de  agrotóxicos  comercializados.  Os  fungicidas
+
+3
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+respondem por 14% do mercado nacional, os inseticidas 12% e as demais categorias de
+
+agrotóxicos 29% (ANVISA/UFPR, 2012; CARNEIRO et al., 2012).
+
+Na  safra  de  2011  no  Brasil,  foram  plantados  71  milhões  de  hectares  de  lavoura
+
+temporária (soja, milho, cana, algodão) e permanente (café, cítricos, frutas, eucaliptos),
+
+o  que  corresponde  a  cerca  de  853  milhões  de  litros  (produtos  formulados)  de
+
+agrotóxicos  pulverizados  nessas  lavouras,  principalmente  de  herbicidas,  fungicidas  e
+
+inseticidas,  representando  média  de  uso  de  12  litros/hectare  e  exposição  média
+
+ambiental/ocupacional/alimentar de 4,5 litros de agrotóxicos por habitante (CARNEIRO
+
+et al., 2012).
+
+Figura  1  –  Antigo  uso  do  inseticida
+
+organoclorado  DDT  no  combate  ao
+
+piolho,  na  década  de  1950.  Foto  do
+
+Museu  norueguês  da  infância  Norsk
+
+Barnemuseum,  Stavanger,  Noruega
+
+(WHO, 2008).
+
+O uso de pesticidas é ainda atualmente a principal  estratégia na  agricultura para o
+
+combate e a prevenção de pragas agrícolas. Todavia, em conseqüência à disseminação
+
+de seu uso no mundo atual, principalmente nos países em desenvolvimento, é observado
+
+um  grande número de ocorrências de intoxicações humanas, quer intoxicações  agudas
+
+(principalmente  ingestão  acidental,  em  crianças,  e  tentativa  de  suicídio,  em  adultos),
+
+quer intoxicações crônicas ocupacionais (WHO, 1990; KOH e JEYARATNAM, 1996;
+
+KONRADSEN et al., 2003).
+
+No  Brasil,  que  é  o  maior  consumidor  de  agrotóxicos  do  mundo,  os  casos  de
+
+intoxicação aguda e crônica são pouco registrados (FARIA et al., 2007; CARNEIRO et
+
+al., 2012). Apesar disso, o Censo Agropecuário, divulgado no ano de 2009, conseguiu
+
+4
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+identificar,  pelo  menos,  25.008  casos  de  intoxicação,  número  que  é  300%  superior  ao
+
+das  notificações  oficiais.  Em  2006,  ano  de  início  da  coleta  de  dados  do  Censo,  o
+
+Sistema  Nacional  de  Informações  Tóxico-  Farmacológicas  (SINITOX),  da  Fundação
+
+Oswaldo  Cruz,  registrou  6.297  notificações.  Em  2007,  ano  final  da  coleta  de  dados,
+
+foram 6.260, a maioria ligada ao trabalho. Em 2007, 209 pessoas morreram intoxicadas
+
+por agrotóxicos. Os herbicidas, fungicidas e inseticidas foram  usados em  cerca de 1,4
+
+milhões  de  estabelecimentos  agrícolas  -  valor  53%  superior  ao  de  1996,  quando  foi
+
+realizado  o  Censo  Agropecuário  anterior  (O  GLOBO,  2009).  Portanto,  o  uso
+
+indiscriminado de agrotóxicos constitui um sério problema de saúde pública, no que diz
+
+respeito  à  saúde  das  populações,  à  segurança  alimentar  e,  também,  à  sustentabilidade
+
+ambiental (FLORES et al., 2002; PERES et al., 2003a; MANSOUR, 2004). No nordeste
+
+brasileiro, em decorrência das condições sócio-econômicas e ambientais adversas, essa
+
+situação é mais grave (AUGUSTO, 2003). Países desenvolvidos têm proibido o uso de
+
+alguns  grupos  químicos  de  agrotóxicos,  pelos  efeitos  negativos  observados  sobre  a
+
+saúde e o meio ambiente (PERES et al, 2003b).
+
+Os  agrotóxicos  podem  ser  absorvidos  pela  pele,  por  ingestão  e  inalação.  As
+
+intoxicações  agudas  por  agrotóxicos  têm  sido  estudadas  encontrando-se  na  literatura
+
+como  manifestações  mais  freqüentes  convulsões,  náuseas,  vômitos  e  dificuldade
+
+respiratória.  Contudo,  os  efeitos  das  intoxicações  crônicas  que  surgem  após  um
+
+intervalo  de  tempo  variável  podem  estar  associados  a  alterações  cromossômicas,  à
+
+teratogênese,
+
+infertilidade  masculina,  carcinogênese,  neurotoxicidade,  doenças
+
+hepáticas, respiratórias, renais e dermatológicas (PERES et al, 2003a). Entretanto, ainda
+
+requerem  aprofundamentos  considerando-se  grupos  humanos  e  ecossistemas  diversos
+
+(FRANCO NETTO, 1998;  KOIFMAN et  al,  1998;  PERES et  al,  2003b;  MANSOUR,
+
+2004).
+
+2.2 Pesticidas
+
+De  acordo  com  a  Lei  Federal  nº  7.802  de  11/07/89  os  agrotóxicos,  genericamente
+
+denominados  de pesticidas, podem  ser definidos  como: os produtos e os  componentes
+
+de processos físicos, químicos ou biológicos destinados ao uso nos setores de produção,
+
+armazenamento e beneficiamento de produtos agrícolas, nas pastagens, na proteção de
+
+florestas  nativas  ou  implantadas  e  de  outros  ecossistemas  e  também  em  ambientes
+
+urbanos,  hídricos  e  industriais,  cuja  finalidade  seja  alterar  a  composição  da  flora  e  da
+
+5
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+fauna,  a  fim  de  preservá-la  da  ação  danosa  de  seres  vivos  considerados  nocivos,  bem
+
+como
+
+substâncias  e  produtos  empregados  como  desfolhantes,  dessecantes,
+
+estimuladores  e  inibidores  do  crescimento.  O  termo  ―Agrotóxico‖,  ao  invés  de
+
+―Defensivo  Agrícola‖,  passou  a  ser  utilizado,  no  Brasil,  para  denominar  os  venenos
+
+agrícolas,  após  grande  mobilização  da  sociedade  civil  organizada.  Mais  do  que  uma
+
+simples mudança da terminologia, esse termo coloca em evidência a toxicidade desses
+
+produtos  ao  meio  ambiente  e  à  saúde  humana  (LARINI,  1999).  De  acordo  com  a
+
+espécie  que  se  pretende  eliminar,  esses  compostos  são  classificados  como  inseticidas,
+
+fungicidas,  herbicidas,  rodenticidas,  moluscicidas  e  outros  (ANWAR,  1997).  Um
+
+parâmetro  de  classificação,  recomendado  pela  Organização  Mundial  da  Saúde
+
+(WHO/UNEP/ILO/IPCS,  2006),  considera  o  grau  de  toxicidade  exibido  por  esses
+
+compostos  e  são  baseados  na  toxicidade  aguda  oral  e  dérmica  verificada  em  algumas
+
+espécies.  De  acordo  com  essa  classificação  os  pesticidas  podem  ser  descritos  como
+
+extremamente tóxicos (classe Ia), altamente tóxicos (classe Ib), moderadamente tóxicos
+
+(classe  II)  e  discretamente  tóxicos  (classe  III).  Outra  forma  de  classificação  seria  a
+
+classe  química  desses  compostos,  sendo  os  mesmos  agrupados  por  classe  química
+
+como,  por  exemplo,  organoclorados,  organofosforados,  carbamatos  e  piretróides  (HE,
+
+1993).
+
+- Organofosforados e carbamatos
+
+Organofosforados  (OP) e carbamatos (CB) estão entre as classes de inseticidas
+
+mais utilizadas em todo mundo. Até 1987, juntos respondiam por mais de 71% do que
+
+era comercializado. Em 1999, essa participação havia caído para 52% e até os últimos
+
+relatos  de  2008  (com  divergências  entre  autores)  estava  entre  24,4  e  33%  (Tabela  1).
+
+Todavia,  em  2007,  somente  os  organofosforados  responderam  por  35%  de  todos  os
+
+inseticidas  utilizados  nos  EUA  (NAUEN  E  BRETENSCHNEIDER,  2002;  ATSDR,
+
+2005;  USEPA,  2011;  JESCHKE  et  al.,  2011;  UNIVERSITY  of  YORK,  2013).  São
+
+largamente utilizados nos países em desenvolvimento, de economia predominantemente
+
+agrícola,  para  o  controle  de  pragas  e  em  campanhas  de  combate  a  vetores  de  doenças
+
+(WHO,  1986a;  1989;  USDA,  1997).  Entretanto,  alguns  representantes  da  classe  dos
+
+organofosforados  constituem  o  princípio  ativo  de  armas  químicas  como  os  gases
+
+neurotóxicos tabun, sarin, soman e VX (RILEY, 2003; KELLAR, 2006).
+
+Esses pesticidas são inibidores típicos das enzimas colinesterases (ALDRIDGE,
+
+1950; ALDRIDGE e DAVIDSON, 1952; WHO, 1986a; 1986b). Alguns são utilizados
+
+6
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+como medicamento no tratamento de doenças como  miastenia gravis, glaucoma e mal
+
+de Alzheimer (FRANCIS et al., 1999; VIEGAS Jr. et al, 2004; CASIDA e QUISTAD,
+
+2005; POPE et al., 2005; ALBUQUERQUE et al., 2006). Seu mecanismo de ação se dá
+
+através  da  ligação  com  o  sítio  ativo  da  acetilcolinesterase,  com  fosforilação  para
+
+organofosforados  e  carbamilação  no  caso  dos  carbamatos,  produzindo  a  inibição  da
+
+enzima  (QUINN,  1987).  A  inibição  por  carbamatos  é  reversível  e  a  regeneração  da
+
+enzima pode levar de alguns minutos a horas. Já a inibição por organofosforados tende à
+
+irreversibilidade se não houver tratamento. Contudo, existe uma taxa de regeneração da
+
+enzima,  que  varia  de  composto  para  composto,  enquanto  a  fração  restante  da  enzima
+
+sofre  o  processo  chamado  de  ―envelhecimento‖  e  não  mais  se  regenera,  podendo
+
+resultar  em  um  efeito  cumulativo  ante  exposições  seguidas  a  esses  compostos.  A
+
+diferenciação entre as inibições promovidas por diferentes compostos se dá não apenas
+
+pela  intensidade  de  inibição,  mas  também  pela  taxa  de  regeneração  (WHO,  1986a;
+
+1986b).
+
+Esses pesticidas tiveram seu uso intensificado depois da proibição de utilização
+
+da  maioria  dos  compostos  organoclorados  (ECOBICHON,  1996;  USDA,  2002;
+
+MUKHERJEE  e  GOPAL,  2002),  os  quais  são  menos  tóxicos,  porém  com  maior
+
+bioacumulação  no  meio  ambiente,  entrando  por  isso  na  lista  dos  poluentes  orgânicos
+
+persistentes (POPs) (NUNES e TAJARA, 1998; USDA, 2002; FLORES et al., 2004).
+
+Tabela  1  –  Classes  de  inseticidas  mais  vendidos  no  mundo  e  sua  participação  no  mercado mundial (Nauen e Bretschneider, 2002; Jeschke et al., 2011a; University of York, 2013b).
+
+Classe
+
+Organofosforados
+
+Carbamatos
+
+Piretróides
+
+Neonicotinóides
+
+Organoclorados
+
+1999
+
+%
+
+2008
+
+%
+
+Mudança
+
+%
+
+43
+
+16
+
+18
+
+12
+
+8,3
+
+13,6a a 22b   10,8a a 11b  16a,b  15b a 24a < 3b
+
+- 23 a - 29,4
+
+- 5,2 a 5
+
+- 2
+
++ 3 a + 12
+
+≈ - 5,3
+
+7
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+X
+
+O ou S
+
+Figura 2 – Fórmula estrutural geral dos organofosforados.
+
+Os  OPs  são  ésteres,  amidas  ou  derivados  tióis  dos  ácidos  fosfórico,  fosfônico,
+
+fosforotióico  ou  fosfonotióico  (Fig.  2).  Apresentam  baixa solubilidade  em  água  e  são,
+
+em  geral,  facilmente  hidrolizáveis  em  ambientes  alcalinos.  Na  figura  2,  R1  e  R2  são
+
+usualmente radicais alquil ou aril e ambos podem estar ligados diretamente ao fósforo
+
+(nos  fosfinatos)  ou  ligados  via  O-  ou  S-  (nos  fosfatos)  ou  ainda  R1  pode  estar  ligado
+
+diretamente  e  R2  ligado  por  meio  de  um  dos  grupos  acima  (fosfonatos).  Nos
+
+fosforamidatos,  o  carbono  está  ligado  ao  fósforo  através  de  um  grupamento  –NH.  O
+
+grupo  X  pode  ser  qualquer  grupamento  alifático  (ramificado  ou  não),  aromático  ou
+
+heterocíclico ligado ao fósforo de forma lábil (através de O- ou S-substituição) sendo o
+
+grupo  de  partida.  Em  relação  ao  átomo  em  ligação  dupla  com  o  fósforo,  os  OPs
+
+dividem-se  em  dois  grupos:  os  fosfatos  (forma  oxon;  P=O)  e  os  fosforotioatos  (forma
+
+tion;  P=S)  (VALE,  1998).  Os  primeiros  são  mais
+
+tóxicos  devido  à  maior
+
+eletronegatividade do oxigênio em relação ao enxofre ao interagir com o sítio ativo da
+
+enzima acetilcolinesterase, seu alvo primário nos organismos. O segundo grupo é menos
+
+reativo,  porém  sua  meia-vida  no  ambiente  é  mais  longa  proporcionando  maior  poder
+
+residual ao inseticida. Por essa razão, a maior parte dos OPs é comercializada na forma
+
+tion  (WHO,  1986a;  FUKUTO,  1990;  VALE,  1998).  Além  disso,  os  OPs  apresentam
+
+outras duas características que acentuam ou atenuam sua ação tóxica: 1) radicais ligados
+
+ao átomo de fósforo e 2) lipofilicidade da molécula.  Na primeira, R1 e  R2 podem  ser
+
+uma dupla de radicais metila, etila ou ainda isopropila, segundo sejam dimetil, dietil ou
+
+diisopropil-OPs,  respectivamente  (Tabela  2).  Os  diisopropil-OPs  são  os  mais  tóxicos
+
+devido  à  maior  interação  com  os  resíduos  do  sítio  ativo  da  enzima  dada  a  sua  maior
+
+ramificação  (SHAFFERMAN  et  al.,  1996;  VALE,  1998;  PAUDYAL,  2008).  Na
+
+segunda característica, os OPs classificados como fosfatos são os menos lipofílicos ao
+
+8
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+passo que os fosforotioatos são os mais lipofílicos. Na tabela 3, são apresentados alguns
+
+exemplos de maior e menor lipofilicidade.
+
+Tabela  2  -  Exemplos  de  inseticidas  organofosforados  de  acordo  com  os  grupamentos  éster
+
+ligados ao átomo de fósforo (Paudyal, 2008; Assis et al., 2011).
+
+Dimetil-OP
+
+Dietil-OP
+
+Diisopropil-OP
+
+diclorvós  temefós  metil-paration  malation  fention  dimetoato metamidofós
+
+diazinon  clorpirifós  tetraetil pirofosfato (TEPP)  paration  cumafós  sulfotepp etion
+
+diisopropil fluorofosfato (DFP) diisopropil metilfosfonato (DIMP)
+
+Tabela 3 - Exemplos de inseticidas organofosforados de acordo com a lipofilicidade (Assis et al., 2011).
+
+Mais lipofílicos
+
+Menos lipofílicos
+
+clorpirifós, diazinon, temefós, malation, paration,
+
+tetraetil pirofosfato (TEPP), triclorfon,
+
+metil-paration, fention, cumafós, dimetoato, etion,
+
+diclorvós, metamidofós, fenamifós,
+
+sulfotepp
+
+fosfamidon, monocrotofós
+
+Em  geral,  os  OPs  necessitam  de  biotransformação  (dessulfuração  por  ação  de
+
+isoformas  do  complexo  citocromo  P450,  N-oxidação,  S-oxidação  e  enzimas
+
+monoxigenases que contém flavina, além de fatores físicos como luz, pH e temperatura)
+
+para se tornarem  toxicologicamente ativos, passando da forma tion para a forma oxon
+
+(DAUTERMAN, 1971; WHO, 1986a). Tais biotransformações não ocorrem apenas no
+
+fígado  (Figs.  3),  mas  também  nos  rins,  pulmões  e  cérebro  (MESNIL  et  al.,  1984;
+
+CUNHA  BASTOS  et  al.,  1999;  SARASQUETE  e  SEGNER,  2000;  KAPPERS  et  al.,
+
+2001;  MONSERRAT,  2007).  Além  disso,  algumas  isoformas  presentes  no  complexo
+
+P450  não  apenas  bioativam  os  OPs,  mas  também  detoxificam  esses  pesticidas
+
+juntamente  com  as  enzimas  oxonases  (também  conhecidos  por  fosfotriesterases;  EC
+
+3.1.1.2) e são responsáveis pelos metabólitos excretados na urina, como o dietilfosfato,
+
+pirimidinol,  tricloropiridinol  e  derivados  que  aparecem  nas  Figuras  3  e  4  (LI  et  al.,
+
+1993;  LI  et  al.,  1995;  KAPPERS  et  al.,  2001;  WESSELS  et  al.,  2003;
+
+MANTHRIPRAGADA et al., 2010).
+
+9
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+Figura 3 – Metabolismo e ativação do OP diazinon em fígado humano adaptado de Kappers et al. (2001)
+
+Figura 4 – Metabolismo e ativação do OP clorpirifós em fígado humano adaptado de Wessels et al. (2003).
+
+10
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+O -- R2
+
+R1
+
+Figura 5 – Fórmula estrutural geral dos carbamatos.
+
+Os carbamatos são ésteres ou derivados N-substituídos do ácido carbâmico. Na
+
+figura 5, R2 pode conter radicais alquil ou aril. Os carbamatos inseticidas possuem um
+
+grupamento metil em R1 enquanto os herbicidas possuem um radical aromático. Já os
+
+CBs fungicidas contêm  um  grupamento benzimidazol  em  R1. Dentre esses, apenas os
+
+CBs  inseticidas  apresentam  atividade  anticolinesterásica  (WHO,  1986b).  Os  CBs  são
+
+inseticidas efetivos em virtude de inibirem a acetilcolinesterase no sistema nervoso, sem
+
+necessitar de biotransfomação. O motivo que torna os CBs menos perigosos que os OPs
+
+é o fato de que a diferença entre a dose requerida para produzir efeitos mínimos e a dose
+
+letal  é  substancialmente  maior  nos  CBs.  Os  CBs  são  instáveis  e  prontamente
+
+hidrolisáveis  em  ambiente  alcalino,  assim  como  os  OPs,  porém  são  mais  solúveis  em
+
+água (WHO, 1986b).
+
+Os organofosforados e carbamatos são absorvidos pelo organismo por via oral,
+
+respiratória e cutânea levando a um conjunto de sintomas característicos (Tabela 4). A
+
+via oral é a maior causa de internações hospitalares de emergência e a cutânea, a causa
+
+mais comum nas intoxicações ocupacionais (UFF/CCIn, 2000).
+
+Diversos pesticidas organofosforados  e alguns  carbamatos, incluindo  alguns de
+
+seus metabólitos, são capazes de provocar malformações congênitas, afetar a fertilidade
+
+e produzir efeitos genéticos tóxicos, inclusive câncer (WHO, 1986a; 1986b). Casos de
+
+câncer foram evidenciados em 1992, em adultos jovens indígenas na Amazônia. Nestes
+
+jovens foram encontrados níveis elevados de organofosforados no sangue (MATOS et
+
+al.,  1988;  KOIFMAN  et  al.,  1998).  Os  efeitos  teratogênicos  dos  agrotóxicos  podem
+
+resultar  da  exposição  intra-uterina  do  indivíduo  em  formação  e  mediante  a  ação
+
+mutagênica  nos  gametas  dos  progenitores  nas  primeiras  etapas  da  gestação.  Das
+
+malformações  congênitas  de  fácil  diagnóstico  clínico,  as  que  se  destacaram  pela
+
+influência  de  agrotóxicos  em  estudo  realizado  no  Chile  foram  a  síndrome  de  down,
+
+espinha bífida e hidrocefalia (ROJAS et al., 2000).
+
+11
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+Tabela 4 - Sinais e sintomas das intoxicações por inseticidas organofosforados (Larini, 1999)
+
+Local
+
+Sinais e sintomas
+
+Sistema Nervoso Central
+
+comprometimento  da  memória,  ansiedade,  agitação,  convulsões,
+
+Distúrbios
+
+do
+
+sono,
+
+dificuldades
+
+de
+
+concentração,
+
+tremores, depressão respiratória, coma.
+
+No  aparelho  digestivo:  perda  de  apetite,  náuseas,  vômitos,  dores
+
+abdominais, diarréia, defecação involuntária.
+
+Sistema Nervoso
+
+No aparelho respiratório: secreção bronquiolar, edema pulmonar.
+
+Autônomo (efeitos
+
+No sistema circulatório: bradicardia, bloqueio aurículo-ventricular.
+
+muscarínicos)
+
+No sistema ocular: visão enfraquecida, pupilas puntiformes.
+
+No aparelho urinário: diurese freqüente e involuntária.
+
+Glândulas exócrinas: transpiração excessiva.
+
+Sistema somático
+
+Contração  involuntária  dos  músculos,  cãibras,  enfraquecimento
+
+(efeitos nicotínicos)
+
+muscular generalizado.
+
+Com  relação  aos  alvos  principais  dos  organofosforados,  três  síndromes  são
+
+descritas na literatura. Para os carbamatos em geral, apenas a primeira é descrita (WHO,
+
+1986b).  Todavia,  a  terceira  síndrome  já  foi  descrita  para  os  carbamatos  carbaril  e
+
+carbofuran (UFF/CCIn, 2000):
+
+a)  Síndrome colinérgica aguda
+
+Sintomatologia múltipla, efeito da superestimulação colinérgica
+
+- fibras nervosas pós-ganglionares parassimpáticas (muscarínicos)
+
+- fibras pré-ganglionares simpáticas e parassimpáticas (nicotínicos I)
+
+- nervos motores somáticos (nicotínicos II)
+
+- receptores de acetilcolina
+
+b)  Síndrome intermediária
+
+Efeito  da  hiperestimulação  de  longo  período  –  24  a  96  h  após  a  síndrome
+
+aguda
+
+- diminuição da força dos músculos proximais
+
+c) Síndrome da neuropatia tardia
+
+Atinge a NTE, ‗esterase-alvo‘, antiga ‗esterase neurotóxica‘ causando
+
+degeneração dos neurônios do sistema nervoso central - 4 semanas após
+
+exposição.
+
+12
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+2.3 Enzimas colinesterases
+
+As colinesterases (ChEs) são enzimas hidrolases pertencentes ao grupo das serino-
+
+esterases, com especificidade por ésteres de colina, mas são de uma família que difere
+
+das  serino-proteases,  apresentando  mais  identidade  com  outras  esterases  como  as
+
+carboxilesterases,  esterase  microssomal  de  coelhos,  esterase-6  da  Drosophyla  e
+
+proteínas  com  propriedades  de  adesão,  entre  outras  propriedades,  que  provavelmente
+
+perderam a função catalítica ao longo da evolução como as neuroliguinas, neurotactinas,
+
+gliotactinas  e  tiroglobulina  (CHATONNET  e  LOCKRIDGE,  1989;  PEZZEMENTI  e
+
+CHATONNET,  2010).  As  ChEs  são  classificadas  como  proteínas  globulares  (G)  ou
+
+assimétricas  (A)  (Fig.  6).  As  formas  globulares  apresentam-se  como  monômeros,
+
+dímeros e tetrâmeros (G1, G2 e G4, respectivamente) que podem estar solúveis (formas
+
+hidrofílicas) no plasma, linfa e outros tecidos  aos quais  chegam  através  da circulação.
+
+Podem  estar  também  ancoradas  à  membrana  celular  (formas  anfifílicas)  por  meio  de
+
+glicofosfolipídeos, lipídeos ou proteína transmembranar de ancoragem  rica em  prolina
+
+(PRiMA)  no  coração,  eritrócitos  e  linfócitos,  no  fígado  e  órgão  elétrico  de  arraias  do
+
+gênero  Torpedo  ou  às  membranas  dos  neurônios  nas  sinapses  cerebrais  (no  caso  da
+
+PRiMA)  (CHATONNET  e  LOCKRIDGE,  1989;  TAYLOR,  1991;  ZHANG  e
+
+McCAMMON, 2005). As formas assimétricas são associadas a uma cauda de colágeno
+
+Q (ColQ) podendo conter 1, 2 ou 3 tetrâmeros (A4, A8 e A12, respectivamente) em sua
+
+extremidade. Fixam-se à lâmina basal por meio de dois domínios de ligação à heparina
+
+que  interagem  com  o  heparan  sulfato  presente  nas  junções  neuro-musculares.  São
+
+encontradas  também  no  órgão  elétrico  de  peixes  Gymnotidae,  como  o  poraquê
+
+(CHATONNET e LOCKRIDGE, 1989; DEPREZ et al., 2000).
+
+13
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+FORMAS HIDROFÍLICAS
+
+Splicing alternativo do mRNA
+
+Âncora  de PRiMA
+
+FORMAS ANFIFÍLICAS
+
+Âncora de glicolipídeo
+
+AChE e BChE de vertebrados
+
+AChE e BChE secretadas em vertebrados
+
+Âncora de colágeno Q
+
+AChE e BChE de  vertebrados nos músculos e órgão elétrico
+
+AChE e BChE de vertebrados no cérebro
+
+AChE e BChE de vertebrados e invertebrados (precursor do G2?)
+
+AChE da Drosophila, órgão  elétrico do gênero Torpedo e eritrócitos de mamíferos
+
+Figura 6 – Formas das colinesterases encontradas em vertebrados. Splicing alternativo do RNA mensageiro
+
+pode originar isoformas hidrofílicas e anfifílicas da enzima (adaptado de Chatonnet e Lockridge, 1989).
+
+Existe  ainda  uma  forma  monomérica  (G1)  associada  à  albumina  (similarmente  ao
+
+que  ocorre  com  a  paraoxonase  associada  à  HDL),  fazendo  com  que  alguns  trabalhos
+
+atribuíssem  atividade  esterásica  à  albumina  (FURLONG  et  al.,  1988;  LI  et  al.,  2005;
+
+SALLES et al., 2006; MASSON e ROCHU, 2009). As ChEs são consideradas enzimas
+
+alostéricas,  possuindo  além  do  sítio  ativo  (o  sítio  catalítico  propriamente  dito),  vários
+
+sítios  periféricos  que  influem  em  sua  conformação  e  atividade  (ROUFOGALIS  e
+
+QUIST,  1972;  TOMLINSON  et  al.,  1980;  OLSON  et  al.,  1990;  RADIC  et  al.,  1995;
+
+JOHNSON e MOORE, 2006).
+
+Atualmente,  são  aceitos  dois  tipos  de  colinesterases,  a  acetilcolinesterase  ou
+
+colinesterase
+
+verdadeira
+
+(AChE;  EC
+
+3.1.1.7)
+
+e
+
+a
+
+butirilcolinesterase,
+
+pseudocolinesterase  ou  colinesterase  inespecífica  (BChE;  EC  3.1.1.8).  A  primeira,
+
+sintetizada  no  tecido  nervoso  e  durante  a  eritropoiese,  é  encontrada  nas  fibras  pré-
+
+ganglionares  do  SNA,  fibras  parassimpáticas  pós-ganglionares  e  parte  das  fibras
+
+14
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+simpáticas  pós-ganglionares  e  das  sinapses  interneurais  do  SNC,  além  do  músculo
+
+esquelético  e  membrana  dos  eritrócitos,
+
+linfócitos  e  plaquetas,  hidrolisa
+
+preferencialmente  acetilcolina,  enquanto  a  segunda  é  sintetizada  pelo  tecido  hepático,
+
+continuamente exportada para a corrente sanguínea e, além de estar presente no fígado e
+
+plasma,  é  encontrada  também  no  músculo  liso,  pâncreas,  adipócitos,  pele,  coração  e
+
+substantia  alba  do  cérebro.  Hidrolisa  butirilcolina  com  mais  eficiência  do  que
+
+acetilcolina (WESCOE et al., 1947; ROSENBERRY, 1975; MASSOULIÉ et al., 1993;
+
+UFF/CCin, 2000; COUSIN et al., 2005; AL-JAFARI, 2011; MARTINS et al., 2012).
+
+A  principal  e  clássica  função  da  AChE  é  a  modulação  dos  impulsos  nervosos
+
+responsáveis  pela  comunicação  neuronal  através  da  hidrólise  do  neurotransmissor
+
+acetilcolina,  enquanto  que  as  prováveis  funções  da  BChE  são  a  detoxificação
+
+(succinildicolina,  pesticidas  organofosforados  e  carbamatos,  cocaína,  aspirina,
+
+benactizina e drofenina) e a bioativação (bambuterol, heroína, irinotecan) de compostos
+
+exógenos  (QUINN,  1987;  CHATONNET  e  LOCKRIDGE,  1989;  TÕUGU,  2001;
+
+ÇOKUGRAS,  2003).  Eventualmente,  a  BChE  pode  substituir  a  AChE  na  hidrólise  da
+
+acetilcolina, conforme foi observado em camundongos nulizigotos para AChE os quais
+
+apresentaram  atividade  BChE  nas  sinapses  colinérgicas  no  cérebro  e  que  não  houve
+
+danos estruturais ao sistema nervoso (MESULAM et al., 2002).
+
+Evidências também apontam para um possível papel dessas enzimas em atividades
+
+não colinérgicas, como no crescimento e diferenciação neuronal, modulação da adesão
+
+celular e tumorigênese, abertura do canal de potássio na substantia nigra, as quais são
+
+funcionalidades não dependentes da atividade catalítica normal, porém dependentes do
+
+sítio  aniônico  periférico  da  enzima  e  de  um  resíduo  de  14  peptídeos  próximos  de  sua
+
+extremidade  C-terminal  (CHATONNET  e  LOCKRIDGE,  1989;  TAYLOR,  1991;
+
+WEBB  e  GREENFIELD,  1992;  STERNFELD  et  al.,  1998;  BIGBEE  et  al.,  1999;
+
+BRIMIJOIN  e  KOENIGSBERGER,  1999;  JOHNSON  e  MOORE,  2000;  EMMET  e
+
+GREENFIELD, 2004; BRIMIJOIN, 2005; SILMAN e SUSSMAN, 2005).
+
+As ChEs são também glicoproteínas apresentando, em algumas formas, carboidratos
+
+em  cerca  de  10  a  15%  de  sua  estrutura,  os  quais  podem  diferir  quanto  ao  tipo  e
+
+quantidade  nos  diferentes  tecidos.  A  ausência  de  tais  cadeias,  induzida  por  mutação,
+
+afetou fortemente a secreção da enzima e um dos mutantes teve sua termoestabilidade
+
+prejudicada,  mas  a  atividade  esterásica  das  moléculas  secretadas  e  as  propriedades  do
+
+sítio  aniônico  periférico  não  foram  alteradas  (CHATONNET  e  LOCKRIDGE,  1989;
+
+MASSOULIÉ et al., 1993; VELAN et al., 1993).
+
+15
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+- Acetilcolinesterase
+
+A  acetilcolinesterase  (Fig.  7)  age  na  desativação  do  principal  neurotransmissor  do
+
+sistema nervoso, na maioria das espécies: a acetilcolina. A AChE hidrolisa rapidamente
+
+esse neurotransmissor, nas sinapses colinérgicas e junções neuromusculares, encerrando
+
+sua  ação  e  garantindo  a  intermitência  dos  impulsos  nervosos  (Fig.  8)  (QUINN,  1987;
+
+FUKUTO,  1990;  TÕUGU,  2001;  SILMAN  e  SUSSMAN,  2005).  A  AChE  é
+
+freqüentemente  descrita  como  uma  ‗enzima  perfeita‘  porque  suas  propriedades
+
+catalíticas se combinam para aproximar sua atividade do limite máximo de velocidade
+
+permitido pela própria difusão do substrato (QUINN, 1987; TÕUGU, 2001; MILLER e
+
+WOLFENDEN, 2002; SILMAN e SUSSMAN, 2005; RAMOS e TECHERT, 2005).
+
+Figura 7 – Estrutura tridimensional da AChE da
+
+arraia elétrica Torpedo californica. A estrutura é
+
+apresentada  como  um  diagrama  de  fitas,  com  o
+
+N-terminal  abaixo  à  esquerda  e  o  C-terminal
+
+acima  à  direita.  A  entrada  da  cavidade  do  sítio
+
+ativo situa-se no topo e a superfície da cavidade
+
+é  delineada  em  rosa.  Triptofano  84,  o  resíduo-
+
+chave  no  sub-sítio  aniônico  do  sítio  ativo,  está
+
+representado em roxo enquanto o triptofano 279,
+
+o resíduo-chave do sítio aniônico periférico está,
+
+em  azul,  na  entrada  da  cavidade.  O  resíduo-
+
+chave  do  sub-sítio  esterásico  do  sítio  ativo,
+
+serina  200,  é  mostrado  em  vermelho  enquanto
+
+os  resíduos  fenilalanina  288  e  fenilalanina  290,
+
+que  delineam  a  bolsa  acil,  são  mostrados  em
+
+preto (Silman e Sussman, 2005).
+
+16
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+Figura 8 – Desenho esquemático do ciclo da
+
+acetilcolina onde é possível observar o papel
+
+da  acetilcolinesterase  desativando  o  excesso
+
+desse  neurotransmissor.  Colina  e  acetato  são
+
+liberados  na  fenda  sináptica  e  a  colina  é
+
+reabsorvida
+
+pelo
+
+neurônio,
+
+onde
+
+a
+
+acetilcolina  é  ressintetizada  pela  ação  da
+
+enzima  Colina  acetil-transferase.  O  acetato
+
+atravessa  a  barreira  hemato-encefálica  e  é
+
+metabolizado em outros tecidos.
+
+Adaptado de: CNSforum.com
+
+A  acetilcolinesterase  contem  dois  sub-sítios  catalíticos:  o  sub-sítio  esterásico  e  o
+
+sub-sítio aniônico. O sub-sítio esterásico da acetilcolinesterase situa-se no fundo de uma
+
+cavidade  estreita  (active  site  gorge)  e  é  constituído  de  uma  tríade  catalítica  formada
+
+pelos  resíduos  dos  aminoácidos  serina  200,  histidina  440  e  glutamato  327  (podendo
+
+variar ligeiramente essas posições, interespecificamente). Na catálise (representada nas
+
+Figs.  9  e  10),  o  sub-sítio  aniônico  (também  chamado  de  sítio  de  ligação  à  colina),
+
+situado mais próximo à entrada do sítio ativo, atrai fortemente o nitrogênio quaternário,
+
+carregado  positivamente,  da  acetilcolina.  Uma  vez  dentro  da  cavidade  catalítica,  a
+
+acetilcolina  sofre  o  ataque  nucleofílico  da  serina  (na  figura  9,  representada  por  O),
+
+desprotonada  pelo  resíduo  histidina  (representado  por  B),  ao  seu  carbono  carbonílico,
+
+criando  um  intermediário  tetraédrico  estabilizado  por  pontes  de  hidrogênio  e  pelo
+
+resíduo  glutamato  (representado  por  A),  que  num  primeiro  momento,  forma  serina
+
+acetilada  e  libera  colina.  Ao  final  do  processo  de  clivagem  da  ligação  éster,  o  grupo
+
+acetila  é  desligado  pelo  ataque  nucleofílico  da  água,  assistido  pelo  resíduo  histidina,
+
+com  formação  de  um  segundo  intermediário  tetraédrico  liberando  ácido  acético  e
+
+regenerando o sítio catalítico (FUKUTO, 1990; TAYLOR et al., 1995; TÕUGU, 2001;
+
+VIEGAS Jr et al., 2004).
+
+Na reação inicial  mencionada acima, a ocorrência de pontes de hidrogênio  entre o
+
+grupo carboxilato do glutamato e o N-1 do imidazol da histidina aumentam a habilidade do N-3 da histidina de atuar como uma base e extrair o H+ do grupo hidroxila da serina.
+
+17
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+Figura
+
+9
+
+–
+
+Desenho
+
+esquemático  da  hidrólise  da
+
+acetilcolina,
+
+catalizada  pela
+
+AChE,  na  qual  observa-se  a
+
+ação
+
+dos
+
+sítios
+
+aniônico
+
+(atração  e  posicionamento  do
+
+substrato)  e  esterásico  (quebra
+
+da
+
+ligação  éster)
+
+(fonte:
+
+Fukuto, 1990).
+
+Figura 10 - Hidrólise de ésteres pela AChE. Acima, observa-se a acilação do sítio ativo da enzima e abaixo a
+
+desacilação. O esquema inicia-se com a formação do complexo enzima-substrato reversível e os intermediários
+
+tetraédricos similares ao estado de transição são mostrados entre colchetes (Fonte: Tõugu, 2001).
+
+Esta cooperação torna o oxigênio da serina um nucleófilo forte, que ataca facilmente
+
+o carbono da carbonila da acetilcolina (TAYLOR e BROWN, 1994). Tudo isso ocorre
+
+num  intervalo  de  tempo  entre  62,5  a  138  microsegundos  (AUGUSTINSSON,  1971;
+
+FUXREITER e WARSHEL, 1998).
+
+Tentativas de explicar tal eficiência passaram  por diversas teorias, desde  a entrada
+
+alternativa para o sítio ativo (putative back-door), passando pela orientação eletrostática
+
+18
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+dos resíduos aromáticos (cerca de 14) que margeiam a cavidade do sítio e seu estado de
+
+dessolvatação com dipolos pré-orientados, até uma possível mobilidade da histidina da
+
+tríade  catalítica  (QUINN,  1987;  WARSHEL,  1998;  MILLARD  et  al.,  1999;  TÕUGU,
+
+2001). Tais características fariam com que o substrato se ligasse a uma área superficial
+
+da  enzima  e  fosse  guiado  rapidamente  ao  interior  do  sítio  ativo,  onde  a  energia  das
+
+próprias  interações  contribuíssem  para  se  atingir  o  estado  de  transição,  sendo  a
+
+velocidade do processo limitada pelos efeitos da viscosidade do meio (QUINN, 1987).
+
+Além disso, Ramos e Techert (2005) observaram que uma menor quantidade de pontes
+
+de hidrogênio presentes no meio favoreciam o encontro entre enzima e substrato através
+
+da  diminuição  da  concha  de  solvatação,  aumentando  a  difusão  do  substrato  por  um
+
+aumento da mobilidade intramolecular da AChE.
+
+A AChE apresenta inibição por excesso de substrato, através da ligação do mesmo a
+
+um  sítio  periférico  formado  por  resíduos  de  aminoácidos  que  margeiam  a  entrada  do
+
+sítio ativo central (MASSOULIÉ e BONN, 1982; EASTMAN et al., 1995).
+
+- Acetilcolinesterase eritrocitária
+
+Trata-se  de  um  dímero  formado  por  subunidades  catalíticas  de  AChE  ancoradas  á
+
+membrana  eritrocitária  através  do  glicofosfolipídeo  fosfatidil-inositol  (Fig.  11)  e  de
+
+massa molecular aproximada de 140 a 160 kDa. Foi estimado que cada eritrócito possua
+
+de 700 a 800 dímeros (SIHOTANG, 1974; LAWSON e BARR, 1987; CHHAJLANI et
+
+al.,  1989;  RAO  et  al.,  1993).  Sua  função  nos  eritrócitos  ainda  não  foi  elucidada,  mas
+
+suspeita-se  de  que  poderia  participar  de  interações  célula-célula  uma  vez  que,  sendo
+
+uma  glicoproteína,  transporta  não  apenas  antígenos  derivados  de  aminoácidos,  mas
+
+também  de  carboidratos,  apresentando  seletividade  a  lectinas  (BON  et  al.,  1987;
+
+TAYLOR,  1991).  Descobriu-se  que  a  AChE  eritrocitária  é  o  antígeno  Yt  do  grupo
+
+sanguíneo Cartwright  e  que sua  expressão está vinculada à expressão da  hemoglobina
+
+(GARRÈ et al., 1982; RAO et al., 1993; BARTELS et al., 1993).
+
+A  AChE  eritrocitária  apresenta  alto  grau  de  homologia  com  a  AChE  das  junções
+
+neuromusculares  e constitui-se na forma predominante encontrada no sangue humano.
+
+Os  humanos  e  demais  primatas  apresentam  os  maiores  níveis  de  atividade  enzimática
+
+19
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+eritrocitária  em  comparação com  os demais mamíferos, os quais  possuem mais AChE
+
+no plasma, leucócitos e  plaquetas do que nos eritrócitos (FAMBROUGH et  al.,  1982;
+
+LAWSON e BARR, 1987; WOREK et al., 1999; WOREK et al., 2005; THIERMANN
+
+et al., 2007; HAJJAWI, 2012).
+
+Figura  11  –  Representação  da  AChE  eritrocitária
+
+na  qual  observa-se  o  dímero  unido  por  pontes
+
+dissulfeto e ligado à membrana eritrocitária através
+
+de  âncoras  de  fosfatidil-inositol  (fonte:  Taylor,
+
+1991).
+
+2.4 Interação entre a AChE e os pesticidas
+
+A  interação  entre  a  acetilcolinesterase  e  seus  inibidores  envolve  principalmente  o
+
+sítio  esterásico,  formando  um  complexo  bastante  estável  (WIENER  e  HOFFMAN,
+
+2004;  ATSDR,  2007).  A  estabilidade  do  complexo  formado  está  relacionada
+
+fundamentalmente  com  a  estrutura  química  do  composto  organofosforado  causando
+
+maior ou menor inibição da atividade enzimática. Essa inibição é uma reação específica,
+
+considerada o principal efeito da exposição aos pesticidas organofosforados (TAYLOR
+
+et  al.,  1995)  e  carbamatos  (METCALF,  1971;  MACHEMER  e  PICKEL,  1994).  A
+
+ausência  do  mecanismo  de  atuação  normal  da  enzima  resulta  no  acúmulo  do
+
+neurotransmissor nas sinapses do sistema nervoso central, nas junções neuromusculares,
+
+nas
+
+terminações  nervosas  parassimpáticas  e  simpáticas.  Alta  concentração  de
+
+acetilcolina é então liberada aos seus receptores (TÕUGU, 2001).
+
+No  caso  dos  OPs,  a  tríade  catalítica  da  AChE  situa-se  próximo  à  base  de  uma
+
+cavidade  estreita  e  profunda  que  alcança  o  centro  da  estrutura  globular  da  proteína.
+
+Apesar da formação da fosforil-enzima inativa ocorrer a partir da ligação com o resíduo
+
+serina, há o envolvimento (não em todos os casos) das porções imidazólica e ácida dos
+
+20
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+resíduos  histidina  e  glutamato,  respectivamente,  assim  como  na  catálise  normal  (Figs.
+
+12 e 13). O alinhamento aromático nas paredes da cavidade direciona o inibidor e serve
+
+como  mecanismo  guia  para  posicionar  o  átomo  de  fósforo  (CASIDA  e  QUISTAD,
+
+2004). Uma vez bloqueada pelo pesticida, a enzima pode hidrolisá-lo em processo lento
+
+de reativação espontânea. Porém, ela sofre mais frequentemente o processo de ―aging‖
+
+ou  envelhecimento  no  qual  a  ligação  entre  a  enzima  e  o  pesticida  torna-se  covalente
+
+devido à perda de um radical alquila que atraía os elétrons compartilhados com o átomo
+
+de fósforo (Fig. 14 e 15), tornando a inibição irreversível (ATSDR, 2007).
+
+O tempo de reativação espontânea da enzima fosforilada varia de 42 minutos para
+
+dimetil-OPs  a  31  horas  para  dietil-OPs  enquanto  o  tempo  a  partir  do  qual  inicia-se  o
+
+fenômeno de ―aging‖ varia de 3 horas e 42 minutos para dimetil-OPs  a 33 horas para
+
+dietil-OPs.  Já  Os  complexos  enzima-di-isopropil-OPs  apresentam  uma  meia-vida  não
+
+mensurável  e  suspeita-se  de  que  sofram  ―aging‖  poucos  minutos  após  o  contato
+
+(WOREK et al., 1999; FAO, 2007; PAUDYAL, 2008; ASSIS et al., 2011).
+
+Linha aromática
+
+Linha aromática
+
+Porção ácida
+
+Porção imidazol
+
+Sítio esterásico
+
+Tríade catalítica
+
+Figura
+
+12
+
+–
+
+Representação
+
+esquemática  da
+
+interação  entre  o
+
+inibidor  (clorpirifós-oxon)  e  o  sítio
+
+ativo  da  AChE.  A  tríade  catalítica
+
+situa-se  próximo  à  base  de  uma
+
+cavidade  estreita  e  profunda  que
+
+alcança  o  centro  da  estrutura  globular
+
+da  proteína.  O  alinhamento  aromático
+
+nas  paredes  da  cavidade  direciona  a
+
+molecula  servindo  como  mecanismo-
+
+guia  para  posicionar  o
+
+inibidor.
+
+Adaptado de Casida e Quistad (2004).
+
+21
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+Figura  13  –  Estado  de  transição  na
+
+interação
+
+entre
+
+enzima
+
+e
+
+organofosforado.  No  detalhe,  as
+
+ligações  envolvidas.  Adaptado  de
+
+ATSDR (2007).
+
+Figura
+
+14
+
+–
+
+Representação
+
+esquemática
+
+entre
+
+as
+
+duas
+
+possibilidades de ocorrência durante a
+
+duração  do  complexo  enzima-OP:
+
+reativação
+
+espontânea  ou
+
+aging.
+
+Adaptado de ATSDR (2007).
+
+Figura  15  –  Antes  de  sofrer  ―aging‖,
+
+R2 estava atraindo os elétrons do ―P‖.
+
+Após a remoção de R2, esses elétrons
+
+são  compartilhados  com  ―O‖-Serina,
+
+fortalecendo  a  ligação,  que  não  pode
+
+ser  hidrolisada  nem  mesmo  com  a
+
+presença de oximas (ATSDR, 2007).
+
+A inibição por OPs  gera quadros de intoxicação aguda ou crônica, dependendo do
+
+grau  de  exposição  à  substância.  Um  indivíduo  agudamente  intoxicado  por  qualquer
+
+inibidor  de  acetilcolinesterase  pode  morrer,  pela  superestimulação  de  seu  sistema
+
+nervoso, convulsões e parada respiratória (TÕUGU, 2001). Segundo dados da Food and
+
+Agriculture Organization (FAO, 2007), uma inibição da atividade da AChE a partir de
+
+20%  caracteriza  a  ação  de  agentes  anti-colinesterásicos,  porém  sinais  clínicos
+
+geralmente aparecem após 50% de inibição e morte após 90%.
+
+22
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+O  tratamento  mais  freqüente  de  intoxicações  por  agentes  anticolinesterásicos,
+
+sobretudo  os  organofosforados,  é  feito  através  do  uso  do  alcalóide  atropina  em
+
+combinação  com  oximas  (Fig.  16).  O  primeiro  bloqueia  os  receptores  muscarínicos,
+
+impedindo  que  os  mesmos  sejam  superestimulados  pelo  excesso  de  acetilcolina  na
+
+fenda  sináptica  e  a  segunda,  aplicada  o  mais  cedo  possível,  reativa  as  enzimas
+
+fosforiladas  por  ter  maior  afinidade  com  as  moléculas  do  pesticida,  impedindo  a
+
+irreversibilidade da inibição (KELLAR, 2006; ATSDR, 2007).
+
+Figura  16  –  Ação  de  uma  oxima
+
+sobre  a  ligação  fosfoéster  entre  a
+
+enzima
+
+e
+
+o
+
+organofosforado.
+
+Adaptado de ATSDR (2007).
+
+Já a ligação dos CBs com a AChE é instável e a regeneração da enzima carbamilada
+
+é  relativamente  rápida  em  relação  à  da  enzima  fosforilada  pelos  OPs  uma  vez  que  os
+
+carbamatos  interagem  mais  com  o  sub-sítio  aniônico,  assemelhando-se  ao  estado  de
+
+transição  do  complexo  enzima-substrato  e  aumentando  a  possibilidade  de  hidrólise
+
+(METCALF, 1971). A reativação espontânea das colinesterases carbamiladas, expressas
+
+como meia-vida a pH 7,0 e 25 °C variou entre 2 minutos e 4 horas para a AChE e entre
+
+2  e  17  min  para  a  BChE  plasmática,  mas  esse  período  até  a  reativação  pode  ser  bem
+
+maior  para  alguns  compostos.  Tal  instabilidade  da  enzima  carbamilada  pode  afetar  a
+
+determinação  do  poder  inibitório  de  alguns  carbamatos  (REINER,  1971;  UFF/CCIn,
+
+2000).
+
+Alguns  trabalhos  consideram  contra-indicado  o  uso  de  oximas  na  reativação  de
+
+colinesterases inibidas por carbamatos, porém em publicação do governo americano tal
+
+noção  é  considerada  equivocada,  uma  vez  que  as  oximas  só  não  contribuíram  para  a
+
+regeneração das enzimas inibidas por um único carbamato: o carbaril (ATSDR, 2007).
+
+23
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+A ação anticolinesterásica dos compostos OPs e CBs não está restrita à AChE do
+
+tecido  nervoso  central  e  periférico,  ocorrendo  de  forma  paralela  a  inibição  da  BChE
+
+plasmática, da AChE eritrocitária (MUTCH et al., 1992).
+
+2.5 Monitoramento da exposição ocupacional
+
+Os programas de monitoramento para avaliação de riscos ocupacionais de exposição
+
+a agentes anticolinesterásicos podem seguir duas vertentes: o monitoramento ambiental
+
+e o monitoramento biológico. O primeiro utiliza-se da detecção, da quantificação e, em
+
+alguns casos, da identificação do agente tóxico em amostras ambientais como água, ar,
+
+solo,  poeira,  etc,  ou  simplesmente  por  avaliação  dos  danos  ambientais  causados  pelo
+
+próprio composto químico. O segundo pode detectar, quantificar e identificar o agente
+
+tóxico ou seus metabólitos em amostras biológicas de sangue, urina, fezes, etc. ou ainda
+
+avaliam as alterações fisiológicas induzidas por esses compostos no organismo, como é
+
+o  caso  da  redução  da  atividade  colinesterásica  do  sangue.  Neste  caso  em  particular,
+
+considerada como indicador biológico de efeito nos casos de exposições por pesticidas
+
+OPs e CBs (LEWALTER e KORALLUS, 1986).
+
+Pelo  fato  do  uso  de  agrotóxicos  na  agricultura  ser  intensivo  e  multiquímico  e  por
+
+várias  pesquisas  demonstrarem  as  intoxicações  por  agrotóxicos  como  um  grave
+
+problema  de  saúde  pública,  o  monitoramento  ocupacional  por  meio  de  exames
+
+laboratoriais é de suma importância para evitar complicações futuras e para o tratamento
+
+adequado  (FARIA  et  al.,  2004).  O  monitoramento  tem  se  mostrado  a  forma  mais
+
+eficiente em prevenir e diagnosticar precocemente os episódios de intoxicação causados
+
+por  agrotóxicos,  em  particular  os  provocados  por  compostos  anticolinesterásicos.  A
+
+forma  de  diagnóstico  mais  difundida  e  barata  consiste  na  determinação  da  atividade
+
+colinesterásica (OLIVEIRA-SILVA et al., 2001; SOARES et al., 2003).
+
+- AChE eritrocitária no monitoramento da exposição ocupacional
+
+O  monitoramento  de  pesticidas  baseado  na  inibição  das  ChEs  do  sangue
+
+recomendado  pela  Organização  Mundial  da  Saúde  (WHO,  1967  e  1984)  necessita  de
+
+amostras  frescas  de    ChEs  totais  do  sangue  utilizando  os  métodos  de  Edson  (1958),
+
+Ellman  e  colaboradores  (1961)  (adaptado  por  WHO,  1984)  ou  AChE  eritrocitária
+
+segundo  George  e  Abernethy  (1983).  As  desvantagens  desses  métodos  são:  a)  não
+
+discriminar  a  atividade  de  ambas  as  ChEs  no  caso  dos  que  usam  ChEs  totais;  e  b)  a
+
+24
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+menor  precisão  devido  a  interferência  da  hemoglobina  para  aqueles  métodos  que
+
+utilizam  AChE  eritrocitária  sem  completa  lise  e  centrifugação.  O  método  de  extração
+
+proposto  por  Oliveira-Silva  e  colaboradores  (2000)  e  utilizado  no  presente  trabalho,
+
+com  algumas  modificações,  não  apenas  utiliza  unicamente  a  AChE  eritrocitária  como
+
+também  permite  o  congelamento  das  amostras  para  análises  posteriores  em  locais
+
+apropriados e é livre de interações colorimétricas com a hemoglobina.
+
+A  atividade  específica  da  AChE  eritrocitária  costuma  ser  relativamente
+
+constante,  com  90%  dos  valores  oscilando  entre  500  e  700  mU/μmol  Hb(Fe),
+
+contrastando  com  a  BChE  plasmática  que  apresenta  variação  inter  e  intra-individual
+
+muito  maior  (NIGG  e  KNAAK,  2000;  WOREK  et  al.,  1999;  WOREK  et  al.,  2005;
+
+LEFKOWITZ  et  al.,  2007).  Além  disso,  a  atividade  da  enzima  eritrocitária  apresenta
+
+maior  correlação  com  a  AChE  do  sistema  nervoso  do  que  as  demais  colinesterases
+
+periféricas  (AChE  linfocitária,  plaquetária  e  BChE  plasmática),  o  que  a  torna  mais
+
+adequada  para  utilização  na  avaliação  de  exposição  a  agentes  anticolinesterásicos
+
+(TINOCO-OJANGUREN  e  HALPERIN,  1998;  THIERMANN  et  al.,  2007).  Segundo
+
+estudo de Oliveira-Silva e colaboradores (2000), a atividade da AChE eritrocitária em
+
+amostras congeladas se mantêm estável até 7 dias enquanto a BChE se mantêm estável
+
+por  apenas  3  dias.  Além  disso,  a  regeneração  espontânea  da  BChE  frente  a  agentes
+
+anticolinesterásicos  ocorre  de  forma  mais  rápida  (de  alguns  dias  a  semanas)  do  que  a
+
+regeneração da AChE (1 a 3 meses), reduzindo as chances de se detectar tais compostos
+
+após  um  intervalo  de  tempo  maior  das  exposições  (REIGART  e  ROBERTS,  1999;
+
+NIGG e KNAAK, 2000).
+
+Para a execução de um programa de monitoramento bem-sucedido, deve-se levar
+
+em  conta  que  algumas  condições  além  da  exposição  aos  pesticidas  podem  alterar  a
+
+atividade das ChEs, prejudicando a avaliação e interpretação dos resultados dos estudos.
+
+A  atividade  BChE  pode  ser  alterada  em  razão  de  doenças  do  fígado,  desnutrição,
+
+alcoolismo,  síndrome  nefrítica,  gravidez,  pílulas  contraceptivas,  metoclopramida  e
+
+outros  fatores  (Tabela  5).  Enquanto  a  atividade  da  AChE  eritrocitária  é  alterada  pela
+
+gravidez,  anemia,  eventos  hemorrágicos  e  reticulocitose.  Outros  fatores  que  podem
+
+resultar em interpretação errônea dos níveis de atividade ChE são coleta, processamento
+
+e  transporte  impróprios  assim  como  erros  nas  análises  laboratoriais  (BOIKO  et  al.,
+
+2004;  DEL  PRADO-LU,  2007).  Além  disso,  podem  ser  tomadas  medidas  para
+
+minimizar  a  variação  intra-individual  considerando  cada  pessoa  como  seu  próprio
+
+controle, coletando amostras antes e depois dos períodos aplicação dos pesticidas.
+
+25
+
+Linhares, A. G.                                                                          Capítulo I – Revisão Bibliográfica
+
+Tabela 5 – Fatores causadores de variação da atividade das colinesterases do sangue (ATSDR,
+
+2007).
+
+AChE eritrocitária
+
+BChE plasmática
+
+Baixos níveis
+
+- drogas anti-malária  - contraceptivos orais - anemias
+
+- desnutrição  - gravidez  - infecções agudas  - contraceptivos orais  - alcoolismo  - anemias  - cocaína  - codeína  - doença debilitante crônica  - dissulfeto de carbono  - ciguatoxinas  - sais de benzalcônio  - dermatomiosite  - deficiência genética  - doença parenquimal hepática  - morfina  - compostos organomercúricos  - solaninas  - succinilcolina  - tubo de coleta de sangue tampa cinza (fluoreto de sódio + EDTA)
+
+Altos níveis
+
+- síndrome nefrítica
+
+26
+
+Linhares, A. G.                                                                      Referências da Revisão Bibliográfica
+
+3                                                          Conclusão
+
+5.  CONCLUSÃO
+
+De acordo com a análise da inibição seletiva, a atividade nos extratos de membranas
+
+eritrocitárias, obtidos pela metodologia desenvolvida, pode ser atribuída à AChE;
+
+A determinação da sua atividade a partir de amostras congeladas não compromete
+
+sua sensibilidade aos pesticidas estudados e proporciona o armazenamento das amostras
+
+para  análise  em  laboratórios  distantes  dos  locais  de  coleta.  Além  disso,  o  ensaio
+
+utilizado  permitiu  que  níveis  relevantes  de  inibição  enzimática  fossem  detectados  em
+
+concentrações de pesticidas abaixo da maioria das Ingestões Diárias Aceitáveis (IDAs)
+
+adotadas para os mesmos em legislações nacionais e internacionais;
+
+Tendo em vista esses resultados, a acetilcolinesterase eritrocitária humana extraída
+
+e  determinada  pelo  método  ora  proposto  constitui-se  em  ferramenta  promissora  para
+
+utilização  em  programas  de  monitoramento  ambiental  e  ocupacional  de  pesticidas
+
+organofosforados e carbamatos.
+
+60
+
+Linhares, A. G.                                                                                                                     Anexos
+
+6.  ANEXOS
+
+ANEXO A – Artigo publicado na revista Human & Experimental Toxicology
+
+61
+
+Linhares, A. G.                                                                                                                     Anexos
+
+62
+
+Linhares, A. G.                                                                                                                     Anexos
+
+63
+
+Linhares, A. G.                                                                                                                     Anexos
+
+64
+
+Linhares, A. G.                                                                                                                     Anexos
+
+65
+
+Linhares, A. G.                                                                                                                     Anexos
+
+66
+
+Linhares, A. G.                                                                                                                     Anexos
+
+67
+
+Linhares, A. G.                                                                                                                     Anexos
+
+68
+
+Linhares, A. G.                                                                                                                     Anexos
+
+69
+
+Linhares, A. G.                                                                                                                     Anexos
+
+ANEXO  B  –  Formulário  de  investigação  de  doenças  e  fatores  capazes  de  interferir  na
+
+atividade da AChE eritrocitária.
+
+Página: 1 de 2
+
+Projeto: ACETILCOLINESTERASE ERITROCITÁRIA HUMANA COMO BIOMARCADOR NA  AVALIAÇÃO DA EXPOSIÇÃO A
+
+FORMULÁRIO DE INVESTIGAÇÃO DE DOENÇAS
+
+PESTICIDAS.
+
+Formulário Nº
+
+Entrevistador
+
+Nome do voluntário
+
+Data: _______/_______/_______
+
+Data de Nascimento
+
+_______/_______/_______
+
+Masculino                 Feminino   
+
+UF
+
+RG
+
+Órgão emissor
+
+Sexo
+
+Endereço
+
+Município
+
+Utiliza ou utilizou pesticidas domésticos?                                                                        SIM                 NÃO   
+
+Utilizou algum EPI durante as aplicações do pesticida?                                                 SIM                 NÃO   
+
+Quando foi a última vez que utilizou pesticidas?
+
+Quais pesticidas utilizou nesse período?
+
+Quantas vezes utilizou?
+
+Você foi o(a) responsável pela preparação dos pesticidas?                              SIM                 NÃO   
+
+Onde armazena os pesticidas?                                                      Casa                Local específico   
+
+Como você descarta as embalagens?
+
+Bebe ou fuma?
+
+Utiliza alguma medicação? Qual é a dosagem.
+
+70
+
+Linhares, A. G.                                                                                                                     Anexos
+
+Doenças ou estados fisiológicos que interferem na atividade colinesterásica
+
+Página: 2 de 2
+
+Leucemia
+
+AIDS
+
+Cirrose
+
+Hepatite virótica
+
+Anemias
+
+Desnutrição
+
+Gravidez
+
+Doenças/condição fisiológica
+
+Estados fisiológicos
+
+A
+
+P
+
+A
+
+P
+
+A
+
+P
+
+A
+
+P
+
+A
+
+P
+
+Casos na família
+
+A = atual; P = passado
+
+Doenças ou estados fisiológicos que interferem na atividade colinesterásica (continuação)
+
+Doenças/condição fisiológica
+
+Estados fisiológicos/eventuais
+
+Talassemia
+
+Necrose amebiana
+
+Fígado cardíaco
+
+Neoplasma maligno metastático
+
+A
+
+P
+
+A
+
+P
+
+A
+
+P
+
+Casos na família
+
+- Contraceptivos orais
+
+- Drogas anti-malária
+
+A
+
+P
+
+A
+
+P
+
+A = atual; P = passado
+
+Resultado de atividade enzimática
+
+Enzima
+
+Inib %
+
+Inib %
+
+Inib %
+
+Média
+
+Acetilcolinesterase
+
+Observações gerais
+
+Data e local
+
+, de
+
+de
+
+Nome e assinatura do Técnico responsável
+
+71
+
+Linhares, A. G.                                                                                                                     Anexos
+
+ANEXO C - D13 – Diclorvós
+
+72
+
+Linhares, A. G.                                                                                                                     Anexos
+
+ANEXO D - D10 – Diazinon
+
+73
+
+Linhares, A. G.                                                                                                                     Anexos
+
+74
+
+Linhares, A. G.                                                                                                                     Anexos
+
+ANEXO E – C20 - Clorpirifós
+
+75
+
+Linhares, A. G.                                                                                                                     Anexos
+
+76
+
+Linhares, A. G.                                                                                                                     Anexos
+
+77
+
+Linhares, A. G.                                                                                                                     Anexos
+
+ANEXO F - C03 - Carbaril
+
+78
+
+Linhares, A. G.                                                                                                                     Anexos
+
+79
+
+Linhares, A. G.                                                                                                                     Anexos
+
+ANEXO G - C06 – Carbofuran
+
+80
+
+Linhares, A. G.                                                                                                                     Anexos
+
+81
+

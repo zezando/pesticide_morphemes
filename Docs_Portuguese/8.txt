@@ -1,0 +1,216 @@
+COMPOSTOS ORGANOFOSFORADOS PENTAVALENTES: HISTÓRICO, MÉTODOS SINTÉTICOS DE PREPARAÇÃO E APLICAÇÕES COMO INSETICIDAS E AGENTES ANTITUMORAIS
+
+INTRODUÇÃO Os primeiros compostos organofosforados foram preparados por alquimistas na Idade Média, mas seu estudo sistemático teve início no século XIX, por Lassaigne em 1820, com a esterificação de ácido fosfórico. Vinte cinco anos mais tarde, uma série de derivados de fosfinas foi preparada por Thinard e colaboradores e a partir destes trabalhos o progresso da investigação dos compostos de fósforo foi rápido1. Seu desenvolvimento, a partir da segunda metade do século XIX, foi dominado por Michaelis, sendo sucedido por A. E. Arbuzov e, mais tarde, pelo seu filho B. A. Arbuzov, além de pesquisadores britânicos e alemães1. A descoberta das propriedades tóxicas e inseticidas de alguns compostos de fósforo por Shrader e colaboradores, em 1930, criou novos compostos organofosforados nas indústrias2. A química dos compostos organofosforados foi estudada, em 1949, por G. M. Kosolapoff3 e trabalhos mais recentes de revisão podem ser encontrados na literatura de Coffey4. O átomo de fósforo é polarizável, de baixa a média eletronegatividade, usualmente tem número de coordenação igual a três, enquanto o pentavalente possui três átomos ligados por ligação simples e uma ligação dupla com o átomo de oxigênio ou com outros átomos bivalentes. Existem algumas exceções que incluem os sais fosfônicos quartenários (R4P+X-) e as fosforanas ou ilídeos. Os compostos de fósforo trivalentes são bons agentes redutores por causa da forte reatividade dos pares de elétrons não ligantes e da facilidade de formação da ligação P=O e, por isto, os compostos fosforados são rapidamente oxidados por oxigênio, ozônio, peróxidos e outros agentes oxidantes. A força da ligação carbonofósforo é similar à da ligação carbono-carbono e muito resistente para oxidação e hidrólise5. As diferentes atividades dos compostos organofosforados estão relacionadas, evidentemente, com características estruturais, tais como o tipo de heteroátomo ou grupo funcional ligado ao átomo de fósforo e seu estado de oxidação. *e-mail: dacosta@ufrrj.br
+
+Estudos a respeito da conversão de compostos carbonílicos em alcenos por Wittig2,6 e o uso de catálise homogênea abriram novas áreas no uso de compostos de fósforo em síntese orgânica. Mais recentemente, a preparação de compostos pentavalentes de fósforo estáveis e as discussões de processos de pseudorotações por Westheimer e outros conduziram a um maior progresso nesta área2. Atualmente, vários compostos de fósforo usados comercialmente são inorgânicos, mas compostos de fósforo orgânicos estão se tornando bastante importantes. Eles são usados como antioxidantes e estabilizantes para plásticos e óleos industriais, e em diversas áreas de aplicação, assim como resistência à corrosão, extração e complexação e como agroquímicos (inseticidas, fungicidas, herbicidas)7. Entre as diversas aplicações industriais pode ser citado o uso como reagente de flotação, matéria-prima na síntese de plásticos não inflamáveis, antioxidantes, plastificantes, aditivo para óleos lubrificantes e combustíveis hidrocarbônicos, solventes aplicados em extrações seletivas e, principalmente, como inseticidas1,4,5 e agentes antitumorais8,9. As aplicações industriais, junto com o aumento do uso de compostos de fósforo em síntese orgânica e na química de compostos organometálicos, têm adquirido um rápido aumento na literatura da química de organofosforados. Os compostos de fósforo estão entre os precursores necessários à vida e estão presentes na natureza há muito tempo. São os constituintes essenciais do protoplasma e possuem um papel importante para a manutenção da vida, por ex., como ácidos nucléicos, coenzimas nucleotídeos, intermediários metabólicos e fosfatídeos. No entanto, o estudo da reatividade e da síntese destes compostos é relativamente recente. MÉTODOS SINTÉTICOS PARA OBTENÇÃO DE COMPOSTOS ORGANOFOSFORADOS Como já mencionado, o fundador da química dos compostos organofosforados foi A. Michaelis que, no final do século XIX, explorou a nucleofilia do fósforo10, que foi estudada em detalhes por Arbuzov11 e vários outros cientistas subseqüentes12. Uma das mais valiosas contribuições de Arbuzov e Michaelis para o estudo de compostos organofosforados é a reação chamada de Michaelis-Arbuzov, mais comumente conhecida como transformação de Arbuzov ou rearranjo de Arbuzov. É um dos caminhos mais versáteis para formação da ligação carbono-fósforo, que envolve a reação de um fosfito de trialquila com um halogeneto de alquila2,4,11(Esquema 1).
+
+Esquema 3. Formação do produto de Perkow Esquema 1. Reação de Michaelis-Arbuzov ou rearranjo de Arbuzov
+
+Esse rearranjo é um dos mais investigados dentre as reações de compostos organofosforados e é amplamente empregado para a síntese de fosfonatos, fosfinatos e óxidos de fosfinas13. Durante a transformação, o fósforo trivalente é convertido em fósforo pentavalente. Em geral, o grupo alquila do halogeneto liga-se ao fósforo e um grupo alquila do fósforo é combinado com o halogênio para formar um novo halogeneto de alquila (Esquema 2). Esquema 4. Reação de Michaelis-Becker
+
+As reações de Michaelis-Arbuzov e Michaelis-Becker foram utilizadas por Rodrigues et al.19, para síntese de sete novos compostos bisfosfonatos (Figura 1) com potencial capacidade de complexação com diferentes metais13,19-21. Os compostos foram preparados através da transesterificação de fosfonoacetato de trietila.
+
+Esquema 2. Obtenção do fosfonato, fosfinato e óxido de fosfina a partir do rearranjo de Arbuzov
+
+A literatura registra que a conversão de P-O-C para P(=O)-C (PIII → PV) envolve um ganho líquido de energia em torno de 32-65 kcal/mol na estabilização total da ligação e, portanto, age como força diretora do rearranjo14. A reação de Michaelis-Arbuzov não é empregada com sucesso na síntese de β-cetofosfonatos provenientes de compostos carbonilados, aldeídos e cetonas, α-halogenados. Neste caso, o que ocorre é a reação de Perkow15, obtendo-se como produto o fosfato de dialquilvinila, conhecido como produto de Perkow, pois a ligação PO é formada em detrimento à ligação P-C16,17(Esquema 3). Outra reação comumente utilizada na química de compostos organofosforados é a reação de Michaelis-Becker18, que envolve a síntese de fosfonatos de dialquila, através do deslocamento nucleofílico entre o ânion formado pela reação de fosfito de dialquila em presença de base forte com um halogeneto de dialquila (Esquema 4).
+
+Figura 1. Novos bisfosfonatos sintetizados a partir das reações de MichaelisArbuzov e Michaelis-Becker
+
+Compostos análogos aos sintetizados por Rodrigues et al. (Figura 2) apresentam uma forte capacidade de complexação com diversos metais de transição e também são largamente empregados em diagnóstico e tratamento de diversas doenças22.
+
+Figura 2. Compostos análogos aos bisfosfonatos com forte atividade complexante
+
+Os bisfosfonatos (BPs) formam uma classe de substâncias químicas que apresentam uma ligação P-C-P e que vêm se destacando, atualmente, por agirem como inibidores de reabsorção óssea,
+
+Compostos organofosforados pentavalentes
+
+mediada pelos osteoclastos, Figura 3. Estes compostos são extensivamente utilizados no tratamento de várias doenças ósseas, destacando-se a doença de Paget, a hipercalcemia maligna, a osteoporose e a doença metastática e oleolítica23.
+
+161
+
+fosfonato, o qual deve possuir um grupo retirador de elétrons ligado ao carbono metilênico26-29. Esta reação se torna interessante por possibilitar a síntese de olefinas importantes em reações que envolvem adições de Michael.
+
+Figura 3. Estrutura química geral dos BP’s
+
+Na verdade, dentre os compostos de fósforo trivalente, o tricloreto de fósforo, PCl3, é o reagente mais utilizado na síntese de compostos organofosforados e demais compostos, por ser extremamente reativo, possuindo diversas aplicações sintéticas. O manuseio de PCl3 deve ser extremamente cuidadoso, pois é instável, uma vez que é facilmente hidrolisado, devido ao alto poder eletrofílico do átomo de fósforo, ligado a três átomos de cloro. Os reagentes de Grignard são utilizados para obtenção de diversas fosfinas terciárias, que podem ser importantes ligantes para a síntese de complexos com várias aplicações24 (Esquema 5).
+
+Esquema 6. Obtenção de olefinas através da reação de Wittig
+
+Esquema 7. Obtenção de olefinas através da reação de Horner-Emmons
+
+Os fosfitos de trialquila são agentes nucleofílicos ativos e realizam substituição em átomo de enxofre bivalente ligado a um bom grupo de saída, como os cloretos de sulfenila alquílicos ou acílicos para fornecerem os correspondentes fosforotioatos com bons rendimentos30, provavelmente, através de um mecanismo análogo ao de Michaelis-Arbuzov (Esquema 8).
+
+Esquema 8. Mecanismo da reação de fosfito de trialquila com compostos de enxofre
+
+Esquema 5. Diferentes aplicações sintéticas de tricloreto de fósforo
+
+Os reagentes de fósforo-P(III) podem ser usados para a síntese de grande variedade de compostos. Estes reagentes possuem fórmula geral (PR3), onde R pode ser o grupamento alquila, arila, alcoxila, ariloxila, halogeneto, tioalquila, amino, alquilamino, ou arilamino. Nestes compostos, o átomo de fósforo possui um par de elétrons livres, o qual confere caráter básico e nucleofílico às respectivas moléculas. Quando R é o grupamento alquila ou arila têmse as fosfinas, que se comparadas às aminas, são bases mais fracas, porém são nucleófilos mais fortes11. Neste trabalho, contudo, a atenção será voltada para os derivados análogos a fosfonatos, como os fosforoamidatos e fosforoditioatos. Os fosfitos, assim como as fosfinas, estão envolvidos em uma ampla gama de reações, porque o par de elétrons não-ligantes, presente nestes compostos, age como nucleófilo, atacando o átomo de carbono saturado ou insaturado, ou os átomos de oxigênio, enxofre, halogênio, ou nitrogênio produzindo intermediários que originam diferentes tipos de compostos orgânicos, como por ex., as olefinas. A obtenção de olefinas através da reação de ilídeos de fósforo com aldeídos ou cetonas foi uma das mais importantes descobertas da história da Química, sendo comumente conhecida como reação de Wittig25. O ilídeo de Wittig, que também é conhecido como ilídeo de fósforo, é obtido através da reação de uma fosfina, geralmente fosfina de trifenila, com um haleto de alquila (Esquema 6). Uma modificação da reação de Wittig é a reação de HornerEmmons (Esquema 7), onde um ilídeo é preparado a partir de um
+
+A reação de fosforocloridatos com mercaptanas (Esquema 9) é raramente aplicada à preparação direta de fosforotioatos, pois a fosforilação direta por compostos tióis não é adequada, uma vez que a base (íon mercapteto) prefere atacar o átomo de carbono do grupo alquil-éster em vez do átomo de fósforo30.
+
+Esquema 9. Reação de cloridrato de dialquila com mercaptanas
+
+A reação de fosfitos de trialquila com tióis e tiofenóis na presença de CCl4 ou CCl3Br conduz à formação de O,O,S-trialquil ou dialquil-S-aril fosforotioatos31-35 (Esquema 10).
+
+Esquema 10. Preparação de fosforotioatos de O,O,S-trialquil ou dialquilS-aril
+
+A ligação P-N é geralmente formada por reações de cloretos de fósforo (PCl3) ou compostos trivalentes de fósforo com diferentes aminas. As ditas fosforamidas são preparadas, muitas vezes, pela reação de cloretos de fósforo com aminas ou amônia2,5 (Esquema 11).
+
+
+
+Esquema 11. Reação de cloretos de fósforo com aminas
+
+
+
+Zhao et al.37-39 desenvolveram uma nova reação de fosforilação de aminas, que utiliza meio aquoso em reação bifásica com fosfito de diisopropila e tetracloreto de carbono (Esquema 16). Estas modificações melhoram principalmente os rendimentos das reações com aminoácidos e com aminas insolúveis em tetracloreto de carbono.
+
+A partir de cloretos fosforamídicos, uma variedade de pesticidas tipo fósforo-alcóxi e fósforo-amido-ésteres pode ser produzida, como por ex., a preparação do pesticida crufomato7 (Esquema 12).
+
+Esquema 16. Fosforilação de aminas em sistemas bifásicos com fosfito de diisopropila e tetracloreto de carbono
+
+Esquema 12. Preparação do inseticida crufomato
+
+Os fosforilcloridretos de dialquila reagem com aminas para preparação dos correspondentes amidetos (Esquema 13) como mostra a preparação do tabun, conhecido como gás do nervo utilizado na II Guerra Mundial por agir no sistema nervoso e, assim, interagir com a AchE de vertebrados e invertebrados, que foi sintetizado por Saunders29, em 1957.
+
+Recentemente, Dos Santos e colaboradores40, prepararam uma série de vinte novos N,N’-bis(dialquilfosforil)diaminas que foram sintetizados pela reação de Todd-Atherton modificada, onde fosfitos de dialquila reagem com diferentes diaminas simétricas em um sistema bifásico com rendimentos razoáveis (50-80%) (Esquema 17).
+
+Esquema 13. Reação de fosforilcloridretos de dialquila com compostos de nitrogênio
+
+Os métodos de síntese de fosforamidas foram descritos a partir de 1945 com uma série de trabalhos realizados por Atherton et al.36. Nos trabalhos iniciais, fosforilcloridatos de dialquila formados intermediariamente eram usados como agentes de fosforilação, em meio anidro (Esquema 14).
+
+Esquema 14. Síntese de fosforamidas a partir de fosfito de dialquila
+
+Posteriormente, descobriram que fosfitos de dialquila reagiam diretamente com aminas e tetracloreto de carbono em meio básico, de modo mais brando e com resultados igualmente satisfatórios. Os fosfitos de dialquila reagem suavemente com aminas primárias, secundárias ou amônia em tetracloreto de carbono para fornecer fosforoamidatos de dialquila em excelentes rendimentos36 (Esquema 15). Com pequenas modificações dos métodos de Atherton et al.36, e
+
+Esquema 15. Reações de fosfitos de dialquila com aminas
+
+Esquema 17. Fosforilação de diferentes aminas em sistemas bifásicos com fosfitos de dialquila para síntese de bisfosforoamidatos
+
+ATIVIDADE INSETICIDA DE ORGANOFOSFORADOS Todo este crescente interesse na síntese de novos organofosforados, particularmente os derivados pentavalentes tipo fosforoamidatos e fosforotioatos, é devido à sua aplicabilidade como agrotóxico. O mercado de produtos químicos para defesa agrícola é avaliado em US$ 2,5 bilhões somente no Brasil, segundo levantamento do Sindicato Nacional da Indústria de Produtos para Defesa Agrícola (SINDAG)41. Os segmentos-líderes são os herbicidas, com 52% das vendas, e os inseticidas, com 27,5% (Tabela 1). Apesar dos números expressivos que colocam o Brasil como terceiro mercado do mundo para defensivos, ao lado do Japão e atrás dos Estados Unidos e da Comunidade Européia, eles encobrem um potencial ainda maior a partir de 2000 (Figura 4). Em termos de aplicação de produtos por hectare cultivado, o Brasil está na décima posição, com 3,2 kg/ha, uma vez que a produção anual de 100 milhões de t de grãos é irrisória para o potencial das terras brasileiras. Outras avaliações dão conta ainda dos aspectos lucrativos decorrentes do uso de agrotóxicos. Uma destas estimativas sugere que nos EUA, no ano de 1997, para cada dólar investido em agrotóxicos os retornos auferidos foram da ordem de 4 dólares; desta forma, os US$ 6,5 bilhões destinados ao uso de agrotóxicos podem ter representado uma economia de cerca de US$ 26 bilhões. A toxidez de uma substância química em insetos não a qualifica necessariamente como inseticida. Diversas propriedades devem estar associadas à atividade, tais como eficácia mesmo em baixas concentrações, ausência de toxidez frente a mamíferos e animais superiores, ausência de fitotoxicidade, fácil obtenção, manipulação e aplicação,
+
+Compostos organofosforados pentavalentes
+
+163
+
+Tabela 1. Evolução de vendas das classes de pesticidas Total
+
+1996 1.792.671
+
+Herbicidas Fungicidas Inseticidas Acaricidas Outros(*)
+
+1.005.112 276.331 375.548 92.237 43.443
+
+Evolução das vendas de agroquímicos no Brasil 1997 1998 2.180.791 2.557.849 1.214.818 356.304 464.796 86.714 58.159
+
+1.368.723 436.235 581.693 105.619 65.579
+
+1999 2.329.067
+
+2000 2.499.958
+
+1.175.933 422.476 596.051 78.726 55.881
+
+1.300.515 380.418 689.953 65.560 63.512
+
+(*) antibrotantes, reguladores de crescimento, fito-hormônios e espelhantes adesivos.
+
+Figura 4. Consumo mundial de defensivos agrícolas em 2000
+
+viabilidade econômica e não ser cumulativo no tecido adiposo de seres humanos e de animais domésticos. Fica evidente que as características citadas referem-se àquele inseticida tido como ideal, o que raramente será o caso. Dentro da classificação de inseticidas são incluídas, também, substâncias que repelem e que atraem insetos42-45. A utilização generalizada de inseticidas sintéticos pode ser vista no séc. XX. Na primeira metade predominaram os inseticidas naturais de origem orgânica ou inorgânica. Os inseticidas inorgânicos mais utilizados foram arseniatos de cálcio e chumbo (verde Paris), cupratos (calda bordalesa), enxofre em pó, vários sulfatos, cal, fluorsilicato, de bário, aminosselenossulfito de potássio (criolite) e óleos minerais. Entre estes, os arseniatos mostravam-se extremamente tóxicos ao homem, animais superiores e ao meio ambiente como um todo46. Dentre os inseticidas orgânicos de origem natural foram muito utilizados, nicotina (1), nor-nicotina (2), anabasina (3), piretrinas (4) e aletrina (5), rotenóides como a rotenona (6) e, em menor escala, alguns quassinóides como a quassina (7) (Figura 5). Um inseticida conhecido desde o primeiro século da era cristã era o piretro, constituído basicamente de piretrinas, extraído das folhas do Chrisanthemum cinerariaefolium. Até a II Guerra Mundial, o piretro, a rotenona (6) e a nicotina (1) eram os principais produtos orgânicos de origem vegetal mais utilizados no controle de insetos46. Nas décadas de 50 a 70, ocorreu uma explosão no desenvolvimento da síntese orgânica, inclusive de produtos com atividade inseticida que se mostraram mais potentes e mais específicos, substituindo rapidamente o inseticida de origem natural. Passaram a ser utilizados o (8) DDT ([1,1-bis-(4- clorofenil)-2,2,2- tricloroetano]), (9) HCH (hexacloroexano), (10) aldrin, (11) dieldrin e (12) clordano46 (Figura 6). Contudo, os organoclorados estão nos primeiros lugares em várias listas de poluentes na Europa, devido à sua grande persistência no meio ambiente e fácil acumulação47,48. Em função de sua persistência têm sido responsabilizados como poluidores do meio ambiente. Acumulam-se nos tecidos gordurosos do homem, causam redução de fertilidade em animais e
+
+Figura 5. Inseticidas orgânicos de origem vegetal
+
+desequilíbrio biológicos na natureza, ressaltando que muitas espécies de insetos se tornaram resistentes aos organoclorados49. Hoje, historicamente, postula-se que os pesticidas organofosforados surgiram na década de 40, mas os principais representantes desta classe foram introduzidos na década de 60 e 80 e mesmo com a implantação de outras classes de pesticidas e de novas metodologias de controle de pragas, 40% do mercado mundial de pesticidas em 1999 era representado por organofosforados. A principal razão para o sucesso dos compostos organofosforados como inseticidas é sua forte atividade biológica acoplada com sua relativa instabilidade na biosfera, que se traduz em uma meia-vida em plantas da ordem de 2 até 10 dias. Deve-se notar que durante os últimos 30 anos, inseticidas organofosforados têm sido amplamente usados como alternativa
+
+Figura 6. Primeiros inseticidas sintéticos
+
+para substituir compostos organoclorados no controle de insetos; são os mais utilizados devido ao baixo custo, à síntese fácil e baixa toxidez para muitos organismos tratados49. A continuidade do interesse por esta classe deve-se à facilidade de síntese de novos derivados, à possibilidade de síntese de próinseticidas, que sofrem ativação preferencial em insetos e não em mamíferos, e à maior biodegradabilidade em comparação com os organoclorados. Os organofosforados apresentam baixa ação residual, com pouca estabilidade no meio ambiente e acumulação limitada em organismos vivos, sendo que 80 a 90% dos compostos são eliminados após 48 h do contato. Os inseticidas organofosforados são importantes não somente pela proteção agrícola que oferecem mas, também, pelos propósitos industriais, domiciliares e ambientais50. Os inseticidas organofosforados são a classe de maior interesse comercial e toxicológico, são ésteres ou tióis derivados de ácidos fosfóricos, fosfônico, fosfínico ou fosforamídico e usualmente têm a estrutura geral descrita na Figura 7. Usualmente, R1 e R2 são grupos arilas ou alquilas que são ligados diretamente ao átomo de fósforo, formando fosfinatos, ou através de um átomo de oxigênio ou de enxofre, formando fosfatos e fosforotioatos. Em outros casos, R1 está diretamente ligado ao átomo de fósforo e R2 está ligado por um átomo de oxigênio ou de enxofre, formando fosfonatos ou tiofosfonatos. Os fosforamidatos apresentam no mínimo um grupo -NH2 na molécula; os grupos amino dos fosforamidatos podem ser não-substituídos, mono ou di-substituídos, os átomos que podem formar ligação dupla com o fósforo podem ser oxigênio, enxofre ou selênio. Finalmente, o grupo L pode pertencer a uma variedade de grupos, tais como halogênios, alquila, arila ou heterocíclicos. O grupo –L, ligado através de um oxigênio ou átomo de enxofre ligados ao átomo de fósforo, é chamado de grupo de saída, que é liberado pelo átomo de fósforo quando o mesmo é hidrolisado pela fosfotriesterase (PTE), ou pela interação com o sítio da proteína (AChE) 51,52.
+
+Figura 8. Os primeiros inseticidas organofosforados sintetizados
+
+estruturais; por ex., clorthion (16), fenthion (17) e fenitrothion (18)53, Figura 9. Foram desenvolvidos outros compostos importantes com toxidez ainda baixa, como é o caso do malation (19), que tem o grupo éster carboxílico e o demeton-S (20), conforme a Figura 9. Estes dois compostos, por possuírem um grupo tioéter, apresentam alta atividade inseticida.
+
+Figura 9. Inseticidas organofosforados responsáveis pelo grande avanço de pesticidas na agricultura
+
+Outra classe de organofosforados menos estudada é a dos fosforoamidatos e tiofosforados. Na verdade, Schrader e seus colaboradores já observaram, em 1937, atividade inseticida em alguns organofosforados da classe fosforamidato, de fórmula geral mostrada na Figura 1030. Figura 7. Estrutura química básica de inseticidas organofosforados
+
+A aplicação industrial e comercial de compostos organofosforados na agricultura começou com Schrader e colaboradores, que descobriram, em 1941, o inseticida octametilpirofosforamida (13) (Figura 8), que foi chamado de Scharadan. Depois deste, um grande número de inseticidas ésteres organofosforados também foram descobertos, incluindo o primeiro com práticas inseticidas chamado de Bladan, que continha tetraetilpirofosfato, ou TEEP (14) (Figura 8), preparado na Alemanha em 1944. Na verdade, a síntese do tetraetilpirofosfato foi realizada pela primeira vez por Moschine, e então por De Clemont em 1854 e foi repetida por vários autores, incluindo Nilén em 1930. Contudo, o TEEP causava perturbações como náuseas e dificuldades supertóxicas, apesar de que foi muito usado na Alemanha, como substituto da nicotina para matar pulgões. O grande avanço dos inseticidas organofosforados na agricultura e de seu conhecimento científico na relação estrutura-atividade deu-se pela descoberta do composto parathion (15) por Schrader em 1944, primeiro produto de novo grupo de inseticidas revolucionários usados até hoje. Apesar de sua toxidez relativa, outros inseticidas menos tóxicos tinham sido desenvolvidos com poucas modificações
+
+Figura 10. Fórmula geral de alguns inseticidas organofosforados da classe fosforamidatos
+
+Embora os derivados de ácido fosforoamídico tenham sido ativamente investigados desde o início do desenvolvimento da química dos compostos organofosforados, inclusive como pesticidas, somente um pequeno número de compostos desta classe foi desenvolvido com práticas inseticidas, provavelmente devido à dificuldade na síntese desses compostos e pela sua forte toxidez para mamíferos. Pesquisas, no entanto, têm superado alguns destes problemas e revelado uma grande possibilidade de utilização dos fosforamidatos como pesticidas30. Os fosforamidatos derivados de aminas secundárias e terciárias são geralmente menos ativos como inseticidas que os derivados a partir de aminas primárias e amônia.
+
+Compostos organofosforados pentavalentes
+
+Alguns exemplos de inseticidas do tipo fosforoamidatos estão mostrados na Figura 11.
+
+Figura 11. Alguns inseticidas fosforamidatos Figura 13. Compostos inseticidas tiofosforados
+
+Visando a menor toxidez, é crescente o número de pesquisas buscando a obtenção de novos agentes pesticidas, que sejam cada vez inibidores mais fracos da acetilcolinesterase(AChE) para mamíferos, como é o caso de fosforamidatos sintetizados por Hudson54, em 1995 (Figura 12).
+
+Esquema 18. Reação de hidrólise da acetilcolina
+
+Figura 12. Pesticidas fracos inibidores da acetilcolinesterase para mamíferos
+
+Os organofosforotioatos são os compostos mais usados dentro da classe de inseticidas organofosforados para controle de pragas presentes em produção agrícola, higiene municipal e no controle de vetores de doenças55,56. Muitos destes inseticidas são fósforo tioésteres, com limitada solubilidade aquosa, em que o grupo de saída está preso ao átomo de fósforo através de um átomo de enxofre (Figura 13). Os inseticidas fosforotioatos geralmente são potentes agentes fosforilantes e inibidores da enzima acetilcolinesterase (AChE) por bioativação oxidativa. Estudos com perácidos oxidantes sugerem que os fosforotioatos sulfóxidos podem ser a espécie reativa57-60. Em geral, os ésteres fosforotioatos são mais ativos quimica e bioquimicamente que seus correspondentes ésteres fosfato. Os organofosforados, como os carbamatos, são largamente usados como inseticidas, inibindo a enzima acetilcolinesterase nos sistemas nervosos de vertebrados e de invertebrados61-64. O principal sítio de ação dos inseticidas organofosforados65-70 é o sistema nervoso na junção neuromuscular, interagindo com a acetilcolinesterase, cuja função é catalisar a hidrólise da acetilcolina (ACh) em ácido acético e colina (Esquema 18) interrompendo a transmissão dos impulsos nervosos nas sinapses dos neurônios colinérgicos dos sistemas nervosos central e periférico 71-78. A acetilcolina é um mediador químico, necessário para transmissão dos impulsos nervosos, presente nos mamíferos e insetos e quando a AChE é inibida, acontece paralisia e morte dos insetos79,80. O mecanismo de hidrólise catalisado pela AChE depende da adição de um resíduo de serina à carbonila do substrato ACh (Es-
+
+quema 19). Na presença de organofosforados, este resíduo é prontamente fosforilado 81 (Esquema 20). Ao contrário da enzima acetilada, a enzima fosforilada reage lentamente com água, o que permite a desalquilação do substituinte alcoxila ligado ao átomo de P (processo conhecido como “envelhecimento”). Os compostos organofosforados inativam a acetilcolinesterase pela fosforilação no sítio ativo da enzima82. O resultado é o surgimento de uma forte ligação entre um resíduo da histidina protonada do sítio catalítico e o átomo de oxigênio negativamente carregado do inibidor. A histidina protonada não pode funcionar como um catalisador básico geral para a hidrólise da enzima fosforilada, necessária para a reativação da AChE. Evidências experimentais para a inserção da ligação P-O – no sítio ativo de adutos “envelhecidos” entre AChE e organofosforados foram obtidas por espectroscopia de RMN31P 83. O processo de inibição da AChE depende muito da estrutura química do organofosforado inibidor 84-86. A interação entre a acetilcolinesterase e seu inibidor organofosforado parece envolver somente o sítio esterásico, formando um complexo bastante estável, sendo esta estabilidade relacionada fundamentalmente com a estrutura química do inibidor. A inibição da acetilcolinesterase é irreversível; desta forma, a acetilcolina é impedida de reagir com o sítio esterásico, ocorrendo um acúmulo da mesma onde é normalmente liberada, resultando, toda a sintomatologia da intoxicação por acetilcolina ocasionada por compostos organofosforados87-90 (Esquema 20). De modo geral, as principais classes de substâncias químicas usadas no controle de pragas têm sido os organofosforados, os organoclorados e os piretróides. Todas estas classes apresentam como alvo em comum o sistema nervoso dos insetos: os organofosforados e os carbamatos atuam como inibidores da acetilcolinesterase AChE, e os piretróides e os organoclorados têm como alvo os canais de sódio dependentes de voltagem91-93 (Figura
+
+
+
+Esquema 19. Mecanismo de hidrólise da Acetilcolina
+
+
+
+tência a pesticidas96. Estudos de impactos ou efeitos de inseticidas sobre inimigos naturais de pragas são de grande importância econômica e ambiental. O uso de inseticidas seletivos é um fator preponderante dentro do manejo integrado de praga. Após o uso intensivo de inseticidas no controle de pragas, muitas espécies de insetos têm desenvolvido resistência a inseticidas através de uma variedade de mecanismos95. As espécies de insetos utilizam diferentes mecanismos de resistência para se adaptarem à pressão seletiva imposta pelo mesmo inseticida96. Um dos mecanismos de resistência desenvolvidos por insetos é a modificação da proteína alvo do inseticida97,98. Apesar de neste trabalho se ressaltar apenas a utilização de inseticidas organofosforados do tipo éster, ou amida, ou tioéster derivados do ácido fosfônico é interessante mostrar a grande aplicação do herbicida organofosforado, glifosato (N(fosfometil)glicina), que atualmente faz parte do mercado mundial de pesticidas, representando 60% do mercado mundial de herbicidas não seletivos, contabilizando um total de US$ 1,2 bilhão/ano com vendas somente deste produto99;100. O glifosato é efetivamente forte contra 90 tipos de ervas-daninhas e praticamente não apresenta toxicidade para mamíferos, peixes e pássaros, mostrando não haver bioacumulação nos alimentos e ser biodegradado em produtos naturais, Figura 15.
+
+Figura 15. Estrutura química do herbicida glifosato
+
+Novas substâncias são necessárias para efetivo controle de pragas, oferecendo maior segurança, seletividade, biodegradabilidade, viabilidade econômica e aplicabilidade em programas integrados de controle de insetos e baixo impacto ambiental. Assim, os inseticidas modernos estão sendo concebidos para prevenir a infestação excessiva de pragas e, conseqüentemente, elevar o rendimento da produção agrícola ou pecuária e a qualidade das colheitas, com menos toxicidade e em doses menores com efeito mais seletivo sobre certas pragas. Esquema 20. Mecanismo clássico de inibição da acetilcolinesterase por inseticidas organofosforados
+
+14). Atualmente, os inseticidas mais desenvolvidos são os compostos organofosforados, carbamatos e piretróides, que são biodegradáveis. Os compostos destas três famílias são espontaneamente hidrolisados, especialmente em pH alto e sofrem degradação por hidrolases. As enzimas com capacidade para hidrolisar estes compostos não são bem caracterizadas, e ainda não está claro se as enzimas que degradam os inseticidas destas três famílias estão interrelacionadas94. A aplicação intensiva de inseticidas de largo espectro no controle de insetos-praga tem causado impacto negativo nos agroecossistemas95, além do crescente aumento de casos de resis-
+
+Figura 14. Regiões de atuação dos inseticidas
+
+ATIVIDADE ANTITUMORAL DE COMPOSTOS ORGANOFOSFORADOS Alguns compostos de fósforo apresentam grande importância na medicina, uma vez que pesquisas relatam que determinados compostos organofosforados são utilizados como antitumorais ou antineoplásicos. O termo neoplasia é uma definição científica de câncer, sendo uma doença caracterizada pelo crescimento descontrolado de células transformadas, existindo em quase duzentos tipos que correspondem aos vários sistemas de células do corpo, os quais se diferenciam pela capacidade de invadir tecidos e órgãos vizinhos ou distantes8. Os organofosforados utilizados mais comumente na oncologia como antitumorais estão incluídos na classe dos agentes alquilantes. Os agentes alquilantes são largamente empregados como quimioterápicos para o combate ao câncer101. São compostos reativos que agem no DNA, RNA e em certas enzimas102. Seus usos originais foram observados durante a I Guerra Mundial, onde indivíduos eram asfixiados com o gás mostarda, bis (2cloroetil) sulfeto (41) (Figura 16) e como conseqüência tinham a medula óssea e o tecido linfócito danificado8,103. Estudos em animais durante a II Guerra Mundial demonstraram que a forte exposição à mostarda nitrogenada análoga ao com-
+
+Figura 16. O primeiro agente alquilante empregado como quimioterápico
+
+posto 41 -bis (2-cloroetil) amino, a mecloretamina (43), destrói os tecidos linfócitos. Decidiu-se então pelo uso cauteloso deste composto químico para tratamento de pacientes com câncer do tecido linfócito, assim como das doenças linfosarcoma e Hodgkin’s. Apesar de ter sido bem sucedida em tumores câncerígenos, também danificou a medula óssea normal e a eventual danificação durante o tratamento impossibilita a continuação com a terapia. Contudo, muitos derivados de mostardas nitrogenadas vêm sendo sintetizados com vários aperfeiçoamentos103,104. Estes agentes são resistentes para reagir com a posição 7 da guanidina em cada dupla fita de DNA105, causando cruzamento do elo que interfere com a separação do cordão e impede mitoses. Alguns membros deste grupo de drogas são absorvidos depois da administração oral, mas também requerem uso intravenoso. Suas atividades espalham-se rapidamente pelo sangue, usualmente entre 2 a 15 min. São distribuídos em todos os tecidos, exceto no sistema nervoso central. Todos são tóxicos para a medula óssea, causam imunodeficiência, são carcinogênicos106 e mutagênicos. O composto organofosforado conhecido como “Tio-TEPA”107 ou tioetilenotiofosforamida (42) tem efeito similar ao da mecloroetamina (43), que é um dos agentes tumorais clínicos mais empregados e em uso atualmente (Figura 17). Tio-TEPA é largamente usado em câncer de bexiga, sendo aplicado uma vez na bexiga durante 4 semanas. quimioterápico mais amplamente usado na classe dos agentes alquilantes8,102. Sua síntese é baseada, principalmente, na via de condensação de derivados aminoálcoois a partir de fosforoamidodicloridato 43a 109,110 formado, na verdade, pela fosforilação in situ de mecloretamina 45 ou o análogo dela, formado também durante o processo de obtenção111 (Esquema 21). Cabe ressaltar que somente alguns autores postulam que um dos enantiômeros da ciclofosfamida, o derivado S-(-)112-114, é terapeuticamente mais ativo, pois o enântiomero R-(+) é mais lentamente metabolizado112,113, sendo mais ativo contra tumores de rato do tipo PC6114. Alguns pesquisadores fizeram a resolução enantiomérica do derivado S-(-) da ciclofosfamida115 e de outros derivados116 e Flader e colaboradores117 efeturam a síntese enantiosseletiva da S-(-) da ciclofosfamida (Esquema 22). Nos artigos e revisões sobre a ação antineoplásica da ciclofosfamida não há geralmente qualquer citação sobre esta problemática estereoquímica tão importante.
+
+Esquema 21. Rotas conhecidas para síntese de ciclofosfamida
+
+Figura 17. Agentes alquilantes antitumorais
+
+A ciclofosfamida (44), ou 2-[bis(2-cloroetil)amino]-2-oxo-1,3,2oxazafosforinana (Figura 18) é outro composto organofosforado largamente usado como agente antineoplásico8,102,108 que foi sintetizado acreditando-se que poderia ser inativo no corpo até que a estrutura de seus anéis fosse quebrada por uma enzima mais comum em células cancerígenas que em células normais. Assim, pensou-se que a ciclofosfamida poderia ser inerte até que dentro da célula cancerígena poderia ser convertida para o derivado ativo(45), então danificando a célula cancerígena com maior seletividade. A ciclofosfamida estava entre os primeiros agentes reconhecidos, embora requeira ativação metabólica culminante em modificação biomolecular. Desde sua descoberta, em 1958, tem se tornado o
+
+Figura 18. Ciclofosfamida e sua forma ativa
+
+Esquema 22. Rota enantiosseletiva para obtenção de S-(-)-44
+
+A ciclofosfamida e outras oxazafosforinas relatadas sofrem oxidação no carbono de posição 4 (adjacente ao nitrogênio cíclico) para fornecerem o correspondente 4-hidroxiciclofosfamida 46, que espontaneamente sofre reversibilidade com abertura do anel para fornecer a aldofosfamida 47 8,107. O intermediário gerado 46 pode sofrer diferentes transformações. A desidrogenase alcoólica mediante a oxidação de 46 pode fornecer a amida 50 e tem mostrado ser um meio pelo qual a alquilação do DNA é fechada para baixo. A oxidação (via aldeído hidrogenase ALDH1) de 47 para o correspondente ácido 52 também representa um modelo de metabólico não produtivo. Alternativamente, a eliminação do fosforil a partir do aldeído fornece a mistura de acroleína 49 e fosforamida mostarda 45. A hidrólise da fosforamida mostarda resulta na amina secundária versão de mecloroetamina (Esquema 23).
+
+Esquema 23. Mecanismo de degradação oxidativa de ciclofosfamida no DNA para formação de metabólitos reativos ciclofosfamida e sua forma ativa
+
+No organismo a ciclofosfamida é convertida para o composto ativo, principalmente no fígado do que no tumor106, visto que a ciclofosfamida deve ser oxidada enzimaticamente com a clivagem da ligação P-N para formar o metabólito ativo, que não é ativo in vitro. A ciclofosfamida é convertida para 4-hidroxiciclofosfamida e aldofosfamida. A aldofosfamida é quimicamente instável, sofrendo conversão para acroleína (49) e fosforamida mostarda (45) (Esquema 23). Atualmente, além da ciclofosfamida há os seus derivados trofosfamida (53), mafosfamida (54) e ifosfamida (55) (Figura 19), que são alguns dos agentes quimioterápicos anticâncer mais empregados. O anel de seis membros 1,3,2- oxazafosforinas é a estrutura comum presente nestes compostos113,114.
+
+
+
+Novas pró-drogas anticâncer da classe fosforodiamidatos estão sendo desenvolvidas, como é o caso de compostos 1,2-benzioxazol fosforodiamidato (56), que sofrem bioreduções enzimáticas, depois uma hidrólise do grupamento imina (57) formado como intermediário (58) e, em seguida, uma β-eliminação que acarreta a formação da citotóxica mostarda fosforamida (59), responsável pelo efeito quimioterápico e o composto fenil-venil-cetona (60)116 (Esquema 24).
+
+Esquema 24. Bioredução de 1,2benzioxazolfosforodiaamidato para formação do citotóxico mostarda fosforoamidato
+
+Amino-açúcares são usados como agentes funcionalizantes para síntese de ciclofosfamida glicosil (61) e xilosil-derivadas (62). De fato, estes derivados de açúcares apresentaram excelente atividade biológica, possuindo excelente afinidade com os diferentes órgãos117 (Figura 20).
+
+Figura 20. Derivados da ciclofosfamida funcionalizados com grupos glicosila e xilosila
+
+Figura 19. Derivados da ciclofosfamida
+
+A ciclofosfamida é superior a outros agentes alquilantes. É freqüentemente usada para tratamento de doença de Hodkin’s e também em câncer de seio, de ovário e de pulmão. A ciclofosfamida pode ser usada por meses, embora a absorção seja incompleta; no entanto, observa-se freqüentemente que, se usada via intravenosa, se tem maior eficiência. Pode causar queda de cabelo, esterilidade, atrofiamento testicular, fibrose ovariana e supressão da menstruação. Cisto hemorrágico não ocorre a menos que a ciclofosfamida seja co-administrada com N-acetilcisteína ou 2-mercaptoetanossulfonato. Ambos são tióis que neutralizam a acroleína, forma ativa da ciclofosfamida, fator causador. A droga é teratogênica e em dose maior causa necrose no miocárdio115.
+
+Ainda dentro da classe de pró-drogas anticâncer tipo fosforodiamidatos tem-se uma série de naftoquinonas e benzaimidazolquinonas fosforodiamidatos que estão sendo sintetizadas e estudadas como potenciais pró-drogas citotóxicas ativadas por DTdiaforase, que conduzem à formação do composto citotóxico ativo ânion fosforodiamidato. As análogas benzaimidazolquinonas são menos citotóxicas que as análogas naftoquinonas, a redução química da naftoquinona conduz à formação imediata do ânion citotóxico fosforodiamidato, ao contrário da redução da benzaimidazolquinona que leva à formação de um produto de redução estável117 (Esquema 25). CONCLUSÕES Os compostos organofosfosforados podem ser obtidos por diversos métodos de preparação, simples e eficientes. Estes compostos apresentam um largo campo de aplicações, uma vez que sua estrutura química permite diversos modos de ação, sendo bastante
+
+Esquema 25. Bioativação de novas pró-drogas quinonas fosforodiamidatos
+
+empregados como potentes inseticidas, cuja função principal é a inibição e interação com a enzima AChE de insetos, causando inativação da mesma. Adicionalmente, há a importante aplicação de compostos organofosforados, como a ciclofosfamida e seus derivados, na medicina oncológica, como excelentes agentes antineoplásicos de amplo espectro e de relativo baixo nível, também, de toxidez. Destacou-se, que geralmente não se discute o aspecto químico da formação de enântiomeros da ciclofosfamida.
+

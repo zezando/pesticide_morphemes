@@ -1,0 +1,3134 @@
+Determinação multirresidual de pesticidas por HPLC no contexto de exposição ocupacional
+
+
+
+Resumo Anaia, G. C., Determinação multirresidual de pesticidas por HPLC no contexto de exposição ocupacional. 2014. 104 p. Tese de Doutorado – Programa de Pós – Graduação em Química Analítica. Instituto de Química. Universidade de São Paulo, São Paulo.
+
+Um método para determinação de praguicidas das classes organofosforados, carbamatos, triazinas e ureias por HPLC-MS/MS em urina de pessoas expostas em decorrência de atividades agrícolas é proposto neste trabalho. O modo de eluição isocrática e gradiente em cromatografia líquida de fase reversa com a coluna Synergi Max RP (150 x 4,6 mm, 4 µm) foram experimentados para a separação dos componentes da amostra. O modo isocrático de eluição nas condições 45:55, 60:40 e 70:30 de ACN/água foram insuficientes para eluição dos componentes da amostra com fatores de retenção aceitáveis entre 0,5 e 20. Em modo gradiente, os efeitos do tempo de gradiente (30 a 100 min), a concentração inicial de ACN (8 a 14%), vazão da fase móvel (0,5 a 1,0 mL min-1) e temperatura (30 a 40 ºC) foram verificados para aumento de resolução e diminuição do tempo de análise. Em composições distintas de fase móvel (ACN/água), o logaritmo dos fatores de retenção foi colocado em gráfico em função da acidez (α) e a basicidade (β) da ligação de H, constante dielétrica (ε) e parâmetro de solubilidade de Hildebrand (δH). Dimetoato e metomil tiveram comportamentos
+
+diferenciados,
+
+ambos
+
+explicados
+
+pelas
+
+ligações
+
+de
+
+H
+
+intramoleculares. Através de um planejamento fatorial completo de dois níveis, usandose as funções COF e CRS como resposta, variáveis como vazão da fase móvel, tempo de gradiente, concentração inicial de ACN e temperatura foram investigados. A melhor resposta experimental forneceu como condições de análise: 0,5 mL min-1, 40 ºC, 75 min e 5% de ACN, para vazão, temperatura, tempo de gradiente e concentração inicial de ACN, respectivamente. Em um sistema LC-MS/MS usando o ion trap como analizador de massas, a infusão direta dos padrões de praguicidas, para conhecimento
+
+do pico do íon molecular e das transições MS/MS, foi estudada. Experimentos de quantificação em UPLC-MS/MS foram baseados na separação em fase reversa com a coluna ACQUITY UPLC HSS T3 (50 x 2,1 mm, 1,8 µm), espectrômetro de massas equipado com analizador de massas triplo quadrupolo e modo positivo de ionização. Transições MRM de quantificação e de confirmação foram monitoradas para cada praguicida. O método apresentou respostas lineares no intervalo de 0,25 a 50 µg L-1 para todos os praguicidas com coeficiente de determinação maiores que 0,999. O LD do método variou de 0,192 a 3,19 µg L-1. O LQ do método variou entre 0,582 e 13,6 µg L-1, com coeficiente de variação inferior a 20% CV. As recuperações em amostras fortificadas em 0,75 µg L-1 variaram entre 55,7 e 72,6% e a precisão em termos de %CV entre 1,94 e 19,1%. As recuperações em amostras fortificadas em 10 µg L-1 variaram entre 99,1 a 105% e a precisão entre 0,751 e 8,98% CV. As recuperações em amostras fortificadas em 50 µg L-1 variaram entre 99,5 a 101% e a precisão entre 0,877 e 5,94% CV. Das 25 amostras quantificadas, 13 apresentaram concentrações dos praguicidas na faixa linear da curva de calibração. Estes valores de concentração variaram entre 10 e 50 µg L-1.
+
+Palavras chaves: praguicidas, multirresíduo, exposição ocupacional, cromatografia líquida de alta eficiência (HPLC), espectrometria de massas (MS)
+
+
+
+
+
+1. Introdução 1.1 História dos praguicidas Seja pela International Union of Pure and Applied Chemistry (IUPAC)1 ou pela Environmental Protection Agency (EPA)2, o termo praguicida é definido como uma substância usada para controlar, matar ou prevenir qualquer praga animal, microbiológica ou herbal. A legislação brasileira segundo a lei federal nº 7802/89 de uma maneira mais elaborada, considera o termo praguicidas ou agrotóxicos e afins como agentes físicos, químicos ou biológicos, destinados ao uso nos setores de produção, no armazenamento e beneficiamento de produtos agrícolas, nas pastagens, na proteção de florestas, nativas ou implantadas, e de outros ecossistemas e também de ambientes urbanos, hídricos e industriais, cuja finalidade seja alterar a composição da flora e da fauna, a fim de preservá-las da ação danosa de seres vivos, e substâncias como
+
+também
+
+os
+
+produtos,
+
+empregados
+
+como
+
+desfolhantes,
+
+dessecantes,
+
+estimuladores e inibidores de crescimento.3 A linha do tempo histórica de utilização de praguicidas iniciou-se na antiguidade, com as civilizações que registraram o uso de substâncias capazes de impedirem danos às atividades agrícolas. Há aproximadamente 3000 anos a.C., os povos antigos gregos e romanos exploraram o uso dos elementos enxofre e arsênio como praguicidas, pela percepção de suas potencialidade no combate a ervas daninhas e insetos em suas colheitas. Outros elementos tóxicos como o Hg e Pb tiveram a sua importância no decorrer da evolução agrícola a fim de prevenir pragas.4 Com as mesmas potencialidades dos elementos químicos e igualmente aplicados, os praguicidas de origem natural como a piretrina, presente nas folhas do crisântemo (Chrysanthemum cinerarifolium) e a nicotina, encontrada nas folhas do tabaco (Nicotiana tabacum), portadoras do sulfato de nicotina, foram satisfatoriamente aplicadas aos interesses da
+
+12 sociedade da época.5 De grande relevância no passado, e ainda hoje, os praguicidas naturais vem atraindo a atenção dos pesquisadores como um substituto aos agrotóxicos sintéticos.6 O grande salto histórico na utilização de praguicidas ocorreu no século XIX, com o compostos inorgânicos verde de Paris (acetoarsenito de cobre)7 e o fungicida calda bordaleza nos Estados Unidos e Europa. Inicialmente utilizado como pigmento em formulações de tintas, o verde de Paris foi banido devido ao efeito tóxico causado aos pintores da época. Mais tarde, foi então revelada a propriedade inseticida deste composto. Foi intensamente utilizado no combate ao escaravelho da batata.8 Um dos primeiros praguicidas na classificação de substâncias orgânicas sintéticas ocorreu com o advento do DDT (diclorodifeniltricloroetano), com os experimentos do bioquímico alemão Ohtmar Zeidler em 1874, no primeiro momento sem propriedade claramente elucidada. O suíço Paul Müller, em 1930, provou a eficácia do DDT, como potente praguicida para diversos insetos. As primeiras aplicações deste praguicida se iniciaram na Segunda Guerra Mundial para a erradicação do mosquito transmissor da malária, tifo e febre amarela. Sem qualquer cuidado, a substância era pulverizada direta e descontroladamente em diversos lugares e até sobre as pessoas com vistas ao impedimento da proliferação do mosquito transmissor. Com o uso desmedido, os primeiros sintomas de intoxicação começaram a se manifestar no final da década de 60. Apareciam então as primeiras complicações congênitas, de infertilidade e de doenças hepáticas. Os graves problemas apontavam as propriedades cumulativas deste composto no ambiente, em função de sua lipossolubilidade. A preocupação em relação aos danos causados pelo DDT levou à sua substituição. Um novo pensamento mundial é concebido com a publicação em 1969 do famoso livro Silent Spring, da pesquisadora americana Rachel Carson. O livro denunciava, com fortes depoimentos, o uso abusivo e a periculosidade do
+
+13 organoclorado DDT. As autoridades acataram as denúncias e em 1970, os clorados DDT, lindano e BHC (hexabenzeno de cloro) foram imediatamente proibidos. Os primeiros países a se posicionarem mediante esta decisão foram a Noruega e a Suécia, seguidas dos Estados Unidos em 1972. Embora fosse tamanha a preocupação com a sua aplicação, os organoclorados tiveram papel relevante na melhoria da qualidade de vida da população, em razão de campanhas divulgadas de combate à malária e controle de outras 50 pragas nocivas à saúde.9 A utilização de praguicidas no Brasil ocorreu no período entre guerras. Os organoclorados BHC e DDT e o fosforado Parathion foram introduzidos em campanhas de saúde pública, para controle de pragas transmissoras de doenças e mosquitos. A demanda crescente do uso destes agentes consolidou a indústria nacional de formulação no início dos anos 50. Na década de 70 visando o aumento de produtividade agrícola e a melhoria da qualidade do produto, o governo brasileiro incentivava, através do Plano Nacional de Desenvolvimento (PND), o uso de agrotóxicos, o que resultou na larga utilização destes agentes. Enquanto nos Estados Unidos e na comunidade europeia a medida proibitiva fora tomada na década de 70, o posicionamento brasileiro de proibição ao uso do DDT aconteceu tardiamente, em 1992.
+
+1.1.1 Classificação dos praguicidas Em termos gerais, praguicida é classificado de acordo com o tipo de praga o qual se deseja o controle. O termo compreende a classificação de herbicidas, fungicidas, inseticidas, e classes menores, como os acaricidas, algicidas, nematicidas, molusquicidas, fumigantes, rodenticidas, entre outros.10,11 O Ministério da Saúde faz a classificação em relação à toxicidade com base na DL50 oral (mg kg-1), nas formulações líquidas e sólidas. Por exigência legal, a indicação da toxicidade está
+
+14 associada à cor do rótulo ilustrada na embalagem do produto.12 A Tabela 1 apresenta a classificação.
+
+Tabela 1: Classificação dos praguicidas quanto à toxicidade.
+
+
+
+Classe
+
+Toxicidade
+
+Cor da faixa
+
+I
+
+Extremamente tóxico
+
+Vermelha
+
+II
+
+Altamente tóxico
+
+Amarela
+
+III
+
+Medianamente tóxico
+
+Azul
+
+IV
+
+Praticamente não-tóxico
+
+Verde
+
+Organofosforados O aparecimento dos compostos organosfosforados ocorreu em 1820 quando
+
+Lassaigne realizou a esterificação do ácido fosfórico. A sucessão na investigação destes compostos ao longo do tempo prossegue com Thinard, Michaelis e Arbuzov, e alcança o ápice com o descobrimento de suas propriedades inseticidas, em 1930. O uso efetivo dos compostos de fósforo ocorreu em razão de campanhas de proibição de alguns organoclorados, substituindo-os. Os organofosforados, de degradação mais rápida em relação aos compostos de cloro, tiveram importância como inseticida alternativo em diversas aplicações. Dentro
+
+desta
+
+classe
+
+química,
+
+estes
+
+compostos
+
+se
+
+distribuem
+
+em
+
+subclassificações, dependendo dos átomos que estão diretamente ligados ao fósforo. Dentre estas subclasses estão os fosforotioatos (P duplamente ligado ao S), representados pela diazinona e pirazofós. Os fosforoditioato (uma ligação simples e uma dupla entre P e S) representados pelo azinfos-metil, fosalona e dimetoato. Os fosforoamidotioato (ligação simples entre S ou N e o átomo de P), representados estruturalmente pelo metamidofós e acefato.13 A magnitude da persistência depende das características estruturais dos compostos. O espectro de atuação dos organosfosforados é amplo e seus efeitos
+
+15 nocivos não se limitam apenas aos insetos, mas igualmente aos mamíferos. A toxicidade se relaciona aos mamíferos por causa da interferência na atividade da enzima acetilcolinesterase, responsável pela hidrólise da acetilcolina, em colina e ácido acético.
+
+Mecanisticamente,
+
+a
+
+inibição
+
+ocorre
+
+pela
+
+fosforilação
+
+da
+
+enzima
+
+acetilcolinesterase. A acetilcolina é a substância neurotransmissora que controla a transmissão dos impulsos nervosos. A inibição da acetilcolinesterase ocasiona a acumulação excessiva da acetilcolina na sinapse nervosa e neuromuscular. A repetição desse desequilíbrio descontrola a transmissão dos impulsos elétricos resultando na forte contração muscular e paralisia. Embora a inibição da acetilcolinesterase seja o efeito toxicológico mais pronunciado dos fosforados, outros sistemas de enzimas e tecidos são igualmente alvos locais de ação destes inseticidas.14 Os organofosforados são agentes absorvidos pela pele, mucosas orais, conjuntiva e vias gastrointestinal e respiratória. A severidade e duração do envenenamento são determinadas por fatores como dosagem, via de exposição, propriedades físico-químicas do organofosforado, metabolismo e velocidade do mecanismo de ação.15 Os organofosforados alvos deste trabalho são pirazofós, azinfos-metil, metamidofós, acefato, dimetoato, fosalona e diazinona, cujas estruturas estão organizadas na Figura 1.
+
+Pirazofós
+
+Azinfos-metil
+
+Metamidofós
+
+16
+
+Acefato
+
+Dimetoato
+
+Fosalona
+
+Diazinona Figura 1: Praguicidas organofosforados.
+
+
+
+Organoclorados Os
+
+organoclorados
+
+são
+
+tipicamente
+
+compostos
+
+orgânicos
+
+densamente
+
+substituídos por átomos de Cl, em estruturas alifáticas ou em anéis aromáticos. Com este arranjo estrutural, os organoclorados destacam-se nas características de lipossolubilidade, pressão de vapor significativa e elevada estabilidade. Esse quadro reflete na dificuldade de degradação convergindo para a persistência ambiental e propagação da contaminação para outros locais distantes de onde efetivamente se iniciou a aplicação.16 A eficiência como inseticida está associada à estrutura molecular que, por sua vez, determinarão os efeitos biológicos e toxicológicos.17 Os organoclorados atuam no sistema nervoso central alterando a normalidade da transmissão nervosa, através da alteração das propriedades da membrana das células nervosas. As desrregulações na cinética do transporte de K+ e Na+ resultam em interferência na transmissão dos impulsos elétricos, mudanças na atividade muscular, distúrbios sensoriais e respiratórios. Em contato com o organismo, os praguicidas clorados se acumulam nos tecidos adiposos do corpo, tais como o cérebro, abdômen e
+
+17 fígado. Assim, efeitos neurotóxicos, carcinogênicos, mutagênicos, teratogênicos são desencadeados pelas exposições aos organoclorados.18,19 Apresentam-se neste trabalho os praguicidas dicofol, endrim, aldrim e 4,4-DDE, organizados na Figura 2.
+
+Dicofol
+
+Endrim
+
+aldrim
+
+4,4-DDE Figura 2: Praguicidas organoclorados.
+
+
+
+Ureias Linurom e diurom são herbicidas da classe das fenilureias, desenvolvidas logo
+
+após a Segunda Guerra Mundial.20 Dentre as fenilureias aplicadas neste trabalho, estruturalmente apresentam-se as N-metoxi-N-metil substituídas (linurom) e as N,Ndimetil substituídas (diurom), ambas na Figura 3. As ureias atuam no bloqueio do transporte de elétrons, inibindo a fotossíntese. No ciclo fotossintético atuam na primeira membrana dos tecidos vegetais (plasmalema) onde acontece todo o processo.21
+
+18
+
+Diurom
+
+linurom
+
+Figura 3: Praguicidas ureias.
+
+
+
+Triazinas Os herbicidas triazinas são compostos estruturalmente formados por anéis
+
+heterocíclicos de 6 membros, com átomos de N dispostos simetricamente. A estabilidade química e a persistência das triazinas ou de seus produtos de degradação contribuem para a contaminação ambiental.22 As propriedades físico-químicas e nomenclaturas das triazinas se distinguem de acordo com a substituição na posição 2 do anel. Os compostos simazina e propazina possuem a nomenclatura com a terminação azina, pela substituição do átomo de cloro na posição 2. A mesma posição de substituição ocorre com a ametrina, pelo grupo tiometil (SCH3) no anel heterocíclico, daí a terminação da nomenclatura em trina.23 Os herbicidas triazinas atuam inibindo o transporte eletrônico fotossintético. O processo de inicia na raiz da planta através da absorção, se liga à aceptora platoquinona, transportadora da cadeia eletrônica.23 O resultado da interrupção do processo fotossintético é o amarelamento, precedido da morte das folhas. As triazinas são não carcinogênicas, são de toxicidade baixa a moderada, porém são indutoras de efeitos tóxicos no fígado, em exposições extremas ou prolongadas. Neste trabalho, as triazinas estão representadas pela simazina, propazina e ametrina (Figura 4).
+
+19
+
+Simazina
+
+Propazina
+
+Ametrina Figura 4: Praguicidas triazinas.
+
+ Os
+
+Carbamatos carbamatos
+
+são
+
+praguicidas
+
+derivados
+
+do
+
+ácido
+
+N-metilcarbâmico,
+
+estruturalmente possuindo em comum o grupo -NH(CO)O-. Segundo Santos24, a primeira menção de um carbamato, popularmente conhecido como eserina, ocorreu em 1925, com a descoberta deste princípio ativo presentes nas sementes de Calabar (Physostigma venenosum). Funcionalmente, apresentam amplo espectro de atuação como inseticidas, fungicidas e herbicidas. O mecanismo de ação é semelhante ao dos organofosforados, diferenciando-se pela inibição reversível da acetilcolinesterase.25 A Figura 5 apresenta os carbamatos considerados neste trabalho.
+
+Metomil
+
+Aldicarbe
+
+Carbaril
+
+20
+
+Aldicarbe-sulfona
+
+Carbofurano
+
+Mercaptodimetur
+
+Figura 5: Praguicidas carbamatos.
+
+1.1 A realidade brasileira frente aos agrotóxicos e lavouras O Brasil possui um dos maiores mercados de agrotóxicos do mundo. Na classificação mundial, o país ocupa a 6ª posição como importador de formulações.26 O mercado lucrativo movimenta um montante de R$11 bilhões de reais ao ano.27 Estimase a existência de cerca de 300 princípios ativos e 2000 formulações comerciais diferentes no mercado nacional.28 A ocupação brasileira no uso e comercialização de praguicidas se deve às extensas áreas cultiváveis e condições climáticas favoráveis para o desenvolvimento da agricultura. Atualmente, a ANVISA (Agência Nacional de Vigilância Sanitária) reavalia, do ponto de vista toxicológico, a utilização de alguns ingredientes ativos em agrotóxicos, no que se refere aos riscos à saúde. Estão nesta lista o acefato, carbofurano e metamidofós, inclusos neste trabalho. Em 2009, a ANVISA publicou nota apontando a proibição imediata de acefato nas culturas de amendoim, batata, brócolis, citros, couve, couve-flor, cravo, crisântemo, feijão, fumo, melão, pimentão, repolho, rosa e tomate. O acefato só se aplicará às culturas de algodão e soja até outubro de 2013. A ANVISA recomendou a proibição do acefato para fins domésticos e em jardinagem. A preocupação do uso do carbofurano ocorre
+
+por
+
+problemas
+
+de
+
+toxicidade
+
+aguda
+
+e
+
+desregulação
+
+endrócrina.
+
+É
+
+definitivamente proibido na comunidade europeia e Estados Unidos. Em janeiro de
+
+21 2011, a ANVISA publicou a retirada do metamidofós do mercado brasileiro e, em julho de 2012 a agência decidiu resolutamente pela proibição da comercialização da substância. Os estudos toxicológicos revelam que o metamidofós é um agente de toxicidade aguda, causador de problemas no sistema reprodutor, endócrino e neurológico do corpo humano.29 Utilizado como inseticida nas culturas de algodão, batata, feijão e tomate, o metamidofós já é proibido na China, Japão e Comunidade Europeia.30 Em outubro de 2012, a ANVISA anunciou a proibição da comercialização do carbamato aldicarbe, o principal princípio ativo do raticida popularmente conhecido como chumbinho, vendido ilegalmente. O motivo da proibição do aldicarbe no mercado brasileiro se deve ao elevado índice de intoxicações humanas (quase 60% dos 8 mil casos de intoxicações, segundo as estimativas da ANVISA). Até então, este carbamato estava entre os ingredientes ativos mais tóxicos permitidos no Brasil. Com os cancelamentos na ANVISA e no MAPA (Ministério da Agricultura, Pecuária e Abastecimento) estão proibidas a comercialização, produção e aplicação de qualquer agrotóxico constituindo de aldicarbe.31 O consumo de agrotóxicos nos estados brasileiros difere quanto ao tipo e extensão das práticas agrícolas. As regiões sudeste e sul são as que mais aplicam agrotóxicos em todo o país.32 A Tabela 2 relaciona a cultura ao praguicida autorizado de aplicação. As informações foram encontradas nas monografias autorizadas no portal da ANVISA.
+
+22 Tabela 2: Relação de praguicidas e lavouras. Acefato
+
+Aldicarbe
+
+Ametrina Abacaxi
+
+tomate
+
+Carbaril abacaxi tomate
+
+Carbofurano
+
+Diazinona
+
+Dicofol
+
+Tomate
+
+Dimetoato
+
+Diurom abacaxi
+
+Linurom
+
+Tomate
+
+Metamidofós
+
+Metomil
+
+tomate
+
+tomate
+
+Trigo
+
+trigo
+
+algodão amendoim
+
+algodão
+
+batata
+
+batata brócolis
+
+Pirazofós
+
+seringueira trigo algodão amendoim
+
+Algodão
+
+algodão
+
+algodão
+
+Algodão
+
+algodão
+
+alho Banana batata brócolis Café Cana
+
+banana batata
+
+Café Cana
+
+banana
+
+café cana
+
+café cana
+
+Citros
+
+banana batata
+
+café cana cebola cenoura
+
+cenoura Citros
+
+citros
+
+citros
+
+Citros
+
+citros
+
+citros
+
+couve-flor crisântem o
+
+crisântemo feijão fumo
+
+feijão
+
+Feijão Fumo
+
+maçã
+
+feijão maçã
+
+maçã
+
+maçã
+
+maçã melão
+
+melão Milho pimentão repolho rosa
+
+trigo abóbora
+
+alho Arroz Banana Batata
+
+cebola citros couve-flor cravo
+
+seringueira
+
+Trigo
+
+algodão amendoim
+
+Simazina abacaxi
+
+repolho
+
+milho
+
+Repolho
+
+milho
+
+milho
+
+repolho rosa
+
+Pepino
+
+milho
+
+maçã
+
+rosa pepino
+
+23 Continuação da Tabela 2. Metomil
+
+Pirazofós
+
+Fosalona
+
+Simazina Abacaxi
+
+tomate Seringueira trigo
+
+Trigo Abóbora
+
+algodão
+
+Banana batata brócolis Café Cana
+
+Citros
+
+crisântemo
+
+Maçã Melão milho
+
+jardinagem amadora
+
+Maçã Milho
+
+repolho Rosa Pepino
+
+Fonte: Monografias autorizadas. Portal da ANVISA. Acesso em janeiro de 2013.
+
+24
+
+1.2.1 Exposição ocupacional Em razão da lucratividade da atividade agrícola e do consumo da sociedade, exigências de qualidade e quantidade na produtividade agrícola de alimentos e matérias-primas obrigam o uso de praguicidas no controle de agentes nocivos que possam interferir no desenvolvimento das atividades humanas. A demanda elevada e o uso desorientado destes agentes de impacto negativo resultam na poluição ambiental33 e riscos potenciais à saúde humana34,35. A forma de exposição humana a praguicidas ocorre por vários caminhos: contato com o ambiente contaminado (ar36,37, águas38,39, solo40,41) e ingestão de alimentos contaminados42,43. Entretanto, se a exposição ocorre pelo manuseio destes agentes, em decorrência de atividades realizadas no ambiente de trabalho, esta exposição é especialmente denominada de ocupacional. A exposição ocupacional a praguicidas é direta, clara e evidente em trabalhadores do meio rural além de atingirem as populações circunvizinhas às áreas onde se praticam as atividades agrícolas. Há relatos de que a exposição a agrotóxicos e risco de intoxicação se agravam pela desinformação de trabalhadores, inocentes a respeito da periculosidade destas substâncias, manuseio das formulações, sem ou uso parcial de equipamentos de proteção individual (EPI), e a carência de orientação quanto ao uso dos equipamentos.44 O risco de contaminação por praguicidas depende da toxicidade da substância, sua concentração, extensão da exposição e uso correto do tipo de equipamento utilizado no momento da aplicação45. O Sistema Nacional de Informações Tóxico-Farmacológicas (SINITOX), em 2009, registrou 100391 casos de intoxicações humanas, sendo que 5,18% dos casos representam intoxicações ocorridas por agrotóxico. Segundo as informações fornecidas pelo SINITOX, 22,45% dos 5204 eventos ocorridos em 2009 são registros de casos de
+
+25 intoxicações por circunstâncias ocupacionais. Em relação aos óbitos, 1,7% dos eventos ocorridos atribuem-se ao uso de agrotóxicos em circunstâncias ocupacionais46. O Ministério da Saúde no Brasil recomenda alguns cuidados de proteção individual
+
+para
+
+trabalhadores
+
+que
+
+manuseiam
+
+formulações
+
+de
+
+praguicidas47.
+
+Aconselham-se: 
+
+ler e seguir rigorosamente as instruções dos rótulos
+
+
+
+não utilizar embalagens vazias
+
+
+
+não utilizar utensílios domésticos na mistura de produtos
+
+
+
+não fumar, beber ou comer enquanto estiver manuseando agrotóxicos
+
+
+
+após o trabalho, tomar banho com água corrente e sabão
+
+
+
+lavar diariamente as roupas e equipamentos utilizados durante o trabalho
+
+
+
+utilizar equipamentos de proteção individual (máscara, óculos, luvas, chapéu, botas, avental, calça e camisa de mangas compridas)
+
+1.2 Métodos de análise A determinação de diversas classes de praguicidas no contexto ocupacional tem sido extensamente explorada por Dana Barr et al.48 A literatura técnica apresenta a determinação multirresidual de praguicidas por diferentes técnicas de separação, como a cromatografia a gás49, eletroforese capilar50,51 e cromatografia a líquido52 equipadas com técnicas de detecção simples, como ultravioleta (UV) até os sofisticados espectrômetros de massas. Aplicando a cromatografia gasosa acoplada a espectrometria de massas (GC/MS), Ueyama et al.53 publicaram um método de análise de rotina de metabólitos de organofosforados, os dialquilfosfatos em amostras de urina humana. No método proposto foram alcançados LD baixos, entre 0,05 e 0,15 µg L-1, adequados tanto para a
+
+26 aplicações do ponto de vista ocupacional e não-ocupacional. Para eficência do método, os autores incluíram uma etapa de derivatização com o clássico reagente pentafluorobenzilbrometo
+
+(PFBBr).
+
+Etapas
+
+de
+
+derivatização
+
+comprometem
+
+a
+
+simplicidade do procedimento em aplicações de rotina. Raeppel et al.54 derivatizaram 27 praguicidas termicamente instáveis de 20 diferentes classes químicas, com o agente N,O-Bis-(trimethylsilyl)trifluorocetamide (BSTFA). A esta derivatização ainda foi necessária a aplicação de outro agente derivatizante com etapas de aquecimento de duração de 3 h e agitação, para a medida apropriada dos 27 analitos por GC. As longas e tediosas etapas de derivatização necessárias em GC são as grandes desvantagens de empregar a técnica no desenvolvimento do método analítico de muitos praguicidas. Estas etapas devem fazer parte do procedimento experimental para tornar possível a análise por GC. Com base nos relatos dos procedimentos experimentais dos artigos discutidos e outros encontrados na base de dados Web of Science (www.webofknowledge.com), a análise de praguicidas por GC embora bem difundida pelas inerentes características analíticas de sensibilidade e seletividade, limita-se em função das propriedades físicoquímicas de muitos praguicidas, por possuírem volatilidade insuficiente para vaporização no injetor ou instabilidade térmica. Em razão das limitações de GC, a técnica de cromatografia líquida de alta eficiência é amplamente aplicada na determinação de praguicidas. Pela natureza nãoespecífica do UV, poucos trabalhos são encontrados para a determinação multirresidual em amostras complexas como a urina. Hernández et al.55 desenvolveram um método de extração em fase sólida (solid-phase extraction, SPE), adsorvente do tipo ADS C4, em linha com HPLC-arranjo de diodos (PDA) - detecção em 214 e 244 nm - para a determinação de herbicidas ureias e triazinas, inseticidas carbamatos e metabólitos, em amostras de urina humana. Os sistemas de pré-concentração em linha
+
+27 agregam ao método características de mínimo manuseio da amostra, maiores seletividades, repetibilidade e a remoção eficiente de certos interferentes da matriz. A aplicação do sistema otimizado em linha utilizou um volume de amostra de 1500 µL. Limites de detecção na faixa de 1 e 10 ng mL-1, precisão menor que 10% de coeficiente de variaçãono nível de 20 ng mL-1 e recuperações maiores que 85% foram obtidos para o método estabelecido. Rosado-Consales et al.56 elaboraram um método multirresidual em HPLC-PDA (detecção em 232 nm), para determinação de 6 herbicidas clorofenoxiacidos derivados em amostras de urina de voluntários ocupacionalmente expostos. Para a extração em fase sólida (SPE), os autores avaliaram os materiais RAM (restricted-access material) e as resinas detroca iônica Oasis MCX e MAX, com recuperação entre 88 e 104% para os três materiais. O método apresentou LD baixo, de 3,5 a 6,0 µg L-1, para os herbicidas estudados. Nestes casos, o sucesso da análise de praguicidas por HPLCPDA está vinculado ao procedimento de SPE com materiais altamente seletivos. A análise direta de amostras sem tratamento prévio diminui a eficácia do método, quando a matriz contém interferentes. Diversas técnicas de tratamento de amostra com características distintas de desempenho são encontradas nos artigos científicos. Como exemplo, Lâchatre et al.57 realizaram a extração líquido-líquido (LLE) como tratamento de amostra (urina humana) para a determinação de metabólitos de organofosforados (dialquilfosfatos). Neste procedimento, NaCl foi adicionado a 5 mL de amostra para efeito de salting out, o pH ajustado com HCl 6 mol L-1 e dietiléter foi usado como solvente extrator. Uma segunda extração com acetato de etila foi necessária para a análise cromatográfica. É comum caracterizar a LLE pelas desvantagens de consumo de solventes tóxicos, dificuldade de repetibilidade dos resultados, despendimento de tempo, formação de emulsão, como ineficiente para compostos que apresentam alguma solubilidade em água, entre outras. No entanto,
+
+28 Lachâtre et al. superaram as limitações da LLE e otimizaram um procedimento que forneceu resultados confiáveis. Extração em fase sólida foi definida por Tippins58 como uma técnica de tratamento de amostra que utiliza colunas preenchidas com materiais de sílica funcionalizada, a fim de extrair espécies de interesse de amostras complexas. O tratamento de SPE fornece um extrato mais concentrado e limpo para a fase de análise instrumental. A seletividade e o tipo de mecanismo de extração da coluna diferem quanto à natureza do material derecheio. O material escolhido deve ter interações mais favoráveis com o analito, que será adsorvido em relação aos interferentes presentes na amostra, de modo a eliminá-los. Desta forma, o procedimento de extração é ajustado seletivamente considerando as propriedades inerentes dos analitos de interesse e dos outros componentes desinteressantes da amostra. A aplicação de SPE em análise multirresidual de praguicidas em amostras de urina está presente em diversos procedimentos experimentais na literatura. Em muitas delas, a tradicional sílica funcionalizada com C18 extrai satisfatoriamente os componentes apolares presentes na urina. Utilizando uma coluna de SPE de 500 mg de C 18, Hernández et al.59 avaliou a eficácia da acetonitrila, diclorometano, acetato de etila, metanol e metil-tert-butil-éter (MTBE) como eluentes extratores para 10 organofosforados, entre os quais se incluem o dimetoato, diazinona e azinfos-metil, todos em matriz de urina. Os resultados indicaram que MTBE forneceu as maiores recuperações. Experimentos de fortificação em dois níveis de concentração 10 e 200 ng mL -1 forneceram recuperações entre 80 e 109%, com coeficientes de variação abaixo de 10%. A SPE dos herbicidas triazinas atrazina, simazina, ametrina, prometrina e metabólitos foi realizada em matriz polimérica estireno divinil-benzeno (cartucho empacotado com SDB-1), por Drevenkar et al.60 O cartucho foi condicionado com acetona e água e percolado com um volume de 5 mL de amostra pela coluna. A
+
+29 acetona foi empregada como eluente. O extrato obtido foi evaporado sob corrente de N2, e ressuspenso em água para a análise por HPLC-PDA. Cromatogramas de difícil interpretação resultaram da aplicação de água pura deionizada na etapa de lavagem do cartucho. A adição de 1% de acetonitrila em água otimizou a lavagem do material. Esta medida auxiliou a remoção de interferentes polares urinários e a aquisição de cromatogramas mais limpos de interferências e com picos melhor resolvidos. Recuperações de 78 a 101%, com coeficientes de variação de 10%, foram estimados para os experimentos. A combinação da cromatografia líquida de alta eficiência (HPLC) e da espectrômetria de massas confere ao método níveis desejáveis de sensibilidade, seletividade, especificidade, rapidez de análise e possível eliminação de etapas prévias de tratamento da amostra. Um espectrômetro de massas é composto basicamente por uma fonte de íons, um analisador de massas e um detector. Diferentes fontes de ionização na espectrometria de massas estão disponíveis e são baseadas no impacto de elétrons (EI), ionização química (CI), dessorção/ionização com laser auxiliado por matriz (MALDI), dessorção/ionização por electrospray (DESI), ionização química à pressão atmosférica (APCI), eletronebulização (ESI) entre outras. No entanto, para algumas fontes a incompatibilidade na transição dos analitos da fase líquida (HPLC) para a fase gasosa (MS) impedia o acoplamento entre os dois equipamentos.61 Tal incompatibilidade foi superada graças aos estudos de John Fenn et al. em 1989, que revolucionou o acoplamento com a ionização electrospray (ESI).62 Descrevendo simplistamente o mecanismo ESI, este transfere íons da solução para a fase gasosa. O capilar ao qual está aplicado um potencial elevado permite nebulizar a solução da amostra a uma névoa finamente dividida e carregada eletricamente. O solvente da gota evapora-se até atingir o limite de estabilidade de Rayleigh. Neste ponto, a repulsão eletrostática supera a tensão superficial e as gotas dividem-se em gotas cada vez
+
+30 menores. De uma gotícula densamente carregada, íons são ejetados da solução da amostra para a fase gasosa.63 No analisador de massas os íons são separados com base na relação massa carga, m/z. Estão disponíveis os analisadores de setor magnético, triplo quadrupolo, quadrupolo ion trap, tempo de voo (time-of-flight, TOF), ressonância de íon ciclotron com transformada de Fourier
+
+(FT-ICR) e os híbridos destes analisadores.
+
+Caracteristicamente variam em resolução e intervalo de massas. O arranjo destas características reflete no preço e dimensão dos equipamentos. Métodos confiáveis, sensíveis e confirmatórios são requeridos para monitorar praguicidas em análises complexas. A determinação multirresidual de praguicidas em amostras biológicas ganha em seletividade e especificidade pela adição de dois estágios de filtros de massa MS/MS. No primeiro estágio, ocorre o isolamento de uma m/z do íon precursor entre os vários provenientes da fonte. O íon precursor é conduzido à câmara de colisão para a fragmentação, o que resulta nos íons produtos. O íon produto é analisado no segundo estágio MS do equipamento. As formas de aquisição do espectro de massas são o modo full scan, SIM (single ion monitoring) em um único estágio MS e MRM (multiple reaction monitoring) para dois estágios MS/MS. Um método em LC/MS no modo MRM é altamente seletivo porque a transição entre íon precursor e íon produto é registrada especificamente. Barr et al.64 desenvolveram um método para a determinação de 6 metabólitos de herbicidas em amostras de urina de pessoas intensamente expostas, mas também com seletividade e sensibilidade suficientes para determiná-los em pessoas pouco expostas. O método HPLC-MS/MS foi desenvolvido utilizando o procedimento de extração em fase sólida com sorvente polimérico combinado com fases polares e apolares (Oasis HLB) e calibração por diluição isotópica para quantificação. Os limites de detecção variaram entre 0,036 a 0,075 µg L-1.
+
+31
+
+1.3 QSRR O conhecimento das interações responsáveis por sua separação cromatográfica é uma informação quimiométrica pouco explorada na literatura. Estas interações ocorrentes entre soluto-solvente65 são descritos pela relação quantitativa retençãoestrutura (QSRR, do inglês quantitative structure-retention relationship)66 que estabelece uma relação linear entre uma constante de equilíbrio e um parâmetro solvatocrômico de Kamlet-Taft67, descritores de solvente (α, Vx, ε, δH, β, π*). Estes descritores consideram as diferentes interações entre um soluto e a fase móvel, estabelecidas no interior de uma coluna cromatográfica. Estas interações são determinantes
+
+na
+
+caracterização
+
+de
+
+retenção
+
+e
+
+seletividade
+
+da
+
+separação
+
+cromatográfica. Em cromatografia líquida, a extensão da retenção de um analito é medida em condições isocráticas através do fator de retenção (k), descrito pela Equação 168.
+
+k
+
+(t R  t M ) tM
+
+Equação
+
+1
+
+onde k é o fator de retenção do analito, tR (min) é o tempo de retenção do analito e tM (min) o tempo de retardamento da fase móvel. O fator de retenção está relacionado com a constante de equilíbrio através da Equação 269.
+
+k  K0
+
+Equação 2
+
+onde K0 é o coeficiente de partição do soluto entre FM e FS, e φ, a razão entre os volumes de fases estacionária e móvel na cromatografia líquido-líquido. No mecanismo de retenção, o coeficiente de partição do soluto, que representa sua transferência entre a fase móvel para a fase estacionária, está associada com a variação de energia livre de Gibbs (Equação 3)69 que semelhantemente correlaciona-se aos descritores do solvente70, como:
+
+32
+
+G 0   RT ln K 0 onde
+
+ΔG0
+
+Equação 3
+
+é a energia livre de Gibbs, R, a constante universal dos gases, e T, a
+
+temperatura. Uma das mais importantes QSRR é a proposta por Abraham baseado nos parâmetros solvatocrômicos de Kamlet-Taft (Equação 4)71,72.
+
+log k  log k0  m H  s   a  b
+
+Equação 4
+
+onde log k0 é o intercepto, m, s, a e b são os coeficientes obtidos pela regressão multivariada, δH, é o parâmetro de solubilidade de Hildebrand relacionado à cavitação do soluto no solvente, π*, polaridade/polarizabilidade do soluto, α, acidez da ligação de H, e β, a basicidade da ligação de H.
+
+33
+
+1.4 O planejamento experimental aplicado em HPLC O planejamento experimental consiste no uso de técnicas matemáticas e estatísticas para a modelagem de um experimento. Através do planejamento, um número pré-determinado de experimentos limitados a um espaço experimental é selecionado para a correlação entre uma resposta e variáveis. A realização de experimentos envolve de certa forma o conhecimento de diversas variáveis (ou fatores), de maior ou menor importância para o plano de estudo em questão. Em química analítica, em razão do rápido avanço tecnológico das técnicas instrumentais é possível a realização de experimentos com maior frequência analítica e um volume considerável de resultados. No entanto, o modo pelo qual ainda se realizam experimentos prossegue pelo caminho tradicional, de alterar uma variável por vez (método univariado, do fator único) até que um valor ótimo seja encontrado. Por sua vez, este valor é mantido fixo e a próxima variável é alterada, até que um novo valor ótimo de resposta seja encontrado. O grande problema na realização de experimentos pelo procedimento univariado é o desconhecimento a respeito da interação entre as variáveis, e de que o efeito de uma variável pode não ser independente do nível da(s) outra(s) variável(eis). O desenvolvimento do método pelo fator único não garante que a região ótima do método seja encontrada, podendo produzir resultados distantes do verdadeiro ótimo, pelo fato das variáveis serem analisadas separadamente, considerando que sempre tenham um comportamento independente uma das outras. Além disso, o grande número de experimentos efetuado em uma região pequena ou ampla demais de exploração das variáveis pode produzir resultados distantes do que seria ótimo considerado ótimo, além de uma perda significativa de tempo. Alternativamente, uma maneira mais efetiva e científica de realizar experimentos é alcançada através dos planejamentos experimentais (método multivariado), pela
+
+34 possibilidade de avaliação conjunta das variáveis. Desta maneira, o curso experimental que deverá ser seguido é concluído segura e efetivamente. De acordo com Singh et al.73 os métodos multivariados fornecem informações sobre o comportamento do sistema e requerem poucos experimentos para se encontrar o ótimo; além disso, o conhecimento da importância de cada variável e suas interações entre si é esclarecido; é possível a avaliação da significância dos modelos ajustados pelos resultados de análise de variância, a previsão de resultados através dos modelos matemáticos ajustados, e também, uma redução significativa do tempo, custo de materiais, principalmente se reagentes caros ou de quantidade limitada são aplicados no procedimento experimental. Em cromatografia líquida de alta eficiência pelo menos 15 variáveis podem ser listadas no processo de separação, podendo chegar a 50 se todas as etapas do procedimento experimental forem incluídas no planejamento.74 A Figura 675, adaptada da literatura, ilustra a interação complexa que há entre variáveis cromatográficas e suas influências sobre as possíveis respostas do registro gráfico chamado cromatograma, em maior ou menor grau76. As variáveis experimentais são classificadas em contínuas (quantitativas) e discretas (qualitativas). As variáveis discretas estão associadas com decisões relacionadas ao desenvolvimento do método, enquanto que as contínuas são consideradas as relacionadas com as etapas de desenvolvimento da separação e otimização da separação em si.77 Entre as variáveis discretas citam-se dimensões da coluna (comprimento, diâmetro), a natureza da fase estacionária (propriedades do suporte, tamanho de partícula, química da superfície), componentes da fase móvel e aditivos.
+
+35
+
+Figura 6: Diagrama de interação entre variáveis relacionadas à fase estacionária, fase móvel e respostas em HPLC. L-comprimento da coluna; dp-diâmetro de partícula; u-vazão; Ttemperatura; Φm-agentes modificadores, ΦB-solvente orgânico, αa-atividade do adsorvente, CFE; N-eficiência da coluna; k-fator de retenção; η-viscosidade; Rs-resolução; ΔP-pressão; Ssensibilidade e ta-tempo de análise. Adaptada da referência 75.
+
+O desenvolvimento do método pela aplicação de técnicas multivariadas é dividido em etapas de triagem e de otimização. A etapa de triagem é avaliada por planejamentos fatoriais para verificação da significância de diversas variáveis.78 Os planejamentos fatoriais completos e fracionários compreendem esta classe de modelos. Experimentos de triagem são efetuados para verificação da influência de todas as variáveis experimentais e suas interações sobre a resposta de interesse. No planejamento fatorial devem-se determinar quantas k variáveis são estudadas e em quantos n níveis serão alteradas as variáveis (n igual a 2 ou 3, para dois ou três níveis, respectivamente). Desta forma, o número de experimentos é obtido pelo resultado de nk. Se os experimentos forem efetuados em 2 níveis (níveis alto (+) e nível baixo (-)), 2k experimentos serão executados.79,80 O modelo polinomial matemático f(x) representa a relação entre a resposta e os fatores. Em planejamentos fatoriais, polinômios simples de primeira ordem são obtidos como apresentado na Equação 5.
+
+36 𝒚 = 𝒃𝟎 + 𝒃𝟏 𝒙𝟏 + 𝒃𝟐 𝒙𝟐 + 𝒃𝟑 𝒙𝟑 + ⋯ + 𝒃𝑵−𝟏 𝒙𝑵−𝟏 + 𝒃𝑵 𝒙𝑵 + 𝒃𝟏𝟐 𝒙𝟏 𝒙𝟐 + 𝒃𝟏𝟑 𝒙𝟏 𝒙𝟑 + ⋯ + 𝒃𝟐𝟑 𝒙𝟐 𝒙𝟑 + ⋯ + 𝒃(𝑵−𝟏) 𝒙𝑵−𝟏 𝒙𝑵 Equação 5 onde y representa a resposta experimental estimada, b0 é a resposta experimental média, os coeficientes b1 a bN são os efeitos principais dos fatores e a extensão a que estes afetam a resposta do método e os coeficientes b12 a b(N-1)N representam os termos de interação. Nos planejamentos de triagem, as replicatas no ponto central podem ser adicionadas à matriz de contrastes, como nível intermediário (0), para estimativa do erro e a significância dos coeficientes da equação modelada.
+
+37
+
+2. Objetivo O objetivo deste trabalho foi o desenvolvimento de um método analítico em cromatógrafo a líquido para a separação de praguicidas de classes diferentes. O método foi desenvolvido utilizando detector convencional PDA para estudo do comportamento de retenção e influência de parâmetros cromatográficos na separação multirresíduo. Outro método foi desenvolvido em LC-MS/MS equipado com analizador de massa ion trap e triplo quadrupolo para fins de quantificação de amostras de urina de pessoas ocupacionalmente expostas da região de Campinas.
+
+38
+
+3. Materiais e métodos 3.1 Solucões analíticas Padrões de praguicidas de aldicarbe-sulfona, aldicarbe, ametrina, azinfos-metil, carbaril, carbofurano, diazinona, dimetoato, diurom, linurom, mercaptodimetur, metomil, propazina, fosalona, dicofol, pirazofós, fosmete, 4,4-DDE, acefato, simazina, endrin e aldrin e metamidofós foram adquiridos da Sigma-Aldrich Brasil Ltda. Os solventes acetonitrila (ACN), metanol (MeOH) e isopropanol, todos grau HPLC foram adquiridos da Tedia Brazil (Rio de Janeiro, Brasil). Água foi deionizada em um sistema Milli Q da Millipore (Belford, EUA). A acetona foi obtida da Synth e os ácido fórmico e formiato de amônio foram obtidos da Fluka (Buchs, Suíça). Soluções de trabalho a 1000 mg L-1 foram preparadas pela pesagem de massas de 0,0100 g de padrões de cada praguicida e diluídas em metanol em balão volumétrico de 10 mL. Balança analítica da Sartorius, deionizador Milli-Q da Millipore (Bedford, EUA), vidrarias em geral e centrífuga foram os materiais necessários para preparação dos experimentos e soluções.
+
+3.2 Amostra As amostras de urina isentas de praguicidas foram coletadas de voluntários. Cerca de 25 amostras reais foram obtidas, a partir das coletas periódicas coordenadas pelo Prof. Dr. Ângelo Zanaga Trapé, de voluntários expostos ocupacionalmente a praguicidas. A precipitação de proteínas das amostras foi realizada com a mistura de solventes isopropanol/metanol (1:1, v/v) gelada. A mistura de solvente foi adicionada à amostra na proporção amostra/solvente (1:2, v/v). A mistura foi agitada em vórtex por 2
+
+39 min, mantida a baixas temperaturas por 3 h, e seguida de centrifugação por 15 min. O sobrenadante foi removido e evaporado sob corrente de N2.
+
+3.3 Método LC-MS/MS Os primeiros experimentos de separação cromatográfica foram conduzidos em cromatógrafo a líquido modelo Finnigan Surveyor da Thermo Scientific (San Jose, EUA), equipado com detector de arranjo de diodos, amostrador automático e bombas quaternárias modelo Pump Plus. A separação cromatográfica ocorreu em uma coluna de fase reversa Synergi Max RP (150 x 4,6 mm, 4 µm) da Phenomenex (Torrance, EUA). As separações cromatográficas foram desenvolvidas em modos isocrático e gradiente, usando água e ACN como fase móvel, sendo o volume de injeção de 10 µL e vazão de 1 mL min-1. A infusão direta foi realizada em um espectrômetro de massas ion trap LCQ Deca XP MAX da Thermo Scientific (San Jose, EUA). O instrumento foi operado em modo positivo utilizando a técnica de ionização eletrospray, ESI. As condições dos parâmetros de tune foram selecionadas pela infusão direta dos analitos a 1000 µg L-1. Foram obtidas as transições MS/MS para todos os analitos em concentração de 1000 µg L-1. Os experimentos de ajustes das condições resultaram em tensão do capilar 3 kV, temperatura do capilar de 300 ºC, tensão no cone de 15 V e nitrogênio como gás de nebulização a 30 Arb. A pressão do gás de colisão He foi de 1 mTorr. As zonas de eluição do cromatograma foram divididas em janelas monitoradas usando a aquisição em Multiple Reaction Monitoring (MRM). Cada transição foi monitorada por 300 ms. A aquisição de dados foi realizada pelo software de operação Xcalibur 2.1.
+
+40
+
+3.4 Método UHPLC-MS/MS Os experimentos de separação foram realizados em um sistema UPLC Xevo TSQ (Waters, EUA), usando uma coluna de fase reversa Acquity UPLC HSS T3 (50 x 2,1 mm, 1,8 µm) (Waters, EUA). A eluição foi conduzida em modo gradiente com fase móvel A (formiato de amônio 5 mM/ácido fórmico 0,1%) e fase móvel B (MeOH + formiato de amônio 5 mM/ácido fórmico 0,1%). A rampa do gradiente foi de 5 a 95% B de 0 a 8,5 min, 95% B de 8,5 a 9 min, 95 a 5% B de 9 a 9,01 min e 5% B de 9,01 a 9,50 min. A separação ocorreu em 8,5 min e um tempo adicional de 1 min foi necessário para a limpeza e recondicionamento da coluna. Vazão de 0,490 mL min-1, temperatura 40 ºC e volume de injeção de 10 µL foram as condições do método UPLC. Parâmetros da fonte ESI, transições MS/MS, energia de colisão e tensão no cone foram adquiridos para cada analito. Tensão do capilar 0,5 kV, temperatura da fonte 150 ºC, temperatura de dessolvatação 550 ºC, vazão de gás no cone 150 Lh-1 e vazão do gás de dessolvatação 900 Lh-1 foram ajustados. Argônio na vazão de 0,18 mL min-1 foi utilizado como gás de colisão. As zonas de eluição do cromatograma foram divididas em segmentos, sendo cada um monitorado para a transição MS/MS no modo MRM com dwell time de 0,02 s. Os dados foram adquiridos no software Mass Lynx 4.1.
+
+3.5 Validação do método O método foi validado de acordo com o protocolo de validação de métodos analíticos e bioanalíticos da ANVISA. Para a curva analítica, as amostras de urina dos voluntários foram fortificadas a partir das soluções estoques dos padrões de praguicidas nas concentrações de 0,25, 0,75, 1,00, 5,00, 10,0, 25,0 e 50,0 µg L-1. A linearidade do método foi investigada com 7 concentrações diferentes no intervalo (0,25 a 50 µg L-1). O coeficiente de determinação (R2), intercepto, coeficiente angular e
+
+41 estatística F foram todos estimados pela regressão linear. As amostras reais foram diluídas 20 vezes em água deionizada. As injeções das soluções de calibração e amostras
+
+reais
+
+diluídas
+
+foram
+
+realizadas
+
+em
+
+sextuplicatas
+
+e
+
+duplicatas,
+
+respectivamente. A seletividade do método foi avaliada por 2 transições MRM de cada composto e do tempo de retenção. A precisão do método, como medida da proximidade dos resultados, foi estimada em 3 níveis de concentração, com alíquotas fortificadas e injetadas em sextuplicatas. As concentrações de 0,75, 10,0 e 50,0 µg L-1 foram os níveis baixo, médio e alto, respectivamente. A precisão foi estimada pelo coeficiente de variação (CV %), segundo a fórmula: 𝐶𝑉 =
+
+𝐷𝑃 × 100 𝐶𝑀𝐷
+
+onde DP é o desvio padrão e CMD é a concentração média determinada. O limite de detecção (LD) segundo o protocolo é definido como a menor quantidade do analito presente em uma amostra que pode ser detectado, porém não necessariamente quantificado. Foi estimado pelo desvio padrão do intercepto (0,25 a 50 µg L-1) e pelo coeficiente angular das seis curvas analíticas, de acordo com a equação: 𝐿𝐷 =
+
+𝐷𝑃𝑎 ×3 𝐼𝐶
+
+onde DPa é o desvio padrão do intercepto da curva analítica e IC é a inclinação da curva analítica. O limite de quantificação (LQ) é definido como a menor quantidade do analito na amostra que pode ser quantificado, com precisão e exatidão aceitáveis, sob as condições experimentais estabelecidas. Foi estimado pelo desvio padrão do intercepto
+
+42 das seis curvas analíticas no intervalo 0,25 a 50 µg L-1 e pelo coeficiente angular das curvas analíticas, de acordo com a equação: 𝐿𝑄 =
+
+𝐷𝑃𝑎 × 10 𝐼𝐶
+
+onde DPa e IC tem a mesma definição descrita em LD. A exatidão de um método foi estimada em 3 níveis de concentração, com alíquotas fortificadas e injetadas em sextuplicatas. As concentrações de 0,75, 10,0 e 50,0 µg L-1 foram os níveis baixo, médio e alto, respectivamente. A exatidão foi expressa pela relação entre a concentração média determinada experimentalmente e a concentração teórica correspondente, segundo a fórmula: 𝑒𝑥𝑎𝑡𝑖𝑑ã𝑜 =
+
+𝑐𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎çã𝑜 𝑚é𝑑𝑖𝑎 𝑒𝑥𝑝𝑒𝑟𝑖𝑚𝑒𝑛𝑡𝑎𝑙 × 100 𝑐𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎çã𝑜 𝑡𝑒ó𝑟𝑖𝑐𝑎
+
+O efeito de matriz foi avalido pela razão entre o coeficiente angular da curva analítica obtida pela fortificação em níveis de concentração conhecidos das soluções padrão dos praguicidas na matriz e em água. O efeito de matriz é isento quando o resultado da razão tem valor de 1.
+
+43
+
+4. Resultados e Discussão 4.1 Eluição no modo isocrático As avaliações preliminares da separação dos praguicidas visaram o aprendizado e uma investigação qualitativa dos efeitos que modificam o perfil da separação, em modos de eluição isocrática e gradiente. Nos cromatogramas a seguir (Figura 7a e 7b) estão ilustrados os experimentos obtidos isocraticamente com composições binárias de fase móvel ACN:H2O (70:30 e 60:40, v/v). Uma vazão de 1 mL min-1 e temperatura da coluna de 30 ºC foram fixados, em ambas as condições de fase móvel.
+
+RT: 0.00 - 39.98 NL: 9.52E5 Channel A UV mist_iso_7 0ACN_30A GUA
+
+2.56 900000 3.43
+
+800000 700000
+
+uAU
+
+600000 500000 3.65 400000 300000 2.38 200000 7.17 12.65
+
+100000 6.16
+
+26.10
+
+12.26
+
+21.25 23.81
+
+0 0
+
+5
+
+10
+
+15
+
+20 Time (min)
+
+25
+
+28.83 30
+
+33.96
+
+37.44
+
+35
+
+(a)
+
+44
+
+RT: 0.00 - 79.98 2.55 800000
+
+NL: 8.06E5 Channel A UV mist_iso_6 0ACN_40A GUA
+
+750000 700000 650000 600000
+
+3.84
+
+550000 500000 450000 uAU 400000 350000 4.29
+
+300000 250000 200000 150000 100000 50000
+
+9.80
+
+12.57
+
+0
+
+0
+
+10
+
+26.84
+
+62.97
+
+23.52
+
+20
+
+30
+
+40 Time (min)
+
+50
+
+60
+
+66.39
+
+70
+
+(b)
+
+Figura 7: Cromatogramas em modo isocrático de eluição usando ACN:H2O em (a) 70:30 e (b) 60:40.
+
+A partir dos resultados de tempo de retenção de cada composto, usando composição de fase móvel ACN:H2O de 70:30, 60:40, 53:47 e 45:55, foram calculados os fatores de retenção de acordo com a Equação 1, usando 1,55 como tempo de retardamento da fase móvel81. A Tabela 3 apresenta os resultados do cálculo do fator de retenção para a 70, 60, 53 e 45% de ACN na fase móvel.
+
+45 Tabela 3: Fator de retenção dos analitos em 70, 60, 53 e 45% de ACN. k Metomil Dimetoato Aldicarbe Simazina Carbofurano Carbaril Diurom Ametrina Propazina Mercaptodimetur Azinfos-metil Linurom Pirazofós Diazinona Fosalona Endrim Dicofol
+
+70% ACN
+
+60% ACN
+
+53% ACN
+
+45% ACN
+
+0,13
+
+0,25
+
+0,25
+
+0,32
+
+0,27
+
+0,28
+
+0,40
+
+0,70
+
+0,32
+
+0,56
+
+0,84
+
+1,40
+
+0,47
+
+0,76
+
+1,11
+
+1,81
+
+0,50
+
+0,89
+
+1,40
+
+2,46
+
+0,55
+
+1,00
+
+1,59
+
+2,86
+
+0,65
+
+1,14
+
+1,80
+
+3,26
+
+1,10
+
+1,93
+
+2,92
+
+5,23
+
+1,16
+
+2,07
+
+3,15
+
+5,71
+
+1,11
+
+2,07
+
+3,31
+
+6,39
+
+1,03
+
+2,07
+
+3,46
+
+7,05
+
+1,24
+
+2,32
+
+3,70
+
+7,14
+
+2,97
+
+5,32
+
+11,6
+
+27,
+
+3,46
+
+6,90
+
+12,6
+
+27,9
+
+3,61
+
+7,10
+
+16,2
+
+41,9
+
+6,91
+
+14,2
+
+29,6
+
+74,7
+
+7,16
+
+16,3
+
+37,5
+
+108
+
+Os resultados indicam que a eluição em composição de fase móvel fixa em 70, 60, 53 e 45% de ACN não favorece a eluição de todos os componentes da amostra com fatores de retenção recomendados na literatura entre 0,5 a 2082. A retenção dos analitos aumenta com a diminuição da proporção do componente orgânico na fase móvel, no intervalo de 70 a 45% de ACN. Condições abaixo de 45% não foram exploradas por causa da dificuldade de eluição dos compostos mais hidrofóbicos. Os primeiros solutos (metamidofós, acefato, aldicarbe-sulfona), de elevada polaridade, tiveram o fator de retenção abaixo de 0,5 em todas as combinações de frações de volume. Estes praticamente eluem no tempo morto da coluna e, por isso foram desconsiderados nos resultados da Tabela 3. Essa condição resulta em dificuldades de separação entre os componentes da amostra em questão. As dificuldades de separação dos compostos permanecem em todas as condições, mesmo na proporção mais baixa de solvente orgânico da fase móvel.
+
+46 O processo cromatográfico em modo isocrático é inadequado para eluição dos organoclorados apolares 4,4-DDE e aldrin na mistura e, assim, foram desconsiderados das medidas (não apresentados na Tabela 3). Para o analito dicofol, eluindo em proporção elevada de ACN de 70 e 60% na fase móvel, os valores do fator de retenção são 7,16 e 16,3, respectivamente. Retenções maiores caracterizam o comportamento de retenção do aldrim e 4,4-DDE na fase estacionária podendo resultar em redução do tempo de vida da coluna. Outros procedimentos cromatográficos podem ser considerados para reduzir estes inconvenientes. Para fins de quantificação, se observa a redução severa da sensibilidade (picos baixos e largos) da análise dos últimos analitos a eluírem. Picos neste formato são comumente encontrados para analitos com fator de retenção elevados. A equação fundamental da retenção que relaciona a retenção e fração de solvente orgânico na fase móvel é dada pela Equação 683: log k = a – SB
+
+Equação 6
+
+onde k é o fator de retenção do analito, a é o log k em água pura como fase móvel, quando B = 0, S é a constante relacionada às características do soluto (4 é o valor considerado para compostos cuja massa molecular esteja entre 100 e 400 u.m.a84), φ é a fração do solvente orgânico na fase móvel de composição binária (água e acetonitrila). A Tabela 4 apresenta os resultados da aplicação da Equação 6 aos resultados do fator de retenção obtido das condições isocráticas de eluição na composição 70, 60, 53 e 45%.
+
+47 Tabela 4: Logaritmo do fator de retenção em 70, 60, 53 e 45% de ACN e o coeficiente de determinação (R2) das curvas log k em função da %B.
+
+Metomil Dimetoato Aldicarbe Simazina Carbofurano Carbaril Diurom Ametrina Propazina Mercaptodimetur Azinfos-metil Linurom Pirazofós Diazinona Fosalona Endrim Dicofol
+
+70% ACN -0,868 -0,557 -0,483 -0,327 -0,298 -0,255 -0,186 0,0451 0,0649 0,0451 0,0137 0,0929 0,473 0,539 0,558 0,839 0,854
+
+log k 60% ACN 53% ACN -0,599 -0,60 -0,556 -0,40 -0,245 -0,0763 -0,118 0,0451 -0,0473 0,15 0,0279 0,20 0,0576 0,255 0,286 0,465 0,316 0,498 0,317 0,519 0,316 0,538 0,365 0,568 0,726 1,06 0,839 1,10 0,851 1,21 1,15 1,47 1,21 1,57
+
+45% ACN -0,50 -0,16 0,15 0,26 0,39 0,46 0,512 0,718 0,756 0,805 0,847 0,853 1,44 1,44 1,62 1,87 2,03
+
+R2 0,866 0,815 0,998 0,996 0,997 0,997 0,995 0,995 0,996 0,995 0,996 0,995 0,976 0,992 0,981 0,987 0,987
+
+A partir dos resultados da Tabela 4 foram construídas as curvas dos fatores de retenção em função da proporção de ACN na fase móvel (Figura 8).
+
+48
+
+2,5 metomil dimetoato
+
+2
+
+aldicarbe simazina carbofurano
+
+log k
+
+1,5
+
+carbaril diurom
+
+1
+
+ametrina propazina mercaptodimetur
+
+0,5
+
+azinfos-metil linurom pirazofós
+
+0 42
+
+52
+
+62
+
+72
+
+endrim fosalona
+
+-0,5 fração de ACN (%)
+
+dicofol diazinona
+
+-1
+
+Figura 8: Logaritmo do fator de retenção k em função da fração de ACN para os padrões de praguicidas indicados na legenda.
+
+De acordo com a Equação 6, o aumento da concentração do solvente corresponde linearmente à diminuição do logaritmo do fator de retenção (log k). Os resultados indicaram a existência da relação linear para os compostos que eluem no intervalo entre metomil e diazinona, constatado o valor de R2 (Tabela 4). Não foram incluídos no gráfico da Figura 8 os compostos que eluem antes do metomil ou após a diazinona pelas dificuldades de calcular log k por baixa ou elevada retenção, respectivamente. A abrangência nas variedades estruturais é uma característica desta amostra, situação esta desfavorável à separação no modo de eluição isocrática.
+
+4.2 Efeito do solvente Os descritores acidez da ligação de H (α), basicidade da ligação de H (β), constante dielétrica (ε) constante de Hildebrand (δH) para solventes puros da literatura estão apresentados na Tabela 5.67 Os descritores foram escolhidos por causa das interações intermoleculares que ocorrem no equilíbrio soluto-solvente.85
+
+49
+
+Tabela 5: Descritores α, β, ε, e δH para ACN e água, ambos puros. Α Β Ε ACN 0,07 0,32 35,9 H2O 0,82 0,35 78
+
+δH 24,3 47,9
+
+O descritor do solvente na escala α caracteriza a habilidade do solvente em doar um H ativo para o soluto86; e β, a habilidade do solvente em aceitar um H ativo do soluto 87. O valor elevado de α da água (polar e prótico) revela a tendência da água em doar H para o soluto. A constante é próxima de zero para o solvente ACN (polar e aprótico). Isso ocorre porque a estrutura química da ACN apresenta H de alcano de hibridização sp3, caracteristicamente não ácidos. A constante β tem valor significativo para ACN e água, ou seja, ambos os solventes possuem capacidades de receber H de um soluto. O caráter moderadamente básico ocorre pela presença de pares de elétrons isolados no átomo de O e N da água e ACN, respectivamente. Outra escala descritora é o parâmetro de solubilidade de Hildebrand (δH), definido pela energia requerida para separar moléculas de solvente entre si; as interações solvente/solvente são interrompidas pela criação de uma cavidade do tamanho do soluto feita no solvente. 88 O valor elevado de δH para a água é justificado pela forte coesão existente entre suas moléculas. Pelo fato das associações entre as moléculas de água serem mais intensas em relação às de ACN-ACN, a energia necessária para o soluto retido na fase estacionária cavitar o solvente é maior quando o solvente empregado é a água. A constante dielétrica (ε) é a capacidade do solvente em separar íons, refletindo a tendência que um solvente tem em proteger ou blindar uma carga da outra. Quando a constante dielétrica é alta, a atração dos íons presentes em solução é pequena e a dissolução é favorecida. A água é o solvente com a maior constante dielétrica. Os descritores da Tabela 6 foram obtidos nas 70, 60, 53 e 45% de ACN usando os dados da Tabela 5.89
+
+50 Tabela 6: Valores dos descritores do solvente na composição de fase móvel indicada.
+
+Α Β Ε δH
+
+70% ACN
+
+60% ACN
+
+53% ACN
+
+45% ACN
+
+0,295 0,328 49,5 31,4
+
+0,370 0,331 54,3 38,4
+
+0,423 0,334 57,5 35,4
+
+0,483 0,336 61,2 37,3
+
+Os valores da Tabela 6 são resultados de uma média ponderada segundo a proporção de cada componente na fase móvel. Um exemplo do cálculo efetuado é apresentado para α em 70% de ACN.
+
+ 70%  0.3 H O  0.7 ACN 2
+
+O valor de α para a composição aumenta na medida em que o conteúdo de água aumenta na mistura com ACN (solvente não-ácido). Este comportamento ocorre porque a água (solvente polar e prótico) é um forte doador de ligação de H. Nas proporções indicadas, os valores de α sofrem uma grande variação. Em sistemas onde o particionamento ocorre em fase aquosa, é importante observar os valores de β para um determinado solvente. Os valores de β sofrem um aumento pouco significativo com o aumento da proporção de água na fase móvel, nas condições delineadas experimentalmente. Ambos os solventes têm capacidade de receber um átomo de H, por isso a variação é pouco significativa com ligeiro aumento da constante para 0,336, em 45% de ACN. Na mistura apresentada na Tabela 6, a constante dielétrica aumenta à medida que a fração de água aumenta na fase móvel. O valor de ε de 61,2 para 45% de ACN indica que uma densa camada de solvatação é favoravelmente formada quando a concentração de água no meio é alta. A constante de Hildebrand (δH) aumenta com a diminuição de ACN, ou seja, dificuldade de cavitação do soluto na mistura ACN/água é responsável pelas forças intensas de coesão entre moléculas de água.
+
+51 Os valores dos descritores do solvente da Tabela 6 poderiam ser obtidos através da interpolação de dados experimentais da literatura. Tavares e colaboradores 90 explicaram os motivos da separação eletroforética de esteróides utilizando o conceito dos descritores dos solventes ACN, EtOH (etanol) e THF (tetrahidrofurano) puros e em misturas aquosas. Naquele trabalho90, os descritores foram calculados pela interpolação das concentrações de solventes indicados em dados experimentais apresentados por Marcus89. Semelhantemente, os descritores foram calculados por equações polinomiais de ordens superiores, que relacionam os descritores α (Equação 7), β (Equação 8), ε (Equação 9) com a fração x de ACN no meio.89 Os resultados estão apresentados na Tabela 7. 2 4   1.12  1.648 x ACN  3.560 x ACN  2.030 x 3ACN  0.670 x ACN
+
+Equação 7
+
+2 4   0.53  1.009 x ACN  3.724 x ACN  5.218 x 3ACN  2.564 x ACN
+
+Equação 8
+
+2   0.0009 x ACN  0.3629 x ACN  79.328
+
+Equação 9
+
+onde xACN é a fração de ACN na mistura aquosa.
+
+Tabela 7: Valores dos descritores calculados com as equações na mistura indicada.
+
+Α Β Ε δH
+
+70% ACN
+
+60% ACN
+
+53% ACN
+
+45% ACN
+
+0,854 0,586 79,1 31,4
+
+0,887 0,590 79,1 38,5
+
+0,891 0,593 79,1 35,4
+
+0,887 0,600 79,2 37,3
+
+Os dados da Tabela 7 estão graficamente apresentados na Figura 9.
+
+52
+
+0.895
+
+0.602
+
+0.890
+
+0.600 0.598
+
+basicidade da ligação de H, 
+
+acidez da ligação de H, 
+
+0.885 0.880 0.875 0.870 0.865 0.860 0.855
+
+0.596 0.594 0.592 0.590 0.588 0.586 0.584 0.582
+
+0.850
+
+0.580 45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+45
+
+50
+
+volume de ACN (%)
+
+55
+
+60
+
+65
+
+70
+
+volume de ACN (%)
+
+(b)
+
+(a) 39
+
+79.18
+
+solubilidade de Hildebrand, H
+
+38
+
+constante dielétrica, 
+
+79.16
+
+79.14
+
+79.12
+
+79.10
+
+79.08
+
+37 36 35 34 33 32 31
+
+79.06 45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+45
+
+volume de ACN (%)
+
+50
+
+55
+
+60
+
+65
+
+70
+
+volume de ACN (%)
+
+(c)
+
+(d)
+
+Figura 9: Gráfico de (a) α, (b) β, (c) ε, e (d) δH calculados pelos polinômios para a mistura ACN/água.
+
+Os resultados apresentados na Tabela 7 são ligeiramente diferentes dos apresentados na Tabela 6. A partir destas observações é possível afirmar que os processos de interações físico-químicas da mistura não possuem comportamento aditivo. Diferentemente da Tabela 6, onde os descritores sofrem aumento de seus valores com o aumento da fração de água; na Tabela 7 e Figura 9, indicam que a não aditividade dos valores dos parâmetros solvatocrômicos é um fato que acontece nas interações solvente-solvente. Para compreender a estrutura da solvatação, Wakisaka et al.91 estudaram em espectrometria de massas a formação de agrupamentos de ACN/água entre 0 e 100% de ACN, usando o fenol como soluto hidrofóbico. O intervalo citado compreende desde
+
+53 ACN monomérica (fração de zero de ACN) até água monomérica (fração de 1 de ACN). Nas frações intermediárias, semelhantemente investigadas neste relatório (45 a 70% de ACN), por causa da estrutura de agrupamentos solvente-solvente, a mistura complexa ACN/água microscopicamente heterogênea não deve apresentar uma relação linear crescente dos parâmetros com variações na proporção do solvente como na Tabela 6. Nesta região investigada, as interações entre agrupamentos de moléculas de ACN são mais fortes que entre as de ACN/água, portanto mantendo a água monomérica. Nos gráficos da Figura 10a a 10d, a retenção expressa como log k foi estabelecida como função dos descritores do solvente de Kamlet-Taft (α, β, ε) e δH na mistura binária.
+
+2.2 4
+
+2.0 1.8 1.6
+
+3
+
+1.4 1.2
+
+2
+
+1.0
+
+log k
+
+0.8
+
+1
+
+0.6 0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8
+
+1
+
+-1.0 0.30
+
+0.35
+
+0.40
+
+0.45
+
+metomil dimetoato aldicarbe simazina carbofurano carbaril diurom ametrina propazina mercaptodim azinfosmet linurom pirazofós diazinona fosalona endrin dicofol
+
+0.50
+
+acidez da ligação de H, 
+
+(a)
+
+54
+
+2.2 4
+
+2.0 1.8 1.6
+
+3
+
+1.4 1.2
+
+2
+
+1.0 1
+
+log k
+
+0.8 0.6 0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8
+
+1
+
+metomil dimetoato aldicarbe simazina carbofurano carbaril diurom ametrina propazina mercaptodim azinfos linurom pirazofós diazinona fosalona endrin dicofol
+
+-1.0 0.328
+
+0.329
+
+0.330
+
+0.331
+
+0.332
+
+0.333
+
+0.334
+
+0.335
+
+0.336
+
+0.337
+
+basicidade da ligação de H, 
+
+(b)
+
+2.2 4
+
+2.0 1.8 1.6
+
+3
+
+1.4 1.2
+
+2
+
+1.0
+
+log k
+
+0.8
+
+1
+
+0.6 0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8 -1.0 48
+
+1
+
+50
+
+52
+
+54
+
+56
+
+58
+
+60
+
+metomil dimetoato aldicarbe simazina carbofurano carbaril diurom ametrina propazina mercaptodim azinfos linurom pirazofós diazinona fosalona endrin dicofol
+
+62
+
+constante dielétrica, 
+
+(c)
+
+55
+
+2.2 4
+
+2.0 1.8 1.6
+
+3
+
+1.4 1.2
+
+2
+
+1.0 1
+
+log k
+
+0.8 0.6 0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8
+
+1
+
+metomil dimetoato aldicarbe simazina carbofurano carbaril diurom ametrina propazina mercaptodim azinfos linurom pirazofós diazinona fosalona endrin dicofol
+
+-1.0 31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+solubilidade de Hildebrand, H
+
+(d) Figura 10: Gráficos do log k em função dos descritores (a) acidez da ligação de H, (b) basicidade da ligação de H, (c) constante dielétrica, e (d) parâmetro de solubilidade de Hildebrand, calculados para as misturas de 70, 60, 53 e 45% de ACN.
+
+De acordo com Figura 10a a acidez da mistura se mantem praticamente constante entre 60 e 45% de ACN, diminuindo bruscamente na proporção de 70%. O gráfico da Figura 10a apresenta para todos os compostos o aumento da retenção mesmo com acidez da fase móvel em números consideráveis. Este comportamento pode ser um indicativo de que as forças hidrofóbicas de interação com a fase estacionária apolar sejam mais favoráveis que as interações com a fase mível. Independente da composição de fase móvel, as retenções são sempre mais baixas para os compostos que eluem sequencialmente desde o metomil até o diurom. Estes praguicidas eluem mais rapidamente por causa das interações do tipo van der Waals com a fase móvel, e assim, estarão pouco retidas na fase estacionária da coluna. A polaridade destas substâncias, presença de átomos eletronegativos capazes de fazer ligação de H justifica a afinidade com a fase móvel, afinidade esta menor para os
+
+56 compostos que eluem sequencialmente de pirazofós a dicofol. Semelhantemente, o descritor β, embora investigado em uma faixa restrita de valores, apresenta pouca influência na retenção dos praguicidas. Para o descritor β, no intervalo avaliado (Figura 10b), a variação da basicidade na mistura é pouco significativa, assumindo o valor menor para 70% de ACN. Em relação a este descritor, os praguicidas apresentam comportamento de retenção na coluna semelhante ao atribuído ao descritor α. Com o aumento de β, a retenção é aumentada para todos os compostos em todas as proporções de ACN, sendo também de baixa retenção os mesmos praguicidas que apresentaram esta condição na avaliação da escala de interação específica α da fase móvel. A constante dielétrica (Figura 10c) apresenta um comportamento semelhante a α e β. A presença de maior quantidade de água na fase móvel proporciona que a solvatação seja efetivamente realizada e a separação favorecida. De acordo com os resultados, os compostos de maiores log k é favorecida pelo aumento da quantidade de água na fase móvel. Na condição de 45% de ACN, pirazofós a dicofol separam-se, no entanto, os mesmos compostos não estão separados na condição de 70%. A água na fase móvel causa alguma perturbação no campo elétrico destas estruturas e, por isso, as solvatam mais. O parâmetro de Hildebrand (Figura 10d) no primeiro conjunto de pontos (70% ACN), onde a constante assume o valor mais baixo, ocorre o favorecimento da eluição dos compostos pela fase móvel. Aplicando o conceito de δH, a retenção dos praguicidas pela coluna é baixa pela facilidade de cavitação dos compostos na mistura da fase móvel. Isto melhora a solubilização deles, eluindos-os rapidamente. Concordantemente, a retenção aumenta para as separações realizadas com 60 e 53% de ACN pela dificuldade de cavitação em mistura onde a proporção de água na fase móvel é maior. Os resultados indicam que em 45% ou 70% de ACN na fase móvel, a
+
+57 cavitação ocorre mais facilmente que em relação às demais condições com a diminuição da retenção.
+
+4.3 Modo gradiente de eluição Um gradiente linear de intervalo amplo (5 a 95%) para separação de todos os praguicidas está apresentado na Figura 11.
+
+Figura 11: Modo gradiente de eluição para todos os praguicidas. Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm). Gradiente linear 5 a 95% de ACN, vazão 1 mL min-1 e temperatura 30 ºC. Soluções padrão: (1) metamidofós, (2) acefato, (3) aldicarbe-sulfona, (4) metomil, (5) dimetoato, (6) aldicarbe, (7) simazina, (8) carbofurano, (9) carbaril, (10) diurom, (11) ametrina, (12) propazina, (13) mercaptodimetur, (14) azinfos-metil, (15) linurom, (16) pirazofós, (17) diazinona, (18) fosalona, (19) endrin, (20) dicofol, (21) 4,4-DDE e (22) aldrin.
+
+4.3.1 Efeito da vazão Algumas variáveis foram investigadas para verificação de efeito no perfil de separação em gradiente. O efeito da vazão em 0,5, 0,7 e 1,0 mL min-1 na separação cromatográfica foi avaliado com 60 minutos de gradiente linear de 5 a 98% ACN. O resultado está registrado na Figura 12.
+
+58
+
+(a)
+
+(b)
+
+(c)
+
+Figura 12: Efeito da vazão sobre a resolução em: (a) 0,5 mL min-1, (b) 0,7 mL min-1 e (c) 1,0 mL min-1. Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm) e 30 ºC. Soluções padrão: (1) metamidofós, (2) acefato, (3) aldicarbe-sulfona, (4) metomil, (5) dimetoato, (6) aldicarbe, (7) simazina, (8) carbofurano, (9) carbaril, (10) diurom, (11) ametrina, (12) propazina, (13) mercaptodimetur, (14) azinfos-metil, (15) linurom, (16) pirazofós, (17) diazinona, (18) fosalona, (19) endrin, (20) dicofol, (21) 4,4-DDE e (22) aldrin.
+
+A observação dos resultados da Figura 12 permite prever que a vazão influencia a retenção e, assim, a duração da corrida cromatográfica. Em vazão de 0,5 mL min -1, a eluição do último componente da mistura, aldrin, ocorre com 62,3 min de corrida, enquanto que, em 1,0 mL min-1, o tempo de retenção eluição do mesmo analito é de 53,7 min, uma diferença de quase 10 min de análise. Na vazão de 1 mL min-1, observam-se picos um pouco mais finos e maior separação em linha de base. O par crítico 19 e 20 tem resolução completa com o aumento da vazão. O espaçamento entre os picos 16 a 18 ocorre com o aumento da vazão. Na condição de vazão de 0,7 mL min-1, os três picos estão igualmente espaçados. A vazão não influencia a resolução do co-eluentes 14 e 15.
+
+59
+
+4.3.2 Efeito da temperatura O efeito da temperatura da coluna foi avaliado em 30, 35 e 40 ºC, empregando gradiente linear de 60 minutos com intervalo de variação de ACN de 5 a 98%. A Figura 13 apresenta os resultados experimentais.
+
+(a)
+
+(b)
+
+(c)
+
+Figura 13: Efeito da temperatura em (a) 30 ºC, (b) 35 ºC e (c) 40 ºC. Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm) e 1 mL min-1. Soluções padrão: (1) metamidofós, (2) acefato, (3) aldicarbe-sulfona, (4) metomil, (5) dimetoato, (6) aldicarbe, (7) simazina, (8) carbofurano, (9) carbaril, (10) diurom, (11) ametrina, (12) propazina, (13) mercaptodimetur, (14) azinfos-metil, (15) linurom, (16) pirazofós, (17) diazinona, (18) fosalona, (19) endrin, (20) dicofol, (21) 4,4-DDE e (22) aldrin.
+
+Os resultados indicaram que a temperatura produz pouco efeito sobre a retenção dos praguicidas em estudo. O aumento da temperatura de 30 a 40 ºC ocasiona uma diminuição pouco pronunciada da retenção para as bandas cromatográficas. Isso pode ser atribuído à influência da temperatura na constante de equilíbrio do analito com a fase móvel e a fase estacionária. Nenhum efeito direto sobre resolução é verificado nestes resultados. Os mesmos espaçamentos entre bandas e o par crítico 14 e 15 permanecem nas temperaturas investigadas. Não foram verificadas temperaturas maiores por causa das limitações de segurança de uso da coluna, recomendadas pelo fabricante, que a estabelece no máximo de 60 ºC.
+
+60
+
+4.3.3 Efeito do tempo de gradiente O efeito do tempo de gradiente (tG) foi investigado variando-o de 30 a 100 min. Um intervalo amplo e constante de fase móvel (ΔB = 98 - 8 = 90% ACN) e vazão de 1 mL min-1 foram as condições estabelecidas para realização do experimento. Os cromatogramas da Figura 14a a 14e ilustram os resultados. A Figura 14f apresenta uma ampliação do intervalo de tempo entre 43 e 47 min para verificação do efeito do tempo de gradiente na eluição do par crítico 14 e 15. Cuidados foram tomados para que na concentração final do componente orgânico todos os analitos da mistura eluíssem.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+61
+
+Figura 14: Efeito do tempo de gradiente (a) 30 min, (b) 40 min, (c) 60 min, (d) 70 min, (e) 100 min e (f) 100 min (visualização ampliada). Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm), 1 mL min-1 e 30 ºC. Soluções padrão: (1) metamidofós, (2) acefato, (3) aldicarbe-sulfona, (4) metomil, (5) dimetoato, (6) aldicarbe, (7) simazina, (8) carbofurano, (9) carbaril, (10) diurom, (11) ametrina, (12) propazina, (13) mercaptodimetur, (14) azinfos-metil, (15) linurom, (17) diazinona, (18) fosalona, (19) endrin, (20) dicofol, (21) 4,4-DDE e (22) aldrin.
+
+A declividade do gradiente é obtida a partir da Equação 10.
+
+%B tG
+
+Equação 10
+
+onde %ΔB é o intervalo de variação constante entre a composição inicial 8% e a final 98% de ACN, %ΔB é de 90% e tG (min) é o tempo de gradiente. Os cromatogramas da Figura 14a, 14b, 14c, 14d e 14e possuem declividades de 3,00, 2,25, 1,50, 1,28 e 0,90 min-1, respectivamente. A avaliação e comparação dos cromatogramas revelam que a resolução cromatográfica aumenta para os gradientes menos íngrimes. A variação menos acentuada da porcentagem de ACN por minuto favorece a resolução completa, em linha de base, dos pares 17, 18 e 19, 20. No gradiente de 30 min há intensa co-eluição entre as bandas 11 a 15, e entre as citadas 17, 18 e 19, 20. Neste gradiente, cinco analitos (11-15) eluem e a resolução é parcial. No gradiente de 40 min (2,25 min-1), os picos 17 e 18 não são par crítico. O favorecimento da rampa do gradiente é mais pronunciado para as bandas 17 e 18, enquanto que para os outros picos (11 a 15, 19 e 20) a separação é pouco afetada. O
+
+62 cromatograma 14c (60 min) apresenta aumento da resolução em todo intervalo da separação, principalmente entre 23 e 32 min. Nesta região ainda permanecem como par crítico azinfos-metil e linurom (14, 15). A condição de gradiente não resultou em diferenças significativas comparando cromatogramas de 70 e 60 min, provavelmente pela proximidade dos valores das declividades, 1,50 e 1,28 min -1, respectivamente. A região que elui o par 14, 15 no gradiente de 100 min está ampliada na Figura 14f. No menor valor de declividade (100 min), a resolução aumenta para o par 14 e 15, indicando que a declividade baixa favorece a resolução do par crítico, no entanto a separação piora para o par 16 e 17. Uma análise geral do perfil dos cromatogramas da Figura 14a a 14e, apenas com a variação da declividade é possível resolver as porções mais críticas, porém a manipulação da rampa do gradiente ainda é insuficiente para resolver em linha de base o par 14, 15. Um conceito que pode ser explorado a partir destes resultados é o valor de k efetivo (k*). O valor de k* é definido pelas condições experimentais do gradiente de acordo com a Equação 1192.
+
+k* 
+
+FtG 1,15BSVm
+
+Equação 11
+
+onde F (mL min-1) é a vazão, tG (min) o tempo de gradiente, ΔB é a concentração volumétrica do solvente de maior força de eluição, S é uma constante característica do soluto (mesma definição da Equação 6) e Vm (mL) é o volume morto da coluna. Com a Equação 11 os valores de k* foram calculados para o tempo de gradiente aplicado. Os resultados estão na Tabela 8.
+
+63 Tabela 8: Valores dos fatores de retenção efetivo para os tempos de gradiente da Figura 14. tempo de gradiente (min) k
+
+*
+
+30
+
+40
+
+60
+
+70
+
+100
+
+5,3
+
+7,1
+
+10,6
+
+12,4
+
+17,7
+
+O aumento dos valores do tempo de gradiente ocasiona aumento dos valores do fator de retenção efetivo. Como na eluição isocrática, à medida que se diminui a porcentagem de solvente orgânico na fase móvel, os valores do fator de retenção aumentarão. Analogamente, as menores declividades da rampa de gradiente proporcionam o aumento da retenção das bandas cromatográficas. O fato das bandas eluírem com os mesmos valores de k* reflete nas larguras de base dos picos. Em gradiente (Figura 14), a largura da banda de eluição dos compostos permanece praticamente inalterada em toda porção do cromatograma por possuírem valores semelhantes de k*. Investigando a separação entre 14, 15, foi realizada a mudança da seletividade pela modificação do solvente constituinte da fase móvel para metanol (MeOH). Para MeOH, o intervalo de gradiente teve variação de 13 a 100% de MeOH. Esses valores correspondem à mesma força de eluição de ACN do intervalo de variação 8 a 98%. A correspondência entre os valores foi baseada no uso do nomógrafo.93 A Equação 12 descreve esta conversão.83 2  ACN  0.32 MeOH  0.57 MeOH
+
+Equação 12
+
+onde φACN é a concentração volumétrica de ACN e φMeOH é a concentração volumétrica de metanol. Após a mudança do solvente, o resultado da separação entre o linurom e o azinfos-metil está apresentado na Figura 15.
+
+64
+
+(a)
+
+(b) (b)
+
+(c)
+
+Figura 15: Efeito da mudança do solvente na separação de (a) linurom, (b) azinfos-metil e (c) linurom e azinfos-metil.
+
+4.3.4 Efeito da concentração inicial O efeito do intervalo do gradiente sobre a separação foi avaliado pela variação da concentração inicial de ACN entre 5 e 14%. A concentração final foi mantida em 98% de ACN. Os resultados estão na Figura 16.
+
+65
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figura 16: Efeito da concentração inicial do componente orgânico ACN: (a) 6%, (b) 10%, (c) 12% e (d) 14%. Condições: Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm), 1 mL min-1 e 30 ºC. Padrões: (1) metamidofós, (2) acefato, (3) aldicarbe-sulfona, (4) metomil, (5) dimetoato, (6) aldicarbe, (7) simazina, (8) carbofurano, (9) carbaril, (10) diurom, (11) ametrina, (12) propazina, (13) mercaptodimetur, (14) azinfos-metil, (15) linurom, (16) pirazofós, (17) diazinona, (18) fosalona, (19) endrin, (20) dicofol, (21) 4,4-DDE, (22) aldrin.
+
+A concentração onde se inicia o gradiente tem efeito pronunciado para os primeiros picos (1 a 4) dos cromatogramas da Figura 16a a 16d. O aumento de 5 a 14 % ACN melhora a forma dos primeiros picos, estes eluem como picos mais altos e finos, porém o par 1, 2 se aproxima. A concentração inicial de 14% foi considerada limite para esta composição de fase móvel, pois houve compressão da porção inicial do cromatograma 16d e possivelmente metamidofós (1) e acefato (2) seriam perdidos no volume morto da coluna. O aumento da concentração inicial não apresentou nenhum efeito onde a resolução é crítica entre os pares críticos, 14, 15 e 19, 20, ou na região de eluição dos picos 11 a 15. A porcentagem inicial mais baixa de ACN resulta em atraso na retenção dos picos ou corridas mais longas, resultando em 44,3 e 40,3 min para 5 e 14% ACN, respectivamente.
+
+66
+
+4.4 Planejamento Fatorial Todo o planejamento experimental foi conduzido com o suporte do software Design Expert. Foi realizado o planejamento para avaliar algumas variáveis da separação cromatográfica. Um planejamento de dois níveis alto e baixo (2k) e quatro variáveis (k=4) foi aplicado às variáveis: tempo do gradiente, vazão, temperatura e concentração inicial do modificador orgânico. O planejamento resultou em 16 combinações de variáveis e 4 repetições no ponto central ou nível intermediário (0), totalizando 20 experimentos. A Tabela 9 apresenta as variáveis examinadas segundo o planejamento fatorial completo de dois níveis.
+
+Tabela 9: Variáveis examinadas no fatorial completo de dois níveis. nível baixo (-1)
+
+nível interm. (0)
+
+nível alto (+1)
+
+vazão (mL min-1)
+
+0,5
+
+0,75
+
+1,0
+
+temperatura (º C)
+
+30
+
+35
+
+40
+
+tempo de gradiente (min)
+
+60
+
+67,5
+
+75
+
+concentração de ACN (%)
+
+5
+
+7,5
+
+10
+
+A resposta experimental foi avaliada com a função COF (Equação 13), fixandose os valores de Rs e tm.
+
+ Rs  COF   Ai ln  i   Btm  t z   Rs  i 1 k
+
+Equação 13
+
+onde A e B são os pesos da função (valor de 1), Rs é a resolução desejada (1,5), Rsi é a resolução de cada par de pico adjacente, tm é o tempo de eluição desejado para o último composto (aldrim) (ajustado em 60 min) e tz é o tempo de eluição experimental do último composto.
+
+67 A Equação 14 apresenta a função da resolução.
+
+ t t  Ri , j  2 j i   wi  w j   
+
+Equação 14
+
+onde ti representa o tempo de retenção de um analito, tj é o tempo do analito adjacente, wi e wj são as larguras de base das bandas do analito e de seu adjacente, respectivamente. A função cromatográfica CRS (Equação 15) também foi investigada como função resposta para o planejamento experimental. 2 np  np  Ri ,i 1  Ropt  1  R i ,i 1  t f    CRS     2   i 1 Ri ,i 1  Rmin  Ri ,i 1  i 1 npRavg  n   
+
+Equação 15
+
+onde Ri,i+j, representa a resolução entre picos adjacentes, Ropt é o valor considerado ótimo de resolução (1,5), Rmin é o valor mínimo de resolução (ajustado como 0,4), Ravg é o valor da média das resoluções, tf é o tempo de eluição do último composto, n é o número de analitos na corrida cromatográfica (22 praguicidas). A Tabela 10 apresenta a matriz de contraste de todos os experimentos e as respostas experimentais observadas COF e CRS em cada combinação experimental.
+
+68 Tabela 10: Matriz de contraste e respostas COF e CRS para o fatorial completo com 4 repetições no ponto central. exp.
+
+A-vazão
+
+B-temp.
+
+C-t grad.
+
+D-conc. ACN
+
+COF
+
+CRS
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+-1 +1 -1 +1 -1 +1 -1 +1 -1 +1 -1 +1 -1 +1 -1 +1 0 0 0 0
+
+-1 -1 +1 +1 -1 -1 +1 +1 -1 -1 +1 +1 -1 -1 +1 +1 0 0 0 0
+
+-1 -1 -1 -1 +1 +1 +1 +1 -1 -1 -1 -1 +1 +1 +1 +1 0 0 0 0
+
+-1 -1 -1 -1 -1 -1 -1 -1 +1 +1 +1 +1 +1 +1 +1 +1 0 0 0 0
+
+12 20 8,7 28 0,60 12 0,46 14 10 24 16 24 -0,51 16 4,3 15 14 13 17 12
+
+587 508 1201 497 726 610 39 594 1832 500 601 488 692 600 30 9,2 581 581 579 581
+
+Os registros cromatográficos dos 20 experimentos resultantes das combinações de variáveis estão ilustrados na Figura 17.
+
+69
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g)
+
+(h)
+
+70
+
+(i)
+
+(j)
+
+(l)
+
+(m)
+
+(n)
+
+(o)
+
+(p)
+
+(q)
+
+71
+
+(r)
+
+(s)
+
+(t)
+
+(u)
+
+Figura 17: Cromatogramas dos 20 experimentos do planejamento fatorial. Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm). Fase móvel: ACN:H2O. (a) 1, (b) 2, (c) 3, (d) 4, (e) 5, (f) 6, (g) 7, (h) 8, (i) 9, (j) 10, (l) 11, (m) 13, (n) 14, (o) 15, (p) 16 e (q) 17, (r) 18, (s) 19, (t) 20 e (u) 12.
+
+De acordo com os resultados da Tabela 10, o experimento 7 tem um COF que mais se aproxima do zero. O valor ótimo de COF, mais próximo das condições préestabelecidas, se aproxima de zero. As condições experimentais de vazão, temperatura, tempo de gradiente e concentração inicial de ACN para o sétimo experimento são 0,5 mL min-1, 40 ºC, 75 min e 5%, respectivamente. Neste cromatograma, inicia-se a separação entre o par 14, 15. A Tabela 11 apresenta a análise de variância das variáveis do planejamento fatorial.
+
+72 Tabela 11: Análise de variância para COF.
+
+Modelo A-vazão B-temperatura C-t. gradiente D-ACNinicial AB AC AD BC BD CD ABC ABD ACD BCD ABCD Curvatura erro puro cor. Total
+
+SQ
+
+GL
+
+MQ
+
+F
+
+p-valor
+
+1205 694 19,8 417 11,8 0,61 1,48 0,67 1,48 1,22 0,004997 4,76 41,3 2,71 0,014 7,51 5,31 15,4 1226
+
+15 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 19
+
+80,3 694 19,9 417 11,8 0,61 1,48 0,67 1,48 1,22 0,00499 4,76 41,3 2,71 0,014 7,51 5,31 5,14
+
+15,6 135 3,86 81,2 2,30 0,12 0,29 0,13 0,29 0,24 0,000972 0,93 8,04 0,53 0,00269 1,46 1,03
+
+0,0219 0,0014 0,1441 0,0029 0,2265 0,7542 0,6288 0,7415 0,6291 0,6601 0,9771 0,4071 0,0659 0,5204 0,9619 0,3134 0,3841
+
+A análise de variância do modelo revela que o modelo ajustado é significativo, ou seja, o modelo explica o comportamento do sistema experimental em relação à resposta COF. As variáveis vazão e concentração inicial de solvente orgânico são estatisticamente significativas com valor de p menor que 0,005. Nenhuma das interações é significativa, pela verificação de altos valores de p valores, maiores que 0,005. As variáveis que mais influenciam a reposta são a vazão e o tempo do gradiente. Estas variáveis poderiam ser otimizadas univariadamente já que suas interações não são significativas. De acordo com os resultados, nem as variáveis principais B-temperatura e D-ACN inicial ou suas interações são significativas. O parâmetro curvatura não é significativo com valor de p de 0,3841. A Figura 18 apresenta o comportamento da vazão e tempo de gradiente em relação à resposta COF, mantendo a temperatura e ACN inicial no nível intermediário. Verifica-se que a
+
+73 resposta observada é mais próxima dos valores ótimos nos níveis baixos e altos de vazão e tempo de gradiente, respectivamente. Os coeficientes do modelo matemático foram estimados com 95% de confiança. A equação modelada prevista apresenta coeficiente de correlação de 0,9874.
+
+COF  580,47  733,46vazão  16,28temperatura  7,231tgradiente  60,352 Binicial  22,736vazão  temperatura  9,212vazão  tgradiente  80,803vazão  Binicial  0,1975temperatura  tgradiente  1,866temperatura  Binicial   0,6914tgradiente Binicial  0,2774 vazão  temperatura  tgradiente  2,4873vazão  temperatura  Binicial   0,9353vazão  tgradiente Binicial  0,02161temperatura  tgradiente Binicial  0,029231vazão  temperatura  tgradiente  Binicial
+
+Design-Expert® Sof tware COF 28.5811 -0.510811 X1 = A: v azão X2 = C: t-gradiente
+
+25
+
+Actual Factors B: temperatura = 35.00 D: B inicial = 7.50
+
+19
+
+COF
+
+13
+
+7 1.00 1
+
+0.88 0.75
+
+75.00
+
+71.25
+
+A: vazão
+
+0.63 67.50
+
+63.75
+
+60.00
+
+0.50
+
+C: t-gradiente
+
+Figura 18: Superfície de resposta de COF para C-tgradiente e A-vazão mantendo Btemperatura e D-concentração ACN inicial constantes.
+
+Comparando os valores de CRS e COF, estes foram concordantes entre si (Tabela 10). Os menores valores de CRS 39, 30 e 9,2 referem-se aos experimentos 7, 15 e 16, respectivamente. A resolução os experimentos 7 e 15 apresentaram separação parcial entre o par 14 e 15 (azinfos-metil e linurom), porém o menor tempo
+
+74 de análise é caracterizado para o experimento 16 (63 min). Baseando-se em resultados prévios, as condições experimentais do sétimo experimento (0,5 mL min-1, 40 ºC, 75 min de gradiente e 5% ACN inicial) foram estabelecidas para o método. Experimentos adicionais de segmentação do sétimo gradiente foram realizados como tentativa de aumento da resolução entre o par 14 e 15 e a diminuição dos espaçamentos entre os picos. A Equação 16 rege a variação da concentração de ACN no gradiente 7. A segmentação do gradiente ocorreu no intervalo entre 30 e 46 min, correspondentes às concentrações 42 e 62% de ACN, respectivamente.
+
+% ACN  5  1,24t
+
+Equação 16
+
+A Figura 19 apresenta o gradiente 7 com variação de 1,24 min-1. Variações próximas a 1,24 foram efetuadas com a intenção de melhorar a separação da região de picos 11 a 15. A Figura 20 apresenta os resultados.
+
+140000 120000
+
+u AU
+
+100000 80000 60000 40000 20000
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+retention time (min)
+
+Figura 19: Parte crítica do cromatograma do experimento 7. Picos: (11) ametrina, (12) propazina, (13) mercaptodimetur, (14) azinfos-metil e (15) linurom. Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm), 0,5 mL min-1, 40 ºC, 75 min de gradiente e 5% ACN inicial.
+
+75
+
+40000
+
+50000 30000 30000
+
+40000 20000
+
+u AU
+
+u AU
+
+u AU
+
+20000
+
+30000
+
+10000
+
+20000
+
+10000
+
+0 0
+
+10000 -10000
+
+-10000
+
+0 42
+
+43
+
+44
+
+45
+
+46
+
+retention time (min)
+
+47
+
+Seg 4 – 0,71 min
+
+48
+
+43
+
+49
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+retention time (min)
+
+50
+
+51
+
+52
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+retention time (min)
+
+Seg 3 – 0,83 min
+
+-1
+
+Seg 2 – 1 min-1
+
+-1
+
+70000
+
+50000
+
+40000
+
+40000
+
+60000 50000
+
+u AU
+
+30000
+
+20000
+
+40000 20000
+
+u AU
+
+absorbance
+
+30000
+
+10000
+
+30000 20000 10000
+
+10000
+
+0
+
+0
+
+0
+
+-10000
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+retention time (min)
+
+Seg. 5 – 1,11 min
+
+-10000 42
+
+49
+
+43
+
+44
+
+45
+
+46
+
+47
+
+retention time (min)
+
+48
+
+49
+
+50
+
+Seg 6 – 1,17 min
+
+-1
+
+43
+
+44
+
+45
+
+46
+
+47
+
+retention time (min)
+
+48
+
+49
+
+50
+
+Seg 7 – 1,33 min
+
+-1
+
+-1
+
+90000 80000
+
+40000
+
+60000 50000
+
+u AU
+
+absorbance
+
+70000
+
+40000
+
+30000
+
+30000
+
+20000 20000 10000
+
+10000
+
+0 43
+
+44
+
+45
+
+46
+
+retention time (min)
+
+47
+
+Seg 8 – 1,67 min
+
+-1
+
+48
+
+49
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+retention time (min)
+
+44
+
+Seg.1 - 2,5 min
+
+45
+
+46
+
+-1
+
+Figura 20: Variação da declividade do gradiente entre 0,71 min-1 a 2,5 min-1. Condições: Coluna Synergi MAX-RP (150 x 4,6 mm, 4 µm), 0,5 mL min-1, 40 ºC, 75 min de gradiente e 5% ACN inicial.
+
+Maiores ou menores que 1,24, as variações nas inclinações do gradiente não foram favoráveis dentro do intervalo proposto, verificada as proximidades entre os picos 11 a 15. O segmento de 1,33 min-1 apresenta aumento da resolução entre 14 e 15, porém o pico 14 migra e co-elui com o 13 (mercaptodimetur). Nenhuma condição solucionou o problema da co-eluição.
+
+76
+
+4.5 Espectrometria de massas 4.5.1 Método HPLC-MS/MS
+
+As Figura 21 a Figura 24 apresentam os espectros de massas das transições MS/MS dos praguicidas. Os resultados foram obtidos no analisador de massas ion trap LCQ Deca XP MAX da Thermo Scientific. Os analitos aldrim, dicofol, fosalona e endrim foram excluídos pela dificuldade de identificação do pico do íon molecular no modo de infusão direta. As condições experimentais ajustadas no instrumento estão descritas no item 3.3. O pico do íon molecular das triazinas propazina, simazina e ametrina são detectadas no espectro na forma protonada [M+H]+. Propazina e ametrina, ambos perdem o fragmento de m/z de 42 (C3H6) resultando nos fragmentos de m/z de 188 e 186 das Figura 21a a Figura 21c, respectivamente. A fragmentação MS/MS da simazina (Figura 21b) resultou em dois picos de intensidade relativa elevada no espectro. O fragmento 123 é resultado da perda de 202 - 44 (CH3-CH2-NH2) - 35 (Cl) e o pico do íon m/z 131 resulta da perda de 202 - 70 (N≡C-NH-CH2-CH3) devido à abertura do anel aromático pirimidina.
+
+(a)
+
+77
+
+(b)
+
+(c) Figura 21: Espectros de massas de íons produtos ESI-MS/MS das triazinas (a) propazina, (b) simazina e (c) ametrina. Condições: ion trap LCQ Deca XP MAX.
+
+A estrutura química geral dos herbicidas feniluréias é a substituição do anel aromático fenil por -NH-C(=O)-NR2. Os espectros de massa de diurom e linurom estão na Figura 22a e Figura 22b, respectivamente.
+
+78
+
+(a)
+
+(b) Figura 22: Espectros de massas de íons produtos ESI-MS/MS das ureias (a) diurom e (b) linurom. Condições: ion trap LCQ Deca XP MAX.
+
+O praguicida diurom tem o pico do íon molecular protonado identificado como [M+H]+ m/z 233. O fragmento gerado com m/z de 72 [(CH3)2N-C=O]+ identificado no espectro da transição MS/MS (Figura 22a) corresponde à perda 233-162 (fragmento pdicloroanilina). O linurom apresenta o pico do íon molecular protonado m/z 249 (Figura 22b). A observação dos fragmentos com m/z 188 e m/z 160 ocorre perda de dimetilamina e N-dimetil formamida, respectivamente.
+
+79 As Figura 23a a 23f apresentam os espectros de massas dos praguicidas da classe dos carbamatos. Carbamatos podem apresentar o pico do íon molecular como adutos de sódio ou amônio.
+
+(a)
+
+(b)
+
+80
+
+(c)
+
+(d)
+
+(e)
+
+81
+
+(f) Figura 23: Espectros de massas de íons produtos dos carbamatos (a) mercaptodimetur, (b) carbofurano e (c) carbaril, (d) metomil, (e) aldicarbe, (f) aldicarbe-sulfona. Condições: ion trap LCQ Deca XP MAX.
+
+O pico do íon molecular protonoado do mercaptodimetur (Figura 23a) apresenta m/z 226 correspondente à forma protonada [M+H]+ e um pico de intensidade mais baixa com m/z 248 do aduto [M+Na]. O pico m/z 169 é justificado pela perda de 57 Da (CH3-NH-C=O) ligado ao anel. O mesmo fragmento (57 Da) é perdido pelo carbofurano (Figura 23b) e carbaril (Figura 23c) resultando nos picos MS/MS com m/z 165 e m/z 145, respectivamente. O metomil (Figura 23d) tem pico do íon molecular m/z 163 e transições MS/MS com m/z 88 e m/z 106. A perda específica neutra de 57 Da é característica para a subclasse dos metil carbamatos. No espectro MS/MS do aldicarbe (Figura 23e), o pico do íon molecular sodiado [M+Na]+ com m/z 213. A perda neutra de CH3NHCOOH gera [CH3SC(CH3)C≡N]+ com m/z 116 e CH3SC(CH3)2+ com m/z 89. O aldicarbe-sulfona (Figura 23f) possui pico do íon molecular de 233 e as transições MS/MS com m/z de 86 e m/z 148. As Figura 24a a 24h apresentam os espectros MS/MS dos praguicidas da classe dos organofosforados.
+
+82
+
+(a)
+
+(b)
+
+(c)
+
+83
+
+(d)
+
+(e)
+
+(f)
+
+84
+
+(g)
+
+(h) Figura 24: Espectros de massas de íons produtos ESI-MS/MS dos organosfosforados (a) fosalona, (b) diazinona, (c) pirazofós, (d) azinfos-metil, (e) dimetoato, (f) metamidofós, (g) acefato, (h) fosmete. Condições: ion trap LCQ Deca XP MAX.
+
+O espectro de massa da fosalona (Figura 24a) apresenta o pico do íon molecular protonado [M+H]+ de m/z 368. Dois picos resultantes da fragmentação são observados nos resultados em m/z 182 e m/z 321. O mais abundante com m/z 321 resulta da perda de uma molécula de etanol (CH3-CH2-OH). O pico com m/z 182 resulta da perda de 186 Da através do grupo [(CH3-CH2-O)2(H-S)P=S]. O organosfosforado diazinona (Figura 24b) apresenta íon molecular [M+H]+ m/z 305 e os picos MS/MS com m/z 169 e m/z 153. A interpretação destes picos é justificada pelo rearranjo tiolo-tiono estudado por Barr et al.94 Segundo as conclusões dos autores, o rearranjo é observado para os
+
+85 compostos da subclasse dietilfosforotioato dos organofosforados. O pico com m/z 169 ocorre pelo rearranjo de SH no anel pirimidina e o com m/z 153 pelo rearranjo de OH no anel. Em ambas as situações a molécula permanece protonada no quarto N em relação ao grupo funcional da classe organofosforada. De acordo com o estudo de Barr et al.94, o pirazofós da subclasse dietilfosforotioato (Figura 24c), o rearranjo novamente é responsável pela substituição do grupo característico da classe fosforada e ligação do HS ao anel de cinco membros. Isto está representado pela formação do íon com m/z 238 devido à perda de 136 Da. Outro resultado do rearranjo é o fragmento m/z 222, identificado pela ligação de OH no anel. A perda de uma molécula de etileno (28 Da) gera o íon produto intenso com m/z 345. O íon molecular protonado e produto do azinfos-metil (Figura 24d) são identificados no espectro como m/z 318 e 256, respectivamente. Os íons produtos com m/z 256 e m/z 300 são explicados pela perda de 2 moléculas de metanol (64 Da) e uma molécula de água (18 Da), respectivamente. O pico do íon molecular protonado do dimetoato m/z 230 perde um molécula de metanol (32 Da) para formar o íon produto de m/z 198 (Figura 24e). O metamidofós (Figura 24f) apresenta pico do íon molecular protononado com m/z 143 e fragmento MS/MS com m/z 112. O acefato (Figura 24g) apresenta pico do íon molecular protononado com m/z 184 e fragmento MS/MS com m/z 143. O fosforado fosmete (Figura 24h) apresenta pico do íon molecular protononado com m/z 390 e fragmento MS/MS com pico base m/z 317.
+
+4.5.2 Método UHPLC-MS/MS O método desenvolvido utilizando o analisador de massa ion trap não teve sensibilidade suficiente para a detecção dos compostos praguicidas em urina em níveis abaixo de 100 ppb. Desta forma, um método pré-estabelecido para análise de 400
+
+86 praguicidas no sistema triplo quadrupolo Xevo TSQ da Waters foi adaptado para análise dos praguicidas deste trabalho. As condições de ajuste do instrumento estão descritas no item 3.4. O método de 400 praguicidas empregava composição binária de fase móvel A (H2O + 0,1% ácido fórmico) e fase móvel B (MeOH + 0,1% ácido fórmico). Os primeiros experimentos foram adquiridos ainda usando a ACN como fase móvel, mantendo o método desenvolvido no ion trap. Uma corrida cromatográfica foi realizada na condição inicialmente proposta. Nesta condição houve dificuldade na ionização do metomil, acefato, aldicarbe e de seu metabólito, aldicarbe-sulfona. Desta forma, uma nova condição de fase móvel empregando metanol e outro aditivo de ionização foram avaliados. A nova condição experimental empregava fase móvel A (H2O + 5 mM acetato de amônio) e fase móvel B (MeOH + 0,1% ácido fórmico). A modificação das condições de fase móvel resultou melhora na ionização dos compostos citados e no formato do pico cromatográfico. As janelas de visualização da banda cromatográfica foram reduzidas para aumento de sensibilidade. Um valor de 2 ms foi empregado como dwell time. Os íons precursores e os íons produtos para as transições de quantificação (Q1) e de confirmação (Q2), as respectivas energias de colisão e a tensão do cone utilizadas estão apresentadas na Tabela 12. Com exceção do aldicarbe, detectado na forma sodiada [M+Na]+, os outros íons precursores se ionizaram na forma protonada [M+H]+.
+
+87 Tabela 12: Íon precursor, tempo de retenção, tensão do cone, íon quantificador e confirmador com a respectiva energia de colisão entre parênteses. [M+H]+
+
+tR
+
+CV (V)
+
+Q1
+
+Q2b
+
+Metamidofós
+
+142
+
+0,74
+
+30
+
+94 (13)
+
+124 (13)
+
+Aldicarbe-sulfona
+
+223
+
+1,62
+
+30
+
+86 (14)
+
+148 (10)
+
+Metomil
+
+163
+
+1,91
+
+10
+
+88 (10)
+
+106 (10)
+
+Dimetoato
+
+230
+
+2,82
+
+30
+
+125 (20)
+
+199 (10)
+
+Aldicarbea
+
+213
+
+3,61
+
+30
+
+89 (15)
+
+116 (10)
+
+Simazina
+
+202
+
+4,26
+
+32
+
+96 (22)
+
+124 (17)
+
+Carbofurano
+
+222
+
+4,36
+
+30
+
+123(21)
+
+165 (16)
+
+Carbaril
+
+202
+
+4,55
+
+30
+
+127 (26)
+
+145 (10)
+
+Diurom
+
+233
+
+5,14
+
+30
+
+46 (14)
+
+72 (30)
+
+Ametrina
+
+228
+
+5,18
+
+32
+
+68 (36)
+
+186 (18)
+
+Propazina
+
+230
+
+5,68
+
+30
+
+146 (24)
+
+188 (18)
+
+Mercaptodimetur
+
+226
+
+5,64
+
+30
+
+121 (20)
+
+169 (10)
+
+Azinfos-metil
+
+318
+
+5,47
+
+10
+
+125 (15)
+
+260 (8)
+
+Linurom
+
+249
+
+5,60
+
+30
+
+160 (18)
+
+182 (16)
+
+Pirazofós
+
+374
+
+7,00
+
+33
+
+194 (32)
+
+222 (22)
+
+Diazinona
+
+305
+
+6,81
+
+30
+
+97 (35)
+
+169 (22)
+
+Fosmete
+
+318
+
+5,53
+
+30
+
+77 (50)
+
+160 (15)
+
+Analito
+
+a detectado como aduto de sódio [M+Na]+
+
+A Figura 25 apresenta os cromatogramas dos praguicidas obtidos no sistema UPLC-MS/MS segundo as condições apresentadas na Tabela 12.
+
+(a) aldicarbe-sulfona
+
+(c) azinfos-metil
+
+(b) aldicarbe
+
+(d) carbaril
+
+88
+
+(e) ametrina
+
+(f) carbofurano
+
+(g) diazinona
+
+(h) dimetoato
+
+(i) diurom
+
+(j) linurom
+
+(l) metamidofós
+
+(m) metomil
+
+(n) mercaptodimetur
+
+(o) fosmete
+
+(p) propazina
+
+(q) pirazofós
+
+(r) simazina
+
+Figura 25: Cromatogramas dos praguicidas em UPLC sistema Xevo TSQ. Coluna de fase reversa Acquity UPLC HSS T3 (50 x 2,1 mm, 1,8 µm). Fase móvel A (formiato de amônio 5mM/ácido fórmico 0,1%) e fase móvel B (MeOH + formiato de amônio 5mM/ácido fórmico 0,1%). Gradiente de 5 a 95% B de 0 a 8,5 min, 95% B de 8,5 a 9 min, 95 a 5% B de 9 a 9,01 min e 5% B de 9,01 a 9,50 min.
+
+89
+
+4.6 Validação do método O método analítico desenvolvido no sistema UPLC-MS/MS Xevo TSQ foi validado com base na linearidade, limite de quantificação (LQ), limite de detecção (LD), recuperação, exatidão e recuperação (Tabela 13) descritos no item 3.5. Os dados necessários para avaliar o efeito de matriz está apresentado na Tabela 14.
+
+90 Tabela 13: Parâmetros da validação do método LC-MS/MS. intercepto
+
+R2
+
+F
+
+LD (µgL-1)
+
+LQ (µgL-1)
+
+5630±29
+
+576±552
+
+0,9998
+
+37498
+
+0,323
+
+409±2
+
+-16,8±45,0
+
+0,9998
+
+38543
+
+0,362
+
+Metomil
+
+39,1±1,3
+
+-49,3±37,8
+
+0,9977
+
+868
+
+3,19
+
+Dimetoato
+
+3493±11
+
+784±227
+
+0,9999
+
+85004
+
+0,215
+
+Aldicarbe
+
+12,1±0,1
+
+-25,3±2,2
+
+0,9999
+
+32738
+
+0,597
+
+1,81
+
+Simazina
+
+1711±5
+
+-38,1±105,2
+
+0,9999
+
+107510
+
+0,202
+
+0,615
+
+Carbofurano
+
+7613±22
+
+0,348±429,020
+
+0,9999
+
+113801
+
+0,186
+
+0,563
+
+Analito Metamidofós Aldicarbe-sulfona
+
+Inclinação
+
+% CV
+
+Recuperação (%)
+
+0,75 µgL-1
+
+10 µgL-1
+
+50 µgL-1
+
+0,75 µgL-1
+
+10 µgL-1
+
+50 µgL-1
+
+0,981
+
+7,76
+
+0,751
+
+0,971
+
+57,5±4,5
+
+105±1
+
+99,7±0,9
+
+1,10
+
+2,27
+
+1,52
+
+100±1
+
+8,40
+
+1,04
+
+72,6±5,5 ND
+
+102±2
+
+9,67
+
+7,59 ND
+
+102±8
+
+101±1
+
+0,652
+
+3,23
+
+1,83
+
+1,91
+
+64,4±2,1
+
+101±1
+
+99,7±1,9
+
+ND
+
+49,8
+
+3,31
+
+ND
+
+112±35
+
+99±3
+
+7,86
+
+0,775
+
+1,11
+
+101±1
+
+99,9±1,1
+
+1,72
+
+1,42
+
+65,8±5,2 70,4±2,8
+
+102±2
+
+99,9±1,4
+
+Carbaril
+
+235±2
+
+-80,4±74,1
+
+0,9995
+
+6570
+
+1,04
+
+3,14
+
+3,91 ND
+
+4,87
+
+1,55
+
+ND
+
+99,1±4,8
+
+101±1
+
+Diurom
+
+5301±21
+
+1494±406
+
+0,9998
+
+61345
+
+0,253
+
+0,767
+
+6,05
+
+1,16
+
+1,06
+
+56,4±3,4
+
+102±1
+
+99,7±1,1
+
+Ametrina
+
+23022±113
+
+46051±2156
+
+0,9998
+
+41197
+
+0,309
+
+0,937
+
+4,78
+
+1,13
+
+0,877
+
+55,7±2,7
+
+103±1
+
+99,6±0,9
+
+Propazina
+
+735±847
+
+10847±44
+
+0,9998
+
+59221
+
+0,258
+
+0,781
+
+5,92
+
+1,25
+
+1,09
+
+66,0±3,9
+
+102±1
+
+99,7±1,1
+
+Mercaptodimetur
+
+1654±5
+
+372±96
+
+0,9999
+
+106588
+
+0,192
+
+0,582
+
+1,02
+
+99,9±1,0
+
+-22,8±86,3
+
+0,9965
+
+583
+
+4,48
+
+13,6
+
+8,98
+
+5,94
+
+71,1±9,8 ND
+
+100±2
+
+63,6±2,6
+
+13,7 ND
+
+1,76
+
+Azinfos-metil
+
+105±9
+
+100±6
+
+Linurom
+
+3902±12
+
+-105±232
+
+0,9999
+
+101458
+
+0,197
+
+0,597
+
+9,50
+
+1,47
+
+1,43
+
+69,3±6,6
+
+101±1
+
+99,8±1,4
+
+Pirazofós
+
+4813±18
+
+9263±347
+
+0,9998
+
+69514
+
+0,238
+
+0,721
+
+19,1
+
+2,51
+
+1,91
+
+64,5±12,3
+
+102±3
+
+99,8±1,9
+
+Diazinona
+
+9620±37
+
+-315±708
+
+0,9998
+
+66574
+
+0,243
+
+0,737
+
+1,31
+
+1,30
+
+99,8±1,3
+
+218±2
+
+187±75
+
+0,9997
+
+6795
+
+1,14
+
+3,45
+
+5,45
+
+1,97
+
+69,6±1,4 ND
+
+102±1
+
+Fosmete
+
+1,94 ND
+
+101±6
+
+99,6±2,0
+
+91 Tabela 14: Comparação do coeficiente angular das curvas em água e fortificada em amostras. Ságua
+
+R2
+
+Samostra
+
+R2
+
+Samostra/Ságua
+
+Metamidofós
+
+7541
+
+0,9991
+
+5631
+
+0,9998
+
+0,74
+
+Aldicarbe-sulfona
+
+468
+
+0,9998
+
+409
+
+0,9998
+
+0,87
+
+Metomil
+
+115
+
+0,9995
+
+39,1
+
+0,9977
+
+3,39
+
+Dimetoato
+
+3593
+
+0,9999
+
+3496
+
+0,9999
+
+0,97
+
+Aldicarbe
+
+11,4
+
+0,9919
+
+12,1
+
+0,9999
+
+1,06
+
+Simazina
+
+1736
+
+0,9998
+
+1711
+
+0,9999
+
+0,98
+
+Carbofurano
+
+7415
+
+0,9999
+
+7620
+
+0,9999
+
+1,02
+
+Carbaril
+
+217
+
+0,9993
+
+235
+
+0,9995
+
+1,08
+
+Diurom
+
+5545
+
+0,9995
+
+3905
+
+0,9998
+
+0,70
+
+Ametrina
+
+20921
+
+0,9998
+
+23038
+
+0,9998
+
+1,10
+
+Propazina
+
+10570
+
+0,9989
+
+10853
+
+0,9998
+
+1,02
+
+Mercaptodimetur
+
+1556
+
+0,9993
+
+1556
+
+0,9999
+
+1,06
+
+Azinfos-metil
+
+56,6
+
+0,9969
+
+63,6
+
+0,9965
+
+1,12
+
+Linurom
+
+3666
+
+0,9999
+
+3905
+
+0,9999
+
+1,06
+
+Pirazofós
+
+3917
+
+0,9998
+
+4817
+
+0,9998
+
+1,22
+
+Diazinona
+
+7575
+
+0,9989
+
+9627
+
+0,9998
+
+1,27
+
+Fosmete
+
+560
+
+0,9999
+
+218
+
+0,9997
+
+0,389
+
+As curvas analítica das amostras fortificada apresentaram coeficiente de determinação maiores que 0,9965 no intervalo de 0,5 a 50 µg L-1 (Tabela 13). Os coeficientes angular e linear foram estimados pela regressão linear. Estudos de recuperação foram efetuados para validar a exatidão do método proposto. O parâmetro foi estimado pela proximidade dos resultados obtidos pelo método em relação ao valor verdadeiro. As concentrações de 0,75, 10,0 e 50,0 µg L -1 foram os níveis baixo, médio e alto, respectivamente. A exatidão do método variou entre 55,7 e 72,6% para o nível mais baixo de concentração. Para 10 e 50 µg L-1, a exatidão se aproximou de 100%. Avaliada em três níveis de concentração (baixo, médio e alto), a precisão foi menor para o nível baixo de concentração variando de 1,94 a 19,1 %. No nível de 10,0
+
+92 µg L-1, a precisão variou entre 0,75% para metamidofós e 8,40% e 8,98% metomil e azinfos-metil, respectivamente. A precisão no nível de concentração mais alto apresentou valores de 0,87 e 5,94% para simazina e azinfos-metil, respectivamente. A precisão está entre os limites aceitáveis com valores menores que 20%. O LD variou entre 4,48 e 0,192 µg L-1 para azinfos-metil e mercaptodimetur, respectivamente. O LQ do método variou entre 0,582 e 13,6 µg L-1, com coeficiente de variação aceitável inferior a 20%. A quantificação das 25 amostras cedidas pelo laboratório de Análises Toxicológicas está apresentada na Tabela 15. As amostras quantificadas detectaram a presença
+
+dos
+
+praguicidas
+
+aldicarbe-sulfona,
+
+simazina,
+
+carbofurano,
+
+diurom,
+
+mercaptodimetur, linurom, pirazofós, diazinona, metamidofós e propazina. As amostras apresentaram concentrações entre 10 e 50 µg L -1. Alguns valores de concentração marcados com asterisco foram estimados acima do limite superior de quantificação, como por exemplo, com o indivíduo 3, onde a presença de simazina, diurom e ametrina está acima de 50 µg L-1. Os indivíduos 4 e 5 apresentaram o maior número de praguicidas identificados e quantificados na faixa linear. Verifica-se para as amostras numeradas 24, 25, 23, 17, 1, 16, 8, 21, 9, 11, 2 e 10 a ausência ou a presença dos praguicidas abaixo do limite inferior de quantificação. A seleção das amostras abrangeu desde pessoas diretamente expostas aos praguicidas até às populações habitantes nas regiões das lavouras e funcionários de fazendas que não exerciam atividades ligadas às lavouras.
+
+93 Tabela 15: Quantificação dos analitos nas amostras reais de exposição ocupacional. 22 Metamidofós Ald-sulfona Metomil Dimetoato Aldicarbe Simazina Carbofurano Carbaril Diurom Ametrina Propazina Mercaptodimetur Azinfos-metil Linurom Pirazofós Diazinona Fosmete
+
+19
+
+24
+
+25
+
+23
+
+17
+
+7
+
+1
+
+3
+
+16
+
+8
+
+18
+
+41,2±1,6
+
+18,4±2,1
+
+16,3±0,2
+
+24,2±0,9 46,4±3,2 20,3±0,6
+
+Concentração em µg L-1. *estimativa da concentração
+
+21
+
+20
+
+27,9±1,9
+
+22,2±2,7
+
+66,5±1,3*
+
+52,5±0,5* 22,1±0,2*
+
+101±2*
+
+100±1* 78,2±2,3*
+
+30,9±0,1
+
+123±2* 104±1*
+
+4
+
+29,2±2,1 22,5±0,2
+
+5 44,2±0,1
+
+31,9±0,9 17,7±0,3
+
+54,8±2,8* 41,2±0,1
+
+36,1±1
+
+27,8±0,1
+
+54,1±0,1* 21,1±0,9
+
+24,1±0,4
+
+50,4±0,4 14,3±1,5
+
+41,8±0,6 56,6±1,9* 24,5±0,7
+
+28,5±0,2 40,4±3,3 23,1±0,7
+
+38,2±0,1 65,1±6,6* 38,2±0,3
+
+9
+
+94 Tabela 15: Continuação. Analitos
+
+11
+
+14
+
+Metamidofós Ald-sulfona
+
+13 44±3
+
+15
+
+2
+
+10
+
+6
+
+12
+
+15,9±1,2 11,8±0,1
+
+34,9±3,8 32,9±0,1
+
+21,5±2,2
+
+Metomil Dimetoato Aldicarbe Simazina Carbofurano
+
+23,1±1,1 36±1
+
+33,4±0,7
+
+18,1±1,1 14,8±0,4
+
+Carbaril
+
+34,5±0,2
+
+31,8±0,1
+
+17,9±0,1
+
+42,2±1,2
+
+43,2±0,4
+
+13,6±1,1 50,4±0,2
+
+35,8±0,1 64,3±0,3*
+
+Diurom Ametrina Propazina Mercaptodimetur Azinfos-metil Linurom Pirazofós Diazinona Fosmete Concentração em µg L-1. *estimativa da concentração
+
+17,5±0,5 22,1±1,6
+
+22,1±0,1 46,7±4
+
+33,4±0,4 61,1±1,4*
+
+95
+
+5. Conclusões Por causa da complexidade da amostra contendo diversas classes de praguicidas, a separação em modo de eluição isocrático não foi possível. Estas conclusões foram obtidas através de cálculos do fator de retenção e verificação do tempo de análise. A aplicação de eluição em gradiente foi satisfatória na separação multirresidual. Diversas modificações nas condições de gradiente (tempo de gradiente, concentração inicial), temperatura e vazão da fase móvel foram avaliadas para verificação de seus efeitos sobre a separação. A importância e os efeitos da composição da fase móvel foram avaliados pela aquisição dos parâmetros solvatocrômicos de Kamlet-Taft. A retenção na forma logarítmica (log k) dos compostos em função dos parâmetros foi colocada na forma de gráfico para compreensão da separação cromatográfica. A variação da acidez (α) e basicidade (β) da mistura ACN/água na fase móvel influencia a separação por serem responsáveis pelas interações específicas, condizentes com o tipo de estrutura dos praguicidas. A constante dielétrica (ε) fornecendo informações sobre a água atuante na densidade de carga das moléculas, apresenta uma diferenciação na condição experimental de 45% ACN na separação dos últimos praguicidas a eluírem da coluna. Os resultados do parâmetro de solubilidade de Hildebrand (δH) indicam que a cavitação ocorre mais facilmente nos experimentos ricos e pobres de ACN na fase móvel, 70 e 45% de ACN, respectivamente. Um comportamento quase que insensível em relação à estruturação da mistura da fase móvel é observado para metomil e dimetoato, que poderia ser atribuído às ligações de H intramoleculares, dificultando a interação com o solvente. Uma explicação satisfatória das propriedades descritoras da mistura ACN/água na fase móvel e a retenção dos praguicidas foi encontrada. A indicação de uma condição ótima a partir da avaliação das condições experimentais univariadamente é complexa. Tais resultados foram utilizados para uma
+
+96 verificação de domínios experimentais definindo parâmetros para uma otimização multivariada e obtenção de um método final para análise de amostras reais. Um planejamento fatorial de 4 variáveis em dois níveis e duas respostas (COF e CRS) indicaram que o experimento 7 (0,5 mL min-1, 40 ºC, 75 min de gradiente e 5% ACN inicial) apresenta condições experimentais adequadas para a separação parcial do par crítico 14 e 15 (azinfos-metil e linurom). De acordo com a ANOVA (Tabela 11) para COF, o modelo matemático é significativo e a variável importante para alguma variação efetiva na resposta é vazão da fase móvel com F de 135,15 (p<0,005). Uma avaliação qualitativa de CRS também indicou entre as possibilidades de resposta ótimas o experimento 7. A partir destes resultados, segmentações com declividades entre 0,71 e 2,5 min-1 não apresentaram melhoras na resolução entre o par de compostos 14, 15. Com as transições MS/MS (Figura 21 a 24), obtidas com o analisador tipo ion trap, uma compreensão das fragmentações foi importante para a escolha dos íons precursor e produto para definição das transições de quantificação. Os experimentos obtidos pelo sistema UPLC-MS/MS triplo quadrupolo, definidos segundo a Tabela 12 foram ajustados para os experimentos de validação e quantificação das amostras reais. A caracterização através da validação do método indicou que, para a maioria dos compostos, o método é adequado para a quantificação de amostras de urina provenientes da exposição ocupacional, com variações dentro dos limites do protocolo de validação. A sensibilidade do sistema UHPLC-MS/MS permitiu que a amostra fosse diluída 20 vezes, minimizando assim, os efeitos de matriz. Foi possível a quantificação das amostras reais em níveis baixos de concentração com desvios baixos através do método proposto. A quantificação das 25 amostras detectou a presença dos praguicidas
+
+aldicarbe-sulfona,
+
+simazina,
+
+carbofurano,
+
+diurom,
+
+mercaptodimetur,
+
+linurom, pirazofós, diazinona, metamidofós e propazina. As amostras apresentaram
+
+97 concentrações entre 10 e 50 µg L-1. Para algumas amostras não foi detecada a presença de qualquer praguicida acima do limite de quantificação.
+
+
+

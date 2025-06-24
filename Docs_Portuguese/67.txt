@@ -1,0 +1,1236 @@
+"Estudo de variações bioquímicas e morfológicas induzidas por pesticidas organofosforado e carbamato em tilápia (Oreochromis niloticus) e cascudo (Pterygoplichthys anisitsi), como biomarcadores de contaminação ambiental.”
+
+
+
+
+
+RESUMO
+
+Os contaminantes ambientais são relevantes no contexto ecotoxicológico devido a seus efeitos citotóxicos e carcinogênicos nos organismos não-alvos. A análise de biomarcadores bioquímicos constitui uma ferramenta eficiente nos estudos de avaliação de risco e impacto ambiental, pois conseguem realizar a detecção precoce dos efeitos nos organismos em virtude da exposição aos poluentes ambientais. O Brasil está entre os maiores consumidos de agrotóxicos do mundo e nesse contexto destacam-se os compostos organofosforados (OP) e carbamatos (CA). Neste trabalho foram analisadas em brânquias, fígado e tecido nervoso da tilápia Oreochromis niloticus e do cascudo Pterygoplichthys anisitsi após 2 e 7 dias, a atividade das enzimas acetilcolinesterase (AChE), carboxilesterase (CbE), glutationa S-transferase (GST), glutationa peroxidase (GPx), 7etóxiresorufina-O-deetilase (EROD), e peroxidação lipídica como candidatos a biomarcadores bioquímicos sensíveis à contaminação por diazinon (OP) e carbaril (CA). A morfologia do fígado dos cascudos foi avaliada após 7 dias de exposição aos pesticidas, em fragmentos de tecidos corados com HE. A exposição aos pesticidas causou significativa inibição da AChE e CbE nas duas espécies; aumento significativo da GST no fígado dos cascudos expostos ao OP , no fígado e brânquias das tilápias expostas ao CA e nas brânquias dos cascudos expostos ao CA; inibição da EROD no fígado das duas espécies expostas ao OP e tendência à ativação nas duas espécies expostas ao CA; tendências à diminuição dos níveis de malondialdeído e aumento da GPx no fígado nas duas espécies. Os cascudos expostos ao OP mostraram aumento na taxa de núcleos hipercromáticos e esteatose, e em ambas as exposições os cascudos apresentaram aumento no diâmetro do núcleo dos hepatócitos, sendo mais acentuado pelo composto CA. Estes resultados sugerem a utilidade da atividade da AChE, CbE, GST e parâmetros morfológicos no fígado como biomarcadores sensíveis à exposição de P. anisitsi e O. niloticus por praguicidas organofosforado e carbamato, abrindo novas perspectivas para a utilização destas espécies em estudos de biomanitoramento de ambientes aquáticos no Brasil.
+
+Palavras-chave: Pterygoplichthys anisitsi, Oreochromis niloticus, biomarcadores de contaminação, diazinon, carbaril. 
+
+I – Introdução
+
+INTRODUÇÃO Nos últimos anos, o nível de compostos xenobióticos (do termo grego xenos = estrangeiro, estranho; bio = vida) nos ecossistemas aquáticos vem aumentado de forma alarmante como resultado da atividade antropogênica sobre o meio ambiente, comprometendo a saúde dos seres vivos que habitam esses ecossistemas (CAJARAVILLE et al., 2000). A aceleração do processo de urbanização e industrialização, ocorrido principalmente após a Segunda Guerra Mundial, resultou no aumento da poluição hídrica e a contaminação das águas se torna um problema maior e mais complexo em nossa sociedade. A biota aquática está constantemente exposta a um grande número de substâncias tóxicas lançadas no ambiente, oriundas de diversas fontes de emissão, como: descarga de lixos tóxicos provenientes de efluentes industriais, drenagem agrícola, derrames acidentais de lixos químicos, os esgotos domésticos lançados em rios e mares, entre outros (RASHED, 2001). Dentre os diversos tipos de contaminantes ambientais destacam-se os hidrocarbonetos policíclicos aromáticos (HPAs), bifenilas policloradas (PCBs), dioxinas, compostos nitroaromáticos, metais pesados e diversos tipos de praguicidas, por serem compostos potencialmente citotóxicos e/ou carcinogênicos aos diversos organismos vivos, e por serem produzidos em grande escala (STEGEMAN et al., 1995; LEMAIRE & LIVINGSTONE, 1993). Diferentes estratégias podem ser adotadas para se avaliar o nível de contaminação do ambiente aquático como, por exemplo, a identificação e quantificação dos poluentes presentes na água, em sedimentos e nos organismos. Desde a década de 1970, pesquisadores e gestores de recursos hídricos da Europa Ocidental e América do Norte argumentam que as metodologias tradicionais de classificação de águas, baseadas em características físicas e químicas, análises quantitativas de poluentes não são suficientes para a avaliação da qualidade dessa água, sendo necessária também uma avaliação dos efeitos biológicos da água e suas propriedades sobre os organismos vivos (CAIRNS & PRATT, 1993). Para a realização de avaliações eficientes, é de fundamental importância a aplicação de análises integradas da qualidade da água, unindo as repostas das metodologias
+
+
+
+I – Introdução tradicionais de avaliação aos aspectos biológicos do sistema (ROSENBERG et al., 1993; METCALFE, 1989).
+
+1
+
+OS PRAGUICIDAS ORGANOFOSFORADOS E CARBAMATOS
+
+NO CONTEXTO DA CONTAMINAÇÃO AQUÁTICA O emprego de praguicidas tornou-se essencial nos sistemas atuais de produção agrícola, para o combate e a prevenção de pragas agrícolas, garantindo alimento suficiente e de qualidade para a população, porém, a contrapartida do aumento de produtividade proporcionado pelo seu uso pode ser observada nos impactos ambientais. Esses impactos ambientais são decorrentes da toxicidade dos praguicidas aos organismos não-alvo e da contaminação do solo e dos recursos hídricos (HILL, 1995; EDWARDS, 1993). Os principais contaminantes de origem agrícola são os resíduos de fertilizantes e os praguicidas ou agrotóxicos, sendo o uso de praguicidas na agricultura uma das principais causas da contaminação de águas superficiais e subterrâneas. Os agrotóxicos, quando aplicados sobre os campos de cultivo, podem atingir os corpos d'água diretamente, através da água da chuva e da irrigação, ou indiretamente pela percolação no solo, chegando aos lençóis freáticos. Outras formas de contaminação indireta podem ocorrer pela volatilização dos compostos aplicados nos cultivos e pela formação de poeira do solo contaminado e/ou da pulverização de praguicidas, que podem ser transportados por correntes aéreas e se depositarem no solo e na água, distantes das áreas onde foram originalmente usados (COOPER, 1993). A figura 1 ilustra o comportamento dos agrotóxicos no meio ambiente. As contaminações destas águas podem resultar em efeitos tóxicos para a fauna e flora aquáticas (SANTOS-NETO & SIQUEIRA, 2005). Uma vez na água e dependendo de suas características físico-químicas o resíduo do agrotóxico pode se ligar ao material particulado em suspensão, se depositar no sedimento do fundo ou ser absorvido pelos organismos, sendo então detoxicado e excretado, ou acumulado nos tecidos. No sistema aquático, o agrotóxico pode ser transportado por difusão nas correntes de água ou nos corpos dos organismos aquáticos.
+
+
+
+I – Introdução
+
+Figura 1: Comportamento dos agrotóxicos no meio ambiente, atingindo ecossistemas aquáticos (Adaptado de Nimmo, 1985).
+
+Alguns agrotóxicos e/ou metabólitos podem também retornar à atmosfera por volatilização. Assim, fica evidenciado que há uma interação contínua dos agrotóxicos entre sedimento e água, influenciada pelo movimento da água, turbulência e temperatura (NIMMO, 1985). Desta interação, pode resultar, inclusive, maior tempo de exposição dos organismos aquáticos aos compostos tóxicos. O Brasil é o terceiro mercado e o oitavo maior consumidor de agrotóxicos por hectare no mundo, sendo os herbicidas e inseticidas responsáveis por 60% dos produtos agrícolas comercializados no país (FAIRBANKS, 2001). Os praguicidas carbamatos e organofosforados vêm sendo amplamente utilizados como inseticida e parasiticida na agricultura e pecuária, desde a II Guerra Mundial (SOARES, 1998; ECOBICHON, 1996). Atualmente, são as categorias mais utilizadas na agricultura e nos ambientes domésticos (SINGH et al., 1995). Mais de 100 compostos organofosforados e carbamatos foram identificados e isolados nos EUA para controle de pragas agrícolas, inclusive pequenos vertebrados terrestres como cobras e roedores (HOFFMAN et al., 1998). Os carbamatos são ésteres derivados do ácido carbâmico; os organofosforados são fosfatos orgânicos derivados do ácido fosfórico, do ácido tiofosfórico ou do ácido ditifosfórico (fig. 2). Apesar dos carbamatos e organofosforados apresentarem estrutura
+
+
+
+I – Introdução química diferentes, ambos são inibidores das colinesterases, dentre elas a mais importante é a acetilcolinesterase (AChE). Esses compostos ligam-se ao centro esterásico da AChE impossibilitando-a de exercer sua função de hidrolisar o neurotransmissor acetilcolina (ACh), em colina e acido acético (fig. 3). (MEERDINK, 1989). No entanto ocorrendo a ligação de um composto organofosforado no sítio catalítico das esterases (enzima fosforilada), a inibição é irreversível, em condições naturais, devido à alta afinidade química entre o composto e a enzima. No caso da ligação de compostos do tipo carbamato nas esterases (enzima carbamilada), a afinidade dentre eles é menos intensa e à medida que o organismo sintetiza e disponibiliza mais enzima, a tendência é o desligamento das ligações carbamato-esterase e ocorrência cada vez menos freqüente desse tipo de ligação, devido à competição por substrato (VIOQUE-FERNÁNDEZ et al., 2007; THOMPSON, 1999; MEERDINK, 1989).
+
+ORGANOFOSFORADO
+
+CARBAMATO
+
+X= O ou S R’= CH3 ou CH2CH3
+
+Figura 2: Fórmula estrutural dos praguicidas organofosforados e carbamatos.
+
+Figura 3: Inibição da acetilcolinesterase (AChE) por praguicida organofosforado e carbamato, respectivamente. Os praguicidas se ligam no resíduo serina, sítio ativo da AChE.
+
+
+
+I – Introdução Os inseticidas organofosforados e carbamatos são absorvidos pelo organismo, pelas vias oral, respiratória e cutânea (JEYARATNAM & MARONI, 1994). Uma vez absorvido, são rapidamente distribuídos aos tecidos e órgãos. O metabolismo e a eliminação são relativamente rápidos, e não há evidências de haver bioacumulação (BARR & ANGERER, 2006; BARON, 1999). Os organofosforados são solúveis na água até a concentração de 50 mg/L, a 25oC e miscíveis na maioria dos solventes orgânicos; são comumente usados em cultivos de milho, algodão, amendoim e tomate.
+
+Os carbamatos são solúveis na água até a
+
+concentração de 700 mg/L, a 25oC e miscíveis na maioria dos solventes orgânicos; são comumente empregados no cultivo de milho, sorgo, alfafa, tabaco, amendoim, soja e arroz (HOFFMAN et al., 1998). No que se refere aos resíduos de praguicidas em água, a Legislação Brasileira (CONAMA) estabelece o valor máximo de 10 μg/ L para os organofosforados e carbamatos totais, em águas-doces de Classe 1 (quadro1).
+
+Quadro 1: Classificação das águas-doces, segundo CONAMA. Classe 1 – águas destinadas: Ɣ ao abastecimento domético após tratamento simplificado; Ɣ à preservação do equilíbrio natural das comunidades aquáticas: Ɣ à recreação de contato primário; Ɣ à irrigação de hortaliças que são consumidas cruas e de frutas que são ingeridas sem remoção de película; Ɣ à criação natural e/ou intensiva de espécies destinadas à alimentação humana.
+
+Dentre os praguicidas de uso mais difundido no Brasil (FERREIRA et al., 2008; NERO et al., 2007) e em todo o mundo (SCHULZ, 2004) estão o organofosforado Diazinon e o carbamato Carbaril, estando também entre os compostos mais tóxicos de suas categorias (MEERDINK, 1989).
+
+
+
+I – Introdução 1.1
+
+O ORGANOFOSFORADO DIAZINON
+
+O diazinon, 0,0-diethil 0-[6-methyl-2-(1-methyllethyl)-4-pyrimidinyl] (fig. 4), é usado no controle de vasta variedade de insetos prejudiciais na agricultura, como, traças, moscas-de-frutas, formigas e grilos, entre outros; e como nematicida de solo. Na pecuária é muito utilizado no tratamento da mosca-dos-chifres e nos domicílios é usado na forma de “iscas” contra baratas. O diazinon é também usado na manutenção de gramados relvados. Na década de 90 foram produzidas 4.670 toneladas desse composto só nos EUA (LARKIN e TJEERDEMA, 2000).
+
+Figura 4: Estrutura química do Diazinon.
+
+Sobre suas propriedades físico-químicas, o diazinon apresenta-se com liquído incolor a temperatura ambiente, com odor forte e desagradável. É totalmente solúvel em álcool e benzeno e de baixa solubilidade em água. Está disponível no mercado comumente na formas de pó molhável e grânulos solúveis em óleo. O diazinon é volátil (pressão de vapor 8,4x10-5 mmHg a 20oC), atingindo a atmosfera na forma de vapor e/ou partículas altamente dispersíveis. Ainda na atmosfera, o diazinon pode ser fotooxidado sendo então convertido na sua forma tóxica, o diazoxon. A taxa de conversão da forma tion para a oxon é significativamente aumentada durante o dia em relação à noite, bem como nos dias ensolarado em relação aos dias nublados (LARKIN e TJEERDEMA, 2000). Quando presente solubilizado em corpos d`água, o diazinon ainda pode se volatizar para a atmosfera ou sorver-se no solo e sedimentos. A degradação do inseticida na água
+
+
+
+I – Introdução ocorre por hidrólise espontânea em pHs extremamente alcalino, por fotólise principalmente na presença de peróxido de hidrogênio, e por biodegradação pelo zooplancton em nível bem pouco significativo (LARKIN & TJEERDEMA, 2000). O solo é um importante alvo de aplicação do diazinon devido a sua propriedade nematicida. Em geral, solos tipicamente argilosos e alto teor de matéria orgânica tendem a neutralizar o inseticida e o uso de compostos surfactantes podem ser usados na remediação dos solos contra esse inseticida. A microbiota também tem papel importante na degradação do composto, hidrolisando-o e mineralizando o carbono-pirimidinil em CO2.
+
+1.2
+
+O CARBAMATO CARBARIL
+
+O Carbaril, 1-naphithyl-N-methyl carbamate (fig. 5), popularmente conhecido por “baygon” é usado no controle de inúmeras espécies de inseto, em mais de 120 tipos de plantações. É também usado, de um modo geral, contra a infestação do besouro-da-casca em pinheiros, como carrapaticida em mamíferos e em jardins. Esse inseticida está disponível no mercado nas formas de pó molhável, pellets, grânulos, suspensões e soluções, sendo o inseticida mais detectado em águas superficiais nos EUA (GUNASEKARA et al., 2008).
+
+Figura 5: Estrutura química do Carbaril.
+
+Sobre suas propriedades físico-químicas, o carbaril apresenta baixo peso molecular e é pouco volátil, devido a sua baixa pressão de vapor (0,041 mPa a 23,5oC). Entretanto, ele pode ser facilmente disseminado na atmosfera, imediatamente após a pulverização, sorvido nas partículas do veículo usado. Apresenta moderada solubilidade em água, mas a solubilidade pode aumentar com o aumento da temperatura e dependendo do solvente orgânico usado nas formulações. É sorvido rapidamente no solo, sendo que a composição 
+
+I – Introdução mineral e orgânica deste afeta diretamente o nível de persistência nesse ambiente. Bactérias, principalmente as anaeróbias, e fungo presentes no solo são capazes de degradar o carbaril. No entanto, a amônia presente nos adubos e fertilizante prejudica a atuação da microbiota na hidrólise do inseticida (GUNASEKARA et al., 2008). Fatores abióticos também atuam na degradação do carbaril. O inseticida é hidrolisado espontaneamente na água em meio alcalino, principalmente sob altas temperaturas e a modificação de subprodutos do carbaril pode ocorrer via fotólise. Contudo, o carbaril, em águas com alto teor de oxigênio dissolvido, pode ser degradado via reações de oxi-redução formando radicais superóxidos, que reagem com radicais 1-naphthoxyl (GUNASEKARA et al., 2008).
+
+2
+
+OS BIOMARCADORES DE CONTAMINAÇÃO AMBIENTAL
+
+Uma estratégia para se analisar a contaminação ambiental é através da análise de biomarcadores de contaminação, que consiste no estudo de alterações biológicas em nível molecular, celular ou fisiológico, avaliadas em organismos que residem em áreas com suspeitas de contaminação, que expressam a exposição e os efeitos tóxicos causados pelos poluentes presentes no ambiente (WALKER, 1996). O termo biomarcador foi definido em 1987 pelo Committee on Biological Markers of the National Research Council (NRC) como “indicador que sinaliza eventos em sistemas biológicos ou amostras, submetidos à exposição química” (SCHLENK, 1999). Tradicionalmente, as técnicas para a avaliação da contaminação ambiental por meio dos biomarcadores vêm sendo divididas em duas abordagens principais (VAN DER OOST et al., 2003): •
+
+aquelas associadas aos níveis de organização, tais como populações,
+
+comunidades e ecossistemas; •
+
+em nível individual – que trata de alterações comportamentais, reprodutivas,
+
+alimentares e fisiológicas. Um biomarcador eficiente deve apresentar grande susceptibilidade, boa sensibilidade, relativa especificidade e baixo custo de análise (STEGEMAN et al., 1992). São várias as vantagens do uso de biomarcadores nos estudos de monitoramento ambiental. Os biomarcadores apresentam alto potencial de diagnose das respostas 
+
+I – Introdução biológicas a contaminantes, sinalizam os efeitos das contaminações em longo prazo e até nos mais altos níveis de organização biológica. Os biomarcadores detectam as primeiras alterações nas respostas biológicas e com isso, medidas paleativas podem ser instauradas evitando que os efeitos da intoxicação nos organismos cheguem a um ponto irreversível (VAN DER OOST et al., 2003).
+
+3
+
+SISTEMAS RELACIONADOS À METABOLIZAÇÃO DE XENOBIÓTICOS
+
+O fígado nos vertebrados, assim como os tecidos associados com o processamento de alimentos nos invertebrados é o principal órgão de metabolização e biotransformação de compostos químicos, dentre eles os xenobióticos (WILLIAMS & IATROPOULOS, 2002; LIVINGSTONE, 1998). A eliminação de xenobióticos lipofílicos depende da conversão desses compostos em metabólitos hidrofílicos favorecendo a sua excreção pela urina ou fezes. A metabolização dos compostos xenobióticos ocorre em três fases: as fases I e II correspondem à biotransformação desses compostos e a fase III corresponde à excreção dos produtos resultantes da biotransformação. Durante as fases I e II ocorre a conversão dos xenobióticos em metabólitos hidrossolúveis e a conjugação com moléculas orgânicas de considerável peso molecular, o que vem a facilitar sua excreção para o exterior das células por meio dos canais transmembrânicos, na fase III. A fase I envolve reações de oxidação, redução e hidrólise que expõe ou introduz grupos funcionais (-OH, -SH, -NH2, -COOH) à molécula do xenobiótico fazendo com que esta se torne polar ou permitindo as reações de conjugação da fase II. Na fase II, ocorre a conjugação do xenobiótico não transformado ou dos metabólitos oriundos da fase I, com substratos endógenos como sulfatos inorgânicos, aminoácidos e glutationa, entre outros. A conjugação confere ao xenobiótico (ou metabólito da fase I) maior solubilidade em água para sua posterior excreção. Os principais grupos de enzimas envolvidas na fase I, são as monooxigenases flavoproteínas (FMOs) e as monooxigenases heme proteínas (citocromo P450). Ambos os grupos são expressos em vertebrados aquáticos e invertebrados. Entretanto, os citocromos
+
+
+
+I – Introdução P450 dominam a literatura no que diz respeito às monooxigenases, em mamíferos e em espécies aquáticas (STEGEMAN & HAHN, 1994). O complexo multienzimático P450 é formado por heme-proteínas ligadas às membranas do retículo endoplasmático dos hepatócitos; quando o ferro-hemo é reduzido e complexado em monóxido de carbono, a reação absorve luz de comprimento de ondas próximo a 450 nm, daí o nome citocromo P450. Essa familia de enzimas metaboliza inúmeros substratos, desde compostos endógenos como esteróides e prostaglandinas, a compostos exógenos como xenobióticos e drogas. Entretanto, alguns intermediários desse metabolismo são altamente reativos e podem interagir com muitas biomoléculas (SARASQUETE e SEGNER, 2000). A reação mais comum catalisada pelo citocromo P450 é uma reação monooxigenase, isto é, inserção de um átomo de oxigênio em um substrato orgânico (RH), enquanto o outro átomo de oxigênio é reduzido à água:
+
+RH + O2 + 2H+ + 2e– ĺ ROH + H2O
+
+As subfamílias CYP1, CYP2 e CYP3 estão envolvidas no metabolismo de compostos xenobióticos (LEWIS, 2001). A subfamília P450 1A (CYP1A), dentre os citocromos P450, é o biomarcador de contaminação aquática mais estudado (VAN DER OOST et al., 2003), inclusive em peixes (MONOSTORY et al., 1996). A atividade da 7-etóxiresorufina-0-deetilase (EROD) é usada para verificar a indução do P450 1A em peixes (VAN DER OOST et al., 2003). O aumento da atividade das enzimas do complexo citocromo P450 é considerado um dos sinais biológicos mais precoces da presença de poluentes indutores destas enzimas no ambiente aquático (VAN DER OOST et al., 2003). Nesse contexto, a subfamília 1A se destaca, sendo ativada por muitos contaminantes carcinogênicos (MONOSTORY et al., 1996). A indução do citocromo P4501A em fígado de peixes é geralmente reconhecida como um biomarcador útil em relação à exposição a diferentes tipos de poluentes (e.g. hidrocarbonetos policíclicos aromáticos (HPAs), bifenilas policloradas (PCBs), entre
+
+
+
+I – Introdução outros) não sendo, portanto, composto-específico (CASARETT & DOULLS, 1991). A indução desta isoforma pode ser evidenciada pelo aumento da atividade de EROD (7-etoxiresorufina-O-desetilase), já que a etoxiresorufina parece ser um substrato preferencial para CYP1A em tecido hepático de diferentes espécies, inclusive de peixes. Alguns praguicidas piretróides e organoclorados se mostraram potentes indutores da EROD em peixes (WHYTE et al., 2000). Nesses casos a presença de anel aromático na estrutura do xenobiótico é considerada uma característica importante mediando a afinidade das isoformas CYP1As por esses compostos (SAFE, 1990). Os praguicidas diazinon e carbaril apresentam anel aromático conforme mostraram as figuras 4 e 5, respectivamente. Os compostos derivados dos xenobióticos, produzidos durante a fase I da biotransformação, devem ser ligados a moléculas endógenas através de reações de conjugação (fase II). Este mecanismo bioquímico de defesa aumenta a hidrossolubilidade dos compostos facilitando a sua excreção. Dentre as enzimas mais importantes neste processo estão as glutationas-S-transferases (GST), estando entre as mais abundantes classes de enzimas do fígado. A família das GSTs é composta por proteínas diméricas solúveis que atuam catalisando reações de conjugação entre uma grande variedade de xenobióticos com a glutationa reduzida (GSH) (TAN et al., 1987). Essa reação ocorre via ataque nucleofílico da GSH em produtos derivados dos xenobióticos formados na fase I da biotransformação (fig. 6),
+
+aumentando a hidrossolubilidade dessas moléculas, facilitando a sua excreção
+
+(HAYNES & PULFORD, 1995).
+
+Figura 6: Metabolização do praguicida organofosforado metil paration pela glutationa S-transferase (GST) (HAYES & PULFORD, 1995).
+
+Assim, o nível de GST total dos hepatócitos é comumente analisado em organismos coletados em ambientes com suspeita de contaminação, uma vez que sua atividade aumentada pode indicar uma grande produção de compostos derivados da fase I da
+
+
+
+I – Introdução biotransformação dos xenobióticos (OZMEN et al., 2006; HENSON & GALLAGHER, 2004), inclusive em peixes das mais variadas espécies (VAN DER OOST et al., 2003). Hyne e Maher (2003) sugerem o estudo das glutationas-S-transferases em casos de suspeita de contaminação por praguicidas, visto que essas enzimas atuam na detoxicação de praguicidas. As enzimas de metabolização e biotransformação são sintetizadas pelos organismos independentemente de estímulo externo e a presença de xenobióticos no interior das células pode induzir o aumento da síntese ou da atividade dessas enzimas. Assim, a avaliação do nível da atividade dessas enzimas pode servir como ferramenta nos estudos de monitoramento ambiental. Em peixes, elevado nível de enzimas que participam da metabolização de xenobióticos tem sido encontrado em tecidos extrahepáticos como rins, trato gastrointestinal e brânquias (MONOSTORY et al., 1996), ilustrando o notório papel desses órgãos, além do fígado, no processo de desintoxicação do organismo.
+
+4
+
+METABOLIZAÇÃO DO DIAZINON E DO CARBARIL
+
+Os animais podem metabolizar o diazinon em produtos inativos através das reações de fase I e fase II da biotransformação ou no seu metabólito ativado, o diazoxon. Tanto os metabólitos originados nas fases I e II quanto os metabólitos formados da metabolização do diazoxon serão então excretados na urina ou fezes (fig. 7). Os principais mecanismos de degradação deste inseticida são: hidrólise do éster tiol pelas A-esterases, oxidações e hidroxilação do grupo isopropil pelas monooxidases de função mista (MFOs), na fase I; e conjugação do anel pirimidil com o tripeptídeo glutationa, na fase II. Os produtos ativados que podem vir a serem formados na fase I são os diazinons monohidroxil e o diazoxon (LARKIN e TJEERDEMA, 2000). Em humanos a conversão tion-oxon é atribuída às isoformas CYP3A4, CYP2D6 e CYP2C19, principalmente (KAPPERS et al., 2001; SAMS et al., 2000) Posteriormente esses metabólitos tóxicos são inativados antes da excreção. Há relatos de que o diazinon apresenta efeitos genotóxicos causando aberrações cromossômicas em células mitóticas (LARKIN & TJEERDEMA, 2000) e micronúcleos em linfócitos humanos (BIANCHI-SANTAMARIA et al., 1997). Comprometimento 
+
+I – Introdução reprodutivo em peixes também foi atribuído a este inseticida podendo ocorrer diminuições na taxa de desova e na taxa de eclusão dos ovos. Além disso, o diazinon pode retardar a maturação sexual em invertebrados aquáticos (LARKIN & TJEERDEMA, 2000).
+
+Figura 7: Metabolização do diazinon no fígado. O complexo P450 promove reações de hidrólise e oxidação no processo de detoxicação; outras isoformas promovem a ativação do inseticida pela conversão da forma tion para a oxon, que posteriormente é hidrolisado pelas paraoxonases (PONs). Adaptado de Larkin & Tjeerdema (2000).
+
+A metabolização do carbaril em produtos atóxicos também ocorre nos animais expostos e consequentemente intoxicados pelo inseticida. Em geral o carbaril não é acumulado nos tecidos, sendo eliminado na urina e fezes na forma de seu principal metabólito, o 1-naphthol, entre outros. As principais formas de metabolização do carbaril nos animais ocorrem durante a fase I e incluem reações de oxidação, via hidroxilação e epoxidação, e hidrólise. Variadas isoformas do complexo enzimático P450 (MFOs) são as principais enzimas atuantes na metabolização do carbaril no fígado (fig. 8). Estudos mostram que a reação do carbaril com certos compostos inorgânicos que contem nitrogênio, como o nitrato de sódio, forma o composto n-nitrosocarbaryl, carcinogênico em mamíferos (GUNASEKARA et al., 2008).
+
+
+
+I – Introdução
+
+Figura 8: Produtos da metabolização do carbaril pelo citocromo P450. Metabólitos diversos podem ser formados nas diferentes espécies (b, c, d, e, f, g). (a) corresponde ao produto da hidrólise do carbaril em meio alcalino. Adaptado de Gunasekara et al. (2008).
+
+5
+
+OS BIOMARCADORES DE ESTRESSE OXIDATIVO
+
+Dentre os sistemas bioquímicos mais recomendados como biomarcadores de contaminação aquática, destacam-se também aqueles que levam os organismos ao estresse oxidativo (VALAVANIDIS et al., 2006), uma situação de agressão mediada pelos radicais livres. Os radicais livres são espécies químicas que possuem elétron não pareado, apresentam campo magnético e são altamente reativos, visando sua estabilidade molecular. No metabolismo de organismos aeróbios sadios, a produção de espécies reativas de oxigênio (EROs), oriundas do processo de respiração celular (fig. 9), é balanceada pelas defesas antioxidantes. O estresse oxidativo é resultado do desbalanço entre a produção de radicais livres pelo organismo e a atuação de suas defensas antioxidantes.
+
+
+
+I – Introdução
+
+Figura 9: Reducão do oxigênio molecular (O2) na mitocôndria via transferência de elétron, até a formação da H2O, na respiração celular.
+
+As principais formas de EROs são o radical ânion superóxido (O2-•) e o radical hidroxil (•OH). O peróxido de hidrogênio (H2O2) é também importante nesse contexto, pois ele leva à formação do radical hidroxil. As vias de formação desses radicais e as principais defesas antioxidantes encontram-se resumidas na figura 10. Na biotransformação de xenobióticos pode ocorrer uma produção exacerbada de EROs tais como o radical ânion superóxido (O2-•) e radical hidroxil (•OH) (LÓPEZBAREA, 2000; LÓPEZ-BAREA & PUEYO, 1998) e as defesas antioxidantes podem não ser suficientes para a neutralização desses radicais.
+
+Figura 10: Esquema simplificado de sistemas oxidativos e antioxidativos dentro de uma célula. Ânion superóxido é produzido em quantidades significativas no citosol por monooxigenases, Fe2+ ou Cu+ e na mitocôndria pelo escape de elétrons provenientes da cadeia respiratória. Duas moléculas de superóxido reagem espontaneamente ou via superóxido dismutase (SOD), produzindo peróxido de hidrogênio, o que irá permitir o fluxo de EROs entre compartimentos celulares. O peróxido de hidrogênio pode ser metabolizado à água e ao oxigênio molecular por diversos sistemas enzimáticos ou convertido à radical hidroxil, o qual é muito reativo, através de reações catalisadas por metais. Adaptado de Nordberg & Arnér (2001).
+
+A citotoxicidade de praguicidas também é atribuída à produção exacerbada e acúmulo de H2O2 no interior das células, resultante do metabolismo oxidativo (POOVALA et al., 1999). Abdollahi et al. (2004) relata a ação das principais categorias de praguicidas, 
+
+I – Introdução dentre eles os compostos organofosforados e os carbamatos, e o papel deles na indução do estresse oxidativo durante a sua metabolização. O H2O2 pode participar de reações que levam a geração do radical hidroxil (•OH), altamente reativo, capaz de oxidar, por exemplo, biomoléculas como o DNA e membranas (BAGCHI et al., 1995). Ácidos graxos poli-insaturados são particularmente susceptíveis ao ataques por EROs. A abstração de um átomo de hidrogênio destes ácidos graxos por um radical, pode levar a formação de um radical lipídico que por sua vez pode reagir com o O2, formando um radical peroxil Este por sua vez pode abstrair um átomo de hidrogênio de um outro ácido graxo adjacente estabelecendo assim uma cadeia de reações autocatalíticas que leva à oxidação das biomembranas em hidroperóxidos lipídicos (ESTERBAUER, 1984). Estas etapas estão apresentadas na figura 11, onde L representa o lipídio:
+
+Figura 11: A reação inicia-se com o seqüestro do hidrogênio do ácido graxo polinsaturado (LH) constituinte da membrana celular; tal seqüestro pode ser realizado pelo OH. (radical hidroxil) ou pelo LO. (radical alcoxil), com conseqüente formação do L. (radical lipídico). Na primeira equação de propagação, o L. reage rapidamente com o O2, resultando em LOO. (radical peroxil), que, por sua vez, seqüestra novo hidrogênio do ácido graxo polinsaturado, formando novamente o L. na segunda equação de propagação. O término da lipoperoxidação ocorre quando os radicais (L. e LOO.) produzidos nas etapas anteriores propagam-se e reagem entre si formando lipoperóxidos, complexos mais estáveis. Adaptado de Halliwell & Gutteridge (1999).
+
+A pertubação nas interações lipídicas levam às alterações estruturais ocasionando comprometimento funcional das biomembranas. A peroxidação lipídica tem sido considerada uma das principais contribuidoras para a perda da função celular sob situações de estresse oxidativo. A lipoperoxidação pode, por exemplo, levar ao influxo de íon Ca+2 nas células e, por conseqüência, ocasionar a ativação descontrolada de lipases e proteases no citosol, enquanto que o ataque à membranas
+
+
+
+I – Introdução mitocondriais pode alterar sua permeabilidade e induzir um desequilíbrio no metabolismo energético celular (STOREY, 1996). Mas, além do dano causado às membranas, os hidroperóxidos derivados da peroxidação lipídica podem eventualmente ser metabolizados, originando uma série de produtos de menor peso molecular tais como alcanos, alcenos, derivados epóxidos, aldeídos, entre outros. Os produtos da peroxidação lipídica,
+
+apesar de serem menos reativos que os
+
+radicais livres que iniciaram a lipoperoxidação, podem ser potencialmente citotóxico, como é o caso do malondialdeído (MDA). Diversos estudos mostraram que o MDA é mutagênico em bactérias e células de mamífero e carcinogênico em ratos. Tais características podem ser explicadas pela capacidade de reação deste aldeído com proteínas e DNA (LOUREIRO et al., 2002). O MDA é o produto da lipoperoxidação mais avaliado como indicativo de estresse oxidativo celular (GUTTERIDGE & HALLIWELL, 1990; VACA et al., 1988). Para proteger as células contra os danos causados pelas EROs os organismos possuem eficientes sistemas de defesas antioxidantes enzimáticos e não-enzimáticos celulares, que podem prevenir sua formação, inativar as reações oxidativas ou reparar o dano causado (SIES, 1993). Dentre os sistemas antioxidantes enzimáticos mais importantes estão as enzimas superóxido dismutase (SOD), a catalase (CAT) e as glutationas peroxidases (GPx) (SIES, 1993; HEBBEL, 1986). As GPx catalisam a redução de peróxido de hidrogênio e peróxidos lipídicos (fig. 12).
+
+Figura 12: Todas as isoformas da GPx utilizam a glutationa reduzida como substrato, transformando os peróxidos orgânicos em álcoois correspondentes. A GPx-selênio dependente utiliza a glutationa reduzida (GSH) como doadora de elétrons para a redução do H2O2. Adaptado de Prohaska (1980).
+
+
+
+I – Introdução O peróxido de hidrogênio (H2O2), um dos maiores resultantes do metabolismo oxidativo participam de reações que levam a geração do radical hidroxil (•OH), altamente reativo. Por sua vez, o H2O2 pode ser detoxificado pela CAT e pelas GPx a O2 e H2O, sendo que a GPx utiliza a glutationa reduzida (GSH) como doadora de elétrons para a redução do H2O2 (fig. 13) (FARBER et al., 1990; KEELING & SMITH, 1982). (fig. 13)
+
+Figura 13: Esquema mostrando a atividade antioxidante da GPx sobre o peróxido de hidrogênio. O peróxido de hidrogênio é reduzido pela GPx através da oxidação de duas moléculas de GSH formando GSSG. Em seguida, a GSSG pode voltar ao estado reduzido sob ação da GR sob o consumo de NADPH. Adaptado de Nordberg & Arnér (2001).
+
+As enzimas de defesa antioxidante também são usadas como ferramenta em estudos de biomonitoramento ambiental (RUAS et al., 2008; VAN DER OOST et al., 2003; TORRES et al., 2002).
+
+6
+
+OUTROS BIOMARCADORES DE CONTAMINAÇÃO AQUÁTICA
+
+6.1
+
+B-esterases
+
+De forma geral, as esterases são classificadas em 3 categorias, segundo Aldridge (1953): •
+
+A-esterases: esterases que hidrolisam fósforos-orgânicos, logo, são as enzimas
+
+capazes de hidrolisar os metabólitos ativos dos compostos organofosforados, como a forma oxon. •
+
+B-esterases: vasto grupo de esterases que, caracteristicamente, possuem o
+
+resíduo serina e, assim, são inibidas pelos organofosforados na forma oxon, tendo a acetilcolinesterase como o principal exemplo dessa categoria. 
+
+I – Introdução •
+
+C-esterases: esterases que não interagem com os organofosfatos.
+
+A acetilcolinesterase (AChE), principal B-esterase, é responsável pela hidrólise da acetilcolina em colina e ácido acético nas sinapses nervosas. As carboxilesterases (CbEs) formam uma família de B-esterases que hidrolisam ésteres carboxílicos. Estão presentes em vários tecidos de invertebrados a vertebrados, mas principalmente no fígado (WHEELOCK et al., 2008) e tendo cada uma delas um substrato específico, seja ele endógeno ou xenobiótico contendo grupo éster (THOMPSON, 1999). Os inseticidas organofosforados e carbamatos inibem a atividade da AChE e da CbE ligando-se no sítio catalítico dessas enzimas, a porção serina (THOMPSON, 1999). (fig. 3)
+
+Assim, a avaliação da inibição de B-esterases, tais como carboxilesterase (CbE) e principalmente a acetilcolinesterase (AChE), é classicamente utilizada como indicativo da presença de praguicidas do tipo carbamato (CA) e organofosforado (OP) no ambiente (SARKAR et al., 2006; GALLOWAY et al., 2002; CAJARAVILLE et al., 2000; THOMPSON, 1999; TIMBRELL, 1998). As B-esterases têm sido utilizadas como indicadoras da exposição de organismos a estes tipos de compostos, nos tecidos de vertebrados e invertebrados (TORRE et al., 2000; NARBONNE et al., 1999).
+
+6.2
+
+Biomarcadores morfológicos
+
+A análise morfológica de tecidos também fornece informações importantes a respeito da fisiopatologia celular. Assim, padrões morfológicos celulares, teciduais e anatômicos podem ser analisados como biomarcadores de exposição a contaminantes em peixes e outros organismos (VAN DER OOST et al., 2003; BERNET et al., 1999; MURTY, 1986). Segundo Van Der Oost et al. (2003), as brânquias e o fígado de peixes são os principais alvos de estudos das lesões patológicas decorrentes da exposição a poluentes antropogênicos e as doenças neoplásicas estão frequentemente associadas à toxicidade desses compostos. As alterações agudas que normalmente acarretam na morte celular são diagnosticadas com frequência quando o grau da contaminação é elevado enquanto que as exposições crônicas permitem determinar os aspectos subletais das alterações morfológicas. Muitas alterações persistem mesmo depois de cessada a exposição,  
+
+I – Introdução fornecendo também ferramentas que podem elucidar a melhor compreensão dos efeitos tóxicos do poluente. Muitas das patologias celulares em nível estrutural estão relacionadas à ação das EROs decorrentes do estresse oxidativo. Compostos organofosforados, por exemplo, podem induzir a citotoxicidade através da geração de radicais livres (POOVALA et al., 1998). As EROs podem promover a lipoperoxidação da membrana celular comprometendo as trocas entre a célula e o meio externo; a interrupçãodo efluxo de íons Ca+ leva ao ganho de água pela celular culminando no inchaço ou tumefação celular. Esse é apenas um exemplo de alteração morfológica ocasionada pela ação de contaminante. Segundo os autores Bruslé e Anadon (1996), o fígado dos peixes é extremamente sensível a variações ambientais e poluentes. Variações inter-específicas, quanto ao nível de toxicidade dos poluentes, ocorrem devido à particularidades espécie-específicas a respeito da presença de diferentes isoformas de enzimas que atuam na metabolização dos tóxicos (VAN DER OOST et al., 2003; VITTOZZI et al., 2001). Assim, alterações morfológicas encontradas no tecido hepático podem vir a constituir valiosas ferramentas como biomarcadores de contaminação do organismo. As alterações histológicas aparecem como resposta a médio-prazo, quando comparadas com as alterações bioquímicas, mas a histologia é um método rápido na detecção dos efeitos dos tóxicos no organismo (BERNET et al., 1999). A maioria das lesões morfológicas induzidas pelos contaminantes aquáticos, como hiperplasia e necrose, são inespecíficas, porém as células se mostram extremamente susceptíveis a elas (MEYERS & HENDRICKS, 1982).
+
+7
+
+OS PEIXES COMO ORGANISMOS SENTINELAS NOS ESTUDOS DE
+
+CONTAMINAÇÃO AQUÁTICA
+
+Os ambientes aquáticos recebem diariamente substanciais quantidades de poluentes que podem atuar como potencias deturpadores dos ecossistemas aquáticos. Os organismos podem absorver os poluentes aquáticos a partir de partículas tóxicas que estão depositadas nos sedimentos, em suspensão na água e/ou assimiladas nos alimentos. Assim, a exposição aos contaminantes aquáticos dependerá de particularidades ecológicas de cada espécie.
+
+ 
+
+I – Introdução Os organismos aquáticos são frequentemente escolhidos com sentinelas nos estudos de contaminação ambiental devido à alta capacidade que eles apresentam de assimilação dos poluentes presentes no ambiente em que habitam, facilidade na captura e alta sensibilidade fisiológica decorrentes de exposição crônica e às concentrações sub-letais de contaminantes (VALAVANIDIS et al., 2006). A escolha da ictiofauna para estudos de contaminação aquática deve-se ao fato desse grupo possuir grande representatividade nos ecossistemas aquáticos marinhos e dulcícolas. Além disso, os peixes abrangem vários níveis tróficos, desempenhando importante papel ecológico nas teias alimentares aquáticas devido à sua função como transportadores de energia dos menores para os mais elevados níveis tróficos; e participam de relações inter-específicas com os mais diversos grupos de organismos aquáticos (VAN DER OOST et al., 2003). Consequentemente, até mesmo a mais singela alteração na qualidade de vida e saúde desses animais pode acarretar em abalos no ecossistema aquático. O importante papel econômico-social dos peixes também deve ser considerado nesse contexto já que muitas espécies desempenham importante papel como fonte de alimento para a população humana, além de também servir como fonte de renda familiar em muitas comunidades. Os peixes são os vertebrados mais antigos e numerosos. Mais de 28.000 espécies são conhecidas (NELSON, 2006) e essa grande riqueza de espécies reflete-se também na sua diversidade morfológica e ecológica, a maioria das quais vive em águas tropicais. Cerca de 40% vivem na plataforma continental de mares quentes, em águas com menos de 200m de profundidade (LOWE-MCCONNELL, 1999).
+
+8
+
+A TILÁPIA E O CASCUDO COMO SENTINELAS NO ESTUDO DE
+
+CONTAMINAÇÃO POR ORGANOFOSFORADO E CARBAMATO
+
+Os teleósteos (Teleostei) engloba uma das três infraclasses da classe Actinopterygii (do grego aktis, raio + pteryx, nadadeira; asa) de peixes ósseos. Agrupa os peixes de esqueleto ósseo, cauda homocerca, escamas ciclóides ou ctenóides e bexiga natatória habitualmente presente. Carecem de espiráculos. A divisão Teleostei abrange a maioria dos diversos grupos de peixes comuns e viventes atualmente agrupados em 38 ordens, cerca de 425 famílias e quase 4.070 generos de peixes (BOND, 1996.) 
+
+I – Introdução Dentre as famílias de Teleostei, as sete maiores (que incluem cerca de 30% do total) - Cyprinidae, Gobiidae, Characidae, Labridae, Serranidae, Loricariidae e Cichlidae - estão representadas em águas tropicais (NELSON, 1984).
+
+8.1
+
+Os Loricarídeos
+
+O nome científico da família (lorica) significa armadura, em latim. Essa família é representada pelos cascudos. Os cascudos apresentam o corpo coberto por placas ósseas, seus olhos são pequenos, relacionados à sua atividade principalmente noturna e estão em posição dorsal na cabeça, indicando seus hábitos bentônicos. A boca em posição inferior também indica o hábito bentônico, e os lábios expandidos em forma de ventosas estão relacionados ao hábito de permanecer em trechos de correnteza a ao tipo de alimentação; são animais tipicamente raspadores de substratos. Os cascudos têm a capacidade de absorver oxigênio em porções modificadas e especializadas do trato digestório, após subir à superfície e engolir ar. Este tipo de respiração aérea torna os cascudos muito resistentes fora d´água, uma característica bem conhecida por pescadores. Os ovos dos cascudos são relativamente grandes e, em diversas espécies, o macho cuida da desova aderida ao substrato e abrigada em tocas e frestas. (BRITSKI, 1972).
+
+8.1.1 O cascudo Pterygoplichthys anisitsi (Eigenmann & Kennedy, 1903)
+
+O “cascudo-pintado” ou “acari”, Pterygoplichthys anisitsi é um loricariídeo de grande porte, com comprimento total e massa corpórea alcançando aproximadamente 50cm e 900g, respectivamente (GRAÇA & PAVANELLI, 2007). A espécie possui o corpo achatado dorso-ventralmente, de coloração escura com várias manchas claras, menores sobre a cabeça, e coberto por placas dérmicas, pedúnculo caudal longo, nadadeiras peitorais grandes, olhos dorsais e boca na posição ventral com lábios relativamente desenvolvidos, que funcionam como ventosas (WEBER, 1992) (fig. 14-A). Armbruster (2004) realizou a análise filogenética da família Loricariidae e agrupou todas as espécies com 10 ou mais raios ramificados na nadadeira dorsal, como pertencentes a um único gênero, Pterygoplichthys.
+
+
+
+I – Introdução O Pterygoplichthys anisitsi é uma espécie com ocorrência na América do Sul, nas bacias do médio e alto Paraná, do Paraguai e do Uruguai (LANGEANI & ARAÚJO, 1993; WEBER, 1992). Alimenta-se de detritos, sedimentos e larvas de insetos (HAHN et al., 2004). Apresenta cuidado parental, com a construção de ninhos pelo macho e a primeira maturação gonadal nas fêmeas ocorre com 243 mm e nos machos com 241 mm (SUZUKI et al., 2004). Dentro da organização sistemática animal, Pterygoplichthys anisitsi ocupa seguinte posição:
+
+Reino: Animalia Filo: Chordata Subfilo: Vertebrata Superclasse: Gnasthotomata Classe: Actinopterygii Subclasse: Neopterygii Infraclasse: Halecostomi Divisão: Teleostei Subdivisão: Euteleostei Superordem: Ostariophhysi Ordem: Siluriformes Classe: Osteichthyes Ordem: Siluriformes Subordem: Siluroidei Família: Loricariidae Subfamília: Hypostominae Tribo: Pterygoplichthini Gênero: Pterygoplichthys Espécie: P. Anisitsi
+
+8.2
+
+Os Ciclídeos
+
+Os peixes desta família se distribuem por toda a região neotropical e África Equatorial. Todos possuem nadadeira dorsal e anal com espinhos pungentes e linha lateral 
+
+I – Introdução fragmentada em duas regiões. Muitos ciclídeos cuidam dos ovos e da prole, às vezes abrigando os filhotes na boca (BRITSKI, 1972).
+
+8.2.1 A tilápia Oreochromis niloticus (Linnaeus, 1758)
+
+A “tilápia do Nilo”, Oreochromis niloticus, é um ciclídeo de médio porte, com comprimento total e massa corpórea alcançando aproximadamente 200 mm e 500g, respectivamente (GRAÇA & PAVANELLI, 2007). A espécie apresenta o corpo alto e comprimido lateralmente, cobertos pos escamas e de coloração clara com faixas transversais escuras. A boca é terminal e os olhos laterais e apresentam linha lateral dividida (NELSON, 2002). As nadadeiras possuem coloração clara, sendo a caudal com pintas escuras unidas entre si formando listas transversais; as nadadeiras dorsal e anal apresentam espinhos (Fig. 14-B). A Oreochromis niloticus é uma espécie endêmica das bacias de rios africanos e foi introduzida em várias bacias da América do Sul. A espécie é muito cultivada em pesqueiros e pisciculturas (GRAÇA & PAVANELLI, 2007), ocorrendo assim em águas de todo o território brasileiro (LOWE-MCCONNELL, 1999); alimenta-se preferencialmente de larvas de insetos e detritos (SOUZA & TEIXEIRA-FILHO, 1985). A maturidade sexual é atingida em 3-6 meses dependendo da temperatura e a maturação gonadal ocorre com aproximadamente 30g. A reprodução só ocorre quando as temperaturas ultrapassam 20°C. Apresenta cuidado parental, com a construção de ninho pelo macho e as fêmeas carregam os ovos dentro de suas bocas por cerca de uma semana (TREWAVAS, 1983). As tilápias apresentam padrões de comportamentos sociais e estabelecem hierarquia de dominância e subordinação dentro do território habitado pelo grupo. Eles tendem a serem agressivos também com indivíduos de outra espécie (GOLDSTEIN, 1988). Dentro da organização sistemática animal, Oreochromis niloticus ocupa a seguinte posição:
+
+
+
+I – Introdução Reino: Animalia Filo: Chordata Subfilo: Vertebrata Superclasse: Gnasthotomata Classe: Actinopterygii Subclasse: Neopterygii Infraclasse: Halecostomi Divisão: Teleostei Subdivisão: Euteleostei Superordem: Acanthopterygii Ordem: Perciformes Classe: Osteichthyes Ordem: Perciformes Subordem: Labroidei Família: Cichlidae Subfamília: Pseudocrenilabrus Gênero: Tilapia Subgênero: Oreochromis Espécie: O. Niloticus
+
+9
+
+CONSIDERAÇÕES SOBRE O MODELO EXPERIMENTAL
+
+A região neotropical engloba a América do Sul, que possui a maior fauna de peixes de água doce conhecida (GRAÇA & PAVANELLI, 2007). São aproximadamente 4.475 espécies válidas e 1.550 espécies não descritas, totalizando mais de 6.000 espécies para essa região (REIS et al., 2003). O Brasil detém a maior rede hidrográfica do mundo, assim como uma das maiores diversidades de peixes de água doce. Conforme já foi discutido anteriormente, o clima tropical brasileiro favorece a colonização e proliferação de pragas agrícolas e o uso indiscriminado de agrotóxicos pode comprometer drasticamente a vida nos ambientes aquáticos.
+
+
+
+I – Introdução As tilápias e os cascudos, em condições adversas, são peixes oportunistas (se alimentam de fonte não usual de sua dieta, fazendo uso de uma fonte alimentar abundante e incomum), suportam grandes variações de temperatura e toleram baixos teores de oxigênio dissolvido (GOLÇALVES-DE-FREITAS, E. & LANGEANI, F., comunicação pessoal). A partir dessas informações é pertinente supor que essas espécies apresentem elevado grau de tolerância a ambientes perturbados por fatores naturais e/ou por ação antropogênica. Enquanto o metabolismo de compostos organofosforados e carbamatos foi bem estudado em mamíferos (SATAR et al., 2004; POOVALA et al., 1999; SULTATOS, 1994; MEERDINK, 1989; BERNDT et al., 1984), o metabolismo nas espécies de peixes recebeu menos atenção (VARÓ et al., 2002). Entretanto os peixes têm a capacidade de metabolizar uma variedade de compostos, como praguicidas e outros contaminantes ambientais (LIVINGSTONE,
+
+1998).
+
+
+
+II- Objetivos
+
+.
+
+OBJETIVOS O objetivo principal desse trabalho foi analisar diferentes respostas bioquímicas em diferentes tecidos de duas espécies de peixes, a tilápia do nilo, Oreochromis niloticus e o cascudo-pintado, Pterygoplichthys anisitsi, após exposição controlada a dois praguicidas, em concentrações subletais: organofosforado Diazinon e carbamato Carbaril. Classicamente, praguicidas organofosforados e carbamatos causam inibição de Besterases nos mais diferentes organismos, de invertebrados a vertebrados. Além disso, diversos trabalhos têm demonstrado que praguicidas podem também causar aumento na produção de EROs,
+
+gerando uma situação de estresse oxidativo nos organismos.
+
+Entretanto, estes tipos de respostas não foram estudados comparativamente entre as espécies O. niloticus e P. anisitsi e, neste caso, é ainda mais relevante o fato de os efeitos de praguicidas nunca terem sido estudados em cascudos da espécie P. anisitsi, uma espécie endêmica e muito comum na bacia hidrográfica brasileira. No presente trabalho, foram avaliados os seguintes candidatos a biomarcadores sensíveis de contaminação por organofosforado e carbamato:
+
+i)
+
+atividade da 7-etóxiresorufina-O-deetilase (EROD) - enzima representativa da fase I da biotransformação de xenobióticos;
+
+ii)
+
+atividade da glutationa S-transferase (GST) - enzima representativa da fase II da biotransformação de xenobióticos;
+
+iii)
+
+atividade da glutationa peroxidase (GPx) – enzima de defesa antioxidante;
+
+iv)
+
+peroxidação lipídica – lesão em biomolécula;
+
+v)
+
+atividade das enzimas acetilcolinesterase (AChE) e carboxilesterase (CbE) – clássicos biomacadores bioquímicos de contaminação por praguicidas OP e CA;
+
+vi)
+
+variações
+
+no
+
+padrão
+
+morfológico
+
+dos
+
+hepatócitos:
+
+um
+
+estudo
+
+complementar.
+
+
+
+II- Objetivos
+
+.
+
+Assim, as hipóteses testadas foram: •
+
+Verificar se os praguicidas causam inibição das esterases da tilápia e do cascudo, de acordo com a dose e tempo de exposição a que esses animais foram submetidos;
+
+•
+
+Verificar se os praguicidas em questão são capazes de causar estresse oxidativo nessas espécies, na concentração usada e tempos de exposição, através da análise de possíveis variações nas atividades de enzima antioxidante, enzimas envolvidas na metabolização de xenobióticos, e lesão oxidativa em biomoléculas;
+
+•
+
+Estudar comparativamente se existe diferença na susceptibilidade entre as espécies Oreochromis niloticus e Pterygoplichthys anisitsi às duas categorías de praguicidas.
+
+
+
+III – Material e métodos
+
+.
+
+MATERIAL E MÉTODOS Os cascudos da espécie Pterygoplichthys anisitsi (fig. 14-A) foram cedidos pelo Centro de Aqüicultura da UNESP (CAUNESP), campus de Jaboticabal/SP em colaboração com o Prof. Dr. Francisco Langeani, do laboratório de Ictiologia do IBILCE – UNESP. Os cascudos são oriundos do rio Preto (afluente do rio Turvo/SP) e estocados em tanques artificias no CAUNESP. As tilápias da espécie Oreochromis niloticus (fig. 14-B) foram cedidas pela Profa. Dra. Eliane Gonçalves de Freitas, do Departamento de Zoologia e Botânica do IBILCE UNESP (São José do Rio Preto/SP), que mantém estoques de peixes cultivados em tanques artificiais.
+
+1.
+
+EXPOSIÇÃO CONTROLADA AOS DIFERENTES PRAGUICIDAS
+
+No presente trabalho foram realizados 5 experimentos de exposição dos peixes aos contaminantes e os dados biométricos dos animais, as doses administradas e o período experimental estão descritos no quadro 2. Para cada um dos 5 experimentos foram usados 24 animais de ambos os sexos. Quadro 2: Descrição do experimento, biometria dos animais e dose administrada. Experimento I julho/2007
+
+Experimento II março/2008
+
+Experimento III março/2008
+
+Experimento IV março/2008
+
+Espécie e P. anisitsi O. niloticus O. niloticus O. niloticus Diazinon (OP) Carbaril (CA) Diazinon (OP) Diazinon (OP) tratamento Peso dos 75,82 ± 9,29g 33,38 ± 4,63g 22,5 ± 6,36g 70,4 ± 4,04g peixes Tamanho 16,27 ± 0,84cm 9,97 ± 0,35cm 9,2 ± 0,28cm 13,77 ± 0,28cm dos peixes Dose 2mg/L 2mg/L 2mg/L * 1mg/L administrada * todos os peixes morreram antes de 24 horas de exposição ao praguicida.
+
+Experimento V maio/2008 P. anisitsi Carbaril (CA)
+
+184,28 ± 17,08g 22,27 ± 1,65cm 2mg/L
+
+Ao longo dos experimentos os animais permaneceram em aquários de vidro com capacidade para 100 litros d água, mantidos sob constante aeração e
+
+fotoperíodo 
+
+.
+
+III – Material e métodos
+
+Figura 14: Espécies submetidas à exposição aos pesticidas carbamato carbaril e organofosforado diazinon. LD: lobo direito, LE: lobo esquerdo, VB: vesícula biliar, AB: arco branquial, La: lamela, Ce: cérebro, BO: bulbo óptico, Cb: cerebelo, Bu: bulbo.
+
+
+
+III – Material e métodos
+
+.
+
+controlado (12C/12E horas). Os peixes foram alimentados uma vez ao dia ad libitum com ração balanceada peletizada contendo 24% de proteína bruta. Na exposição à praguicida organofosforado foi usado o composto diazinon (O, Odietil 2-isopropil 6-pirimidil tiofosfato) de nome comercial PIKZION 400 PM nas concentrações de 2mg/L e 1mg/L e na exposição à praguicida carbamato foi usado o composto carbaril (Metilcarbamato de naftila) (Sigma-Aldrich) na concentração de 2mg/L. Ambos os compostos são comercializados na forma de pó e dessa forma, foram adicionados diretamente na água dos aquários.
+
+Cada um dos experimentos de exposição ao praguicida foi executado conforme explica o esquema a seguir:
+
+ 
+
+ 
+
+
+
+
+
+Após o período de aclimatação, de 7 dias para os cascudos e de 6 horas para as tilápias, foi adicionado a 2 dos 4 aquários, o praguicida. Transcorridos 2 dias de exposição, 3 peixes de cada aquário, portanto 6 animais do Grupo controle e 6 animais do Grupo tratado, foram coletados e sacrificados. Após os 7 dias de exposição o mesmo procedimento foi executado novamente.
+
+Transcorridos os diferentes períodos de exposição, 2 e 7 dias, todos os peixes foram anestesiados com 2-Phenoxyethanol (Sigma-Aldrich) à 2ml/L de água, decapitados e então tiveram seus fígados, brânquias e encéfalos (fig. 14) dissecados e imediatamente congelados
+
+
+
+III – Material e métodos
+
+.
+
+em freezer a -80 oC. Durante a dissecação dos peixes, fragmentos de fígado foram seccionados e imersos em formol neutro para posterior processamento histológico. A escolha do tecido nervoso se justifica pelo fato deste apresentar a maior concentração de acetilcolinesterase, a principal enzima afetada pelos compostos organofosforados e carbamatos; o fígado é o principal sítio metabólico dos organismos vertebrados estando envolvido nos processos de detoxicação e as brânquias, assim como a pele, são as primeiras estruturas que fazem contato com os contaminantes aquáticos absorvendo-os para o interior do organismo. O período de aclimatação durou 7 dias para os cascudos e 6 horas para as tilápias. A tilápia O. niloticus é uma espécie territorialista o que dificultou um período mais longo de aclimatação para esses animais; os indivíduos quando são confinados em um microambiente, como no caso dos aquários, imediatamente brigam entre si até que se estabeleça a hierarquia do grupo e esse conflito muitas vezes acarreta a morte dos mesmos devido aos ferimentos promovidos pelas mordidas.
+
+TRATAMENTO DA ÁGUA CONTAMINADA E DESCARTE DE RESÍDUOS QUÍMICOS
+
+O presente trabalho está vinculado ao projeto Jovem Pesquisador da Fapesp coordenado pelo Prof. Dr. Eduardo Alves de Almeida, sendo que a exeqüibilidade do projeto principal contou com a aprovação da Comissão Interna de Segurança Química do IBILCE/ UNESP. A água contaminada dos aquários foi tratada em filtro de carvão ativado conforme as orientações do International Standard Methods. O filtro de carvão retém os resíduos orgânicos dos praguicidas, evitando assim o descarte deles no sistema do esgoto urbano. Todos os resíduos químicos resultantes das análises bioquímicas foram armazenados em recipientes apropriados e posteriormente recolhidos pela Comissão Interna de Segurança Química do IBILCE.
+
+
+
+.
+
+III – Material e métodos
+
+2
+
+ESTUDO DOS BIOMARCADORES BIOQUÍMICOS APÓS EXPOSIÇÃO AOS PRAGUICIDAS
+
+2.1
+
+Preparo das amostras para a análise das esterases Para o estudo da acetilcolinesterase (AChE) e carboxilesterase (CbE) dos peixes,
+
+fragmentos de encéfalo, fígado e brânquias foram homogeneizados (1:4 massa:vol) em tampão Tris-HCl 0,1M, pH 8,0, e centrifugados por 20 minutos a 9168 x g. A fração sobrenadante foi então coletada e congelada a –80ºC.
+
+2.2
+
+Preparo das amostras para a análise das enzimas GST, GPx e EROD Para a análise enzimática da glutationa S-transferase (GST), da glutationa
+
+peroxidase (GPx) e da 7-etóxiresorufina-O-deetilase (EROD), fragmentos de fígado e brânquias foram homogeneizados (1:4 massa:vol) em tampão Tris-HCl 50mM, EDTA 1mM, DTT 1mM, Sacarose 0,5M; pH 7,4; contendo inibidores de protease (PMSF 100μM), e centrifugados a 9168 x g por 20 minutos. A fração sobrenadante foi coletada e centrifugada novamente a 50.000 x g por 60 minutos, para a obtenção das frações citosólica e microsomal. A atividade enzimática da GST e da GPx foi medida na fração citosólica e a atividade da EROD, como indicativo de citocromo P450, foi medida na fração microsomal.
+
+2.3
+
+Preparo das amostras para a avaliação da peroxidação lipídica Fragmentos de fígado e brânquias foram homogeneizados (1:3 massa:vol) em
+
+tampão TRIS-HCl, 0,1M, pH 8,0. Em seguida, foram adicionados 300 ȝL de solução de ácido 2-tiobarbitúrico (TBA) 0,4% diluído em HCl 0,2M. As amostras foram incubadas por 40 minutos a 90oC. Após este período, as amostras de MDA-TBA foram extraídas com 1 mL de n-butanol e congeladas a -10oC.
+
+2.4
+
+Análise das esterases A atividade da AChE no tecido nervoso e da CbE no fígado e nas brânquias foi
+
+medida e caracterizada seguindo a metodologia descrita por Ellman et al. (1961). Acetiltiocolina e feniltioacetato foram usados como substrato para a atividade da AChE e CbE, respectivamente e a reação do ácido 5,5´-ditiobis-2-nitrobenzóico (DTNB) com os substratos foi monitorada a comprimento de onda de 412 nm por espectrofotômetro. 
+
+III – Material e métodos
+
+.
+
+2.5
+
+Análise da glutationa S-transferase A análise da atividade da GST no fígado e nas brânquias foi realizada segundo o
+
+método de Keen et al. (1976). A amostra foi adicionada em um meio de reação contendo 100mM de 1-cloro-2,4-dinitrobenzeno (CDNB), 100mM de glutationa reduzida (GSH), e o aumento de absorbância devido a formação do produto CDNB-SG foi acompanhada a comprimento de onda de 340nm por espectrofotômetro.
+
+2.6
+
+Análise da glutationa peroxidase A análise da GPx-selênio-dependente no fígado e nas brânquias foi realizada
+
+segundo o método de Sies et al. (1979). A mostra foi adicionada em um meio de reação contendo 25mL de tampão PO-4 (0,1M, pH=7), 10ml de EDTA, 8,6mg de NADPH, 11μL de glutationa redutase, 16mg de glutationa reduzida e 15mL de água; e 10μL de tBOOH. Foi monitorada a 340nm a oxidação do NADPH, conjugado a GSSG por excesso de glutationa redutase.
+
+As atividades enzimáticas da AChE, CbE, GST e GPx foram expressas em U/mg de proteína, onde U é igual à quantidade de enzima capaz de hidrolisar 1μmol do substrato por minuto. A quantificação de proteínas total das amostras de citosol foi realizada segundo o método de Bradford (1976).
+
+2.7
+
+Análise da EROD A atividade da EROD foi medida por método fluorimétrico na fração microsomal
+
+dos extratos protéicos de fígado. O método se baseia na conversão pela enzima do composto 7-etóxiresorufina a resorufina, que é fluorescente (λexcit = 537 nm, λemiss = 583 nm) (MUNRO et al., 2007). À cubeta foram adicionados 480 μL de tampão fosfato de potássio 80 mM, pH 7,4; 5 μL de solução de 7-etóxiresorufina 335 μM, 5 μL de NADPH 20 mM e 10 μL de extrato microsomal (FERNANDES et al, 2002). A reação foi monitorada durante 3 minutos, a 30 oC. A atividade da EROD foi expressa em pmol/mim/mg de proteína. A quantificação de proteínas total das amostras microsomais foi realizada segundo o método de Bradford (1976).
+
+
+
+III – Material e métodos
+
+.
+
+2.8
+
+Avaliação da peroxidação lipídica A técnica para se avaliar os níveis de peroxidação lipídica nas brânquias e no fígado
+
+foi a detecção por HPLC-UV em 532 nm do produto formado entre o MDA (produto da lipoperoxidação) e o ácido 2-tiobarbitúrico (ALMEIDA et al., 2004 e 2003). As amostras (10 ȝL) foram injetadas diretamente no HPLC e monitoradas a 532 nm. A fase móvel consistiu na solução fosfato de potássio monobásico 50 mM, pH 7,0 com 40% metanol, bombeada isocraticamente (1 ml/min). A coluna utilizada foi a LC-18 (150 x 4,6 mm, 5 ȝm de diâmetro de poro). A quantificação do MDA foi feita com base em uma curva padrão, injetando-se previamente no HPLC, concentrações conhecidas de padrões autênticos de MDA derivatizado com o TBA. Os dados foram expressos em nmol de TBARS/g tecido (TBARS: thiobarbituric acid reactive substances).
+
+3
+
+ESTUDO MORFOLÓGICO DO FÍGADO DE CASCUDOS Pterygoplichthys anisitsi APÓS EXPOSIÇÃO DE 7 DIAS AOS PRAGUICIDAS DIAZINON E CARBARIL
+
+Os fragmentos de fígado após fixação em solução de formol neutro foram submetidos a processamento histológico de rotina e incluídos em parafina. Cortes de 5 μm de espessura foram seccionados e corados com hematoxilina-eosina (coloração básica para diagnósticos histológico e histopatológico). O material correspondente ao experimento dos cascudos expostos as organofosforado foi processado no Laboratório de Histotecnologia da Faculdade de Medicina de São José do Rio Preto/SP (FAMERP) e o material correspondente ao experimento dos cascudos expostos ao carbamato foi processado no Centro de Microscopia do IBILCE-UNESP. Os cortes histológicos foram analisados em microscópio fotônico. Análises morfométricas e quantitativas do parênquima hepático foram realizadas a partir de imagens digitalizadas obtidas com aumento de 400 vezes. A partir dessas imagens, foram obtidos dados numéricos referentes à mensuração do diâmetro dos núcleos dos hepatócitos, contagem das variações de padrão morfológico nuclear e quantificação de gordura acumulada no interior dos hepatócitos. Esses valores numéricos foram obtidos
+
+
+
+III – Material e métodos
+
+.
+
+através do software ImageJ, programa de processamento e análise de imagem desenvolvido pelo National Institute of Health (NIH) in USA. De cada corte histológico do fígado, cinco campos foram analisados totalizando 30 campos para os grupos controles (n=6) e 30 campos para os grupos tratados com os praguicidas (n=6). Para a quantificação de gordura acumulada no interior dos hepatócitos, um sistema-teste de 36 pontos equidistantes foi calibrado sobre a imagem digitalizada permitindo a estimativa da taxa de ocorrência de depósito de gordura no tecido hepático (WEIBEL, 1966). Para o estudo nuclear, foi medido o diâmetro de todos os núcleos dos hepatócitos presentes em todos os campos analisados e calculado a taxa de núcleos hipercromáticos presentes em todos os campos analisados.
+
+No presente trabalho foi realizada a histologia apenas do fígado dos cascudos P. anisitsi após o maior período exposição, pois sabe-se que as alterações detectadas em nível celular são posteriores às alterações moleculares e ultra-estruturais por isso foi priorizada a avaliação dos parâmetros morfológicos após 7 dias, em relação ao período de 2 dias de tratamento. Além disso foi também priorizado o estudo dos efeitos dos praguicidas nos cascudos, visto que na literatura cientifica há vários relatos de alterações morfológicas que acometem tilápias da espécie Oreochromis niloticus, atribuídas à diversas categorias de contaminantes, inclusive praguicidas; entretanto estudos desse tipo nunca foram antes realizados em qualquer das mais diversas espécies de cascudos.
+
+
+
+III – Material e métodos
+
+.
+
+4
+
+ANÁLISE DOS DADOS
+
+A análise estatística dos dados bioquímicos e morfológicos foi realizada com o auxílio do software SAS® Statistical. Inicialmente foi realizado o Teste de Shapiro-Wilk para se verificar a normalidade dos dados. Para os dados que apresentaram distribuição normal foi aplicado o teste SNK (Student-Newman-Keulls) para comparação das médias. Para os dados que não apresentaram distribuição normal foi aplicado o teste de KruskalWallis para a comparação das médias. Diferenças detectadas entre os grupos foram consideradas significativas somente para valor de p < 0,05.
+
+Estatisticamente as atividades enzimáticas e o nível de lesão em biomoléculas foram comparados entre os seguintes grupos para cada uma das duas espécies: - Grupo controle após 2 dias versus Grupo tratado após 2 dias; - Grupo controle após 7 dias versus Grupo tratado após 7 dias;
+
+Os mesmos parâmetros bioquímicos também foram comparados: ¾ quanto à susceptibilidade entre as espécies; ¾ entre as categorias de praguicidas; ¾ ao longo do período de exposição. Estatisticamente os parâmetros morfológicos na espécie P. anisitsi foram comparados entre: - Grupo controle versus Grupo tratado após 7 dias; - Exposição ao diazinon versus exposição ao carbaril.
+
+
+
+IV – Resultados
+
+.
+
+RESULTADOS 1
+
+Efeitos da exposição aos praguicidas diazinon (OP) e carbamato
+
+(CA) em Pterygoplichthys anisitsi e Oreochromis niloticus Na exposição ao diazinon na dose de 2mg/L ocorreu a morte de todos os peixes da espécie O. niloticus em período inferior a 24 horas. Esses peixes morreram com a boca e opérculo abertos e apresentaram grande quantidade de muco sob as brânquias sugerindo um mecanismo de defesa do animal na tentativa de isolar a superfície de absorção do contaminante presente na água. Nos experimentos de exposição das tilápias ao carbaril e à menor dose do diazinon, ocorreu a morte de apenas um animal em período inferior a 48 horas, em cada um dos experimentos e nesse caso acredita-se que os óbitos foram decorrentes de brigas entre os peixes para o estabelecimento de hierarquia no aquário, visto que os animais em questão apresentavam lesões hemorrágicas no dorso e região da boca. É de se supor também que o quadro de intoxicação contribuiu para debilidade desses animais, pois ataques físicos entre as tilápias ocorriam no decorrer de todo o experimento, mas não houve morte nos aquárioscontrole. As tilápias expostas ao diazinon apresentaram alterações comportamentais como comprometimento do equilíbrio e diminuição da motilidade e captura de alimento, observadas visualmente; já as tilápias que foram expostas ao carbaril aparentemente não apresentaram os sintomas comportamentais mencionados. No entanto todas as tilápias expostas aos praguicidas continham grande quantidade de muco nas brânquias, e aquelas expostas ao diazinon apresentaram o fígado com consistência amolecida, podendo esta característica ser decorrente de acúmulo de água ou gordura. A coloração do fígado não se mostrou diferente entre os peixes controle e tratados, sendo tipicamente acastanhado. Os cascudos da espécie P. anisitsi expostos aos dois diferentes contaminantes não mostraram alterações comportamentais visto que são animais de hábito noturno e as observações visuais aconteceram nos períodos diurnos. Sob as alterações morfológicas, os cascudos expostos ao diazinon apresentaram o fígado de coloração amarelada e consistência amolecida compatível com macroscopia de acúmulo de gordura. O fígado dos cascudos controle e expostos ao carbaril mostrou coloração marrom-avermelhada.
+
+ 
+
+IV – Resultados
+
+.
+
+2
+
+Os candidatos a biomarcadores de contaminação Nos experimentos de exposição das espécies Pterygoplichthys anisitsi e
+
+Oreochromis niloticus aos praguicidas organofosforado diazinon e carbamato carbaril, foram avaliados os seguintes biomarcadores: •
+
+Biomarcadores bioquímicos: atividade das enzimas acetilcolinesterase (AChE), carboxilesterase (CbE), glutationa S-transferase (GST), glutationa peroxidase (GPx) e 7-etóxiresorufina-O-deetilase (EROD), e nível de malondialdeído (MDA);
+
+•
+
+Biomarcadores morfológicos: hipercromatose nuclear, hipertrofia nuclear e esteatose.
+
+2.1
+
+Biomarcadores bioquímicos
+
+As B-esterases correspondem ao sítio de ação da toxicidade dos praguicidas organofosforados e carbamatos, assim inicialmente foi avaliado se a fase de vida dos peixes usados nos experimentos influenciou significativamente a atividade das enzimas acetilcolinesterase e carboxilesterase, visto que nos experimentos de exposição das duas espécies ao composto carbamato havia peixes jovens (imaturos sexualmente) e adultos. Os outros dois experimentos foram realizados com peixes de mesma fase de vida, como mostra o quadro 3.
+
+Quadro 3: Fase da vida dos peixes expostos aos praguicidas. P. anistsi (OP)
+
+O. niloticus (CA)
+
+O. niloticus (OP)
+
+P. anisitsi (CA)
+
+16,27 ± 0,84 cm
+
+33,38 ± 4,63 g
+
+70,4 ± 4,04 g
+
+22,27 ± 1,65 cm
+
+Todos jovens
+
+Maioria adultos
+
+Todos adultos
+
+Maioria jovens
+
+Tamanho < 23 cm
+
+Peso > 30 g
+
+Peso < 30 g
+
+Tamanho < 23 cm
+
+A maturidade sexual dos cascudos P. anisitsi é considerada em indivíduos que apresentam comprimento corpóreo maior que 23cm (SUZUKI et al., 2004); em tilápias O. niloticus a maturidade é considerada em indivíduos a partir de 30g (TREWAVAS, 1983).
+
+ 
+
+IV – Resultados
+
+.
+
+Os resultados mostraram que de forma geral os peixes jovens apresentam níveis de atividade das esterases ligeiramente menores do que os adultos, no entanto esses valores não são significativos (p<0,05), como mostra a figura 15. Os animais analisados correspondem aos indivíduos dos grupos controles, para a caracterização da atividade basal.
+
+Figura 15: Atividade basal das esterases no tecido nervoso, brânquia e fígado das espécies P. anistsi e O. niloticus usadas nos experimento de exposição ao carbaril (CA).
+
+2.1.1 Atividade da acetilcolinesterase (AChE) após exposição aos praguicidas
+
+A figura 16 ilustra a atividade da acetilcolinesterase no tecido nervoso de cascudo e tilápia após a exposição aos praguicidas. No estudo da exposição dos cascudos P. anisitsi aos dois praguicidas e das tilápias O. niloticus ao diazinon, foi constatado que o praguicida inibiu significativamente a atividade da AChE no encéfalo, após 2 e 7 dias, sendo que após 2 dias de exposição o efeito dos contaminantes foi mais acentuado do que após 7 dias. As tilápias expostas ao carbaril também apresentaram inibição significativa da AChE no tecido nervoso porém o nível de atividade da enzima se mostrou similar nos dois períodos analisados, com valores de 0,0172 e 0,0192 U/mg proteína, após 2 e 7 dias respectivamente.
+
+ 
+
+IV – Resultados
+
+.
+
+Figura 16: Atividade da acetilcolinesterase no tecido nervoso de P. anisitsi e O. niloticus expostos ao diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. * indica diferença significativa para p<0,05.
+
+2.1.2 Atividade da carboxilesterase (CbE) após exposição aos praguicidas
+
+A figura 17 mostra a atividade da carboxilesterase no fígado de P. anisitsi e O. niloticus após exposição aos praguicidas. Da mesma forma que a AChE no tecido nervoso a CbE foi significativamente inibida pelo diazinon nos dois intervalos de tempo analisados, nas duas espécies. No entanto os cascudos tratados apresentaram ligeiro aumento da atividade da enzima após 7 dias, comparado com o segundo dia de exposição. As tilápias, ao contrário, mostraram inibição mais acentuada no sétimo dia. Já os cascudos expostos ao carbaril não apresentaram diferenças significativas no nível de atividade da enzima no fígado, apenas um leve decréscimo na atividade da CbE foi diagnosticada após 2 dias de exposição, mas no sétimo dia os animais apresentaram nível similar de atividade ao do respectivo grupo controle; 0,197 e 0,209 U/mg proteína; respectivamente. As tilápias expostas ao carbaril apresentaram inibição significativa da CbE no fígado apenas após 2 dias de exposição; no sétimo dia os peixes submetidos ao praguicida mostraram aumento na atividade da enzima porém com valor não significativo (p = 0.082).
+
+
+
+IV – Resultados
+
+.
+
+Figura 17: Atividade da carboxilesterase no fígado de P. anisitsi e O. niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. * indica diferença significativa para p<0,05.
+
+A atividade da CbE na brânquia das duas espécies está ilustrada na figura 18. Novamente foi observada inibição significativa da CbE pelo diazinon nas duas espécies e neste caso os níveis de atividade da enzima nos peixes tratados mostrou-se ligeiramente maior no sétimo dia em relação ao segundo dia. Nos cascudos o carbaril inibiu significativamente a atividade da CbE nos dois períodos porém no sétimo dia o nível se mostrou ligeiramente maior do que no segundo dia. O carbaril inibiu a atividade da CbE na brânquia das tilápias apenas após 2 dias de exposição; no sétimo dia os grupos controle e tratado apresentaram atividades similares com valores de 0,085 e 0,089 U/mg proteína, respectivamente.
+
+
+
+IV – Resultados
+
+.
+
+Figura 18: Atividade da carboxilesterase na brânquia de P. anisitsi e O. niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. * indica diferença significativa para p<0,05.
+
+2.1.3 Atividade da 7- etóxiresorufina-O-deetilase (EROD) após exposição aos praguicidas A figura 19 mostra a atividade da EROD no fígado nas duas espécies. Apenas os cascudos e tilápias expostos ao diazinon apresentaram alteração significativa no nível dessa enzima. Os cascudos após 2 dias de exposição e as tilápias após 7 dias apresentaram diminuição significativa na atividade da enzima, enquanto que os cascudos expostos durante 7 dias e as tilápias expostas durante 2 dias apresentaram redução na atividade porém não significativa. Esses dois últimos grupos apresentaram altos valores de desvio padrão (2,932 ± 3,012 e 6,480 ± 4,712 pmol/mim/mg proteína, respectivamente). Os cascudos expostos ao carbaril após 2 dias mostraram redução na atividade da EROD porém não significativa visto que os valores de desvio padrão apresentados pelos grupos são elevados (0,917 ± 0,641 pmol/mim/mg proteína para o grupo controle e 0,692 ± 0,435 pmol/mim/mg proteína para o grupo tratado). Após 7 dias de exposição ocorreu
+
+
+
+IV – Resultados
+
+.
+
+aumento na atividade mas o grupo tratado apresentou elevado desvio padrão (1,970 ± 1,940 pmol/mim/mg proteína).
+
+a
+
+b
+
+c
+
+Figura 19: Atividade da 7- etóxiresorufina-O-deetilase no fígado de P. anisitsi e O. niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. * indica diferença significativa a b c para p<0,05. valor do desvio padrão: 6,082. valor do desvio padrão: 4,712. valor do desvio padrão: 8,925.
+
+As tilápias expostas ao carbaril apresentaram aumento no nível de atividade da enzima nos dois períodos analisados e nesse caso também os valores não foram significativos sendo que os grupos tratados após 2 e 7 dias mostraram elevado desvio padrão (5,330 ± 8,925; 5,493 ± 3,771 U/mg proteína, respectivamente).
+
+2.1.4 Atividade da glutationa S-transferase (GST) após exposição aos praguicidas A figura 20 mostra a atividade da GST no fígado de P. anisitsi e O. niloticus expostos aos praguicidas. As análises mostraram que os cascudos expostos ao praguicida organofosforado diazinon apresentaram significativo aumento na atividade da GST, no fígado após 2 e 7 dias de exposição, com um ligeiro aumento no sétimo dia em relação ao segundo dia (valores de 0,140 e 0,118 U/mg proteína, respectivamente). Já os cascudos expostos ao carbamato carbaril após 2 dias apresentaram valores similares ao grupo controle; 0,512 e 0,508 U/mg de proteína, respectivamente; após 7 dias os peixes tratados 
+
+IV – Resultados
+
+.
+
+mostraram discreta diminuição na atividade da enzima, comparada ao respectivo grupo controle. As tilápias expostas ao diazinon mostraram aumento e redução na atividade da GST ao longo do período de exposição porém esses valores não foram significativos (p = 0,187 e 0,104; respectivamente). As tilápias expostas ao carbaril apresentaram aumento significativo na atividade da enzima após 7 dias (1,707 ± 0,878 U/mg proteína); após 2 dias de exposição evidenciou-se também aumento na atividade da enzima porém não significativo para valor de p < 0,05 visto que o desvio padrão do grupo tratado mostrou-se elevado (1,227 ± 1,021 U/mg proteína).
+
+Figura 20: Atividade da glutationa S-transferase no fígado de P. anisitsi e O. niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. * indica diferença significativa a para p<0,05. valor do desvio padrão: 0,876.
+
+Na figura 21 está ilustrada a atividade da GST na brânquia das duas espécies. O diazinon promoveu redução na atividade da GST na brânquia nas duas espécies, porém com valores não significativos. Os cascudos expostos a esse praguicida apresentaram redução na atividade da enzima mais acentuada no sétimo dia, com valor de p = 0,056. As tilápias expostas ao diazinon apresentaram diminuição não significativa na atividade da GST nos dois períodos analisados, com redução mais acentuada após 2 dias; nesse caso o
+
+
+
+IV – Resultados
+
+.
+
+valor de p foi de 0,147 sendo que o controle apresentou alto desvio padrão (0,154 ± 0,088 U/mg proteína). Os cascudos e as tilápias expostos ao carbaril mostraram aumento significativo na atividade da GST nas brânquias após 7 dias de exposição ao praguicida. Esse aumento foi mais acentuado nas tilápias.
+
+
+
+Figura 21: Atividade da glutationa S-transferase na brânquia de P. anisitsi e O. niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. * indica diferença significativa a b c para p<0,05. valor do desvio padrão: 0,088. valor do desvio padrão: 0,034. valor do desvio padrão: d 0,049. valor de desvio padrão: 0,092.
+
+2.1.5 Atividade da glutationa peroxidase (GPx) após exposição aos praguicidas Nenhum dos grupos experimentais apresentaram variação significativa (p< 0,05) na atividade da GPx no fígado (fig. 22). Os cascudos expostos ao diazinon mostraram tendência a aumento na atividade da enzima, porém os grupos apresentaram altos valores no desvio padrão do nível de atividade enzimático. Os cascudos submetidos a exposição pelo carbaril mostraram apenas ligeiro aumento no nível de atividade da enzima. As tilápias submetidas aos dois praguicidas apresentaram tendência a diminuição na atividade da GPx após 2 dias e tendência ao aumento na atividade após 7 dias.
+
+
+
+IV – Resultados
+
+.
+
+A figura 23 ilustra a atividade da GPx nas brânquias das duas espécies. Assim como no fígado, a atividade da GPx nas brânquias não apresentou variação significativa em nenhum dos grupos experimentais.
+
+Figura 22: Atividade da glutationa peroxidase no fígado de P. anisitsi e O. niloticus expostos ao a organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. valor do desvio padrão: 0,023. b c valor do desvio padrão: 0,023. valor do desvio padrão: 0,049.
+
+Os cascudos expostos ao diazinon apresentaram aumento na atividade da enzima após 2 dias, porém o grupo tratado apresentou alto valor de desvio padrão (0,0019 ± 0,0013 U/mg proteína); após 7 dias ocorreu diminuição na atividade da enzima e o grupo tratado também apresentou alto valor de desvio padrão (0,0013 ± 0,0012 U/mg proteína). Os cascudos submetidos ao carbaril mostraram ligeiro aumento na atividade enzimática nos dois períodos de exposição. As tilápias expostas ao diazinon mostraram ligeira diminuição na atividade da GPx após 2 dias e ligeiro aumento após 7 dias. As tilápias expostas ao carbaril mostraram ligeira diminuição na atividade da GPx após os dois períodos.
+
+ 
+
+IV – Resultados
+
+.
+
+Figura 23: Atividade da glutationa peroxidase na brânquia de P. anisitsi e O. niloticus expostos ao a organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. valor do desvio padrão: 0,018. b valor do desvio padrão: 0,029.
+
+2.1.6 Nível de malondialdeído (MDA), como indicativo de lipoperoxidação após exposição aos praguicidas
+
+Nenhun dos grupos expostos aos praguicidas apresentaram variação significativa no nível de MDA no fígado (p<0,05). (fig. 24) As tilápias expostas ao diazinon e os cascudos expostos ao carbaril mostraram pequena redução no nível desse produto de lipoperoxidação, em ambos os períodos de exposição, como redução ligeiramente mais evidente após 7 dias quanto comparado com o segundo dia de exposição. As tilápias submetidas ao carbaril também mostraram diminuição nos níveis de MDA ao longo do período de exposição, porém nesse caso mais marcante no segundo dia; no entanto o grupo controle apresentou elevado desvio padrão (17,622 ± 8,345 nmol/g tecido).
+
+ 
+
+IV – Resultados
+
+.
+
+Figura 24: Nível de malondialdeído no fígado de P. anisitsi expostos ao carbamato carbaril (CA) e O. niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias.
+
+Nas brânquias das duas espécies os níveis de MDA nos grupos tratados também não apresentaram alterações significativas (fig. 25). As tilápias expostas aos dois praguicidas após 2 dias mostraram pequena redução no nível desse produto e após 7 dias um aumento ainda mais discreto nos níveis de MDA. Já os cascudos expostos ao carbaril apresentaram tendência ao aumento de MDA após 2 dias (p = 0,073) e após 7 dias o aumento observado foi mais discreto (p = 0,215).
+
+ 
+
+.
+
+IV – Resultados
+
+Figura 25: Nível de malondialdeído na brânquia de P. anisitsi expostos ao carbamato carbaril (CA) e O. a niloticus expostos ao organofosforado diazinon (OP) e carbamato carbaril (CA) durante 2 e 7 dias. valor do b desvio padrão: 22,075. valor do desvio padrão: 16,238.
+
+ 
+
+IV – Resultados
+
+.
+
+2.2
+
+Biomarcadores morfológicos
+
+Foi realizada a análise histológica do fígado dos cascudos da espécie Pterygoplichthys anisitsi após 7 dias de exposição aos praguicidas diazinon (OP) e carbaril (CA).
+
+2.2.1 Morfologia do fígado do cascudo P. anisitsi
+
+O fígado na espécie P. anisitsi apresenta dois lobos, direito e esquerdo, sendo que o lobo esquerdo é maior (fig. 14-A). O fígado mantém contato cranial com o esôfago e coração e inferiormente com o estômago e porção anterior do intestino. O órgão é denso, consistente e de coloração marrom-avermelhada. O arranjo dos hepatócitos é tubular anastomosado, dispostos como lâminas de duas células justapostas margeadas pelos sinusóides (fig. 26-A). Observações em microscopia de luz mostraram não ser possível distinguir subdivisões hexagonais do parênquima hepático, os lóbulos hepáticos, e são encontradas díades portais, constituídas pela ramificação da artéria hepática e ducto biliar (fig. 26-B). O hepatócito apresenta-se como uma célula poliédrica com núcleo arredondado situado na porção central da célula e nucléolo evidente (fig. 26-C). O citoplasma apresenta-se predominantemente acidófilo.
+
+2.2.2 Morfometria do núcleo dos hepatócitos
+
+A mensuração do diâmetro dos núcleos dos hepatócitos dos cascudos revelou aumento significativo nos peixes expostos ao carbaril (p = 0,0006). Os peixes dos grupos controle e tratados com o diazinon não apresentaram variação significativa no tamanho dos núcleos (fig. 27).
+
+2.2.3 Nível de gordura no interior dos hepatócitos
+
+A análise morfológica do parênquima hepático dos cascudos usados no experimento de exposição ao diazinon mostrou estocagem de gordura no interior dos
+
+
+
+.
+
+IV – Resultados
+
+Figura 26: Histologia do fígado de cascudos Pterygoplichthys anisitsi expostos aos pesticidas carbaril e diazinon após 7 dias.
+
+
+
+.
+
+IV – Resultados
+
+Figura 26 A: Parênquima hepático mostrando disposição dos sinusóides (s) delimitando dupla camada de hepatócitos (traço); (VC) veia central. B: Díade portal, representada pelo ducto biliar (DB) e ramificação da artéria hepática; seta indicando estagnação biliar. C: Experimento de exposição ao carbaril - Grupo controle. Hepatócito típico (He) apresentando citoplasma homogêneo, núcleo central com nucléolo evidente (seta). D: Experimento de exposição ao carbaril - Grupo tratado. Notar o aumento do diâmetro nuclear dos hepátocitos (setas); citoplasma homogêneo. E: Experimento de exposição ao diazinon – Grupo controle. Notar a variação na morfologia nuclear (retângulo) com núcleo típico na posição superior, e núcleo hipercromático na posição inferior. Seta mostrando microvesícula de gordura no interior do hepatócito. F: Experimento de exposição ao diazinon – Grupo tratado. Notar o acúmulo de gordura nos hepatócito com a seta mostrando macrovesícula de lipídeo (seta) e deslocamento do núcleo (*). Cabeça de seta indicando núcleo hipercromático, não sendo possível visualizar o nucléolo.
+
+IV – Resultados
+
+.
+
+hepátocitos desses peixes. Os cascudos representantes do grupo controle apresentaram citoplasma rendado, típico de esteatose microvesicular (fig. 26-E). Já os peixes expostos ao diazinon mostram aumento na taxa de gordura no interior dos hepatócitos (fig. 27), ocorrendo nesse caso fusão das microvesículas em macrovesícula (fig. 26-F), deslocando o núcleo para a periferia do hepátocito.
+
+Figura 27: Fígado de cascudos P. anisitsi expostos aos praguicidas carbaril (CA) e diazinon (OP) após 7 dias. b indica diferença significativa para p<0,05. # valor de p da comparação entre controle e tratado.
+
+2.2.4 Nível de núcleos hipercromáticos
+
+A contagem dos núcleos hipercromáticos dos hepatócitos mostrou aumento significativo desse padrão morfológico nuclear nos cascudos expostos ao diazinon. (fig. 28)
+
+Figura 28: Quantificação dos níveis de depósitos de gordura e núcleos hipercromáticos no parênquima hepático na espécie P. anisitsi após 7 dias de exposição ao diazinon (OP). * indica diferença significativa para p<0,05.
+
+Os cascudos usados no experimento de exposição ao praguicida carbaril (CA) não mostraram estocagem de gordura pelo hepatócito; tanto os peixes do Grupo controle quanto os peixes do Grupo tratado apresentaram citoplasma homogêneo. Esses animais também não apresentaram hipercromatose nuclear nos fragmentos de tecido analisados. (fig. 26-C e D)
+
+
+
+V – Discussão dos resultados
+
+.
+
+DISCUSSÃO
+
+DOS
+
+CANDIDATOS
+
+A
+
+BIOMARCADORES
+
+DE
+
+CONTAMINAÇÃO
+
+1
+
+Efeitos da exposição aos praguicidas diazinon (OP) e carbaril (CA) em Pterygoplichthys anisitsi e Oreochromis niloticus A mortalidade em massa de peixes devido à exposição a praguicidas
+
+organofosforados e carbamatos é rara, e quando ocorre é resultado de derramamento acidental ou de pulverização direta dos corpos d'água. Mas comumente, os peixes estão sujeitos a estresse resultante da exposição aos praguicidas em concentrações subletais. Em longo prazo, as concentrações subletais podem se revelar mais prejudicial do que as concentrações letais, porque os pequenos e sutis efeitos sobre os peixes podem alterar seu comportamento, hábitos alimentares, sucesso reprodutivo, etc. Alterações
+
+comportamentais,
+
+decorrentes
+
+da
+
+intoxicação
+
+por
+
+praguicidas
+
+neurotóxicos, como os compostos organofosforados e carbamatos, podem tornar o peixe mais susceptível à predação, por exemplo, reduzindo assim as chances de sobrevivência e reprodução da população. Da mesma forma, efeitos sutis em nível celular decorrentes de uma intoxicação por xenobióticos pode alterar o metabolismo dos peixes podendo comprometer suas funções fisiológicas afetando a sua capacidade de resistir a pertubações abióticas no ambiente aquático como alterações de temperatura, pH, salinidade, níveis de oxigênio dissolvido na água, entre outros (MURTY, 1986). A dose estabelecida nesse estudo, para os experimentos de exposição das espécies P. anisitsi e O. niloticus aos praguicidas foi de 2mg/L, para ambas as categorias de compostos. No entanto são escassos os relatos na literatura sobre as concentrações tóxicas para os diferentes compostos que constituem cada uma das diversas categorías de praguicidas. E esses relatos quando ocorrem, na grande maioria das vezes referem-se a dados de valores tóxicos para mamíferos e são apresentados como “quantidade do composto por peso do animal”. Porém os valores de toxicidade dos praguicidas em ambientes aquáticos são considerados na relação “quantidade do composto por quantidade de água”. Dessa forma torna-se difícil extrapolar valores tóxicos para mamíferos para espécies de peixes.
+
+
+
+V – Discussão dos resultados
+
+.
+
+Outro fator importante nessa discussão é a grande variação na sensibilidade entre as diferentes espécies de peixes frente a um mesmo composto. Indivíduos jovens e adultos também apresentam sensibilidades diferentes e o período de exposição também é determinante na toxicidade dos praguicidas no ambiente aquático (SCHULZ, 2004). Até o presente momento não há dados toxicológicos de praguicidas na literatura científica para os loricarídeos. Assim, o estabecimento da dose que seria administrada aos peixes deu-se a partir de dados da LC50 do diazinon (composto mais tóxico dentre os dois praguicidas estudados) para as tilápias. Elnwishy et al. (2007) determinou a LC50 do diazinon para Oreochromis niloticus em 2,8mg/L para 96 horas de exposição. Li e Chen (1981) estabeleceram para Tilápia sp. 1,492mg/L para 48 horas de exposição ao diazinon. No entanto no presente estudo somente os cascudos P. anisitsi sobreviveram à exposição por diazinon na dose de 2mg/L e as duas espécies sobreviveram à mesma dose do carbaril. Aqui são importantes algumas considerações sobre o estudo comparativo das espécies O. niloticus e P. anisitsi, quanto à sensibilidade a mesma dose dos dois praguicidas. Nos experimentos de exposição das tilápias e cascudos ao carbaril foram usados peixes na maioria adultos, no caso das tilápias, e maioria jovens no caso dos cascudos. Porém a biometria desses animais não é muito discrepante, assim o nível de atividade basal das esterases nesses indivíduos se mostrou semelhante, conforme o quadro 3. Nos demais experimentos havia peixes exclusivamente na mesma fase de vida. De forma geral, na análise comparativa dos cascudos submetidos aos diferentes
+
+praguicidas, os indivíduos eram jovens nos dois experimentos, portanto os diferentes níveis de inibição das esterases (parâmetro esse relacionado ao grau de toxicidade do praguicida) e diferentes respostas metabólicas (outros parâmetros avaliados) poderiam ser atribuídos à sensibilidade diferente da espécie aos dois praguicidas. No estudo da sensibilidade tilápias aos dois praguicidas, os peixes eram adultos, de uma forma geral, mas foram submetidos a doses diferentes dos compostos pois as tilápias expostas a 2mg/L do diazinon morreram. Assim as respostas expressas pelos indivíduos frente aos dois compostos também são atribuídas à dose primordialmente. Não é possível inferir se as tilápias submetidas à dose de 2mg/L de diazinon morreram porque essa dose é letal para esse grupo de peixes ou se morreram porque eram indivíduos jovens. As tilápias expostas a 2mg/L de carbaril apresentaram em média 10g a
+
+
+
+V – Discussão dos resultados
+
+.
+
+mais do que as que foram expostas ao diazinon. Para elucidar melhor essa questão deveria de ter sido testada a dose maior do organofosforado em peixes adultos desse grupo. Comparando a susceptibilidade das duas espécies ao carbaril, apesar de ter sido administrada mesma dose a ambas, os cascudos usados eram jovens e as tilápias adultas. Portanto nesse caso as respostas expressas pelas duas espécies podem estar relacionadas à idade dos peixes e não exclusivamente à sensibilidade ao praguicida. A respeito das respostas bioquímicas das duas espécies ao diazinon, nada pôde ser relacionado, pois os cascudos eram jovens e foram submetidos a 2mg/L do composto, enquanto que as tilápias eram adultas e foram submetidas a 1mg/L do praguicida.
+
+2
+
+Biomarcadores bioquímicos
+
+2.1
+
+Atividade das B-esterases
+
+No estudo da exposição dos cascudos P. anisitsi e tilápias O. niloticus ao diazinon e ao carbaril, foi constatado que o praguicida inibiu significativamente a atividade da AChE no tecido nervoso (encéfalo), após 2 e 7 dias, sendo que após 2 dias de exposição o efeito dos contaminantes foi
+
+mais acentuado. Tanto no tratamento com o organofosforado
+
+quanto no tratamento com o carbamato, apesar de diminuída a atividade da AChE em relação aos grupos controles, no sétimo dia de exposição a atividade enzimática mostrou-se mais elevada do que após 2 dias de exposição aos praguicidas, sugerindo a síntese de novas enzimas pelos organismos expostos ao organofosforado e no caso dos peixes expostos ao carbamato, não só a síntese de acetilcolinesterases pode ter ocorrido mais também o desligamento das ligações praguicida-enzima. Ambos os eventos indicam certo grau de recuperação dos indivíduos expostos aos praguicidas, no decorrer no período experimental, apesar de apresentarem inibição significativa nos dois intervalos analisados. Os resultados obtidos na avaliação da atividade da AChE após exposição ao diazinon confrontam outros trabalhos descritos na literatura que analisaram a atividade da AChE em diferentes espécies de peixes submetidas a exposição a diversos praguicidas organofosforados. Rao (2006b) estudou tilápias da espécie Oreochromis mossambicus expostas à dose subletal do organofosforado RPR-II (2006) e do organofosforado monocrotofos (2006a) e observou em ambos os trabalhos, crescente inibição na atividade da AChE no cérebro, brânquias e músculo, conforme aumentava o período de exposição. 
+
+V – Discussão dos resultados
+
+.
+
+No entanto Perkins e Schlenk (2000) analisaram os efeitos do aldicarb, um praguicida carbamato, na atividade da AChE no plasma na espécie Ictalurus punctatus, e observaram inibição acentuada após 6 horas de exposição; com o decorrer do tempo os peixes mostraram reestabelecimento no nível de atividade da enzima. Em geral, a exposição a praguicidas organofosforados acarreta em uma depressão de 81-87% na atividade da AChE e os carbamatos em 29-47% de inibição (THOMPSON, 1999), e a partir desses valores pode-se concluir que os compostos organofosforados são potencialmente mais tóxicos do que os carbamatos. Estes dados reforçam a eficácia da avaliação da inibição da AChE como biomarcador sensível a contaminação por praguicidas organofosforados e carbamatos, mas principalmente a organofosforados. Aqui é importante ressaltar a questão das dosagens de praguicidas administradas aos animais. Os resultados após 2 dias de exposição dos cascudos P. anisitsi tratados com o diazinon e com o carbaril, mostra que o decréscimo no nível da atividade da AChE é maior nos animais tratados com o diazinon do que nos animais tratados com o carbaril, quando se compara o grupo tratado e o grupo controle, sendo que foi administrada a mesma dose dos dois praguicidas (2mg/L), para a espécie. Isso corrobora com os relatos na literatura que citam os valores de LC50 para os praguicidas organofosforados, geralmente nitidamente maiores do que os valores de LC50 para os praguicidas da categoria dos carbamatos. As tilápias O. niloticus tratadas com 2mg/L do diazinon morreram poucas horas depois da exposição e um novo experimento foi proposto com redução da dose em 50%. Nessa condição, os peixes sobreviveram até o término da exposição. Logo, esses resultados revelaram maior sensibilidade das tilápias, ao composto organofosforado, em comparação com os cascudos, e também na comparação entre as duas categorias de praguicidas. Outro parâmetro relatado na literatura como biomarcador sensível contaminação por praguicidas organofosforados e carbamatos, em invertebrados e peixes, é a atividade da enzima
+
+carboxilesterase
+
+(CbE)
+
+(VIOQUE-FERNÁNDEZ
+
+et
+
+al,
+
+2007;
+
+CHANDRASEKERA & PATHIRATNE, 2005; GRUBER & MUNN, 1998). As CbEs são uma família de enzimas presentes um vários tecidos de invertebrados a vertebrados, que hidrolisam ésteres carboxílicos (WHEELOCK et al., 2008), tendo cada uma delas um substrato específico, seja ele endógeno ou xenobióticos contendo grupo éster (THOMPSON, 1999). No entanto as CbEs compõem o grupo de enzimas que são potencialmente inibidas pelos praguicidas diazinon e carbaril, as B-esterases.  
+
+.
+
+V – Discussão dos resultados A atividade da CbE nos cascudos foi significativamente inibida pelo
+
+organofosforado nos dois intervalos de tempo analisados, no fígado e nas brânquias. Já os cascudos expostos ao carbamato apresentaram inibição da CbE apenas nas brânquias, nos dois períodos analisados. Esses resultados revelam uma maior sensibilidade das brânquias em relação ao fígado, após exposição ao praguicida carbamato. Analisando as respostas das tilápias aos dois praguicidas é novamente notada uma maior sensibilidade ao diazinon, conforme os padrões de toxicidade diferentes para as duas categorias de praguicidas. O organofosforado nessa espécie, promoveu a inibição da CbE no fígado e nas brânquias nos dois períodos de exposição, na dose de 1mg/L. No entanto o carbaril a 2mg/L inibiu a atividade da enzima apenas após dois dias exposição, nos dois tecidos, expressando uma melhora no quadro de intoxicação das tilápias no decorrer do tempo. Chandrasekera e Pathiratne (2005) submeteram separadamente tilápias do nilo (O. niloticus) a uma mesma dose do praguicida organofosforado clorpirifos e do carbamato carbosulfan e observaram inibição da carboxilesterase no fígado dos peixes, em ambos os tratamentos, porém a inibição pelo clorpirifos foi mais acentuada, novamente corroborando com os relatos de maior toxicidade dos organofosforados. De forma geral, os resultados obtidos no presente estudo a respeito da atividade da CbE nas duas espécies submetidas aos compostos organofosforado e carbamato, corroboram os resultados obtidos para a AChE. As tilápias se mostraram mais sensíveis à contaminação por praguicidas do que os cascudos e o composto organofosforado diazinon se mostrou mais tóxico do que o composto carbamato carbaril.
+
+2.2
+
+Atividade da 7-etóxiresorufina-O-deetilase (EROD) Estudos preliminares a esse trabalho revelaram que a atividade da EROD nas
+
+brânquias das espécies Oreochromis niloticus e Pterygoplichthys anisitsi é extremamente baixa o que levou a análise da atividade dessa enzima apenas no fígado desses peixes após exposição aos praguicidas diazinon (OP) e carbaril (CA). O composto diazinon se mostrou um inibidor da EROD em ambas as espécies. Em contraste, as duas espécies expostas ao carbaril mostram tendência ao aumento na atividade da enzima, sugerindo a atuação da isoforma CYP1A na detoxicação desse praguicida. As enzimas do complexo P450 catalisam a inserção de um átomo de oxigênio
+
+ 
+
+V – Discussão dos resultados
+
+.
+
+molecular em substratos endógenos e xenobióticos, na fase I metabolização, dessa forma, tornando o substrato hidrossolúvel para posteriormente ser excretado. Ghosh et al. (2000) realizou estudos de exposição in vitro por carbofuran, um praguicida carbamato, em hepatócitos da espécie Heteropneustes fossilis, e observou indução do CYP1A em doses do praguicida que variaram de 0,1 a 1.000 nM. No entanto em doses de 1.000 a 100.000 nM ocorreu redução na atividade da EROD a valores próximos ao nível basal da isoforma CYP1A o que os autores atribuíram a um elevado grau de intoxicação sobrepondo-se aos esforços de metabolização pelas células. Wheelock et al. (2005) avaliou os efeitos do praguicida organofosforado clorpirifos na espécie Oncorhynchus tshawytscha e detectou inibição significativa na atividade da EROD nos peixes submetidos a dose subletal de 7,3 μg/L do composto enquanto que os peixes submetidos a 1,2 μg/L apresentaram leve diminuição na atividade da enzima. Entretanto também foi descrito na literatura que o organofosforado metidation induziu CYP1A na espécie Gobio gobio (FLAMMARION et al., 1998). Assim, os efeitos da exposição por praguicidas organofosforados (OPs) sob as isoformas CYP1As variam para compostos diferentes dessa categoria, em espécies diferentes de peixes. Segundo Wheelock et al. (2005) o efeito dos compostos organofosforados nos CYPs é resultante da metabolização mediada pelos CYPs a que estão sujeitos esses compostos; a desulfuração dos OPs pelos CYPs (subfamílias 2 e 3A) leva a liberação de um íon enxofre livre, que se liga ao grupamento heme do CYP1A, inibindo sua atividade catalítica na biotransformação do OP.
+
+2.3
+
+Atividade da glutationa S-transferase (GST)
+
+A respeito do nível de atividade da GST no presente estudo, os resultados mostraram que os cascudos expostos ao praguicida organofosforado apresentaram indução significativa na atividade da GST no fígado, nos dois períodos analisados. Isso reforça a hipótese da administração de dose subletal do diazinon para a espécie P. anisitsi, de 2mg/L, mostrando uma evidente resposta metabólica desses indivíduos ao praguicida, na tentativa de tornar esse xenobiótico mais hidrossolúvel e otimizar sua excreção. As tilápias não expressaram indução significativa na atividade da GST após exposição ao diazinon, sendo que elas foram submetidas a dose 50% inferior a dose dos cascudos.
+
+ 
+
+V – Discussão dos resultados
+
+.
+
+O fato das brânquias não expressarem aumento da GST nos cascudos, após exposição ao diazinon, pode ser atribuído ao papel menos notório desse órgão na biotransformação e metabolização de xenobióticos, quando comparada ao fígado, o que pode ser evidenciado ao se comparar os valores numéricos referentes a quantificação do nível de atividade enzimática entre o fígado e as brânquias. Principalmente após 7 dias de exposição ao diazinon, os dois tecidos nas duas espécies, revelaram atividade de GST ligeiramente reduzida nos grupos tratados contrariando resultados já descritos na literatura que mostram tendencialmente o aumento da atividade da GST nos organismos expostos a contaminantes. No entanto sabe-se que os metabólitos ativos dos praguicidas organofosforados podem ser hidrolisados pelas paraoxonases, não sendo portanto necessariamente biotransformados pelas glutationas Stransferases, durante a detoxicação. A atuação das paraoxonases pode explicar a não indução da atividade da GST nos peixes expostos ao diazinon. Na exposição ao carbaril apenas as tilápias apresentaram aumento na atividade da GST no fígado, dado este que novamente expressa maior sensibilidade da espécie frente a contaminação pelos praguicidas testados, visto que os cascudos foram submetidos a mesma dose de carbaril (2mg/L) e não mostraram resposta significativa nesse parâmetro. Já nas branquias, as duas espécies expressaram aumento na atividade da enzima, mas apenas no maior período de exposição ao carbamato. Nesse parâmetro, mais uma vez pode ser notada uma maior sensibilidade das tilápias em relação aos cascudos para a exposição ao praguicida carbamato pois em termos numéricos o nível de atividade das tilápias mais que triplicou em relação ao grupo controle e no caso dos cascudos a indução foi menos representativa. Murty (1986) relata que ocorrem variações metabólicas individuais nos peixes em resposta a um mesmo praguicida, o que poderia explicar os altos valores no desvio padrão dos grupos analisados. Em estudo relatado na literatura, tilápias O. niloticus expostas ao praguicida organofosforado azinfosmetil a doses que variaram de 0,03 ppm a 0,03 ppm + 27 ppm de 2,4-D, um herbicida, apresentaram aumento na atividade da GST no intervalo de 0-72 horas de exposição, seguida de redução da atividade no intervalo de 72-96 horas; porém os valores não expressaram resultados significativos (ORUÇ & UNER, 2000). Resultados similares foram citados por outros autores que avaliaram os efeitos de diversas categorias de praguicidas em outras espécies de peixes, e esses resultados também não mostraram  
+
+V – Discussão dos resultados
+
+.
+
+alterações relevantes a respeito do nível de atividade da GST (GALLAGHER & DI GIULIO, 1991; RIVIERE et al., 1990). Todavia foi relatado por Rao (2006a) significativa indução da GST em tilápias da espécie Oreochromis mossambicus, após exposição a 1,15mg/L (dose subletal) do organofosforado monocrotofos.
+
+2.4
+
+Atividade da glutationa peroxidase (GPx)
+
+Nenhum dos grupos expostos às duas categorias de praguicida nesse trabalho apresentou variação significativa nos níveis de GPx. De forma geral, observou-se uma tendência ao aumento na atividade da enzima nos grupos tratados, principalmente no fígado, refletindo a atuação mais significativa do órgão em relação às brânquias, nos mecanismos de detoxicação dos organismos. No entanto a avaliação desse parâmetro nas brânquias, mais precisamente nas tilápias, mostrou uma tendência à diminuição na atividade da enzima nos grupos tratados com ambos os praguicidas, sugerindo assim duas hipóteses: as doses de praguicidas a que foram submetidas a espécie não são suficientemente
+
+tóxicas
+
+para
+
+acarretar
+
+um
+
+aumento
+
+exagerado
+
+de
+
+EROs
+
+e
+
+consequentemente, levar a uma situação de estresse oxidativo celular ou, isso se deve a atuação de outras enzimas antioxidantes, como a catalase, trabalhando na degradação das possíveis EROs produzidas (como o H2O2) na metabolização dos praguicidas, conforme sugeriu Simonato et al. (2007). A literatura mostra que, dependendo do tipo de contaminante e do tempo de exposição dos organismos a locais contaminados, aumentos (TORRES et al., 2002) ou decréscimos (RODRÍGUEZ-ARIZA et al., 1993) na atividade da GPx podem ocorrer. Os aumentos na atividade de enzimas antioxidantes podem ser decorrentes de um acréscimo na produção de EROs, resultando numa indução exacerbada destes sistemas de forma a combater os efeitos deletérios das EROs. Já uma diminuição da atividade de enzimas antioxidantes tem sido correlacionada com sua inibição por determinados compostos ou em função de uma prolongada exposição do organismo a ambientes altamente contaminados, numa situação onde a produção de EROs e seu decorrente nível de comprometimento no metabolismo sobrepôs-se aos esforços de defesa do organismo. Oruç e Uner (2000) relataram aumento da atividade da GPx no fígado de O. niloticus, após 96 horas de exposição ao organofosforado azinfosmetil, e Ruas et al. (2008) em um estudo de biomonitoramento ambiental também diagnosticou em O. niloticus e em 
+
+V – Discussão dos resultados
+
+.
+
+Geophagus brasiliensis o aumento da atividade da GPx decorrentes da presença de metais como ferro e chumbo, provenientes de efluentes domésticos e industriais despejados na água. Esses dados reforçam a possível utilização da GPx
+
+como biomarcador de
+
+contaminação.
+
+2.5
+
+Nível de malondialdeído (MDA), como indicativo de lipoperoxidação
+
+No fígado de todos os grupos experimentais foi observada ligeira diminuição dos níveis de malondialdeído (MDA); essa diminuição se acentuou conforme aumento o período de exposição dos peixes aos praguicidas. Esses resultados sugerem a ocorrência de resposta metabólica nos peixes que foram expostos aos praguicidas, no sentido de degradar os produtos da lipoperoxidação, no caso do MDA específicamente, visto que ele é um produto potencialmente citotóxico. A avaliação de outros biomarcadores de estresse oxidativo, conjuntamente com a análise dos níveis de MDA, permitiriam uma melhor compreensão sobre a possível citotoxidade do diazinon e do carbaril acarretando em estresse oxidativo celular. Entretanto, a avaliação da enzima glutationa peroxidase não permitiu concluir categoricamente sobre o aumento da concentração de EROs nas células, visto que dessa atividade não expressou variações significativas nos grupos expostos aos praguicidas. Assim, estudos a respeito da catalase, que atua na degradação do H2O2, e da superóxido •
+
+dismutase, que converte o radical superóxido (O2- ) em H2O2 poderiam melhor elucidar sobre a geração e atuação dos radicais livres promovendo lesões nas biomembranas. O padrão dos níveis de MDA nas brânquias se mostrou diferente do fígado. As tilápias expostas ao diazinon a ao carbaril, após 7 dias, não apresentaram alterações no nível desse produto quando comparados os grupos controles e tratados. Os peixes expostos ao carbaril após 2 dias mostraram ligeira diminuição no entanto o grupo apresentou grande variação entre os indivíduos (alto desvio padrão).
+
+Os cascudos expostos ao carbaril
+
+mostraram discreto aumento nos níveis de MDA, revelando um aumento na peroxidação lipídica nos grupos tratados. Assim, de maneira geral, as brânquias se mostraram mais sensíveis à peroxidação lipídica do que o fígado nas espécies estudadas, ressaltando dessa forma o papel do fígado como principal órgão envolvido da metabolização de xenobióticos. Este órgão responde mais expressamente em caso de intoxicação do organismo. 
+
+V – Discussão dos resultados
+
+.
+
+Piner et al. (2007) observou aumento no nível de MDA em tilápias O. niloticus expostas a 0,45mg/L de fention, um praguicida organofosforado. No mesmo estudo foi diagnosticado aumento na atividade da glutationa peroxidase, confirmando o diagnóstico de estresse oxidativo. A atividade das GSTs pode ser relacionada com a peroxidação lipídica pois elas também atuam na metabolização de produtos derivados da lipoperoxidação, otimizando a excreção deles (HAYES & PULFORD, 1995; GUTTERIDGE & HALLIWELL, 1990). Observando de forma geral os níves de MDA do fígado dos peixes, nota-se que a maior redução desse produto nos grupos tratados ocorreu nas tilápias expostas ao carbaril, sendo o mesmo grupo experimental apresentou significativa indução da enzima GST no fígado. Nas brânquias fato similar foi observado; o único grupo que mostrou aumento dos níveis de MDA, os cascudos expostos ao carbaril, também apresentou significativa indução na atividade da GST.
+
+3
+
+Biomarcadores morfológicos
+
+3.1
+
+Morfometria do núcleo dos hepatócitos Os valores numéricos obtidos a partir da mensuração do diâmetro nuclear dos
+
+hepatócitos dos cascudos mostraram significativo aumento do tamanho dos núcleos no grupo exposto ao carbaril (CA), podendo essa característica estar relacionada com a intensificação metabólica da célula, exigindo um maior requerimento na síntese de enzimas. Satar et al. (2004) e Moore et al. (1984) estudaram o efeito de compostos organofosforados metamidofos e soman, respectivamente, nos hepatócitos de roedores e diagnosticaram hipertrofia nuclear, sugerindo ativação do metabolismo nesses animais, na tentativa de detoxicar o praguicida. Os níveis aumentados das enzimas envolvidas na metabolização, como a GST, a GPx e CYP1A mostrados nesse trabalho corroboram com essa hipótese. Entretanto a ação de compostos tóxicos nas células pode afetar não somente o metabolismo de detoxicação, mas também afetar a metabolização de substâncias endógenas como hormônios, lipídeos e proteínas de funções diversas, a assim também acarretar na hipertrofia nuclear (WILLIAMS & MIATROPOULOS, 2002).
+
+
+
+V – Discussão dos resultados
+
+.
+
+Figueiredo-Fernandes et al. (2007) estudou o efeito do cobre no fígado de tilápias O. niloticus. O autor observou que o número de núcleos de hepatócitos por mm2 de tecido hepático diminuiu com o aumento das concentrações do metal testadas, sugerindo aumento do tamanho desses núcleos. Alterações no tamanho dos núcleos também foram relatadas por Paris-Palacios et al. (2000) em Brachydanio rerio expostos ao cobre e Braunbeck et al. (1990) se referiu a essas alterações como decorrentes de aumento da atividade metabólica, não descartando a correlação do metabolismo elevado com condição patológica.
+
+3.2
+
+Nível de gordura no interior dos hepatócitos
+
+Inúmeras espécies de peixes, quando submetidas à alimentação artificial, podem estocar
+
+lipídeos
+
+no
+
+fígado,
+
+adquirindo
+
+uma
+
+coloração
+
+marrom-amarelada
+
+macroscópicamente, o que não é considerado uma anormalidade metabólica (DATTAMUNSHI & DUTTA, 1996). No entanto, acúmulo excessivo de gordura no fígado pode se estabelecer a partir de anormalidades no metabolismo dos lipídeos nos hepatócitos e por ação de diversos agentes, como etanol e drogas medicamentosas (POWELL et al., 2005), patologia conhecida por esteatose ou degeneração gordurosa. Os termos esteatose e degeneração gordurosa descrevem uma deposição de anormal de triglicerídeos nas células parenquimatosas. É vista geralmente no fígado pois ele é o principal órgão envolvido no metabolismo das gorduras. A esteatose se inicia com o desenvolvimento de pequenas inclusões no citoplasma em torno do núcleo. Com a sua progressão, os vacúolos coalescem formando uma vesícula única e grande, deslocando o núcleo para a periferia da célula (ROBBINS, 2005). A princípio esse acúmulo não acarretaria em maiores problemas ao organismo, mas por algum mecanismo bem pouco compreendido, um processo inflamatório pode ser desencadeado contra os hepatócitos sendo eles destruídos gradativamente. Dependendo da intensidade desta injúria, pode ocorrer incapacidade de regeneração dos hepatócitos, que são substituídos por fibras de colágeno, num proceso patológico conhecido por fibrose hepática (MATSUMURA et al., 1997; WHALEY & BURT, 1992; TAKAHARA et al., 1988).
+
+Uma síndrome metabólica conhecida como resistência à insulina (IR) está
+
+envolvida neste mecanismo e fatores como hiperleptinemia, aumento na produção de TNF e estresse oxidativo, acarretam na deposição de colágeno no parênquima hepático (ELZAYADI, 2008). 
+
+V – Discussão dos resultados
+
+.
+
+As causas da esteatose são: diminuição da conjugação de triacilgliceróis, alteração no transporte do colesterol, inibição da síntese de lipoproteínas, aumento da síntese de ácidos graxos, aumento da absorção de lipídeos presentes no sangue e alteração na oxidação de lipídeos na mitocôndria em corpos cetônicos. Os fosfatos atuam nesse último evento, bloqueando a entrada de ácidos graxos na mitocôndria (WILLIAMS et al., 2000). Há inúmeros relatos na literatura da ocorrência de acúmulo de gordura no fígado de tilápias após exposição a praguicidas. Desai et al. (1984) relatou degeneração gordurosa na espécies Tilápia mossambica após 10 dias de exposição subletal (2,5 ppm) ao organofosforado monocrotofos. El-Sayed e Saad (2007) observaram moderado acúmulo de gordura na espécie O. niloticus submetidas a 1,46μg/L do piretróide deltametrin por 28 dias. Peebua et al. (2008) e Jiraungkoorskul et al. (2003) também estudaram em O. niloticus os efeitos de herbicidas e constataram progressivo acúmulo de gordura no fígado após exposição crônica ao alaclor durante 3 meses, e exposição ao glifosato também por 3 meses, respectivamente. Em ambos os estudos, no inicio do período de exposição foram diagnosticados poucos vacúolos pequenos no interior dos hepatócitos e com o transcorrer da exposição, foram detectados maior número de vacúolos e de maior tamanho. O praguicida carbaril promoveu esteatose microvesicular na tilápia O. niloticus adultas após 7 dias de esposição a dose de 0,25mg/L, e esteatose macrovesicular após 7 dias de exposição a dose de 0,5mg/L, conforme relatou Matos et al. (2007). Entretanto o carbaril na dose de 2mg/L não causou esteatose nos cascudos P. anisitsi no presente estudo, o que poderia sugerir uma maior sensibilidade das tilápias ao praguicida, visto que os cascudos em questão também eram adultos.
+
+3.3
+
+Nível de núcleos hipercromáticos A hipercromatose se expressa pelo aumento da afinidade de uma estrutura celular
+
+pelo corante empregando na análise histopatológica. No caso dos núcleos, esse fenômeno é tipicamente observado em células necróticas, onde há compactação da cromatina que se mostra intensamente corada; esse padrão morfológico nuclear é conhecido como picnose. No entanto o núcleo pode se mostrar hipercromático sem ser característico de célula morta não ocorrendo retração do seu conteúdo nesse caso. No presente estudo observou-se a ocorrência de núcleos hipercromáticos nos cascudos que foram submetidos ao experimento de exposição ao diazinon, sendo que esse 
+
+V – Discussão dos resultados
+
+.
+
+padrão morfológico ocorreu também nos peixes do Grupo controle, entretanto esse padrão se mostrou aumentado significativamente nos peixes expostos ao praguicida. Os núcleos em questão se apresentaram corados intensamente e de forma homogênea, não sendo possível visualizar o nucléolo. A hipercromatose nuclear observada nos hepatócitos dos cascudos também pode ser utilizada como parâmetro no diagnóstico de alteração fisiológica dessas células. Borges et al. (2003) relata que peixes da espécie Halobatrachus didactylus expostos ao vanádio, um metal pesado, apresentaram hipercromatose dos núcleos dos hepatócitos, mas esse evento é raramente descrito e pouco compreendido em peixes. Em hepatócitos de mamíferos a hipercromatose nuclear está geralmente associada a eventos neoplásicos (WILLIAMS & MIATROPOULOS, 2002).
+
+
+
+V – Discussão geral
+
+.
+
+DISCUSSÃO GERAL Os peixes entram em contato com os agentes poluidores de várias maneiras, principalmente pela superfície de epitélios, sejam eles a própria superfície externa do corpo com suas inúmeras estruturas sensitivas, sejam pelas brânquias ou pelo intestino. Há alguns tecidos que são classicamente utilizados para estudos de toxicidade de contaminantes nos peixes, como o epitélio brânquial, fígado, tecido nervoso e sangue. A decisão sobre quais os tecidos serão analisados geralmente advém da observação de sintomas comportamentais e/ou de reações fisiológicas apresentadas pelos organismos frente ao contaminante em questão.
+
+1
+
+AS BRÂNQUIAS NOS TELEÓSTEOS Na maioria dos peixes, as brânquias representam o principal órgão respiratório.
+
+(ROMER & PARSONS, 1985). O oxigênio contido na água é extraído por um sistema de contracorrente entre a água, no meio externo, e o sangue que circula no interior das lamelas (EVANS, 1998), assegurando uma alta porcentagem de utilização do oxigênio dissolvido na água de até 80-90%, em algumas espécies, como a tilápia do nilo, Oreochromis niloticus (FERNANDES et al. 1996). Alterações no ambiente aquático provocadas por variações abruptas na temperatura, introdução de matéria orgânica, e poluição contribuem para a redução da disponibilidade de oxigênio para a respiração dos peixes e outros animais aquáticos (MAZON et al., 2002; DIAZ, 2001). As limitações do oxigênio no meio aquático e suas oscilações dependendo das condições ambientais estimularam e evolução de várias espécies de peixes que realizam respiração aérea acessória (JOHANSEN, 1970) e a respiração aérea se torna possível a partir de estruturas especializadas para absorção de oxigênio atmosférico complementando as necessidades metabólicas do organismo. Entre as estruturas especializadas para a respiração aérea estão a cavidade bucal, a pele, o trato gastrointestinal e a bexiga natatória (GRAHAM, 1997; ROMER & PARSONS, 1985). Muitas espécies de Loricariidae são capazes de captar oxigênio ao longo do trato digestório (ARMBRUSTER, 1998) e conforme relataram os autores Cruz (2007) e Oliveira et al. (2001) o cascudo Pterygoplichthys anisitsi apresenta respiração aérea acessória em  
+
+V – Discussão geral
+
+.
+
+condição de hipóxia, possibilitada por modificações na parede do estômago, como extensa capilarização imediatamente abaixo do epitélio da mucosa estomacal. Assim, a espécie consegue sobreviver e se reproduzir em água com baixo teor de oxigênio dissolvido. Geralmente, as brânquias de peixes teleósteos de respiração exclusivamente aquática são compostas de quatro arcos brânquiais de cada lado da faringe, cada um sustentando por duas fileiras de filamentos brânquiais (HILDEBRAND, 1995). A superfície dos filamentos contém uma fileira de lamelas formadas pelo epitélio brânquial, o sítio de trocas gasosas. Uma única barra brânquial com suas fileiras anterior e posterior de filamentos é denominada holobrânquia e esse é o tipo mais recorrente dentre os teleósteos (ROMER & PARSONS, 1985). A espécie O. niloticus apresenta brânquia do tipo holobrânquia e cascudo P. anisitsi, apesar de possuir respiração acessória, também apresenta holobrânquia. Mas também, através das brânquias os peixes estão sujeitos a contaminantes presentes na água, sendo que essas substâncias nocivas podem ser incorporadas pelo organismo por penetração através do epitélio. O epitélio brânquial também desempenha importante papel na manutenção osmótica e iônica dos peixes e as células que o constitui respondem, direta ou indiretamente aos fatores ambientais e a alterações internas do organismo (EVANS, 1998; MURTY, 1986). As brânquias habitualmente absorvem praguicidas hidrossolúveis (RANDALL et al., 1996). Dessa forma, os compostos organofosforados e carbamatos não encontram dificuldade em atravessar a membrana celular das lamelas. Porém, a metabolização de praguicidas também ocorre nas brânquias (LARINI, 1979), podendo os metabólitos acarretar na intoxicação dessas células, levando até à alterações estruturais. Assim, estudos onde são avaliados os efeitos de contaminantes e de seus produtos no metabolismo das brânquias também são de extrema importância, e a maioria dos trabalhos já apresentados na literatura priorizam o fígado como órgão-alvo de análises sobre a toxicidade de compostos químicos, uma vez que ele é o principal sítio metabólico. Em geral as atividades enzimáticas avaliadas nesse trabalho foram expressas em maiores níveis no fígado em relação às brânquias indicando portanto, o maior papel dele na detoxicação. Entretanto as avaliações nas brânquias são igualmente importantes, visto que elas fazem direto contato com o ambiente aquático. É pertinente ressaltar que a análise da GPx mostrou níveis semelhantes de atividade no fígado e nas brânquias, nas tilápias e nos cascudos. Altos níveis dessa enzima nas células revelam mecanismo de defesa do tecido ou  
+
+V – Discussão geral
+
+.
+
+órgão contra o peróxido de hidrogênio (H2O2), considerando sua elevada citotoxicidade, como poderoso agente oxidante. Apesar do poder de reação, o H2O2 é um metabólito natural dos organismos. Entretanto sua formação também se deve a mecanismos abióticos sendo produzido pela ação da luz solar na água em presença de substâncias húmicas (material orgânico dissolvido). Acredita-se também que descargas elétricas (raios) contribuem para a formação do H2O2 na água das chuvas (MATTOS et al., 2003). Assim organismos aquáticos estão sujeitos a grandes concentrações de peróxido de hidrogênio e os peixes, principalmente através das brânquias, justificando a expressiva atividade da enzima glutationa peroxidase (GPx) no epitélio lamelar.
+
+2
+
+O FÍGADO NOS TELEÓSTEOS Todos os vertebrados possuem um fígado definido, sendo a víscera mais volumosa
+
+do corpo, ocupando sempre uma área considerável na parte mais ventral e anterior do abdômen (HILDEBRAND, 1995). Na organogênese, o fígado se desenvolve a partir de uma evaginação do tubo digestivo, no mesentério ventral, abaixo da parte anterior do intestino. Nos peixes e anfíbios se desenvolve um septo transverso separando a cavidade pericárdica do celoma remanescente, e o fígado se encontra ligado a esse septo, expandindo-se para trás na cavidade abdominal (ROMER & PARSONS, 1985). Nos teleósteos, o tecido hepático desempenha importante papel fisiológico participando de funções anabólicas (síntese de proteínas, com destaque para a vitelogenina; lipídeos e carboidratos) e catabólicas (metabolização do nitrogênio e glicogênio, e detoxicação de xenobióticos) no organismo. Segundo Bruslé e Anadon (1996), o fígado dos peixes é consideravelmente sensível a variações ambientais e poluentes sendo assim considerado um órgão-alvo em potencial para estudos de parâmetros ambientais e biológicos que podem alterar sua estrutura e metabolismo, como alimentos, poluentes, agentes infecciosos, entre outros. Na literatura, já foi bastante relatado que no fígado, o metabolismo de biotransformação e detoxicação de compostos químicos, dentre eles dos xenobióticos, está intimamente relacionado a variações individuais e fatores externos (VAN DER OOST et al., 2003; WILLIANS & IATROPOULOS, 2002; STERNBERG, 1996; MURTY, 1986). Em relação às variações individuais, a idade do indivíduo (fase do desenvolvimento), sexo, estado de saúde e variações genéticas intra-específicas, interferem  
+
+V – Discussão geral
+
+.
+
+na fisiologia metabólica hepática, refletindo muitas vezes nas respostas do organismo frente a um contaminante. Marking et al. (1975) observou diminuição da toxicidade do praguicida TFM (3-trifluormetil-4-nitrofenol) em salmão, conforme aumentava a idade e tamanho dos peixes. Já Bills e Marking (1976) observaram que a toxicidade do praguicida TFM nos ovos dessa espécie era maior quanto menor fosse o estágio de desenvolvimento. Pathiratne e Chandrasekera (2008) estudaram tilápias expostas ao clorfirifos (OP) e evidenciaram uma maior tendência à inibição da AChE nos músculos das fêmeas em relação aos machos. Logo, as características intrínsecas do metabolismo dos organismos poderiam explicar os altos valores de desvio padrão observados nos grupos experimentais, uma vez os ensaios enzimáticos foram replicados para cada amostra analisada tentando dessa forma minimizar possíveis erros durante o preparo e leitura do ensaio. Dentre todos os estudos bioquímicos realizados nesse trabalho, a atividade da EROD apresentou as maiores discrepâncias em relação à média dos grupos analisados. Inúmeros são os relatos na literatura de que a indução do CYP1A em peixes é fortemente influenciada por diversos fatores endógenos e exógenos. Os fatores endógenos incluem a fase do desenvolvimento, estado nutricional, sexo e fase do ciclo reprodutivo; os principais fatores externos são a sasonalidade, temperatura e teor de oxigênio (SARKAR et al., 2006; VAN DER OOST et al., 2003; MONOSTORY et al., 1996). Solé et al. (2009) avaliou o nível basal da atividade da EROD em 9 espécies de peixes marinhos e observou que as espécies benctônicas (de fundo) apresentam maior atividade de CYP1A do que as espécies costeiras. Essa observação sugere a influência da temperatura e principalmente do teor de oxigênio na água como fatores determinantes na indução do CYP1A. Outra questão que deve ser relevada é quanto ao fato dos cascudos que foram usados no experimento de exposição ao organofosforado apresentarem baixo nível de atividade da GST no fígado e nas brânquias e GPx nas brânquias, em todos os grupos experimentais. Isso deve estar relacionado à particularidades metabólicas e fisiológicas da população em questão, visto que os grupos de cascudos submetidos aos diferentes contaminantes foram coletados em áreas diferentes no rio Turvo e em períodos diferentes. Dentre os fatores externos que mais influenciam a toxicidade e a metabolização dos xenobióticos estão a temperatura, o pH, turbidez do meio, salinidade e alimentação (tipo de dieta) (MURTY, 1986). Weber (1972) relatou que a aplicação de 0,09mg/L do DDT no rio  
+
+V – Discussão geral
+
+.
+
+Saskatchewan, no Canadá, eliminou larvas de inseto 98 minutos após a aplicação; em outra ocasião as larvas morreram após 9 minutos da aplicação da mesma concentração do DDT e a diferença entre as duas situações era na turbidez na água. Na região onde ocorreu a primeira aplicação era visível poucas partículas suspensas sugerindo menor turbidez no local e no local da segunda aplicação havia bem mais partículas suspensas atribuídas à maior turbulência da água. Mas apesar das variações individuais observadas nas respostas dos grupos experimentais, de modo geral, observou-se um padrão de respostas similares entre os grupos experimentais para cada um dos parâmetros testados e isso pode ser notado a partir da análise dos valores quantitativos das atividades enzimáticas. Além disso, observou-se também certo padrão de respostas dos grupos experimentais frente os diferentes tratamentos, no decorrer nos períodos estudados.
+
+3
+
+O TECIDO NERVOSO NOS TELEÓSTEOS Convencionalmente, o encéfalo de vertebrados é dividido anatomicamente em
+
+cinco partes: partindo da extremidade cranial em direção a caudal, estão o telencéfalo e o diencéfalo (representando a porção anterior do cérebro), o mesencéfalo, o metencéfalo (que inclui o cerebelo e a ponte) e o mielencéfalo. Contudo, é conveniente reconhecer divisões estruturais e funcionais (EVANS, 1998). O encéfalo e a medula espinal compreendem o Sistema Nervoso Central, ao passo que os nervos e gânglios formam o Sistema Nervoso Periférico. As fibras aferentes ou sensoriais do Sistema Nervoso Periférico transmitem os impulsos dos órgãos receptores ao Sistema Nervoso Central; as fibras eferentes ou motoras transmitem os impulsos do Sistema Nervoso Central aos órgãos executores. As fibras somáticas (sensoriais e motoras) estão relacionadas à pele e seus derivados, e aos músculos voluntários. As fibras viscerais (sensoriais e motoras) estão relacionadas às glândulas e músculos involuntários de vários sistemas de órgãos. A maioria dos órgãos inervados por nervos viscerais recebe dois conjuntos completos de fibras que desencadeiam respostas antagônicas, e certa independência estrutural e funcional em relação ao restante do Sistema Nervoso Periférico; esses dois conjuntos de fibras são denominados Sistema Nervoso Autônomo Simpático e Parassimpático.
+
+A
+
+união
+
+funcional
+
+entre
+
+os
+
+neurônios
+
+ocorre
+
+através
+
+dos
+
+neurotransmissores. Foram identificados mais de 50 neurotransmissores, incluindo a 
+
+V – Discussão geral
+
+.
+
+acetilcolina, noradrenalina, serotonina, ácido glutâmico, dopamina e muitos peptídeos (HILDEBRAND, 1995). A acetilcolina é o mediador químico necessário para transmissão do impulso nervoso nas fibras (a) pré e pós-ganglionares do Sistema Nervoso Autônomo Simpático e Parassimpático; (b) as fibras parassimpáticas pós-ganglionares (órgãos efetores) e algumas fibras simpáticas pós-ganglionares (glândulas). É ainda o transmissor neuro-humoral (c) do nervo motor do músculo estriado (placa mioneural); e (d) de algumas sinapses interneurais do Sistema Nervoso Central. Como já foi discutido nesse trabalho, o principal mecanismo de toxicidade dos praguicidas organofoforados a carbamatos refere-se ao papel deles como agentes anticolinesterásicos, ou seja, esses compostos atuam inibindo a atuação das colinesterases. As colinesterases, principalmente a acetilcolinesterase, são importantes na fisiologia da transmissão dos impulsos nervosos, bloqueando a ativação sináptica e dessa forma reestabelecendo o potencial de ação da fibra nervosa pós-sináptica. Assim,
+
+os
+
+organofosforados
+
+e
+
+carbamatos
+
+são
+
+considerados
+
+compostos
+
+neurotóxicos e os danos causados aos organismos que entram em contato com esses contaminantes são extremamente relevantes uma vez que as alterações fisiológicas acarretadas pelo comprometimento da ação da acetilcolinesterase levam a alterações motoras, sensitivas, metabólicas e comportamentais. Considerando a representatividade a acetilcolina como neurotrasmissor, a AChE é rotineiramente avaliada em casos de suspeita de contaminação dos organismos por praguicidas anti-colinesterásicos como o diazinon e o carbaril. Ela é encontrada concentradamente no encéfalo e músculos (especificamente na junção mio-motora) por isso essas estruturas são os principais alvos de estudo dos efeitos dos praguicidas organofosforados e carbamatos nos animais.
+
+4
+
+SOBRE AS ESPÉCIES Pterygoplichthys anisitsi E Oreochromis niloticus Na maioria dos teleósteos o fígado apresenta-se dividido em três lobos
+
+(VICENTINI et al., 2005), entretanto as espécies O. niloticus e P. anisitsi apresentam o
+
+
+
+V – Discussão geral
+
+.
+
+fígado dividido em dois lobos, direito e esquerdo; nenhuma lobação também já foi descrita em alguns teleósteos (GONZALEZ et al., 1993). Akiyoshi e Inoue (2004) realizaram um trabalho no qual foi avaliada a morfologia do fígado de 200 espécies de teleósteos como modelo para o estudo das relações filogenéticas entre os representantes desse grupo de vertebrados. Embora o número de espécies de peixes teleósteos ultrapassem os 28.000, a grade filogenética para o grupo está claramente categorizada e na escala evolutiva dos teleósteos, os siluriformes, que tem a espécie P. anisitsi como representante, constitui um táxon ancestral aos perciformes, tendo este a espécie O. niloticus como representante. (NAKABO, 2000). Os resultados da histologia do fígado dos peixes apresentados por Akiyoshi e Inoue (2004) corroboram com filogenia dos teleósteos. Os autores se basearam na classificação proposta por Elias e Bengelsdorf (1952), usada em estudos para mamíferos. Basicamente três níveis de organização do parênquima hepático são diagnosticados nos vertebrados, são eles: forma sólida, tubular e cordonal. Esses estudos mostraram que o arranjo do parênquima se desenvolve paralelamente com o avanço filogenético, sendo esse progresso gradual e a disposição dos hepatócitos nas espécies deriva da forma sólida com as células esféricas (mais simples) para a forma cordonal com os hepatócitos adquirindo formato poliédrico. De forma geral, no parênquima do tipo sólido, os hepatócitos se dispõem em múltiplas camadas e os sinusóides são estreitos, curtos e tortuosos. No arranjo tubular, a maior parte dos hepatócitos se dispõe em camadas duplas e os sinusóides são estreitos ocupando todo o interstício entre as placas. Já no arranjo do tipo cordonal ocorrem camadas únicas e duplas de hepatócitos, e os sinusóides são largos e retos conectados entre si. Akiyoshi e Inoue (2004) também diagnosticaram quatro tipos de arranjos do trato biliar nos teleósteos. São eles: tipo isolado (o ducto biliar está localizado independentemente no lóbo hepático e é margeado por tecido conjuntivo), trato biliararterial (o ducto é acompanhado por ramo da artería hepática no lóbo), trato biliar-venoso (o ducto é acompanhado por ramo da veia porta no lóbo) e tipo trato-portal (o ducto é acompanhado por ramo a veia porta e ramo da artéria hepática; essa disposição é a encontrada nos mamíferos, conhecida por tríade portal). Os tipos mais comumente encontrados nos peixes foram o tipo isolado e o biliar-arterial, entretanto os autores não evidenciaram a mesma relação dessas morfologias com a filogenia das espécies. Os autores 
+
+V – Discussão geral
+
+.
+
+sugerem que o arranjo do trato biliar esteja relacionado com o tipo de dieta e metabolismo de lipídeos. Neste trabalho a análise morfológica do fígado do cascudo P. anisitsi mostrou que a espécie apresenta parênquima hepático do tipo tubular e arranjo do trato biliar do tipo biliar-arterial, corroborando com os relatos de Akiyoshi e Inoue (2004). Segundo os autores, os siluriformes apresentam parênquima tubular e trato biliar dos tipos isolado ou biliar-arterial; o fígado dos perciformes é tipicamente cordonal, exceto em Gobioidei, e o trato biliar varia entre as quatro formas. Vicentini et al. (2005) analisou a morfologia do fígado da tilápia O. niloticus (perciforme, Labroidei) e diagnosticou dois lobos hepáticos, parênquima do tipo cordonal e trato biliar-venoso. Como foi relatado os cascudos P. anisitsi e a tilápia O. niloticus apresentam entre si distante relação filogenética, o que poderia determinar em diferente grau de capacidade metabólica nessas espécies. A morfologia hepática diferente nos dois peixes leva à suposição de que a tilápia apresente metabolismo mais aprimorado do que o cascudo, visto que as estruturas que compõem o fígado dela evoluíram de forma a otimizar as relações fisiológicas entre cada uma das partes envolvidas; os hepatócito delimitados por sinusóides largos e contínuos potencializam as trocas entre as células e a circulação sanguínea, por exemplo. No entanto, de um modo geral, os cascudos se mostraram mais tolerantes às exposições experimentais aos praguicidas diazinon e carbaril propostas nesse trabalho. Essa afirmação está baseada no fato de que as tilápias jovens morreram após exposição a 2mg/L do diazinon (praguicida mais tóxico dentre os dois), enquanto que cascudos também jovens foram submetidos à mesma exposição e sobreviveram até o término do período experimental, de 7 dias. Tradicionalmente, tanto os cascudos quanto as tilápias são considerados peixes resistentes, tolerando estresses no ambiente como variações na temperatura, diminuição da concentração de oxigênio na água e défict na fonte usual de alimentação. Popularmente esses peixes são considerados “praga” ocorrendo quase que na totalidade dos principais rios brasileiros. As tilápias foram introduzidas no Brasil com a finalidade de ingerir o lodo que acumulava nas estruturas das usinas hidroelétricas, limpando-as; e quando essa fonte alimentar se esgotava as tilápias passavam a explorar outras fontes de alimentos se adaptando com sucesso no ambiente, muitas vezes prejudicando espécies endêmicas ali 
+
+V – Discussão geral
+
+.
+
+residentes. É também popularmente conhecida a capacidade dos cascudos de suportarem permanecer durante horas fora d`água; algumas espécies sobrevivem até 30 horas nessa condição e isso se deve à respiração aérea acessória desses peixes. Pequenas discrepancias nos níveis de atividades enzimáticas foram observadas nos parâmetros bioquímicos analisados nesse trabalho quando comparadas as duas espécies, visto que diferenças inter-específicas são comumente diagnosticadas. Entretanto foram também notadas diferenças no nível de atividade de enzimas no mesmo tecido, de uma mesma espécie, em experimentos diferentes, especialmente nos cascudos. Assim, por exemplo, as atividades da AChE e da CbE foram maiores nos cascudos do experimento de exposição ao organofosforado do que nos cascudos expostos ao carbamato. Mais acentuada foi a diferença notada na atividade da EROD no fígado dos cascudos e da GST e GPx no fígado e nas brânquias dos cascudos, quando comparados animais de cada um dos dois experimentos de exposição. Essas diferenças podem ser devido ao tamanho e estágio de desenvolvimento dos animais utilizados em cada experimento. Os animais expostos ao OP tinham em média o tamanho de 16,3cm (Quadros 2 e 3), já os animais do experimento de exposição ao CA eram ligeiramente maiores, em média 22,3 cm. Assim as discrepâncias nos valores das atividades enzimáticas poderiam ser atribuídas às diferenças no tamanho dos peixes, visto que a atividade de diversas enzimas pode variar ao longo do desenvolvimentos dos animais. As tilápias submetidas a cada um dos dois experimentos também apresentaram diferentes tamanhos, no entanto não foram observadas discrepâncias tão acentuadas nas enzimas avaliadas, sugerindo que estudos mais detalhados a respeito dos níveis de atividades enzimáticas ao longo do desenvolvimento nessas duas espécies devem ser realizados para melhor esclarecer esta hipótese. Também novos estudos devem ser feitos com essas duas espécies visando melhores conhecimentos sobre as similaridades e particularidades a respeito delas e assim elucidar o papel dessas características na tolerância a perturbações ambientais, decorrentes, por exemplo, da presença de contaminantes na água.
+
+
+
+.
+
+V – Discussão geral
+
+5
+
+O CONTEXTO DO BIOMONITORAMENTO AQUÁTICO NO BRASIL Estudos de monitoramento ambiental baseado na análise dos biomarcadores
+
+bioquímicos vêm sendo realizados rotineiramente em países do Hemisfério Norte desde a década de 80. No Hemisfério Sul, este tipo de estudo é mais recente, porém ainda escasso. No Brasil especificamente, este tipo de estudo tem crescido de forma discreta nos últimos anos. Sabe-se que a contaminação do meio aquático seja por praguicidas agrícolas, falta de tratamento de efluentes, desastres ecológicos, etc., representa um crescente problema ambiental no Brasil, como conseqüência do desenvolvimento acelerado e não planejado país. Deste modo, estudos diagnósticos da qualidade das águas brasileiras, sejam por análises químicas e/ou estudos com biomarcadores bioquímicos de contaminação, assumem um papel relevante no sentido de se avaliar áreas com potenciais riscos ambientais. Nos países do Norte a maioria dos trabalhos de biomonitoramento é realizado em ambientes marinhos, visto que lá muitos dos países são banhados pelos oceanos. O Brasil apesar de banhado pelo oceano Atlântico em todo o litoral leste, apresenta o território rico em rios e com uma vasta diversidade de espécies de peixes. Nesse contexto, estudos estão sendo realizados no país avaliando possíveis contaminações desses rios por efluentes industriais, esgoto doméstico e agrotóxicos usados em atividades agropecuárias, e seus efeitos em várias espécies de peixes. Linde-Arias et al. (2008a) realizou o biomonitoramento em 4 trechos do rio Paraíba do Sul. Esse rio percorre áreas do mais importante centro urbano e industrial do país, o Vale do Paraíba que abrange porção dos estados de São Paulo, Rio de Janeiro e Minas Gerais. Nesse estudo foi avaliado na espécie Geophagus brasilienses os biomarcadores AChE no tecido muscular, nível de metalotioneínas no fígado e ocorrência de metabólitos de HPA na bile. O autor diagnosticou atividade da AChE significativamente diminuída no trecho do rio localizado numa região de extensa agricultura, revelando contaminação da água por praguicidas anti-colinesterásicos, enquanto que os peixes que habitavam trechos que percorriam as áreas industrializadas mostraram elevados níveis de metalotioneínas e metabólitos de HPA , revelando que esses peixes foram expostos a metais e HPAs.
+
+
+
+V – Discussão geral
+
+.
+
+Em outro estudo Linde-Arias et al. (2008b) avaliou em 3 dos mesmos trechos do rio Paraíba do Sul e em um quarto trecho diferente, a atividade da AChE dos músculos, nível de metalotioneínas no fígado e ocorrência de micronúcleos em eritrócitos do sangue periférico, na tilápia O. niloticus. Foi observado novamente diminuída atividade da AChE nos peixes originários de áreas com intensa atividade de agricultura, determinada por efeito de praguicidas. As tilápias que habitavam área intensamente degradada por ação antropogênica e industrializada mostraram altos níveis de metalotioneínas. Os peixes oriundos das áreas industrializadas e de agricultura mostraram uma tendência ao aumento no nível de micronúcleos, sugerindo que esses peixes foram expostos a contaminantes potencialmente genotóxicos. A tilápia O. niloticus e outros dois ciclídeos, Tilápia rendalli e Geophagus brasilienses residentes de uma área livre de influência urbana e agricultura e outros exemplares oriundos do rio Monjolinho, rio este que banha o município de São Carlos/SP, recebendo efluente industrial, foram biomonitorados (RUAS et al., 2008). Nesse estudo o autor diagnosticou aumento no nível de peroxidação lipídica e da atividade da SOD nos eritrócitos nas três espécies que residiam no rio Monjolinho. Além dos parâmetros bioquímicos o autor realizou análises de características físicas e químicas das águas provenientes dos dois ambientes e detectou a presença de metais como cromo, cobre, ferro, zinco e Cádmo na água do rio Monjolinho, decorrentes de despejo de efluente industrial. Entretanto a GPx e a CAT se mostraram diminuídas em T. rendalli e O. niloticus respectivamente, nos peixes expostos aos contaminantes, relevando efeitos adversos nesses animais decorrentes de respostas metabólicas particulares dessas duas espécies. Por isso estudos comparativos entre diferentes espécies são importantes visto que as espécies apresentam susceptibilidade diferente frente aos contaminantes ambientais.
+
+6
+
+CONSIDERAÇÕES FINAIS Os relatos acima ilustram a aplicabilidade dos biomarcadores bioquímicos nos
+
+estudos de biomonitoramento ambiental, servindo como ferramentas sensíveis a contaminação e relevando a toxicidade dos poluentes, comprometendo a homeostasia dos peixes que habitam nessas áreas. O presente trabalho visou elucidar o perfil de algumas respostas bioquímicas apresentadas por duas espécies de peixes de água doce, com hábitos e categorias  
+
+V – Discussão geral
+
+.
+
+taxonômicas distintas, decorrentes de intoxicação por praguicidas. A tilápia O. niloticus é um perciforme típico de ambientes lênticos (água corrente) enquanto que o cascudo P. anisitsi é um siluriforme tipicamente detritívoro, de fundo e preferencialmente de ambientes semi-lóticos (ambiente lótico é caracterizado por água parada). Os resultados apresentados sugerem a utilidade dos sistemas estudados como potenciais biomarcadores de contaminação por praguicida organofosforado e carbamato, nas espécies Oreochromis niloticus e Pterygoplichthys anisitsi como sentinelas,
+
+em
+
+futuros programas de biomonitoramento aquático no Brasil.
+
+ 
+
+VII – Conclusões
+
+.
+
+CONCLUSÕES Estresse oxidativo ¾ Os parâmetros bioquímicos indicadores de estresse oxidativo testados (atividade da GPx e níveis de MDA) não se mostraram potenciais biomarcadores de contaminação por praguicida organofosforado diazinon e carbamato carbaril em Pterygoplichthys anisitsi e Oreochromis niloticus nas concentrações e período de exposição testados, visto que os animais expostos aos contaminantes não mostraram alterações significativas nos valores desses parâmetros.
+
+B-esterases ¾ A atividade da AChE no tecido nervoso e CbE nas brânquias de ambas as espécies após exposição aos dois praguicidas, e CbE no fígado de ambas as espécies após exposição ao organofosforado, se mostraram potenciais biomarcadores bioquímicos de contaminação nas concentrações e período de exposição testados, visto que os animais expostos aos contaminantes mostraram significativa inibição dessas enzimas, atribuída ao efeito anti-colinesterásico dos praguicidas.
+
+Enzimas de detoxicação ¾ A atividade da EROD no fígado em ambas as espécies após exposição ao praguicida organofosforado se mostrou potencial biomarcador de contaminação visto que os animais expostos ao contaminante mostraram significativa inibição da enzima, atribuída a toxicidade do composto.
+
+¾ A atividade da GST no fígado de P. anisitsi após exposição ao organofosforado e de O. niloticus após exposição ao carbamato, e GST nas brânquias de ambas as espécies após exposição ao carbamato, se mostraram potenciais biomarcadores de contaminação nas concentrações e período de exposição testados, visto que os animais expostos aos contaminantes mostraram significativa indução da enzima, como indicativo da detoxicação do xenobiótico.
+
+
+
+VII – Conclusões
+
+.
+
+Biomarcadores morfológicos ¾
+
+A espécie P. anisitsi apresentou esteatose e hipercromatose nuclear no fígado após exposição ao organofosforado, e hipertrofia nuclear dos hepátocitos após exposição ao carbamato. Essas alterações morfológicas são atribuídas a efeitos citotóxicos do contaminante, porém não são consideradas composto-específicas.
+
+Sensibilidade das espécies aos praguicidas ¾ A dose de 2mg/L do praguicida organofosforado diazinon foi letal apenas para jovens da espécie Oreochromis niloticus. Jovens da espécie Pterygoplichthys anisitsi sobreviveram a essa dose.
+
+¾ Jovens e adultos das espécies P. anisitsi e O. niloticus sobreviveram à dose de 2mg/L do praguicida carbaril.
+
+¾ De um modo geral a tilápia O. niloticus se mostrou mais sensível do que o cascudo P. anisitsi aos praguicidas nas concentrações e período de exposição testados.
+
+
+
+VII – Conclusões
+
+.
+
+Resumindo: ¾ Bons biomarcadores bioquímicos para: Contaminação por praguicida carbamato: AChE no tecido nervoso e CbE na brânquia, em ambas as espécies. GST no fígado em O. niloticus e GST na brânquia em ambas as espécies. Contaminação por praguicida organofosforado: AChE no tecido nervoso, CbE na brânquia e fígado e EROD no fígado, em ambas as espécies. GST no fígado em P. anisitsi. ¾ Potenciais biomarcadores morfológicos: Contaminação por praguicida carbamato: hipertrofia nuclear em P. anisitsi. Contaminação por praguicida organofosforado: esteatose e hipercromatose nuclear em P. anisitsi.
+
+
+

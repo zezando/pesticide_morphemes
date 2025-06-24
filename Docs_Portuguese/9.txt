@@ -1,0 +1,184 @@
+ANÁLISE DE AGROTÓXICOS EM ÁGUA USANDO EXTRAÇÃO LÍQUIDO-LÍQUIDO COM PARTIÇÃO EM BAIXA TEMPERATURA POR CROMATOGRAFIA LÍQUIDA DE ALTA EFICIÊNCIA
+
+INTRODUÇÃO O Projeto Jaíba é um amplo projeto de irrigação de grande importância para todo o Norte de Minas.1 A água utilizada para irrigação é coletada em canais próximos às próprias plantações (Figura 1S, material suplementar), apresentando elevado risco de contaminação devido a sua localização geográfica, fenômenos de lixiviação2,3 e aplicações de agrotóxicos por via aérea.4 Os agrotóxicos são largamente empregados para minimizar perdas na produtividade, atribuídas ao ataque de pragas.5,6 A aplicação de agrotóxicos pode gerar resíduos no ar, solo e na água, expondo indiretamente o ser humano.7 Por isso, as agências reguladoras estabelecem limites máximos de resíduo permitido (LMR) em diversas matrizes.8,9 Esses valores de LMR são estabelecidos levando em consideração vários fatores, dentre eles a toxicidade do composto para seres humanos e o limite de quantificação dos métodos instrumentais de análises. Devido à exigência da legislação e à toxicidade destas substâncias, o consumo desta água ou sua reutilização na agricultura pode resultar em riscos à saúde pública. A região do Projeto Jaíba se destacou nos últimos anos na produção de banana prata, limão tahiti e manga.10 Nestas culturas, clorpirifós, λ-cialotrina, permetrina e bifentrina representam agrotóxicos comuns para o controle de pragas.9 Embora destes quatro agrotóxicos apenas a permetrina seja regulamentada pela Portaria 518 de 2004 em amostras de água,11 o uso constante dessas substâncias torna a análise e o monitoramento fundamentais para preservar a saúde humana e o meio ambiente. O primeiro passo para análise e monitoramento destas substâncias em água envolve o desenvolvimento da técnica de extração. Esta etapa visa remover seletivamente resíduos de agrotóxicos destas amostras e pré-concentrá-los.12 As principais técnicas existentes são a extração em fase sólida,13-15 microextração em fase sólida,16-19 microextração líquido-líquido20-23 e microextração em gota única.24 Apesar do elevado número de técnicas existentes, a extração líquido-líquido com partição em baixa temperatura (ELL-PBT) tem se apresentado como uma alternativa para extração de agrotóxicos *e-mail: flavianosilverio@ufmg.br
+
+em diversas matrizes.25-28 O método é baseado na partição dos analitos entre as fases aquosa e orgânica, obtida com o abaixamento da temperatura (-20 °C).28 A vantagem deste método é que os componentes da amostra são congelados com a fase aquosa, enquanto que os agrotóxicos são extraídos pela fase orgânica.25 Entretanto, muitos estudos têm sido feitos utilizando a ELL-PBT e cromatografia gasosa com detectores captura de elétrons (CG-DCE) ou ionização em chama (CG-DIC) para quantificação dos compostos, e são raras as publicações envolvendo cromatografia líquida de alta eficiência (CLAE). Análises por CLAE podem ser uma excelente alternativa, sempre que possível, em substituição às análises por CG-DCE, pois a aquisição desse equipamento por laboratórios de monitoramento de resíduos tem se tornado inviável, uma vez que estão sendo exigidas adequações dos laboratórios para trabalharem com material radioativo (Ni63 do detector por captura de elétrons), elevando consideravelmente os custos das análises. Este trabalho visou otimizar e validar a técnica de extração líquido-líquido com partição em baixa temperatura (ELL-PBT) dos agrotóxicos clorpirifós, λ-cialotrina, permetrina e bifentrina (Figura 1) em amostras de água coletada em 29 canais de irrigação da região do Projeto Jaíba, no norte de Minas Gerais. Os compostos foram
+
+Figura 1. Estrutura química dos quatro compostos estudados quantificados por cromatografia líquida de alta eficiência com detector de ultravioleta (CLAE-UV). PARTE EXPERIMENTAL Reagentes Soluções padrão estoque de clorpirifós (99,0% m/m), permetrina (99,0% m/m) obtidos da Chem Service (West Chester, PA, USA), λ-cialotrina (86,5% m/m) obtida da Syngenta (São Paulo, Brasil) e bifentrina (92,2% m/m – FMC do Brasil) foram preparadas em acetonitrila na concentração de 500,0 mg L-1 e armazenadas em temperatura de -4 °C. A partir das soluções estoque foi preparada solução de trabalho contendo os quatro agrotóxicos na concentração de 50 mg L-1. Foram utilizados como solventes grau CLAE: acetona, acetonitrila, acetato de etila e etanol, todos da Vetec (Rio de Janeiro, Brasil). Cloreto de sódio e fosfato de sódio, com grau de pureza superior a 99%, também foram adquiridos da Vetec (Rio de Janeiro, Brasil). Procedimento analítico Otimização da extração líquido-líquido com partição em baixa temperatura (ELL-PBT) A técnica proposta foi otimizada univariadamente avaliando os seguintes parâmetros: fase extratora, força iônica e tempo de congelamento das amostras. Os níveis de cada variável são descritas na Tabela 1. Tabela 1. Otimização univariada da ELL-PBT de agrotóxicos em amostras de água Variáveis
+
+Quantidade
+
+Mistura extratora (8 mL)
+
+Acetonitrila Acetonitrila / Acetato de etila (6,50 mL / 1,50 mL) Álcool etílico Acetona Acetona / Acetato de etila (6,50 mL / 1,50 mL)
+
+Força iônica
+
+NaCl (0,0100 g; 0,0250 g; 0,0500; 0,100 g) Na3PO4 (0,00100 g; 0,00500 g; 0,0100 g; 0,0250 g; 0,0500 g; 0,100g)
+
+Tempo de congelamento
+
+0,5; 1; 2; 3; 4; 5 (h)
+
+2053
+
+em aparelho Varian ProStar 325 LC, equipado com detector UV-VIS, operando em comprimento de onda de 220 nm e injetor com alça de amostragem de 20 mL. Utilizou-se coluna analítica de fase reversa da Varian C-18 (15 cm x 4,60 mm, 5 µm) e fase móvel acetonitrila/ água, (85:15 v/v). A temperatura foi mantida a 22 °C e a vazão da fase móvel foi 1,00 mL min-1. A identificação dos agrotóxicos nos extratos foi realizada por comparação com os tempos de retenção da solução padrão. Para confirmação dos compostos em amostras reais, as análises foram realizadas em cromatógrafo a gás, Agilent Technologies (GC 7890A), acoplado a um detector espectrômetro de massas (MS 5975C). Utilizou-se coluna capilar HP-5 MS (Agilent Technologies, fase estacionária 5% fenil e 95% metilpolissiloxano, 30 m x 250 µm d.i. x 0,25 µm espessura do filme). Hélio (99,9999% de pureza) foi utilizado como gás de arraste, a uma taxa de 1,2 mL min-1. O injetor split/splitless foi mantido a 280 oC. A programação de temperatura foi de 150 oC a 10 oC min-1 até 290 oC (2 min). O volume da amostra introduzido foi de 1 µL no modo de injeção sem divisão de fluxo, splitless, utilizando um injetor Combi PAL. O espectrômetro de massas foi operado com ionização por elétrons a 70 eV e um analisador de massas tipo quadrupolo, operado no modo monitoramento de íons seletivos (MIS). A interface foi mantida a 310 °C e a fonte de íons a 230 °C. Validação do método Alguns parâmetros analíticos da ELL-PBT, incluindo seletividade, limite de detecção (LD), limite de quantificação (LQ), linearidade, precisão e exatidão foram avaliados conforme sugerido pelo Instituto Nacional de Metrologia, Normalização e Qualidade (INMETRO).29 Amostras de água destilada foram utilizadas na etapa de validação do método, exceto para seletividade, tendo sido usadas amostras de água natural coletadas nas proximidades da região do Projeto Jaíba e isentas de resíduos de agrotóxicos. Aplicação da técnica ELL-PBT em amostras de água O método validado foi aplicado para determinação de clorpirifós, λ-cialotrina, permetrina e bifentrina em 29 amostras de água coletadas em canais de irrigação da região do Projeto Jaíba, no norte de Minas Gerais. RESULTADOS E DISCUSSÃO
+
+Amostras de água destilada (4,00 mL) foram colocadas em frascos de vidro transparente (22 mL) contendo 8,00 mL de fase extratora (Tabela 1). As amostras foram fortificadas com 100 µL de solução padrão contendo clorpirifós, λ-cialotrina, permetrina e bifentrina a 50 mg L-1, homogeneizadas e deixadas em repouso no refrigerador a -18 ºC para o congelamento da fase aquosa (Tabela 1). A fase orgânica do sistema bifásico (7,0 mL) foi recolhida em frasco transparente e armazenada em geladeira até o momento da análise por CLAEUV. Para avaliar a recuperação dos agrotóxicos, a concentração dos analitos nos extratos foi determinada utilizando-se os dados de uma curva analítica obtida a partir das análises de soluções padrão em acetonitrila (50 a 1000 µg L-1). Equipamentos e condições de análise O comprimento de onda de máxima absorbância para cada composto foi determinado utilizando-se um espectrofotômetro da Micronal (B582) e soluções padrão na concentração de 1,00 mg L-1. As leituras foram realizadas na região de 190 até 330 nm. Os extratos obtidos pela ELL-PBT foram analisados por CLAE
+
+Otimização da ELL-PBT A técnica de extração líquido–líquido com partição em baixa temperatura consiste na adição de solvente orgânico à amostra aquosa, formando uma mistura homogênea. Quando o sistema é submetido à baixa temperatura, leva à formação de duas fases, com o congelamento da fase aquosa.28 O solvente orgânico possui menor temperatura de congelamento, portanto, permanece líquido e é facilmente recolhido do recipiente. Todos os trabalhos que utilizaram a ELL-PBT e análises por CG, necessariamente, passavam o extrato por sulfato de sódio anidro e aferiam o volume final para 10,00 mL, diluindo os compostos cerca de 2,5 vezes.26,28 Entretanto, a ELL-PBT tem apresentado maior compatibilidade com análises por cromatografia líquida de alta eficiência do que por cromatografia gasosa, pois os extratos obtidos após o congelamento (7,0 mL) são analisados diretamente por CLAE, sendo diluídos apenas de 1,7 vezes e com menos etapas de preparo de amostras. O estudo de variáveis, tais como, fase extratora, força iônica e tempo de congelamento para a ELL-PBT e análises por CLAE foram necessárias para se obter um método mais fácil, rápido e com custo mais baixo em relação aos citados na literatura. Fase extratora A acetonitrila tem sido o solvente orgânico mais empregado nas técnicas ELL-PBT e ESL-PBT para extração de contaminantes químicos orgânicos em diversas matrizes ambientais. Os solventes orgânicos acetona e etanol também foram avaliados neste trabalho com o intuito de substituir a acetonitrila como fase extratora, pois economicamente esta última pode apresentar valores entre 2 a 5 vezes mais caros que os principais solventes utilizados em laboratório. Entretanto, a adição apenas do solvente acetona ou etanol à amostra de água impediu o congelamento da mesma, sendo inicialmente estes solventes inviáveis para a técnica de ELL-PBT. A fase extratora constituída por 8,00 mL de acetonitrila apresentou maior porcentagem de recuperação (>86%) e melhor resposta cromatográfica dos compostos por CLAE-UV (Figura 2). A avaliação de outras fases extratoras menos polares consistiu em se adicionar o acetato de etila à acetonitrila e à acetona, conforme descrito na Tabela 1, porém o sistema contendo água, acetona e acetato de etila não proporcionou o congelamento da amostra pelo abaixamento da temperatura. Já a fase extratora composta por acetonitrila e acetato de etila diminuiu significativamente a recuperação dos compostos em relação à acetonitrila pura, com exceção do clorpirifós, que teve sua recuperação estatisticamente semelhante ao nível de 95% de probabilidade pelo teste t. Além disso, o acetato de etila diminuiu a qualidade do cromatograma obtido, pois apresentou absorbância expressiva em 220 nm, inibindo os sinais dos agrotóxicos no cromatograma em baixa concentração. Esse resultado difere do encontrado em trabalho prévio,25 em que a adição de acetato de etila favoreceu a extração e quantificação dos piretroides por cromatografia gasosa com detector por captura de elétrons.
+
+
+
+
+
+foram avaliadas para extração dos analitos estudados. Somente com a adição de sais foi possível congelar a amostra de água na presença da fase extratora acetona e acetato de etila, entretanto, as porcentagens de recuperação obtidas ficaram entre 52 e 75% para os quatro agrotóxicos (Figura 2), que são valores insatisfatórios. Observou-se também que a adição de sais aumentou a recuperação dos agrotóxicos quando se empregou a mistura acetonitrila e acetato de etila, entretanto, houve elevação, também, do desvio padrão das análises (Figura 2). Tempo de congelamento Trabalhos anteriores têm sugerido 6 h para o congelamento da fase aquosa,28 tornando a técnica de extração muito demorada. Para tornar a técnica mais rápida, o congelamento de diferentes sistemas a -18 ºC foi monitorado de 30 em 30 min. O tempo de congelamento próximo a 30 min foi obtido aumentando-se a força iônica da amostra com Na3PO4 e acetonitrila como principal solvente extrator. Entretanto, optou-se por utilizar a acetonitrila sem adição de sais, pois o tempo de congelamento de 1 h e as elevadas porcentagens de extração para os quatro agrotóxicos foram resultados satisfatórios. O sistema constituído por acetona, acetato de etila e água somente congelou com o aumento da força iônica, porém o tempo foi muito superior aos demais sistemas estudados (Figura 3).
+
+Figura 3. Tempo de congelamento de diferentes fases extratoras
+
+Validação do método
+
+Figura 2. Porcentagem de recuperação dos agrotóxicos em relação à mistura extratora
+
+Após a otimização da ELL-PBT para os agrotóxicos clorpirifós, l-cialotrina, permetrina e bifentrina em água, o método proposto foi validado. Para isso, 4,00 mL de amostras de água foram colocadas em contato com 8,00 mL de acetonitrila e deixadas em refrigerador a -18 o C por 1 h para o congelamento da fase aquosa. Posteriormente, 1,00 mL da fase orgânica foi separado e filtrado para análise por CLAE-UV. Seletividade
+
+Força iônica A característica principal da ELL-PBT é a formação da fase única entre amostra e solvente orgânico, seguida pela partição apenas pelo abaixamento da temperatura. Dessa forma, para avaliar o efeito da força iônica na extração dos agrotóxicos, diferentes massas de NaCl e Na3PO4 foram adicionadas ao sistema, visando obter fase única em condições ambientais (Tabela 1). Somente quantidades inferiores a 0,100 g destes sais apresentaram sistemas homogêneos, por isso essa massa foi adicionada à amostra de água e diferentes fases extratoras
+
+Na Figura 4A é apresentado o cromatograma de um extrato obtido a partir de uma amostra de água natural, coletada próximo aos canais de irrigação (isenta de agrotóxicos) e fortificada com solução padrão dos quatro compostos estudados a 20 µg L -1. A presença de dois sinais para a permetrina é atribuída aos isômeros cis e trans. Verificou-se que o método foi seletivo, pois o cromatograma do extrato obtido após a ELL-PBT da mesma amostra sem fortificação (branco) não apresentou interferente no mesmo tempo de retenção (Figura 4B).
+
+Análise de agrotóxicos em água usando extração líquido-líquido
+
+partir de extratos de amostras de água (branco) fortificados com os agrotóxicos, de forma a se obterem as concentrações de 10, 15, 20, 25 e 30 µg L-1, em triplicata. O LQ foi determinado por inspeção a partir do gráfico de concentração dos agrotóxicos versus o desvio padrão amostral para cada concentração. Os valores encontrados de LQ foram coerentes, considerando cerca de 10 vezes o sinal da linha de base (ruído) obtido para amostras de água isentas de agrotóxicos (branco) e analisadas por CLAE-UV. O limite de quantificação é inferior ao limite máximo de resíduo (LMR) estabelecido pela Portaria nº 518/2004 do Ministério da Saúde,11 que é de 20 µg L-1 apenas para a permetrina, um agrotóxico da classe dos piretroides, assim como a bifentrina e l-cialotrina. Embora não seja estabelecido um valor máximo para o clorpirifós, nessa Portaria foi estabelecido o padrão de potabilidade para outros agrotóxicos que representam risco à saúde, como alachlor, propanil, endossulfan e trifluralina, com um LMR também de 20 µg L-1. A linearidade do método foi avaliada analisando-se extratos obtidos a partir da ELL-PBT de amostras de água que foram fortificadas com agrotóxicos nas concentrações 10, 15, 20, 25, 30, 35, 40, 45 µg L-1. Os coeficientes de correlação linear (r) para as curvas analíticas dos quatro agrotóxicos foram superiores a 0,995 (Tabela 2), e os gráficos dos resíduos para os pontos da curva em relação à regressão ajustada são apresentados no material suplementar (Figuras 2S a 5S). Exatidão e precisão do método
+
+Figura 4. Cromatograma do extrato obtido após a ELL-PBT: A) amostra de água fortificada com 20 µg L-1, B) amostra de água natural obtida próximo aos canais de irrigação do Projeto Jaíba
+
+Limite de detecção, limite de quantificação e linearidade O limite de detecção foi determinado utilizando-se branco da amostra com adição da menor concentração aceitável dos quatro agrotóxicos (10 µg L-1). Este procedimento foi realizado com 7 replicatas, para calcular o limite de detecção: LD = 0 + t(n-1, 1- a) x s, sendo o valor de t unilateral determinado para 99% de confiança e s, corresponde ao desvio padrão amostral das sete repetições (n). Além disso, os valores obtidos de LD foram confirmados considerando o valor cerca de 3 vezes o sinal da linha de base (ruído) obtido para amostras de água isentas de agrotóxicos (branco) e analisadas por CLAE-UV. Os resultados encontrados foram inferiores a 3,5 µg L-1 (Tabela 2), sendo mais satisfatórios que os valores encontrados na literatura,30 em que o limite de detecção foi superior a 30 µg L-1 para os mesmos compostos estudados em análises por CLAE com detector com arranjo de diodo. O limite de quantificação dos quatro agrotóxicos foi considerado igual a 10 µg L-1 (Tabela 2). Esses resultados foram obtidos a
+
+Para determinar a exatidão do método, amostras de água destilada isentas de agrotóxicos foram fortificadas com 10, 20 e 45 µg L-1, correspondendo a três níveis de concentração (baixo, médio e alto) conforme recomendações do INMETRO.29 A taxa de recuperação obtida para essas concentrações variou de 97 a 105%, com desvio padrão relativo inferior 10,4%. Esses resultados são satisfatórios quando comparados com a recuperação encontrada em trabalho anterior,31 pois análises de piretroides empregando o método ELISA e análises por CG-DCE apresentaram valores entre 74 e 108%. A precisão do método foi avaliada em termos de repetitividade, determinando-se o desvio padrão relativo (DPR) para 7 extrações idênticas de amostras de água fortificadas com 200 µg L-1 e analisadas por CLAE-UV. Para essa concentração foi utilizada a curva analítica de 50 a 1000 µg L-1, preparada em acetonitrila para quantificação. Os dados obtidos estão apresentados na Tabela 3. Aplicação em amostras reais Os resultados das análises dos agrotóxicos nas amostras de água coletadas em canais de irrigação da região do Projeto Jaíba mostraram a presença de um sinal no mesmo tempo de retenção da λ-cialotrina em uma das 29 amostras analisadas. Entretanto, recomenda-se que a análise seja realizada por outra técnica, visto que o CLAE-UV não é seletivo o suficiente para qualificar os analitos, pois somente faz uso do tempo de retenção. Dessa forma, a amostra foi submetida à análise por CG-EM operando no modo monitoramento de íons seletivo (MIS). Além do tempo de retenção, os íons usados para identificar
+
+Tabela 2. Limite de detecção (LD), limite de quantificação (LQ) e equação linear do método Dados da calibração
+
+Agrotóxicos
+
+tR (min)
+
+Equações
+
+R
+
+LD (µg L-1)
+
+LQ (µg L-1)
+
+Clorpirifós
+
+4,25
+
+y = 0,000492x - 0,001230
+
+0,9978
+
+3,4
+
+10
+
+λ-Cialotrina
+
+5,08
+
+y = 0,001077x - 0,002412
+
+0,9966
+
+3,0
+
+10
+
+Permetrina
+
+6,72
+
+y = 0,001366x - 0,003600
+
+0,9954
+
+3,0
+
+10
+
+Bifentrina
+
+9,25
+
+y = 0,002151x - 0,001426
+
+0,9961
+
+2,0
+
+10
+
+
+
+Tabela 3. Exatidão e precisão do método, para os quatro agrotóxicos obtidos a partir de amostras de água fortificadas Recuperação (%) (média + ­ DPR)
+
+Concentração (µg L-1)
+
+Clorpirifós
+
+λ-Cialotrina
+
+Permetrina
+
+Bifentrina
+
+10a
+
+98±10
+
+105±10
+
+98±10
+
+103±7
+
+20
+
+a
+
+93±2
+
+106±3
+
+100±1
+
+103±4
+
+45a
+
+99±4
+
+97±1
+
+98±9
+
+99±6
+
+200
+
+95±2
+
+103±2
+
+99±3
+
+101±1
+
+b
+
+a
+
+Média de 3 repetições; b Média de 7 repetições.
+
+a l-cialotrina foram m/z 181, 197 e 208. A presença da l-cialotrina não foi confirmada pelas análises por CG-EM. Nos cromatogramas das amostras de águas dos canais de irrigação foram detectados outros sinais com tempos de retenção diferentes aos dos compostos estudados, sugerindo que essas amostras estejam contaminadas com outros compostos. Por isso, novos trabalhos serão realizados utilizando um número maior de agrotóxicos para um monitoramento mais detalhado. Devido aos efeitos que estes agrotóxicos podem causar à saúde e ao meio ambiente, o monitoramento das águas destes canais é importante para a qualidade de vida e dos alimentos produzidos. CONCLUSÕES A técnica de ELL-PBT otimizada para determinação de quatro agrotóxicos em amostras de água e análises por CLAE-UV apresentou boa linearidade, precisão e exatidão adequadas. Os limites de quantificação e detecção encontrados foram suficientemente baixos para quantificar essas substâncias a um nível inferior ao estabelecido pela legislação nacional, especificamente a Portaria 518 de 2004. As porcentagens de recuperação foram superiores a 86% e o desvio padrão relativo foi inferior a 10%. A principal vantagem da ELLPBT seguida de análises por CLAE foi o baixo consumo de solvente e menor tempo para a extração dos agrotóxicos, possibilitando a utilização em análise rotineira dos compostos em amostras de água.
+

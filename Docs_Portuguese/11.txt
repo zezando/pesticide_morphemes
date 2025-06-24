@@ -1,0 +1,162 @@
+Organofosforados e carbamatos no leite produzido em quatro regiões leiteiras no Brasil: ocorrência e ação sobre Listeria monocytogenes e Salmonella spp.
+
+Resumo Organofosforados e carbamatos são compostos utilizados no controle de parasitas em animais e podem gerar resíduos nos produtos alimentícios derivados, representando um risco para o consumidor. O presente estudo objetivou pesquisar a presença de resíduos de organofosforados e carbamatos em leite cru produzido em quatro regiões leiteiras no Brasil e verificar se a presença desses compostos teria alguma relação com a ausência de Listeria monocytogenes e Salmonella spp., anteriormente observada nessas amostras. Entre 209 amostras analisadas, a presença de ao menos um desses compostos foi detectada em 196 (93,8%). Para a avaliação da sua interferência na detecção de L. monocytogenes e Salmonella spp., 28 amostras de leite positivas e negativas para esses compostos foram submetidas à fervura por 10 minutos e adicionadas desses patógenos, monitorando-se sua multiplicação durante armazenamento a 4 °C e a 25 °C. Não houve diferença significativa (p ≤ 0,05) entre as taxas médias de multiplicação de L. monocytogenes e Salmonella spp. nas amostras de leite com diferentes resultados para resíduos de organofosforados ou carbamatos, indicando que esses patógenos não foram afetados pela presença desses resíduos. Entretanto, a alta freqüência de amostras de leite cru positivas para esses compostos é preocupante devido ao grande risco que representam para os consumidores, mesmo após o beneficiamento por tratamento térmico. Palavras-chave: leite; pesticidas; organosfosforados; carbamatos; Listeria monocytogenes; Salmonella spp..
+
+1 Introdução Organofosforados e carbamatos são compostos químicos amplamente utilizados em agropecuária como inseticidas, no controle de pragas em plantações e de parasitas em animais. O Brasil é um dos maiores consumidores desses produtos no mundo, tendo participado com 7% no consumo mundial em 19956. Ambos compostos são tóxicos para o ser humano e apresentam mecanismo comum de ação baseado na inibição da acetilcolinesterase, causando um acúmulo de acetilcolina nas sinapses nervosas8. Esses compostos são potencialmente tóxicos ao homem, podendo causar efeitos adversos ao sistema nervoso central e periférico, ter ação imunodepressora ou ser cancerígeno, entre outros. Especificamente esses pesticidas não se acumulam no organismo, porém seus efeitos são acumulativos6,8,16. Os organofosforados e carbamatos são responsáveis pelo maior número de intoxicações no meio rural. Segundo dados da Organização Mundial de Saúde, cerca de 300.000 casos de intoxicação por defensivos agrícolas foram reportados no Brasil em 19936. Quando aplicados de forma inadequada na lavoura, essas substâncias podem contaminar cursos de água, além de gerarem resíduos em produtos agrícolas. Animais que ingerem água ou alimentos contendo essas substâncias podem depositá-las na gordura e músculos, podendo ser encontradas também no leite15. A aplicação de pesticidas em animais deve obedecer a prazos de carência específicos, que quando não são respeitados geram resíduos nos alimentos produzidos, como carne e leite15. Especificamente em leite, a contaminação dessas substâncias ocorre principalmente nas fases iniciais de produção. A presença de resíduos de pesticidas nesse produto e em seus derivados é muito comum em todo mundo, sendo esses compostos considerados potenciais perigos à saúde pública3,10,11,12. Apesar da importância de pesticidas em leite e derivados, microrganismos patogênicos ainda são considerados como os perigos mais importantes relacionados a esses alimentos, em especial Listeria monocytogenes e Salmonella spp.4,9,13. Entretanto, em recente estudo realizado no Brasil com leite cru, obtido em propriedades localizadas em quatro importantes regiões leiteiras do País apresentando diferentes graus de tecnificação (ordenha mecânica, em sistema fechado ou semi-fechado, ou ordenha manual), verificou-se que esses patógenos não foram detectados em nenhuma das amostras analisadas14. Considerando que organofosforados e carbamatos são amplamente utilizados na agropecuária brasileira, esse estudo objetivou avaliar a ocorrência desses compostos em amostras de leite obtidas nessas mesmas regiões de produção. O estudo objetivou também avaliar o potencial dessas substancias em interferir na detecção de Listeria monocytogenes e de Salmonella spp. em leite cru, uma vez que, mesmo sem ação antimicrobiana comprovada, os pesticidas poderiam causar um estresse sobre as bactérias ou interferir no funcionamento dos meios de cultura utilizados para o isolamento desses patógenos, o que poderia explicar os resultados negativos obtidos.
+
+todas as placas utilizou-se um padrão (controle positivo). A sensibilidade dessa metodologia é de 0,1 mg.L-1, tanto para organofoforados como para carbamatos.
+
+BRASIL GO MG 1 SP 3 PR
+
+RS 4
+
+2 Material e métodos 2.1 Prevalência de organofosforados e carbamatos em leite cru Duzentas e nove amostras de leite cru foram coletadas em propriedades leiteiras localizadas em quatro Estados do Brasil (Figura 1), assim distribuídas: a) 47 propriedades na região de Viçosa (MG), sendo 36 com ordenha manual, nove com ordenha mecânica em sistema semi-fechado e duas com ordenha mecânica em sistema fechado; b) 50 propriedades na região de Pelotas (RS), sendo 31 com ordenha mecânica em sistema semi-fechado e 19 com ordenha manual; c) 63 propriedades na região de Londrina (PR), sendo 9 com ordenha mecânica em sistema semi-fechado e 43 com ordenha manual; e d) 49 propriedades na região de Botucatu (SP), sendo 14 com ordenha em sistema semi-fechado e 35 com ordenha manual. Todas as amostras foram coletadas dos tanques resfriadores das propriedades, acondicionados em frascos estéreis e imediatamente congeladas, sendo posteriormente submetidas a análises laboratoriais. A presença de organofosforados e carbamatos nas amostras de leite cru foi pesquisada pela técnica de Cromatografia em Camada Delgada, conforme metodologia AOAC2. Para extração, 5 mL de cada amostra foram adicionados de 2 mL de Ácido Fórmico (85%), 2 mL de Sulfato de Sódio Anidro (30%) e 30 mL de Acetona (99,5%) P. A., com agitação por 10 minutos seguida de centrifugação por 10 minutos a 2000 RPM. O sobrenadante foi separado e transferido para um funil de decantação, no qual se adicionaram 40 mL de Éter de Petróleo P. A. O novo sobrenadante foi filtrado (papel filtro com 5 g de Sulfato de Sódio Anidro) e mantido em capela de exaustão para secagem completa, e o sedimento resultante diluído em 2 mL de Éter de Petróleo P. A. e aplicado à placa de Sílica Gel 60 (13% gesso, 0,25 mm de espessura). A fase móvel utilizada foi de Clorofórmio P. A. (70 mL) e Acetona P. A. (30 mL). Para a revelação de organofosforados, foi utilizado Rodamina B P. A. e para carbamatos, p-Nitroalanina e Nitrito de Sódio. Em
+
+202
+
+2
+
+1. 2. 3. 4.
+
+Viçosa, MG Botucatu, SP Londrina, PR Pelotas, RS
+
+Figura 1. Mapa mostrando os cinco principais Estados produtores de leite no Brasil (em cinza: Minas Gerais - MG, Goiás - GO, São Paulo SP, Paraná - PR e Rio Grande do Sul - RS) e a localização das quatro áreas de estudo avaliadas.
+
+2.2 Avaliação da interferência da presença de organofosforados e carbamatos na detecção de Listeria monocytogenes e Salmonella Enteritidis em leite cru Culturas de Listeria monocytogenes ATCC 7644 e ­ almonella Enteritidis ATCC 13076, mantidas a 4 °C em ágar S Tripticase de Soja acrescido de 0,6% de Extrato de Levedura (TSA-YE) (Oxoid Ltd., Basingstoke, England), foram reativadas em placas com TSA-YE adicionado de sangue de carneiro desfibrinado 7%, incubadas por 24 horas a 30 °C e 35 °C para L. monocytogenes e S. Enteritidis, respectivamente. Após a incubação, algumas colônias de cada microrganismo foram semeadas em caldo Tripticase de Soja adicionado de Extrato de Levedura (0,6%) (TSB-YE) (Oxoid) e incubadas nas mesmas temperaturas usadas inicialmente. Após turvação do TSB-YE semeado (cerca de 18 horas), retirou-se uma alíquota para medida da absorbância em λ = 660 nm (espectrofotômetro Cintra 5). Outra alíquota foi submetida a diluições decimais em TSB-YE que foram semeadas em placas Petrifilm™ AC (3M Microbiology, St. Paul, MN, EUA), incubadas a 35 °C. Determinou-se assim o número de UFC.mL -1 correspondente à absorbância da cultura. Nessa fase da pesquisa, 28 novas amostras de leite cru foram coletadas na região de Londrina, PR e submetidas à fervura por 10 minutos, separando-se uma porção de 50 mL para pesquisa de organofosforados e carbamatos e quatro porções de 100 mL para as análises microbiológicas. Até o momento do uso, a porção de 50 mL foi mantida congelada e as de 100 mL refrigeradas. A esterilidade das amostras fervidas foi verificada através da semeadura em placas Petrifilm™ AC, com incubação
+
+Das porções de 100 mL, duas foram experimentalmente inoculadas com 1 mL da cultura de L. monocytogenes, e duas com a cultura de S. Enteritidis, de forma a atingirem a concentração final aproximada de 103 UFC.mL-1. Para cada microrganismo inoculado, uma das alíquotas foi mantida em refrigeração (4 °C) e a outra em temperatura ambiente (25 °C), simulando as condições de armazenamento empregadas nas propriedades leiteiras. Os patógenos foram enumerados após 0, 24 e 48 horas nas amostras refrigeradas e após 0, 4 e 8 horas nas amostras mantidas em temperatura ambiente, empregando-se diluições decimais seriadas em solução salina 0,85% e semeadura em placas Petrifilm™ AC, com incubação a 35 °C por 48 horas. A influência dos resíduos de pesticidas na sobrevivência de L. monocytogenes e S. Enteritidis nas amostras mantidas a 4 °C foi determinada correlacionando-se as contagens após 24 e 48 horas com a contagem no tempo zero, ou seja, T24h/T0h e T48h/T0h, respectivamente. Nas amostras mantidas a 25 °C, essas relações foram calculadas para as contagens após 4 e 8 horas (T4h/T0h e T8h/T0h). A significância das diferenças das relações obtidas para L. monocytogenes e S. Enteritidis a 4 °C (T24h/T0h e T48h/T0h) e 25 °C (T4h/T0h e T8h/T0h) foi avaliada pelo teste de Tukey (p < 0,05), utilizando o programa Statistica 6.0.
+
+3 Resultados e discussão Conforme pode ser observado na Figura 2, 196 (93,8%) amostras de leite cru foram positivas para organofosforados e/ou carbamatos e apenas 13 (6,2%) não continham esses pesticidas. Especial atenção deve ser dada às amostras de leite obtidas na região de Pelotas, RS, que foram todas positivas para pelo menos um desses compostos. Embora a concentração dos compostos nas amostras de leite não tenha sido determinada, a sensibilidade da metodologia utilizada sugere níveis elevados, bastante acima dos Limites Máximos de Resíduos (LMRs) especificados pelo Codex Alimentarius (Tabela 1)7. A alta freqüência desses resíduos nas amostras de leite cru analisadas, independente da região de produção, evidencia a necessidade de um controle mais eficiente no seu emprego na produção agropecuária brasileira, já que essas substâncias permanecem no produto após o beneficiamento por pasteurização ou esterilização. A presença de resíduos químicos no leite é um problema mundial. Em estudo realizado na Grécia, detectaram-se resíduos de pesticidas em 28,9% das amostras de leite cru avaliadas, mas os níveis de contaminação foram considerados seguros pela FAO/WHO11. Na Espanha, estudos realizados com leite pasteurizado e leite cru apresentaram resultados diferentes. Enquanto MARTÍNEZ et al.12 observaram que 95% das amostras de leite pasteurizado analisadas possuíam resíduos de organoclorados e que 12,9% das amostras excediam os limites
+
+100%
+
+8,5% 6,4%
+
+80% Freqüência
+
+a 35 °C por 24 horas. As porções de 50 mL foram submetidas à detecção de resíduos de organofosforados e carbamatos, conforme metodologia já descrita. De acordo com os resultados para esses resíduos, as amostras de leite foram classificadas em quatro categorias: a: positivas para ambos os pesticidas; b: positivas para organofosforados apenas; c: positivas para carbamatos apenas e d: negativas para os dois pesticidas.
+
+18,0%
+
+44,4% 78,7% 66,0%
+
+20% 0%
+
+40,8%
+
+16,0%
+
+60% 40%
+
+14,3%
+
+6,4% Viçosa MG
+
+Apenas Org.
+
+55,1%
+
+28,6% 12,7%
+
+Pelotas Londrina RS PR Regiões Apenas Car.
+
+4,1% Botucatu SP
+
+Org. e Car.
+
+Ausência
+
+Figura 2. Distribuição das 209 amostras de leite cru coletadas nas 4 regiões estudadas de acordo com os resultados positivos e negativos para resíduos de organofosforados e carbamatos (Org. = organofosforados; e Car. = carbamatos). Tabela 1. Relação de alguns organofosforados e carbamatos e seus respectivos Limites Máximos de Resíduos (LMR) em leite. Composto químico Carbamatos Aldicarb Carbaril Carbofuran Methomil Oxamil Organofosforados Clorpirifós Diclorvos Fenitrothion Metamidopós
+
+LMR em leite (mg.L-1) 0,010 0,050 0,050 0,020 0,020 0,020 0,020 0,002 0,020
+
+Fonte: Codex Alimentarius7.
+
+permitidos pela União Européia, LOSADA et al.10 observaram uma grande variação na presença desses compostos em leite cru (0 a 66,67%,), mas sempre abaixo dos limites. Na Índia, a presença de resíduos de pesticidas, principalmente lindane, foi detectada em leite e manteiga. Outros pesticidas pesquisados apresentaram menor incidência, em relação a levantamentos anteriores realizados no mesmo país3. De forma geral, não foram observadas diferenças significativas (p < 0,05) nas taxas de multiplicação de L. monocytogenes e S. Enteritidis nas 28 amostras de leite estudadas, independentemente da temperatura de manutenção (­Tabela 2). Os comportamentos dos dois patógenos nas situações simuladas foram similares aos obtidos em outros estudos1,5. Esses resultados indicam que a interferência dos resíduos de pesticidas, se existente, foi mínima, e não pôde ser detectada nas condições em que foi avaliada.
+
+4 Conclusões A presença de organofosforados e carbamatos em leite cru produzido no Brasil é comum, alertando para a necessidade de
+
+Tabela 2. Taxas médias de multiplicação (± desvio padrão) de Listeria monocytogenes ATCC 7644 e Salmonella Enteritidis ATCC 13076 em amostras de leite positivas ou não para resíduos de pesticidas, mantidas a 4 °C e 25 °C. Categorias*
+
+n 4 °C T24h/T0h
+
+a b c d
+
+Listeria monocytogenes 25 °C T48h/T0h T4h/T0h T8h/T0h
+
+12 0,96 ± 0,29a,b 1,32 ± 1,27a 06 0,67 ± 0,33b 1,51 ± 0,89a 02 1,80 ± 0,77a 2,20 ± 1,13a a,b 08 1,05 ± 0,22 1,91 ± 1,45a
+
+Salmonella Enteritidis 4 °C T24h/T0h
+
+25 °C T48h/T0h
+
+T4h/T0h
+
+T8h/T0h
+
+1,65 ± 1,23b
+
+26,14 ± 19,33a 1,16 ± 0,61a
+
+1,50 ± 0,70a
+
+2,88 ± 1,35a
+
+164,34 ± 97,13a
+
+5,10 ± 3,16a
+
+33,50 ± 18,61a 0,57 ± 0,50a
+
+0,61 ± 0,58a
+
+7,04 ± 1,62a
+
+148,38 ± 46,04a
+
+1,83 ± 1,18
+
+20,00 ± 0,00
+
+0,80 ± 0,10
+
+0,80 ± 0,20
+
+1,91 ± 0,20
+
+175,50 ± 14,12a
+
+2,34 ± 1,26
+
+34,06 ± 15,49
+
+2,58 ± 5,71
+
+5,86 ± 13,59
+
+6,00 ± 5,48
+
+167,96 ± 136,99a
+
+a,b a,b
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+Médias com letras iguais na mesma coluna não apresentaram diferença estatisticamente significativa (teste Tukey, p < 0,05); e * a = positivos para resíduos de organofosforados e carbamatos simultaneamente, b = positivos apenas para resíduos de organofosforados, c = positivos apenas para resíduos de carbamatos, d = negativos para resíduos de organofosforados e carbamatos.
+
+quantificar essas substâncias para determinação dos riscos que elas podem representar aos consumidores. A presença desses compostos nos leite cru não interfere na detecção laboratorial de Listeria monocytogenes e Salmonella Enteritidis, eventualmente presentes no leite.
+

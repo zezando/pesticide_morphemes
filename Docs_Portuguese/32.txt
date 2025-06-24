@@ -1,0 +1,366 @@
+Saúde auditiva de trabalhadores expostos a ruído e inseticidas
+
+Descritores Perda auditiva provocada por ruído. Inseticidas. Controle de vetores. Sistema auditivo e exposições múltiplas.
+
+Resumo
+
+Objetivo Avaliar as alterações auditivas periféricas em um grupo de trabalhadores exposto a inseticidas, organofosforados e piretróides, utilizados em campanhas de controle de vetores. Métodos Estudo de prevalência de uma população de 98 indivíduos que pulverizavam venenos nas campanhas de prevenção do dengue, da febre amarela e da doença de Chagas. A amostra foi de tipo finalística, considerando o universo dos trabalhadores de um distrito sanitário, em Pernambuco, no ano de 2000. Utilizou-se questionário contendo questões de identificação de riscos ocupacional e não ocupacional, medidas de segurança utilizadas, antecedentes de problemas auditivos e sintomas referidos. Foi investigada a historia pregressa de exposição ao ruído, por ser um fator de confusão para a perda auditiva. Todos os indivíduos foram avaliados pelo teste de audiometria tonal. Resultados Dos expostos apenas aos inseticidas, 63,8% apresentaram perda auditiva. Para o grupo com exposição concomitantemente aos inseticidas e ao ruído, a perda auditiva foi de 66,7%. O tempo mediano para o desenvolvimento de alterações auditivas nas freqüências médias altas, para as exposições combinadas de inseticidas e ruído, foi de 3,4 anos e para as exposições apenas aos inseticidas foi de 7,3 anos. A perda auditiva para as exposições concomitantes aos dois fatores foi de maior intensidade nessas freqüências, do que o observado na exposição apenas aos inseticidas. Conclusões Há evidência de que a exposição aos inseticidas induz dano auditivo periférico e que o ruído é um fator que interage com os inseticidas, potencializando seus efeitos ototóxicos. Faz-se necessário avaliar essa possível associação através de estudos epidemiológicos de caráter analítico.
+
+
+
+INTRODUÇÃO Os estudos sobre os danos auditivos à saúde de trabalhadores têm sido quase que exclusivamente voltados para os riscos de exposições ao ruído.3,7,12,14 Outros fatores de risco para a saúde auditiva têm sido notados, como a exposição química a produtos ototóxicos. No entanto, esses estudos são ainda insuficientes. As desordens sensoriais do sistema auditivo também têm sido associadas às drogas medicamentosas (amionoglicosideos, quinino e outras) ou a solventes orgânicos usados pela indústria de manufatura.7,9,10 Para a maioria dos diferentes grupos de compostos químicos suspeitos de serem neurotóxicos, as propriedades ototóxicas nunca foram testadas.1,2,11 Entre esses grupos estão os agrotóxicos. Estima-se que dos 600 princípios ativos de pesticidas mundialmente disponível no mercado, 50 mil formulações comerciais são utilizadas na agricultura.2,10 Esse dado dá a dimensão dos riscos para a saúde oriundos dessa utilização. Os primeiros estudos ocupacionais sugerindo que exposições a produtos químicos estariam ligadas diretamente a problemas auditivos e do equilíbrio datam de mais de 30 anos.7 No entanto, só nesses últimos 16 anos é que foi dada maior atenção para a possibilidade de interação de ruído com outros agentes ambientais. Estudos com exposições ocupacionais a misturas de solventes mostram diferentes alterações no sistema auditivo de trabalhadores. Em
+
+expostos a solventes aromáticos e alifáticos, por longos períodos, observaram-se anormalidades no reconhecimento de fala e na audiometria de resposta cortical, porém não se evidenciaram alterações na audiometria de tronco cerebral.14 Os efeitos do tolueno na audição de trabalhadores da indústria gráfica de rotogravura (n=190), expostos simultaneamente ao ruído, mostraram que o risco relativo ajustado de perda auditiva foi quatro vezes maior (95% IC: 1,4-1,2) para o grupo só exposto ao ruído; para o grupo exposto simultaneamente a ruído e tolueno, foi onze vezes maior (95% IC: 4,1-28,9); e para o grupo exposto apenas aos solventes, foi cinco vezes maior (95% IC: 1,4-1,75), quando comparados ao grupo de não-expostos.12 Os autores desse estudoconcluíram que as medidas do reflexo acústico indicaram que as perdas auditivas observadas no grupo exposto a ambos os agentes, podem ter sido conseqüência de lesões retrococleares ou centrais. Dados de perda auditiva como conseqüência da exposição à mistura de tolueno, acetato etílico e etanol também foram evidenciados em outro estudo com trabalhadores de rotogravura. A ocorrência de perdas auditivas mostrou-se correlacionada diretamente com os níveis de tolueno na urina.13 Jacobsen et al,9 em seu estudo longitudinal de 3.284 homens residentes em Copenhague (53 a 74 anos de idade), expostos a misturas de solventes, investigouse a relação entre a exposição ocupacional e a autopercepção de problemas auditivos. As exposições químicas (sem exposição a ruído por cinco anos
+
+ou mais) indicaram para a diminuição auditiva um risco relativo ajustado de 1,4 (95% IC: 1,1-1,9). A prevalência da perda auditiva em homens não expostos a solventes orgânicos foi de 24% e o risco atribuído aos expostos a solventes foi de 9,6%. Para as exposições abaixo de cinco anos, não foram observadas alterações auditivas. Por outro lado, exposições ao ruído por cinco anos ou mais mostraram um risco relativo de 1,9 (95% IC:1,7-2,1). Esse estudo mostrou uma associação positiva entre exposição a solventes e perda auditiva.
+
+perdas auditivas nas freqüências altas do tipo sensorioneural.15 Recentemente, em análise de distribuição eqüitativa realizado por Beckett,5 no estudo com agricultores (n=59) de New York, foi encontrada perda auditiva periférica associada às plantações pulverizadas com inseticidas (incluindo compostos de piretroides e organofosforados). Estudos mais recentes também evidenciaram disfunção auditiva no nível central, em trabalhadores que pulverizam esse tipo de inseticidas em campanhas de combates a vetores de endemias.16
+
+Os compostos químicos do tipo agrotóxicos, alguns conhecidos por suas propriedades neurotóxicas, são freqüentemente considerados como responsáveis por intoxicações de trabalhadores que os manuseiam e aplicam agrotóxicos nos países em desenvolvimento.4,17,18
+
+No Brasil, por orientação da Fundação Nacional de Saúde (FNS), as campanhas de combate aos vetores das endemias doença de Chagas e dengue/ febre amarela utilizam organofosforados e piretróides. Em campanhas passadas, foram utilizados compostos organoclorados aromáticos e linfáticos, assim como nos últimos anos, o malathion e cipermethrin têm sido utilizados no controle de vetores. O malathion é um organofosforado reconhecidamente tóxico para seres humanos e carcinogênico para animais. Essa situação caracteriza uma condição de risco de exposição múltipla dos agentes de saúde que atuam nesses programas e campanhas, aplicando esses produtos no ambiente e nos domicílios (Tabela 1).
+
+Trabalhadores expostos a compostos organofosforados e com baixa atividade pseudocolinesterase foram comparados com trabalhadores com essa atividade normal.6 Foi observada uma alta incidência de neuropatias periféricas no grupo com baixo valor de pseudocolinesterase e, ambos os grupos, apresentaram perda auditiva do tipo neurosensorial, de grau leve a moderado. Nesse estudo, as exposições prévias não foram consideradas. Um caso de perda auditiva foi revelado por Harel et al8 após intoxicação aguda por emissão do spray contendo a mistura combinada de dois organofosforados (7,5% de malathion e 15% de metamidophos). Aproximadamente nove horas após exposição, o indivíduo apresentou visão turva e episódios graduais de náusea. No quarto dia, ele se sentiu completamente surdo e tonto; na manhã seguinte, foi encaminhado para hemodiálise, apresentando perda auditiva bilateral profunda e neuropatias residuais nas extremidades. Desordens auditivas periféricas, associadas a exposições combinadas dos agrotóxicos organofosforados e piretróide também foram evidenciadas em um grupo de 98 agricultores rurais, com idade entre 15 e 59 anos, expostos a esses inseticidas e que não estavam expostos ao ruído. A triagem audiométrica revelou que 57,14% dos expostos tinham
+
+O presente estudo teve como objetivo estimar a prevalência das perdas auditivas no grupo exposto aos inseticidas organofosforados e piretróides. Considerando que muitos produtos neurotóxicos, dependendo do modo e tempo de exposição, podem levar a alterações nos sistemas sensoriais, buscou-se examinar o efeito dessa exposição no sistema auditivo periférico. Nesse sentido, o presente estudo pode ser útil para o desenvolvimento de indicadores biológicos de efeito, para exposições químicas neurotóxicas, visando a adoção de medidas de prevenção e controle. MÉTODOS Trata-se de um estudo transversal, de prevalência. O grupo estudado foi constituído pelo universo de 98 trabalhadores, do sexo masculino, idade média 41,6 anos (DP=6,9), submetido à exposição crônica,
+
+Tabela 1 – Distribuição das classes dos inseticidas dos expostos.* Inseticida
+
+Grupo químico
+
+Malathion Organofosforado K-otrin / Deltamethrin Piretróide Temefós / Abate Classe organofosforados Fenitrothion / Sumithion Organofosforados Ripcord / Cipermethrin Piretróide DDT Organoclorado aromático Benzene hexacholoride Hexachlorocyclohexane Lambdacialotrina/Karate Piretróide *Considera-se que os indivíduos expostos revelaram mais de um inseticida.
+
+N 81 72 65 63 45 24 07 01
+
+% 82,7 73,5 66,3 64,3 45,9 24,5 7,1 1,0
+
+419
+
+
+
+
+
+aos inseticidas organofosforado e piretróide, com um tempo mínimo de três anos. Todos eram trabalhadores do Distrito Sanitário de Vitória de Santo Antão, Pernambuco, que foi selecionado apenas por razões logísticas, uma vez que o mesmo não difere dos outros três distritos quanto às ações desenvolvidas. Entre esses, 25% revelaram terem sido expostos no início de suas funções a organofosforados do tipo DDT e BHC. Os trabalhadores foram subdivididos segundo a exposição ao ruído atual ou pregressa da vida laboral. O grupo 1 (n=47) não relatou exposição ao ruído na vida atual ou pregressa laboral e/ou no lazer. A substância química era aplicada apenas de forma manual, por meio de dosador de bisnaga plástica, sem exposição à pulverização do inseticida, ou por meio de pulverizadores manuais de compressão prévia, ambos sem a presença do ruído. O grupo 2 (n=51) relatou exposição ao ruído na vida atual ou pregressa laboral e/ou no lazer. Esses participantes utilizavam termobilizadores (FOG) ou nebulizadores atérmicos (UBV), colocados em pick-up, ou atomizadores portáteis motorizados (com peso em média de dez quilos). Esses, quando acionados, produziam ruído acima de 85dB (NPS). A meatoscopia e o estudo da imitância acústica foram realizados em todos os indivíduos, com o objetivo de verificar a integridade funcional da orelha média e a existência de possíveis desordens condutivas ou mistas (obstrução do meato acústico externo, membrana timpânica perfurada e deficiência auditiva de origem não ocupacional já diagnosticada). Estas seriam as possíveis desordens mencionadas que excluiriam os indivíduos do estudo. O uso freqüente de medicamentos ototóxicos e doenças degenerativas também causaram a exclusão de participantes. O teste de audiometria tonal foi realizado por duas fonoaudiólogas, sem que tivessem conhecimento prévio do tipo de exposição pregressa de cada individuo. Coleta de dados As entrevistas foram realizadas utilizando um questionário semi-estruturado, contendo dados de identificação pessoal, risco ocupacional e não ocupacional, medidas de segurança, história pregressa de problemas auditivos e sintomas de saúde geral. Os dados relativos ao histórico ocupacional incluíram descrição da atividade exercida, tipo de exposição física e os tipos de substâncias químicas. Os resultados dos testes auditivos foram anexados ao questionário dos trabalhadores, após cada entrevista. Todos os testes foram realizados por uma só fonoaudióloga, segundo métodos padronizados. Esses resultados foram validados pela realização de um segundo teste realizado por outra fonoaudióloga.
+
+
+
+Procedimentos dos testes auditivos O sistema auditivo de todos os trabalhadores foi avaliado através do teste audiométrico tonal nas freqüências de 0,5-8 kHz. A via óssea foi testada quando os limiares auditivos excederam a 25 dBNA, nas freqüências de 0,5-4 kHz. O audiômetro clínico BELTONE 114 foi calibrado segundo ISO R389 (1991), antes da coleta de dados. Os audiogramas foram classificados como normais se o limiar audiométrico não excedesse 25 dBNA em nenhuma freqüência. A análise foi realizada através do software Statistical Analysis System (SAS) versão 6.12. O do teste Chi-quadrado permitiu comparar grupos e determinar se os resultados dos testes audiométricos tinham correlação com a duração da exposição. O teste Mann-Whitney permitiu comparar os resultados dos testes audiométricos por orelha entre os grupos, verificar se existe ou não diferença significativa entre os grupos com audiometria normal e alterada em relação à duração de exposição ao inseticida; verificar em cada um dos grupos, com audiometria normal ou alterada, se existe ou não diferença significativa entre os grupos em relação ao tempo de exposição. Implicações éticas O estudo foi precedido de visitas nos locais de trabalhos, com apoio das esferas administrativas, da saúde ocupacional da Instituição e da representação sindical dos trabalhadores. Foi dado o consentimento esclarecido por todos os indivíduos participantes do estudo. O projeto foi aprovado pelo Comitê de Ética do Centro de Pesquisas Aggeu Magalhães. RESULTADOS Da população estudada, 72% dos participantes tinham o secundário completo ou incompleto, no entanto, ressalta-se que 94,8% deles não fizeram nenhum curso profissionalizante relativo à atividade exercida. Apenas 35,7% da população eram fumantes e a maioria (84,4%) não fazia uso freqüente de bebidas alcoólicas. Embora de duvidosa eficácia, a utilização da proteção auditiva foi mencionada por somente 2,9% dos expostos. Os hábitos de higiene no final do dia de trabalho foram considerados inadequados; 80% dos participantes não tomavam banho antes de irem para casa e apenas 19% referiram trocar de roupa. A maioria referiu ir para casa com a mesma roupa de trabalho (93,4%), além de usar a mesma roupa mais de uma vez sem lavar (73,2%). Trinta e cinco por cento dos participantes informaram fumar. As queixas de maior freqüência por ocasião da aplicação do questionário foram: irritação nos
+
+
+
+Para explorar a variável duração à exposição, considerou-se o tempo inferior a seis anos (tempo mediano de exposição ao inseticida) e maior que seis anos. Observa-se que o percentual mais elevado de alterações auditivas foi para os indivíduos que têm mais de seis anos de exposição. Os resultados, ao serem analisados as luzes dos testes estatísticos, não se revelaram significativos, contudo evidenciam que o risco relativo para perda auditiva foi maior para o grupo com maior duração de tempo de exposição (Tabela 3).
+
+olhos (54,1%), dor de cabeça (44,9%), tonturas (35,7%), náuseas e torpor (16,3%), e 20,4% dos indivíduos afirmaram já terem sofrido intoxicação. Já os sintomas relacionados ao sistema nervoso central mais referidos foram: dificuldades em compreender o que falam (46%), dificuldade em lembrar alguns fatos (43%), dificuldade em manter a atenção (24%), e escutar barulho no ouvido (24%). O tempo médio de duração à exposição na presente função foi de 7,7 anos (DP=4,5 anos), coeficiente de variação de 58,12%. Destaca-se que o maior percentual da população exposta tinha de quatro a seis anos de trabalho na função, exposto a inseticidas, e 31,6% indicou ter mais de dez anos de exposição. Poucos trabalhadores faziam uso de qualquer tipo de equipamento de proteção individual (34,7%). A maioria alegou que a incompatibilidade entre eles (máscara reparatória, capacete, protetor de ouvido) impedia o uso de forma efetiva. Os resultados do teste de audiometria tonal foram classificados segundo critério clínico que considera como padrão de normalidade os limiares auditivos iguais ou menores que 25 dB (NA). Como já esperado, a ocorrência da prevalência das perdas auditivas entre os grupos estudados não foi estatisticamente significante (Tabela 2).
+
+Observa-se também que o valor médio da duração da exposição foi mais elevado no grupo A1 do que no grupo A2, para os indivíduos com audiometria normal. O contrário ocorreu com os indivíduos com audiometria alterada. Contudo, não foram verificadas diferenças estatisticamente significantes entre os indivíduos com audiometria normal e alterada em cada grupo, nem entre os grupos (P>0,05). Analisando a distribuição audiométrica segundo o nível de intensidade da perda auditiva para as freqüências de 2 a 8 kHz (as freqüências de 0,5 e 1 kHz não apresentaram alterações), verifica-se que para o grupo exposto a inseticidas e ruído, a intensidade da perda auditiva foi maior do que no grupo apenas exposto a inseticidas (Figura). Os valores médios da intensidade da perda auditiva foram crescentes de 2 kHz a 6 kHz, e decrescente em 8 kHz em relação a 6 kHz. Com exceção da freqüência de 8 kHz no ouvido direito, para as demais freqüências, o valor médio foi mais elevado no grupo 2 do que no grupo 1, entretanto, ao nível de significância não se comprova diferença para nenhuma das freqüências em nenhuma das duas orelhas (Tabela 5).
+
+Tabela 2 - Classificação do teste audiométrico tonal e risco relativo para a perda auditiva. Resultado Audiometria Normal Alterado
+
+N
+
+Grupo 1 %
+
+17 30
+
+36,2 63,8
+
+N 17 34
+
+Grupo 2
+
+% 33,3 66,7
+
+Total 47 100,0 51 100,0 Grupo 1 x Grupo 2: p=0,934 χ 2 =0,007 RR=1,04 (0,78<RR<1,40)
+
+Tabela 3 - Distribuição da duração do tempo de exposição, segundo os resultados do teste de audiometria alterado e normal. Resultado Audiometria
+
+N
+
+Normal Alterado
+
+18 24
+
+Até 6 anos
+
+Duração da exposição %
+
+N
+
+42,9 57,1
+
+16 40
+
+Mais de 6 anos
+
+%
+
+N
+
+Total
+
+%
+
+28,6 71,4
+
+34 64
+
+34,7 65,3
+
+Total 42 100,0 56 100,0 Duração exposição x audiometria: p=0,209 χ2=1,577 RR=1,25 (0,92<RR<3,69)
+
+98
+
+100,0
+
+Tabela 4 - Média e desvio padrão do tempo de exposição segundo o grupo e a condição da audiometria. Audiometria Normal
+
+Estatística
+
+A1
+
+Grupo
+
+Número 17 Média 6,94 Desvio padrão 4,56 Alterado Número 30 Média 8,03 Desvio padrão 4,58 Valor de P** P=0,3484 P=0,1449 *Comparação entre os grupos pelo teste de Mann-Whitney. **Comparação entre as condições da audiometria pelo teste de Mann-Whitney.
+
+A2 17 6,24 2,70 34 8,62 5,01
+
+Valor de P* P=1,000 P=0,6361
+
+
+
+DISCUSSÃO
+
+2K Hz - Grupo 2
+
+2K Hz - Grupo 1
+
+5
+
+10
+
+15
+
+20
+
+Limiar Auditivo (dB)
+
+Limiar Auditivo (dB)
+
+X = Orelha esquerda 0 = Orelha direita
+
+100 90 80 70 60 50 40 30 20 10 0 0
+
+100 90 80 70 60 50 40 30 20 10 0 0
+
+25
+
+5
+
+5
+
+10
+
+15
+
+20
+
+25
+
+0
+
+5
+
+15
+
+20
+
+25
+
+0
+
+5
+
+Limiar Auditivo (dB) 15
+
+20
+
+0
+
+25
+
+8K Hz - Grupo 1
+
+15
+
+20
+
+25
+
+5
+
+10
+
+15
+
+20
+
+25
+
+20
+
+25
+
+8K Hz - Grupo 2
+
+Limiar Auditivo (dB) 10
+
+15
+
+Tempo Exposição (anos)
+
+100 90 80 70 60 50 40 30 20 10 0 5
+
+10
+
+100 90 80 70 60 50 40 30 20 10 0
+
+Tempo Exposição (anos)
+
+0
+
+25
+
+6K Hz - Grupo 2
+
+100 90 80 70 60 50 40 30 20 10 0 10
+
+20
+
+Tempo Exposição (anos)
+
+6K Hz - Grupo 1
+
+5
+
+15
+
+100 90 80 70 60 50 40 30 20 10 0
+
+Tempo Exposição (anos)
+
+0
+
+10
+
+4K Hz - Grupo 2
+
+Limiar Auditivo (dB)
+
+Limiar Auditivo (dB)
+
+4K Hz - Grupo 1
+
+10
+
+25
+
+Tempo Exposição (anos)
+
+100 90 80 70 60 50 40 30 20 10 0 5
+
+20
+
+100 90 80 70 60 50 40 30 20 10 0
+
+Tempo Exposição (anos)
+
+0
+
+15
+
+3K Hz - Grupo 2
+
+Limiar Auditivo (dB)
+
+Limiar Auditivo (dB)
+
+3K Hz - Grupo 1 100 90 80 70 60 50 40 30 20 10 0 0
+
+10
+
+Tempo Exposição (anos)
+
+Tempo Exposição (anos)
+
+Limiar Auditivo (dB)
+
+O presente estudo evidencia que o uso dos inseticidas organofosforados e piretróides pode ser responsável pela ocorrência da perda auditiva periférica, independemente da exposição ao ruído. Os resultados dos sintomas relacionados ao sistema nervoso central, encontrados no presente estudo, foram compatíveis com os relatados na literatura por intoxicações crônicas ou agudas a substâncias químicas de efeitos neurotóxicos, tais como organofosforados e piretróides.2,8 Estudos epidemiológicos reportam diferentes tempos considerados necessários para que as exposições químicas induzam danos periféricos na audição (de três anos a cinco anos para solventes).9,12,13 No presente estudo, o tempo mínimo de exposição necessário para afetar as altas freqüências foi compatível com os achados de Morata et al.13 A partir de três anos de exposição observou-se queda e perda auditiva nas freqüências altas, e para as freqüências medias alta (2 e 3 Khz), foram necessários 3,4 anos de exposição ao ruído e inseticida. A partir de 4 kHz aumenta a diferença entre os tempos de exposição do grupo exposto apenas a inseticida, e o grupo com exposições combinadas. Essa tendência exacerba-se em 3 kHz, quando a diferença passa a ser o dobro, evidenciando um provável sinergismo entre ambos os agentes. Em 6 e 8 kHz, os resultados mudam. Observou-se um tempo mínimo médio de exposição de 2,4 anos para detecção de efeitos entre os expostos somente a inseticidas (Figura). Há uma importante observação que deve ser considerada quando há alterações nas freqüências médias altas. Verifica-se que para o grupo com exposições combinadas, não só a intensidade da perda auditiva, como também a extensão da faixa de freqüência, foi maior do que no grupo apenas exposto a inseticidas. E nesse caso, os problemas de compreensão de fala (grupo 2) são mais sig-
+
+Limiar Auditivo (dB)
+
+422
+
+20
+
+25
+
+Tempo Exposição (anos)
+
+100 90 80 70 60 50 40 30 20 10 0 0
+
+5
+
+10
+
+15
+
+Tempo Exposição (anos)
+
+Figura – Distribuição do resultado da audiometria tonal do grupo 1 (N=47) e grupo 2 (N=51), segundo tempo de exposição.
+
+nificativos, trazendo prejuízos para o desempenho do trabalho e a saúde ocupacional. Em conclusão, as exposições crônicas aos inseticidas piretróides e organofosforados podem afetar o sistema auditivo periférico, independentemente da
+
+Tabela 5 – Distribuição da média e desvio padrão por freqüências e por orelhas. Freqüência
+
+Orelha
+
+Estatística
+
+2 kHz
+
+Direita
+
+Média Desvio Média Desvio Média Desvio Média Desvio Média Desvio Média Desvio Média Desvio Média Desvio Média Desvio Média Desvio
+
+Esquerda 3 KHz
+
+Direita Esquerda
+
+4 KHz
+
+Direita Esquerda
+
+6 KHz
+
+Direita Esquerda
+
+8 KHz
+
+Direita Esquerda
+
+padrão padrão padrão padrão padrão padrão padrão padrão padrão padrão
+
+Grupo 1
+
+Grupo 2
+
+12,55 6,67 12,13 7,05 16,49 8,53 16,81 8,81 17,34 10,47 17,98 10,04 26,06 13,63 27,02 13,09 23,40 15,04 24,15 12,87
+
+14,31 10,54 14,22 10,36 20,78 14,08 21,86 13,96 22,35 17,93 24,71 16,89 29,02 17,83 29,51 14,22 23,14 17,03 24,71 14,16
+
+Valor de P P=0,6700 P=0,4087 P=0,1392 P=0,1369 P=0,1841 P=0,0676 P=0,5140 P=0,3079 P=0,8264 P=0,9771
+
+
+
+exposição concomitante ao ruído. Dados do presente estudo e de recentes publicações indicam que exposições químicas devem ser monitoradas e controladas como parte do esforço para prevenir a perda auditiva. Trabalhadores com exposição a substâncias químicas neurotóxicas devem ser incluídos em programas de conservação auditiva, independemente da exposição ao ruído.
+

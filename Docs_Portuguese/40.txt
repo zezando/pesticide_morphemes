@@ -1,0 +1,146 @@
+Uso inadequado de organofosforados: uma prática de risco para bovinos no Sul do Rio Grande do Sul1
+
+
+
+RESUMO.- Com o objetivo de determinar as causas para o súbito aumento no número de surtos de intoxicação por organofosforados foram analisados nove surtos da intoxicação diagnosticados em bovinos no Laboratório Regional de Diagnóstico da Faculdade de Veterinária da Universidade Federal de Pelotas (LRD/UFPel) entre novembro de 2013 e fevereiro de 2014. Em todos os surtos os animais foram tratados com concentrações entre duas e 151 vezes maiores que a concentração recomendada de diazinon para banho carrapaticida utilizado nas diferentes propriedades. Contribuíram, ainda, para o grande número de casos de intoxicação a via de adminstração pour on não recomendada para os produtos utilizados e o intenso calor registrado na época de ocorrência dos surtos. TERMOS DE INDEXAÇÃO: Organofosforados, diazinon, intoxicação, bovinos.
+
+
+
+INTRODUÇÃO
+
+Organofosforados (ORFs) são compostos anticolinesterásicos empregados como inseticidas na agricultura e antiparasitários na pecuária (Barros et al. 2006, Grecco et al. 2009). Os animais se intoxicam principalmente de forma acidental por erros de formulação e/ou administração destes produtos (Boermans et al. 1984, Barros et al. 2006) ou quando tem acesso a áreas de pasto ou feno com excesso do produto, ou ainda quando tem acesso a aguadas contaminadas (Barros et al 2006, Oliveira filho et al. 2010). Estes compostos atuam através da inibição irreversível da colinesterase e consequentemente pelo aumento dos níveis de acetilcolina nos tecidos (Radostits et al. 2007, Oliveira-Filho et al. 2010). Surtos de intoxicação em geral envolvem elevado número de mortes e tem sido descritos em bovinos (Dalto et al. 2011), bubalinos (Raina et al. 1990, Gracco et al. 2009), ovinos (Souza et al. 1996) e, também, em humanos (Ribeiro et al. 2007). O método de aplicação, a espécie, o sexo e a idade dos animais afetados são fatores de risco relevantes para a ocorrência da intoxicação (Meerdink 1989). Uma supersosagem pode provocar toxicidade com manifestações agudas decorrente dos efeitos muscarínicos, nicotínicos (Castro et al. 2007) e do sistema nervoso central (Pugh et al. 1975, Souza et al. 1996, Barbosa et al. 2005).
+
+
+
+No Brasil diversos surtos de intoxicação por ORFs têm sido descritos em diferentes regiões e espécies. Há relatos da intoxicação em bovinos em Santa Catarina, por mistura do produto a base de ORF com óleo queimado (Gava 2001), no Pará em consequência da mistura de ORF com óleo vegetal (Barbosa et al. 2005) e no Distrito Federal devido a administração com concentração aproximadamente 5-6 vezes maior do que a recomendada (Castro et al. 2007). No Rio Grande do Sul um surto ocorreu em bovinos devido a lavagem de equipamentos de aviação agrícula cujos resíduos contaminaram a água de beber dos animais (Oliveira-Filho et al. 2010). Há um relato também em búfalos que se intoxicaram após terem recebido a dose recomendada para bovinos (Grecco et al. 2009). Tendo em vista o diagnóstico de vários surtos de intoxicação por organofosforados ocorridos em bovinos entre novembro de 2013 e fevereiro de 2014, em propriedades de três municípios da região Sul do Rio Grande do Sul, este trabalho teve por objetivos determinar as causas para o súbito aumento no número de casos desta intoxicação.
+
+MATERIAL E MÉTODOS
+
+Quadro 1. Mês e ano de ocorrência, bovinos sob risco, animais doentes e mortos em nove surtos de intoxicação por organofosforados em municípios da região Sul do Rio Grande do Sul Surto Mês/Ano Município
+
+1 Nov/13
+
+2 Nov/13
+
+3 Dez/13 4 Jan/14
+
+5 Jan/14
+
+6 Jan/14
+
+7 Fev/14
+
+8 Fev/14
+
+9 Fev/14
+
+
+
+São Lourenço do Sul Santa Vitória do Palmar Rio Grande Santa Vitória do Palmar Santa Vitória do Palmar Santa Vitória do Palmar Santa Vitória do Palmar Santa Vitória do Palmar Santa Vitória do Palmar
+
+Ni = não informado.
+
+Bovinos Doentes Mortos Letalidade sob risco 46
+
+46
+
+40
+
+86,96%
+
+170 600
+
+3 100
+
+3 16
+
+100% 16%
+
+93
+
+38
+
+7
+
+Ni
+
+Ni
+
+31
+
+20
+
+45
+
+45
+
+Ni
+
+16
+
+Ni
+
+31
+
+11
+
+20
+
+35,48%
+
+100%
+
+18,42%
+
+7
+
+15,56%
+
+16
+
+100%
+
+31
+
+100%
+
+Foram analisados nove surtos de intoxicação por organofosforados diagnosticados em bovinos no Laboratório Regional de Diagnóstico da Faculdade de Veterinária da Universidade Federal de Pelotas (LRD/UFPel) entre novembro de 2013 e fevereiro de 2014. Foram realizadas nove necropsias de bovinos em três dos nove surtos e os órgãos, incluindo o sistema nervoso central foram coletados e fixados em solução formalina tamponada a 10% e processados rotineiramente para histopatologia. Amostras de fígado, rim e tecido adiposo subcutâneo de dois bovinos necropsiados foram coletadas e armazenadas, sob refrigeração ou em solução de formalina tamponada 10%, foram enviadas para o Laboratório Nacional Agropecuário/RS, Ministério da Agricultura, Pecuária e Abastecimento (Lanagro/RS, MAPA/Brasil) para detecção de ORFs utilizando cromatografia líquida acoplada a espectrometria de massas (LC-MS/MS). Em seis surtos foi realizado inquérito epidemiológico junto aos veterinários e proprietários resgatando-se os dados relacionados ao produto utilizado, a diluição, a via de administração, o tempo entre a administração e o início dos sinais clínicos e a recuperação de animais tratados com atropina.
+
+Fig.1. Intoxicação por organofosforados. Bovinos do Surto 1 que receberam 10ml/100kg de peso de diazinon na diluição de 42ml/L de água.
+
+Foram intoxicados 330 bovinos que haviam sido tratados com diazinon pour-on, dos quais 151 (45,76%) morreram (Quadro 1, Fig.1). A diluição utilizada em cada propriedade, a dose e a via de administração do produto são apresentas no Quadro 2. No Surto 3 o medicamento foi administrado pela via indicada pela bula, porém o proprietário não soube dizer a diluição utilizada. Neste caso os animais usavam um brinco inseticida que também continha ORFs. Neste surto os bovinos apareceram mortos no dia seguinte a aplicação do medicamento. Os demais bovinos afetados, logo após receberem o tratamento com ORFs, apresentavam tremores musculares, salivação intensa, timpanismo, incoordenação e quedas morrendo entre poucos minutos a algumas horas. Os bovinos que sobreviveram receberam 2 mL de atropina via endovenosa em dose única logo após o aparecimento dos sinais clínicos.
+
+Ficou evidenciado neste trabalho que todos os surtos ocorreram devido a dois fatores principas: a alta concentração do princípio ativo nas preparações administradas aos bovinos; e, a via de administração pour-on, que não era a indicada para os produtos que foram utilizados.
+
+RESULTADOS
+
+
+
+
+
+Nas necropsias realizadas não havia lesões significativas e histologicamente não foram encontradas alterações nos diversos órgãos analisados. Os resultados da detecção da concentração de ORFs nos tecidos de três bovinos necropsiados foi de 0,03mg/kg na amostra do Surto 1 em material formolizado; 0,873mg/kg na amostra refrigerada do Surto 3; e 0,402mg/kg na amostra refrigerada do Surto 4 (Fig.2). A quantidade aceitável de ORFs nos tecidos animais é de 0,002mg/kg (Anvisa 2009).
+
+DISCUSSÃO
+
+Uso inadequado de organofosforados: uma prática de risco para bovinos no Sul do Rio Grande do Sul
+
+Quadro 2. Diluição de diazinon utilizado e via de administração nos surtos de intoxicação por organofosforados em bovinos entre 2013-2014 em municípios da região Sul do Rio Grande do Sul Surto
+
+a
+
+1 2 3 4 5 6 7 8 9
+
+Diluição utilizadaa 42ml/L Ni 0,66ml/L 50ml/L Ni 30ml/L 4ml/L 50ml/L Ni
+
+Dose e via de administração por animal 10ml/100kg pour on Ni/pour on Aspersão + brinco inseticida 10ml/animal pour on Ni/ pour on 40ml/animal pour on pour on pour on pour on + brinco inseticida
+
+Quantidade do produto diluído em água nos surtos diagnosticados; Ni= não informado. Diluição recomendada de diazinon = 0,33ml/L para bovinos em imersão ou pulverização.
+
+Fig.2. Cromatograma apresentando as transições MRM (Multiple Reaction Monitoring) monitoradas para o composto diazinon sendo m/z 305.1>97 (Quantificação) e m/z 305.1>100 (Confirmação) do material do Surto 4 no qual havia 0,402mg/kg de diazinon.
+
+Nos surtos descritos no presente trabalho o diagnóstico de intoxicação por ORFs foi realizado com base nas evidências epidemiológicas, nos sinais clínicos e pela detecção de alta concentração de resíduos nos tecidos de bovinos mortos em amostras de tecidos de três dos nove animais necropsiados. Ficou evidenciado em seis dos nove surtos que a diluição do produto foi menor do que a diluição recomendada pelos fabricantes, sendo utilizada uma concentração entre 2 e 151 vezes maior que a concentração recomendada para bovinos em banhos de imersão ou aspersão, que levou à intoxicação e morte dos animais. Apesar de não se ter a diluição exata utilizada em três dos nove surtos, os relatos dos veterinários e proprietários reafirmando o uso de ORFs e a morte de vários animais com sinais clínicos característicos logo após a administração do produto permitiram realizar o diagnóstico da intoxicação. Nos Surtos 3 e 9 os bovinos usavam um brinco inseticida que também continha ORFs, aumentando o potencial de intoxicação. Um fato que chamou a atenção nos casos de intoxicação por ORFs descritos no presente trabalho foi que a via de administração do produto em oito dos nove surtos foi a via pour-on, que não era recomendada para os produtos utilizados.
+
+657
+
+Os ORFs são amplamente utilizados em medicina veterinária para o controle de ectoparasitas e, também, como pesticidas na agricultura devido a sua baixa toxicidade para mamíferos (Sharpe et al. 2006). No entanto, estes autores mencionam que o uso inadequado devido a diluições que não seguem aquelas recomendadas pela bula dos produtos aumenta consideravelmente os riscos nos animais expostos e no pessoal que manipula tais produtos. De modo geral, surtos de intoxicação por organofosforados ocorrem por acidentes, quando por desconhecimento ou engano os animais são tratados com doses superiores ao recomendado, no entanto, eventualmente, o uso deliberado de concentrações maiores que a indicada na bula tem sido causa de intoxicação em bovinos (Castro et al. 2007). Intoxicações podem ocorrer, também, quando o produto é utilizado com a dose recomendada para uma espécie diferente da que está sendo tratada (Grecco et al. 2009). O que chama a atenção nos casos aqui descritos é que nenhum dos surtos ocorreu por acidente e a prática de utilizar deliberadamente diluições menores do que a recomendada, aumentando dessa forma a concentração do produto é frequente entre os produtores da região. De acordo com os veterinários que atenderam as propriedades com mortalidade em 2013-2014 as diluições de produtos ORFs e a via de administração pour-on vinham sendo empregadas em anos anteriores sem a ocorrência de intoxicação e/ou mortalidade de animais. Se isto é um fato não pode ser confirmado, entretanto, o número de surtos ocorrido em um período de tempo relativamente curto, com a utilização de diazinon em concentrações muito acima do recomendado pelo fabricante, demonstra claramente que este procedimento não é seguro, já que praticamente metade dos animais intoxicados morreu. O verão 2013-2014 foi atipicamente quente em relação a anos anteriores com médias mensais superiores às normais para a região (Embrapa, 2013, 2014) e pode ter contribuído para a aumento da absorção dos ORFs e consequentemente para o grande número de casos de intoxicação ocorridos neste período. Um trabalho realizado na Austrália menciona que a absorção dos ORFs pode aumentar em verões muito quentes quando a pele está úmida pelo suor (Johnstone 2006). Pelo menos em um surto foi relatado que no dia da aplicação do medicamento o dia estava muito quente. Com base nestes resultados alerta-se para a possibilidade de ocorrência de intoxicação por ORFs quando os medicamentos são administrados em doses e via que não são as indicadas pelos fabricantes. Além disso, é importante chamar a atenção para o alto risco que correm os trabalhadores que manipulam tais medicamentos por desconhecerem as normas mínimas de segurança ao fazer preparações em concentrações muito altas, uma vez que estes produtos são facilmente absorvidos pela pele e mucosas levando a intoxicação e morte. De acordo com a OMS aproximadamente 1.000.000 de pessoas morrem acidentalmente intoxicadas por ORFs todos os anos (Ali et al. 2012).
+

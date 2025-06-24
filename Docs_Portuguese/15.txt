@@ -1,0 +1,158 @@
+
+
+SELETIVIDADE FISIOLÓGICA DE INSETICIDAS AOS INIMIGOS NATURAIS DE Plutella xylostella (L.) (Lepidoptera: Plutellidae) EM BRÁSSICAS
+
+RESUMO A conservação de inimigos naturais é um componente fundamental no manejo integrado de pragas. Neste trabalho, estudouse a seletividade de sete inseticidas usados no manejo de Plutella xylostella (L.) (Lepidoptera: Plutellidae) ao parasitóide Oomyzus sokolowskii (Kurdjumov) (Hymenoptera: Eulophidae) e aos predadores Discodon sp. (Coleoptera: Cantharidae) e Lasiochilus sp. (Hemiptera: Anthocoridae). Os organofosforados metamidofós e paratiom metílico e o carbamato carbaril foram altamente tóxicos aos três inimigos naturais estudados. Dimetoato apresentou seletividade em favor do Discodon sp., na dose e subdose. O inseticida acefato apresentou alto impacto ao Discodon sp., no momento da aplicação e seu efeito foi reduzido com a metade da concentração do princípio ativo. Deltametrina apresentou seletividade à O. sokolowskii nas duas dosagens. Já permetrina foi seletiva a Lasiochilus sp., somente na subdose. Discodon sp. foi mais tolerante à dose e subdose do dimetoato e à subdose do acefato do que O. sokolowskii e Lasiochilus sp. O predador Lasiochilus sp. foi mais tolerante à dose e subdose da permetrina do que O. sokolowskii e Discodon sp. O parasitóide O. sokolowskii foi mais tolerante à dose e subdose da deltametrina do que Lasiochilus sp. e Discodon sp. Os resultados desta pesquisa foram obtidos em condições de exposição extrema, portanto indicam que os inseticidas seletivos possivelmente não serão prejudiciais aos inimigos naturais, em condições de campo. Termos para indexação: Traça-das-crucíferas, Oomyzus sokolowskii, Discodon sp., Lasiochilus sp., controle químico.
+
+Os inimigos naturais constituem o principal fator de mortalidade natural de pragas nos mais diversos
+
+agroecossistemas (CORNELL & HAWKINS, 1995). Contudo, ações inadequadas na condução dos cultivos,
+
+
+
+sobretudo no controle de pragas, trazem grandes prejuízos à ação benéfica desses organismos. Programas de manejo integrado de pragas (MIP) favorecem a conservação de inimigos naturais que pode ser alcançada através da manipulação do ambiente de cultivo e/ou do uso de inseticidas seletivos à fauna benéfica presente no agroecossistema (GALVAN et al., 2006). A seletividade de inseticidas pode ocorrer através de métodos fisiológicos ou ecológicos (RIPPER et al., 1951). A seletividade fisiológica consiste no uso de inseticidas que sejam mais tóxicos à praga que aos seus inimigos naturais (O’BRIEN, 1960). Já a seletividade ecológica está relacionada com as formas de utilização dos inseticidas, buscando minimizar a exposição do inimigo natural ao inseticida (RIPPER et al., 1951). Para o sucesso de programas de MIP, é essencial que os produtos fitossanitários, utilizados no manejo da praga, sejam seletivos aos seus inimigos naturais. A traça-das-crucíferas Plutella xylostella (L.) (Lepidoptera: Plutellidae) é uma importante praga de brássicas no Brasil e no mundo (CASTELO-BRANCO et al., 1996). As lagartas desse inseto se alimentam das folhas causando redução da área fotossintética, atraso no crescimento da planta e em casos extremos de ataque, à morte da planta. Os prejuízos são elevados devido à redução na produtividade e qualidade do produto final oferecido ao consumidor. O ataque de P. xylostella às plantas de repolho pode reduzir em 100% a qualidade das cabeças (BARROS et al., 1993). Um grande número de parasitóides e predadores está associado a cultivos de brássicas, infestados por P. xylostella. Esses inimigos naturais potencialmente podem impor elevados níveis de mortalidade a populações dessa praga. Dentre os parasitóides, Oomyzus sokolowskii (Kurdjumov) (Hymenoptera: Eulophidae) é uma das espécies mais importantes, podendo ocasionar taxas de parasitismo acima de 90% (CASTELO-BRANCO & MEDEIROS, 2001; FERREIRA et al., 2003). No Brasil, são raros os trabalhos que visam identificar os principais predadores de P. xylostella. Portanto, muitos predadores, ainda não descritos, podem ser potenciais agentes de controle natural de P. xylostella. Dentre eles podemos destacar os predadores Discodon sp. (Coleoptera: Cantharidae) e Lasiochilus sp. (Hemiptera: Anthocoridae) que estão freqüentemente associados a cultivos de brássicas infestados com P. xylostella (PICANÇO, M.C. informação pessoal). Atualmente, o uso de inseticidas de amplo espectro de ação é a principal tática de manejo utilizada pelos produtores para o controle de P. xylostella, o que faz com
+
+que as populações desses inimigos naturais sejam grandemente prejudicadas (CASTELO-BRANCO & MEDEIROS, 2001). O uso de inseticidas seletivos poderia contribuir para a preservação do controle biológico natural de pragas em brássicas. No entanto, pouco se conhece da seletividade de inseticidas em relação aos inimigos naturais dessa praga. Assim, objetivou-se, neste trabalho, estudar a seletividade fisiológica de inseticidas aos inimigos naturais Discodon sp., Lasiochilus sp. e O. sokolowskii. Adultos do parasitóide O. sokolowskii foram obtidos de criações mantidas em casas de vegetação (4 x 6 m), pertencentes ao Departamento de Biologia Animal da Universidade Federal de Viçosa (UFV), Viçosa, Minas Gerais, Brasil. Para a formação dessa criação primeiramente estabeleceu-se uma criação de P. xylostella através da coleta de plantas infestadas em lavouras de repolho, localizadas no campo experimental da UFV, em áreas onde não se aplicam inseticidas. Essas plantas foram replantadas em vasos de 5 litros com três partes de terra e uma de esterco curtido e mantidas em gaiolas de 50 x 50 x 50 cm, com armação de madeira e tela de organza. Periodicamente, os adultos de P. xylostella e do parasitóide O. sokolowskii, emergidos de larvas parasitadas, foram retirados com o auxílio de um sugador feito com duas mangueiras plásticas e um tecido de organza. Os adultos de P. xylostella foram liberados em uma casa de vegetação que continha, inicialmente, 50 mudas de repolho isentas de pragas e doenças. Após ovipostas e colonizadas por lagartas de P. xylostella, 25 mudas foram transferidas para outra casa de vegetação onde foram liberados os adultos de O. sokolowskii. As plantas isentas de pragas e doenças foram obtidas através de mudas semeadas e conduzidas em vasos de 5 litros, como citado anteriormente. No momento da liberação dos adultos de P. xylostella, as mudas possuíam 45 dias desde o semeio. Novas mudas foram periodicamente adicionadas nas casas de vegetação e as plantas consumidas foram retiradas. Foram colocadas no interior das casas de vegetação placas de Petri com algodão umedecido em solução de mel a 10%, para a alimentação dos adultos de P. xylostella e O. sokolowskii (XU et al., 2004). Adultos dos predadores Discodon sp. e Lasiochilus sp. foram obtidos diretamente do campo com o auxílio de um sugador de mangueira e um pote plástico. Essas espécies foram coletadas nas mesmas lavouras de repolho onde se coletou a P. xylostella e em plantas espontâneas, em áreas adjacentes ao campo experimental da UFV. Exemplares dos insetos estudados foram coletados e armazenados em vidros de 4 ml em álcool 70% e, posteriormente, enviados para taxonomistas para identificação. Os bioensaios foram conduzidos no Laboratório de Manejo Integrado de Pragas da UFV. O delineamento experimental foi inteiramente casualizado, em um esquema fatorial de 42 tratamentos (7 inseticidas, 3 inimigos naturais e duas doses de cada inseticida), com quatro repetições. Os inseticidas utilizados na dose e subdose estão descritos na Tabela 1. Os inseticidas foram empregados em concentrações que correspondem a 50% e 100% da dosagem recomendada. O uso de subdose teve como objetivo observar o impacto dos inseticidas sobre os inimigos naturais quando eles forem decompostos à metade de suas concentrações originais (BACCI et al., 2006). Utilizou-se o espalhante adesivo polioxietileno alquil fenol éter (Haiten 200), na concentração de 15 ml p.c./100 L de calda, em todos os tratamentos. Na testemunha foi utilizado somente água mais espalhante adesivo. Para instalação deste bioensaio, folhas de couve foram imersas em caldas inseticidas, por cinco segundos. As folhas foram colocadas para secar por 2h, e após a secagem, foram acondicionadas em placas de Petri de 9 cm de diâmetro por 2 cm de altura de forma a cobrir todo o fundo da placa. As placas foram cobertas com organza e presas com elásticos. Em cada placa foram liberados 50-60 adultos de O. sokolowskii, 20-25 adultos de Lasiochilus sp. e 10-15 adultos de Discodon sp. Em cada unidade experimental foi adicionada solução de mel a 10%. As placas de Petri foram levadas para estufa incubadora à temperatura de 25±0,5°C e umidade relativa de 75±5%. Vinte e quatro horas após a montagem dos bioensaios foram realizadas avaliações do número de insetos vivos e mortos por unidade experimental. As placas foram abertas dentro de
+
+2047
+
+sacos plásticos transparentes para facilitar a contagem dos insetos vivos. Os insetos que permaneceram na placa, após a transferência da maioria dos insetos vivos das placas para o interior dos sacos plásticos, foram tocados com um fino pincel para verificar se estavam vivos. Foram considerados vivos os insetos que estavam no interior dos sacos plásticos e os que voaram mediante o toque com o pincel. Os resultados de mortalidade obtidos para todos os insetos foram corrigidos em relação à mortalidade ocorrida na testemunha usando-se a fórmula de Abbott (1925). Os dados foram transformados em arco seno (x/ 100)0,5 para realização de análise de variância (ANOVA) e comparação das médias pelo teste agrupamento de médias de Scott-Knott, a 5% de significância (SCOTT & KNOTT, 1974). Os inseticidas foram classificados em não seletivos ou altamente tóxicos, medianamente seletivos ou mediamente tóxicos e seletivos ou pouco tóxicos. Esses grupos foram definidos pelo teste de agrupamento de média de Scott-Knott. A tolerância dos inimigos naturais foi determinada por comparação entre as médias, através do teste de Scott-Knott (BACCI et al., 2006). Na avaliação da toxicidade dos inseticidas aos inimigos naturais foram detectadas diferenças significativas na mortalidade dos predadores Lasiochilus sp. e Discodon sp. e, do parasitóide O. sokolowskii em função dos inseticidas (F6;138=59,61; p<0,001), das espécies estudadas (F 2;138 =10,35; p<0,001), das dosagens (F1;138=13,20; p<0,001) e das interações entre inseticidas e espécies (F12;138=27,73; p<0,001) e entre inseticidas e doses (F6;210=3,24; p=0,052). Não se detectaram diferenças significativas na interação entre insetos e doses (F2;138=0,51; p>0,500).
+
+Tabela 1 – Relação dos inseticidas, grupo químico e dosagens, utilizadas no controle da traça das crucíferas Plutella xylostella.
+
+Inseticida* Acefato 750 SP Carbaril 850 PM Deltametrina 25 CE Dimetoato 400 CE Methamidofós 600 CE Paratiom metílico 600 CE Permetrina 250 CE
+
+Grupo químico Organofosforado Carbamato Piretróide Organofosforado Organofosforado Organofosforado Piretróide
+
+Dosagens (mg de i.a./mL calda) Dose Subdose 0,75 0,375 1,125 0,563 0,008 0,004 0,48 0,24 0,6 0,3 0,6 0,3 0,0012 0,0006
+
+* Ingrediente ativo/ concentração (g do i.a./ L ou Kg do p.c.)/ formulação (PS – pó solúvel, PM – pó molhável, CE – concentrado emulsionável).
+
+Os inseticidas metamidofós, paratiom metílico e carbaril, nas respectivas doses e subdoses, não foram seletivos aos inimigos naturais O. sokolowskii, Lasiochilus sp. e Discodon sp. (Tabela 2). Elzen (2001), trabalhando com o predador Orius insidiosus (Say) (Hemiptera: Anthocoridae) observou uma mortalidade de 62,5% e 52,8% para machos e fêmeas, quando expostos ao metamidofós. Ao contrário de nossos resultados, Heinrichs et al. (1979) não constataram efeitos adversos do paratiom metílico sobre larvas e adultos do predador Calosoma granulatum Perty (Coleoptera: Carabidae). Carbaril reduziu drasticamente o parasitismo, emergência e longevidade de Trichogramma galloi Zucchi (Hymenoptera: Trichogrammatidae) em ovos de Diatraea saccharalis (Fabricius) (Lepidoptera: Crambidae) (BroglioMicheletti et al. 2006). Também foi observada alta toxicidade do acefato e dimetoato a O. sokolowskii e Lasiochilus sp., nas duas doses testadas. Em relação a Discodon sp., acefato foi altamente e pouco tóxico na dose e subdose, respectivamente. Já dimetoato foi seletivo a esse predador nas duas dosagens (Tabela 2). Os resultados encontrados por Rocha et al. (2006), mostram que, a partir do segundo estádio ninfal de O. insidiosus, o inseticida acefato não reduziu a sobrevivência desse predador na cultura do
+
+crisântemo. Já Bacci et al. (2002) observaram efeito prejudicial do acefato e dimetoato sobre ninfas de primeiro estádio de Doru luteipes (Scudder) (Dermaptera: Forficulidae). Castelo-Branco & Medeiros (2001) demonstraram que, áreas com utilização de acefato não tem afetado o parasitismo de P. xylostella por O. sokolowskii. Isso pode ser atribuído à distribuição irregular do inseticida sobre as plantas de repolho, à resistência da praga aos inseticidas e ao direcionamento do jato de pulverização para as folhas centrais da cabeça do repolho, permitindo o escape dos parasitóides (CASTELOBRANCO & MEDEIROS, 2001; VILLAS-BÔAS et al., 2004). Permetrina foi altamente e mediamente tóxica à O. sokolowskii e Discodon sp. e, mediamente e pouco tóxica a Lasiochilus sp., na dose e subdose, respectivamente. Já deltametrina foi mediamente tóxica a Lasiochilus sp. e Discodon sp. e, seletiva a O. sokolowskii, nas duas doses testadas (Tabela 2). A porcentagem de emergência de Trichogramma exiguum Pinto & Platner (Hymenoptera: Trichogrammatidae) em ovos de P. xylostella, alimentada com a cultivar de repolho Chato de quintal contaminadas com deltametrina foi de apenas 15% (Thuler et al. 2008). O parasitóide de P. xylostella, Diadegma insulare (Hymenoptera: Ichneumonidae), apresentou mortalidade
+
+Tabela 2 – Mortalidade (%) de adultos de Oomyzus sokolowskii, Lasiochilus sp. e Discodon sp. em função de inseticidas utilizados no controle de Plutella xylostella. Mortalidade (%)* Inseticida
+
+Oomyzus sokolowskii
+
+Lasiochilus sp.
+
+Dose
+
+Subdose
+
+Dose
+
+Dose
+
+Subdose
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+Paratiom metílico 600 CE
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+Carbaril 850 PM
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+94,92 5,08 aAa
+
+97,03 2,97 aAa
+
+100,00 0,00 aAa
+
+Acefato 750 PM
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+80,96 14,42 aAa
+
+90,35 5,86 aAa
+
+36,74 16,28 bCb
+
+Dimetoato 400 CE
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+100,00 0,00 aAa
+
+15,20 6,81 aCb
+
+14,97 7,75 aCb
+
+Permetrina 500 CE
+
+82,64 10,42aAa
+
+62,35 14,65 aBa
+
+45,77 6,71 aBb
+
+26,97 13,13 aCb
+
+80,21 3,81 aAa
+
+67,84 9,75 aBa
+
+Deltametrina 25 CE
+
+20,76 10,14 aBb
+
+2,82 1,81 aCb
+
+65,30 3,49 aBa
+
+59,80 9,50 aBa
+
+68,66 8,14 aBa
+
+58,36 17,37 aBa
+
+Metamidofós 600 CE
+
+Subdose
+
+Discodon sp.
+
+* As médias seguidas pela mesma letra minúsculas na linha (para comparação entre dose e subdose de cada inseticida para cada espécie), maiúsculas na coluna (para comparação da seletividade dos inseticidas dentro de uma mesma concentração) ou minúsculas e em itálico na linha (para comparação entre tolerância das espécies à uma mesma concentração de cada inseticida), não diferem, entre si, pelo teste de Scott – Knott, a P < 0,05. acima de 90% quando exposto por 24 horas à permetrina (HILL & FOSTER, 2000). Os mecanismos de seletividade fisiológica desses inseticidas ainda não estão devidamente esclarecidos. Isso se deve à falta de estudos bioquímicos e fisiológicos que expliquem tais mecanismos. A seletividade pode estar associada à baixa taxa de penetração no corpo do inimigo natural (GUEDES, 1999), às alterações no sítio de ação e à alta taxa de metabolização do inseticida (YU, 1988). A penetração do inseticida no corpo do inseto depende da espessura e da composição química da cutícula, assim como da afinidade desse com a mesma. Dessa forma, compostos lipofílicos geralmente penetram em maiores taxas no corpo do inseto devido à sua afinidade com cutícula (LEITE et al., 1998). A diferença na sensibilidade dos inimigos naturais obtidas neste trabalho para deltametrina e permetrina, em relação a outros inseticidas testados, possivelmente está relacionada aos pesos moleculares desses compostos. Substâncias com pesos moleculares menores possuem maior capacidade de penetração na cutícula do inseto (STOCK & HOLLOWAY, 1993). Suportando essa hipótese podemos observar os menores pesos moleculares do metamidofós (141,1), paratiom metílico (263,2), carbaril (201,2), acefato (183,18) e dimetoato (229,3) em relação aos maiores pesos moleculares da permetrina (391,3) e deltametrina (505,2) (BERG et al., 2003). Contudo, dimetoato foi seletivo a Discodon sp., indicando que esse predador possivelmente apresenta alta taxa de metabolização desse inseticida. A seletividade no caso, devido à alterações no sítio de ação, é menos provável já que outros organofosforados foram altamente tóxicos a esse predador. As mortalidades causadas pelos inseticidas metamidofós, paratiom metílico, carbaril, dimetoato, permetrina e deltametrina aos três inimigos naturais, mantiveram-se as mesmas quando se utilizou a metade das doses (Tabela 2). Acefato também manteve as mesmas mortalidades à O. sokolowskii e Lasiochilus sp. nas subdoses, entretanto a mortalidade causada pelo esse inseticida a Discodon sp. reduziu quando se utilizou a metade da dose (Tabela 2). Isso indica que acefato apresenta alto impacto a Discodon sp. no momento da aplicação, mas seu efeito é reduzido com a decomposição da metade da concentração do princípio ativo (BACCI et al., 2006, 2007). Os inimigos naturais O. sokolowskii, Lasiochilus sp. e Discodon sp. foram igualmente tolerantes às doses e subdoses de metamidofós, paratiom metílico e carbaril e, à dose de acefato (Tabela 2). Discodon sp. foi mais tolerante à dose e subdose do dimetoato e à subdose do acefato do que
+
+2049
+
+O. sokolowskii e Lasiochilus sp. (Tabela 2). Essa maior tolerância se deve, possivelmente, ao maior volume corporal de Discodon sp. em relação a O. sokolowskii e Lasiochilus sp. Essa hipótese é fundamentada em observações feitas por Picanço et al. (1997) com o percevejo predador P. nigrispinus e por Bacci et al. (2002) com o predador D. luteipes. Esses autores verificaram que, quanto maior o volume corporal, menor é a área específica e, conseqüentemente, há uma menor exposição aos inseticidas (YU, 1988). O predador Lasiochilus sp. foi mais tolerante à dose e subdose da permetrina do que O. sokolowskii e Discodon sp. O parasitóide O. sokolowskii foi mais tolerante à dose e subdose da deltametrina do que Lasiochilus sp. e Discodon sp. (Tabela 2). A maior tolerância de Lasiochilus sp. à permetrina e de O. sokolowskii à deltametrina, possivelmente se deve à maior taxa de metabolização desses inseticidas em relação aos outros inimigos naturais. Os resultados obtidos neste trabalho confirmam que bioensaios de laboratório podem ser de grande utilidade para identificação de inseticidas seletivos aos inimigos naturais de P. xylostella. Os organofosforados metamidofós, paratiom metílico e acefato e, o carbamato carbaril deverão reduzir drasticamente as populações de inimigos naturais de P. xylostella. Já o organofosforado dimetoato e os piretróides permetrina e deltametrina foram menos prejudiciais a alguns inimigos naturais. Esses resultados devem ser observados com cautela, pois o produto deve, além de ser seletivo aos inimigos naturais, apresentar eficiência contra a praga (BACCI et al., 2007). Nesse contexto, têm-se observado que populações de P. xylostella apresentam resistência a alguns produtos testados (CASTELO-BRANCO & MEDEIROS, 2001; CASTELOBRANCO et al., 2001, 2003). Assim, seria conveniente que esses produtos tivessem o seu uso restringido em locais onde existam populações resistentes dessa praga. Dessa forma, torna-se fundamental o conhecimento dos níveis de resistência da população de P. xylostella aos inseticidas na região onde será efetuado o controle químico com esses produtos, uma vez que a resistência pode variar entre as diferentes populações (CASTELO-BRANCO & MEDEIROS, 2001; CASTELO-BRANCO et al., 2003). Estudos futuros devem também priorizar o desenvolvimento de práticas que favoreçam a seletividade ecológica desses inseticidas, assim como estudos que visem identificar os principais inimigos naturais predominantes nos agroecossistemas formados pelas brássicas.
+

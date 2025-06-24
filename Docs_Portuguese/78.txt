@@ -1,0 +1,4202 @@
+
+
+CAMPUS CERRO LARGO
+
+CURSO DE ENGENHARIA AMBIENTAL E SANITÁRIA
+
+GRACIANA DARLEI KERKHOFF
+
+AVALIAÇÃO INTEGRADA DE QUALIDADE DA ÁGUA E DE MULTIRESÍDUOS
+
+DE AGROTÓXICOS DO RIO IJUÍ NO MUNICÍPIO DE CERRO LARGO/RS
+
+CERRO LARGO/RS
+
+
+
+GRACIANA DARLEI KERKHOFF
+
+AVALIAÇÃO INTEGRADA DE QUALIDADE DA ÁGUA E DE MULTIRESÍDUOS
+
+DE AGROTÓXICOS DO RIO IJUÍ NO MUNICÍPIO DE CERRO LARGO/RS
+
+Trabalho  de  conclusão  de  curso  de  graduação  apresentado  como  requisito  para  obtenção  de  grau  de  Bacharel  em  Engenheira  Ambiental  e  Sanitária  da  Universidade  Federal da Fronteira Sul.
+
+Orientadora: Profª. Dra. Alcione Aparecida de Almeida Alves.
+
+Coorientadora: Profª. Dra. Liziara da Costa Cabrera.
+
+CERRO LARGO
+
+2020
+
+
+
+RESUMO
+
+Atualmente o lançamento de efluentes,  a drenagem de áreas contaminadas e  a  utilização de
+
+agrotóxicos são importantes fontes de contaminação das águas superficiais. Neste sentido, o
+
+objetivo  deste  trabalho  foi  avaliar  a  qualidade  da  água  e  identificar  a  presença  de
+
+multiresíduos de agrotóxicos em cinco pontos de amostragem ao longo do Rio Ijuí, no trecho
+
+do Município de Cerro Largo/RS. Foram considerados parâmetros estabelecidos na Resolução
+
+do Conselho Nacional do Meio Ambiente (CONAMA)  n° 357/2005, tais como  absorvância
+
+UV  (λ  –  254  nm),  coliformes  totais  Positivo/negativo  (P/N),  coliformes  Escherichia  Coli  (P/N), condutividade elétrica (μs cm-1), cor aparente (uH), oxigênio dissolvido (OD) (mg L-1), nitrato (mg  L-1),  pH, sólidos sedimentáveis (mg  L-1), turbidez (uT),  temperatura (°C), e por
+
+meio  de  Cromatografia  Líquida  de  Alta  Eficiência  acoplada  a  Espectrometria  de  Massa
+
+(CLAE-EM)  foram  determinados  24  compostos  agrotóxicos.  Foram  realizadas  4  coletas  de
+
+água superficial, condizentes à estação do verão (18/03/2019), outono (30/04/2019), inverno
+
+(02/07/2019)  e  primavera  (23/10/2019),  em  cinco  pontos  de  amostragem.  Os  resultados
+
+referentes  aos  parâmetros  físico-químicos  apresentaram  valores  de  turbidez  superiores  aos
+
+Valores  Máximos  Permitidos  (VMP)  previstos  na  Resolução  CONAMA  n°  357/2005  na
+
+estação do Verão, no ponto  CB. Os valores dos demais parâmetros  físico-químicos  estavam
+
+de  acordo,  ou  não  foram  estabelecidos  VMP  pela  resolução.  Em  relação  aos  parâmetros
+
+microbiológicos foi identificada a presença de coliformes totais e Escherichia coli em 100%
+
+das  amostras  analisadas.  Foram  detectados,  acima  do  Limite  de  Quantificação  do  método
+
+(LQm)  em  no  mínimo  uma  das  análises  os  multiresíduos  de  agrotóxicos,  atrazina,
+
+azoxistrobina,  ciproconazol,  difenoconazol,  fipronil,  imazetapir,  malationa,  penoxsulam,
+
+pirazossulfurom,  profenofós  e  trifloxistrobina.  Dentre  os  agrotóxicos  determinados,  a
+
+Resolução CONAMA n° 357/2005 estabelece VMP para a atrazina, a malationa e a simazina.
+
+Nos  pontos  onde  houve  quantificação  de  resíduos  de  atrazina  e  simazina,  os  valores  se
+
+encontraram dentro do VMP. No entanto, os resultados obtidos para malationa nos pontos PO
+
+e SC, na estação do verão não atenderam os limites estabelecidos pela resolução. Embora em
+
+sua  maioria,  os  parâmetros  determinados  atenderam  os  VMP  da  Resolução  CONAMA  n°
+
+357/2005  é  pertinente  ressaltar  que  um  monitoramento  contínuo,  bem  como  a  análise  de
+
+maior número de parâmetros é fundamental para determinar com precisão a qualidade da água
+
+do Rio Ijuí.
+
+Palavras-chave: Águas Superficiais. Monitoramento. Padrões de Qualidade.
+
+
+
+
+
+LISTA DE ILUSTRAÇÕES
+
+Figura 1 – Fontes de poluição das águas superficiais. .............................................................. 24
+
+Figura 2 – Dinâmica dos esgotos até os recursos hídricos por meio da drenagem urbana. ..... 25
+
+Figura 3 – Área de estudos e pontos de amostragem. .............................................................. 43
+
+Figura 4 – Pontos de amostragem das estações primavera e verão. ......................................... 44
+
+Figura 5 – Pontos de amostragem das estações outono e inverno. ........................................... 44
+
+Figura 6 – Conjunto de equipamento para filtração da amostra de água por membrana. ........ 50
+
+Figura 7 – Sistema para extração em fase sólida. ..................................................................... 51
+
+Figura 8 – Cromatógrafo líquido de alta eficiência e espectrômetro de massa. ....................... 52
+
+LISTA DE TABELAS
+
+Tabela 1 – Limites dos parâmetros físico-químicos e microbiológicos para águas de Classe 2.
+
+.................................................................................................................................................. 37
+
+Tabela 2 – Limites de agrotóxicos em águas superficiais conforme Resolução CONAMA n°
+
+357/2005. .................................................................................................................................. 38
+
+Tabela 3 – Principais cultivares da Região das Missões. ......................................................... 41
+
+Tabela 4 – Médias meteorológicas mensais para Cerro Largo. ................................................ 42
+
+Tabela 5 – Parâmetros de qualidade das águas superficiais do Rio Ijuí analisados. ................ 46
+
+Tabela  6  –  Multiresíduos  analisados,  classe,  grupo  químico  e  classificação  toxicológica  de
+
+cada agrotóxico. ........................................................................................................................ 48
+
+Tabela 7 – Gradiente de eluição da fase móvel. ....................................................................... 52
+
+Tabela 8 – Absorvância UV (λ – 254 nm) das amostras do Rio Ijuí no trecho do Município de
+
+Cerro Largo............................................................................................................................... 54
+
+Tabela  9  –  Coliformes  totais  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de
+
+Cerro Largo............................................................................................................................... 55
+
+Tabela  10  –  Coliformes  Escherichia  Coli  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do
+
+Município de Cerro Largo. ....................................................................................................... 56
+
+Tabela 11 – Condutividade elétrica das amostras de água do Rio Ijuí no trecho do Município
+
+de Cerro Largo. ......................................................................................................................... 57
+
+Tabela 12 – Cor aparente das amostras de água do Rio Ijuí no trecho do Município de Cerro
+
+Largo. ........................................................................................................................................ 58
+
+Tabela 13 – Nitrato nas amostras de água do Rio Ijuí no trecho do Município de Cerro Largo.
+
+.................................................................................................................................................. 59
+
+Tabela 14 – Oxigênio dissolvido das amostras de água do Rio Ijuí no trecho do Município de
+
+Cerro Largo............................................................................................................................... 59
+
+Tabela 15 – Valor de pH das amostras de água do Rio Ijuí no trecho do Município de Cerro
+
+Largo. ........................................................................................................................................ 61
+
+Tabela  16  –  Salinidade  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de  Cerro
+
+Largo. ........................................................................................................................................ 61
+
+Tabela 17 – Sólidos sedimentáveis das amostras de água do Rio Ijuí no trecho do Município
+
+de Cerro Largo. ......................................................................................................................... 62
+
+Tabela 18 – Temperatura das amostras de água do Rio Ijuí no trecho do Município de Cerro
+
+Largo. ........................................................................................................................................ 63
+
+Tabela  19  –  Turbidez  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de  Cerro
+
+Largo. ........................................................................................................................................ 64
+
+Tabela  20  –  Quantificação  de  agrotóxicos  nas  amostras  de  água  do  Rio  Ijuí  no  trecho  do
+
+Município de Cerro Largo nas estações da Primavera e do Verão. .......................................... 66
+
+Tabela  21  –  Quantificação  de  agrotóxicos  nas  amostras  de  água  do  Rio  Ijuí  no  trecho  do
+
+Município de Cerro Largo nas estações do Outono e Inverno. ................................................ 67
+
+LISTA DE QUADROS
+
+Quadro 1– Alguns dos principais parâmetros que influenciam na classificação e qualidade das
+
+águas superficiais. ..................................................................................................................... 21
+
+Quadro 1– Alguns dos principais parâmetros que influenciam na classificação e qualidade das
+
+águas superficiais. ..................................................................................................................... 22
+
+Quadro  2  –  Práticas  de  manejo  e  gerenciamento  do  solo  e  as  implicações  com  relação  aos
+
+recursos hídricos. ...................................................................................................................... 27
+
+Quadro 3 – Propriedades físico-químicas dos agrotóxicos. ..................................................... 28
+
+Quadro 4 – Categoria toxicológica dos agrotóxicos. ................................................................ 32
+
+Quadro  5  –  Principais  categorias,  grupo  químico,  tipos  de  agrotóxicos  e  classificação
+
+toxicológica. ............................................................................................................................. 34
+
+Quadro 6 – Caracterização geral da área de estudo. ................................................................. 39
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+ANA
+
+APHA
+
+APP
+
+BHC
+
+CB
+
+Agência Nacional das Águas
+
+Associação  Americana  de  Saúde  Pública,  do  inglês  American  Public  Health
+
+Association
+
+Área de Preservação Permanente
+
+Hexaclorobenzeno
+
+Ponto 4, referente a amostra coletada próximo da Linha Caçador Baixo
+
+CETESB
+
+Companhia Ambiental do Estado de São Paulo
+
+CG-DCE
+
+Cromatografia Gasosa com Detector por Captura de Elétrons
+
+CONAB
+
+Companhia Nacional de Abastecimento
+
+CONAMA  Conselho Nacional do Meio Ambiente
+
+CG-EM
+
+Cromatografia Gasosa acoplada com Espectrometria de Massa
+
+CLAE-EM  Cromatografia Líquida de Alta Eficiência acoplada a Espectrometria de Massas
+
+DBO
+
+DDD
+
+DDE
+
+DDT
+
+EFS
+
+ESI
+
+ETE
+
+FEE
+
+FI
+
+Demanda Bioquímica de Oxigênio
+
+Diclorodifenildicloroetano
+
+Diclorodifenildicloroeteno
+
+Diclorodifeniltricloroetano
+
+Extração em Fase Sólida
+
+Ionização por Electrospray
+
+Estação de Tratamento de Efluentes
+
+Fundação de Economia e Estatística
+
+Ponto 5, referente a amostra coletada próximo ao denominado Fundão Ijuí
+
+FEPAGRO  Secretaria da Agricultura, Pecuária e Agronegócio
+
+GUS
+
+Índice  de  Vulnerabilidade  de  Águas  Subterrâneas,  do  inglês  Groundwater
+
+Ubiquity Score
+
+HPLC-MS  Cromatografia Líquida de Alta Eficiência acoplada a espectrometria de massas,
+
+do inglês High Performance Liquid Chomatograpy
+
+IBAMA
+
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+
+INCA
+
+Instituto Nacional do Câncer
+
+INMETRO
+
+Instituto Nacional de Metrologia, Qualidade e Tecnologia
+
+IPEA
+
+IQA
+
+IBGE
+
+Instituto de Pesquisa Econômica Aplicada
+
+Índice de Qualidade da Água
+
+Instituto Brasileiro de Geografia e Estatística
+
+KH
+
+Koc
+
+Kow
+
+LQm
+
+Lei de Henry
+
+Coeficiente de Partição de Carbono Orgânico
+
+Coeficiente de partição octanol-água
+
+Limite de Quantificação do método
+
+MAPA
+
+Ministério da Agricultura, Pecuária e Abastecimento
+
+MMA
+
+MON
+
+MS
+
+NA
+
+ND
+
+OD
+
+pH
+
+Ministério do Meio Ambiente
+
+Matéria Orgânica Natural
+
+Ministério da Saúde
+
+Não Apresenta
+
+Não Detectado
+
+Oxigênio Dissolvido
+
+Potencial Hidrogeniônico
+
+PCH‟s
+
+Pequenas Centrais Hidrelétricas
+
+PO
+
+Ponto 2, referente a amostra coletada próximo da ponte
+
+PROSAB
+
+Programa de Pesquisa em Saneamento Básico
+
+PTFE
+
+RHN
+
+SA
+
+SC
+
+Politetrafluoretileno
+
+Rede Hidrometeorológica Nacional
+
+Solubilidade em água
+
+Ponto 3, referente a amostra coletada próximo da Linha Santa Cruz
+
+SEMA
+
+Secretaria Estadual do Meio Ambiente e Infraestrutura
+
+SNS
+
+Secretaria Nacional de Saneamento
+
+SWAT
+
+Ferramenta de avaliação de solo e água, do inglês  Soil and Water Assessment
+
+Tool
+
+TA
+
+t1/2
+
+Ponto 1, referente a amostra coletada próximo da Linha Taquarussu
+
+Tempo de meia vida
+
+UHE‟s
+
+Usinas Hidrelétricas
+
+UNESCO
+
+Organização das Nações Unidas para a Educação, a Ciência e a Cultura
+
+UV
+
+VMP
+
+Ultravioleta
+
+Valor Máximo Permitido
+
+SUMÁRIO
+
+1
+
+1.1
+
+INTRODUÇÃO ........................................................................................................ 16
+
+OBJETIVO ................................................................................................................. 17
+
+1.1.1   Objetivo geral ........................................................................................................... 18
+
+1.1.2   Objetivo específico .................................................................................................... 18
+
+1.2
+
+JUSTIFICATIVA ....................................................................................................... 18
+
+2
+
+2.2
+
+REVISÃO DA LITERATURA ............................................................................... 20
+
+ASPECTOS  QUALITATIVOS
+
+E  QUANTITATIVOS  DAS  ÁGUAS
+
+SUPERFICIAIS.......................................................................................................... 20
+
+2.3
+
+CONTAMINAÇÃO DAS ÁGUAS SUPERFICIAIS ................................................ 22
+
+2.3.1   Principais fontes de contaminação das águas superficiais.................................... 23
+
+2.3.2   Principais  mecanismos  de  transporte  de  esgoto  e  de  agrotóxicos  dos  solos  às
+
+águas superficiais ...................................................................................................... 25
+
+2.3.3   Presença de agrotóxicos em águas superficiais ...................................................... 28
+
+2.3.4   Efeitos deletérios dos agrotóxicos à biota ............................................................... 31
+
+2.4
+
+LEGISLAÇÕES  AMBIENTAIS
+
+BRASILEIRAS
+
+RELACIONADAS  A
+
+MANUTENÇÃO DA QUALIDADE DAS ÁGUAS SUPERFICIAIS ..................... 35
+
+2.4.1   Limites  dos  parâmetros físico-químicos e  microbiológicos  para corpos  hídricos
+
+superficiais ................................................................................................................ 36
+
+3
+
+METODOLOGIA .................................................................................................... 39
+
+3.1
+
+DESCRIÇÃO DA ÁREA DE ESTUDO.................................................................... 39
+
+3.1.1   Pontos de amostragem ............................................................................................. 42
+
+3.2
+
+3.3
+
+PROCEDIMENTOS DE COLETA E PRESERVAÇÃO DAS AMOSTRAS .......... 45
+
+PROCEDIMENTOS ANALÍTICOS ......................................................................... 45
+
+3.3.1   Determinação dos parâmetros de qualidade da água ........................................... 45
+
+3.3.2   Determinação de multiresíduos de agrotóxicos ..................................................... 46
+
+3.3.3
+
+Preparo das amostras ............................................................................................... 50
+
+3.3.4   Condições do sistema CLAE-EM e análise cromatográfica ................................. 51
+
+3.3.5   Validação  do  método  para  análise  de  resíduos  de  agrotóxicos  em  amostra  de
+
+água ............................................................................................................................ 53
+
+4
+
+RESULTADOS E DISCUSSÕES ........................................................................... 54
+
+4.1
+
+PARÂMETROS  FÍSICO-QUÍMICOS  E  MICROBIOLÓGICOS  DA  QUALIDADE
+
+DA ÁGUA .................................................................................................................. 54
+
+4.1.1   Absorvância UV ........................................................................................................ 54
+
+4.1.2   Coliformes totais e Escherichia Coli ....................................................................... 55
+
+4.1.3   Condutividade elétrica ............................................................................................. 57
+
+4.1.4   Cor aparente ............................................................................................................. 57
+
+4.1.5   Nitrato........................................................................................................................ 58
+
+4.1.6   Oxigênio dissolvido ................................................................................................... 59
+
+4.1.7   pH ............................................................................................................................... 60
+
+4.1.8   Salinidade .................................................................................................................. 61
+
+4.1.9   Sólidos sedimentáveis ............................................................................................... 62
+
+4.1.10   Temperatura ............................................................................................................. 63
+
+4.1.11   Turbidez .................................................................................................................... 64
+
+4.2
+
+DETECÇÃO E QUANTIFICAÇÃO DE MULTIRESÍDUOS DE AGROTÓXICOS ..
+
+.................................................................................................................................... 65
+
+4.2.1   Determinação de multiresíduos de agrotóxicos ..................................................... 65
+
+4.2.1.2.1 Estação Primavera .................................................................................................... 70
+
+4.2.1.2.2 Estação Verão............................................................................................................ 71
+
+4.2.1.2.3 Estação Outono ......................................................................................................... 73
+
+4.2.1.2.4 Estação inverno ......................................................................................................... 74
+
+5
+
+CONCLUSÃO .......................................................................................................... 77
+
+REFERÊNCIAS ...................................................................................................... 79
+
+APÊNDICE I – APRESENTAÇÃO SINTETIZADA DOS RESULTADOS DE
+
+MULTIRESÍDUOS DE AGROTÓXICOS ............................................................ 86
+
+16
+
+1 INTRODUÇÃO
+
+A água é um recurso natural muito importante para qualquer tipo de vida, possui usos
+
+múltiplos, principalmente na agricultura, indústria, dessedentação animal, transporte, geração
+
+de energia e o consumo humano, sendo este o uso mais nobre. É um recurso fundamental na
+
+produção de bens e serviços, dentre eles, alimentos, energia e manufaturados (ANA, 2018).
+
+Segundo  a  Organização  das  Nações  Unidas  para  a  Educação,  a  Ciência  e  a  Cultura
+
+(UNESCO, 2017), o destino da maior parte (70%) da água extraída no Brasil e no mundo todo
+
+é para a agricultura, prioritariamente para a irrigação. Em termos de disponibilidade hídrica o
+
+Brasil  é  privilegiado,  porém  a  maior  parte  da  água  está  disponível  na  Amazônia,  onde  a
+
+concentração populacional é menor comparado com os demais estados (ANA, 2018).
+
+Segundo o mesmo autor, a  disponibilidade hídrica desigual no território brasileiro, o
+
+uso  da  água  nas  atividades  econômicas,  as  condições  naturais,  como  regime  de  chuvas,
+
+escoamento superficial, geologia, cobertura vegetal ou interferências antrópicas relacionadas a
+
+despejos  de  efluentes  domésticos,  industriais  e  manejo  inadequado  dos  solos  afetam  a
+
+qualidade da água.
+
+Conforme  o  Programa  de  Pesquisas  em  Saneamento  Básico  (PROSAB,  2009),  a
+
+principal fonte de contaminação de águas superficiais no Brasil é por meio do lançamento de
+
+esgotos  e  agrotóxicos,  que  segundo  Peres  e  Moreira  (2003),  estão  dentre  os  principais
+
+poluentes do solo e das águas superficiais.
+
+De  acordo  com  a  UNESCO  (2017),  a  forma  que  este  recurso  está  sendo  utilizado  é
+
+considerada insustentável e a qualidade da água no mundo todo está cada vez mais ameaçada
+
+à medida que a população humana cresce e as atividades agrícolas e industriais aumentam.
+
+O crescimento populacional  faz com que a demanda de alimentos e energia também
+
+aumente, acarretando em maior consumo de água. Segundo a UNESCO (2015), estima-se que
+
+a  demanda  hídrica  mundial  aumente  até  2050  em  55%  para  suprir  as  necessidades  da
+
+agricultura, indústria e expansão dos sistemas municipais de abastecimento.
+
+Na agricultura, o Brasil se destaca como um dos principais produtores e exportadores
+
+de açúcar, milho e soja, somente a soja ocupa uma área de 30 milhões de hectares. Também
+
+se destaca pela exportação de celulose, café cru em grão, farelo de soja, carne de frango, carne
+
+bovina e pelo plantio de diversos outros cultivos (BOMBARDI, 2017). A fração de produção
+
+agrícola  do  Rio  Grande  do  Sul  (RS)  também  é  reconhecida  historicamente.  Conforme  a
+
+Fundação  de  Economia e  Estatística  (FEE,  2015),  o  RS  oferece  diversos  produtos  agrícolas
+
+como arroz, trigo, aveia, fumo, soja, milho, a criação de suínos, frango, leite e ovos.
+
+17
+
+Toda essa extensiva produção demandou uso de agrotóxicos e resultou para o Brasil, nos  anos  de  2012  e  2014  um  consumo  médio  de  8,33  kg  ha-1.  Nesses  anos  as  regiões  do
+
+Centro-Oeste,  seguida  da  região  Sul  e  Sudeste  respectivamente  se  destacaram  pelo  maior
+
+consumo  anual  de  agrotóxicos  (BOMBARDI,  2017),  e  no  ano  de  2017,  para  o  Instituto
+
+Brasileiro  do  Meio  Ambiente  e  dos  Recursos  Naturais  Renováveis  (IBAMA,  2018),  os
+
+maiores  consumidores  foram  a  região  Sudeste,  seguido  do  Sul  e  Centro-Oeste,
+
+respectivamente.
+
+Todavia, segundo Peres e Moreira (2003), os agrotóxicos acabam por vezes, durante a
+
+aplicação  nas  lavouras  atingindo  “não-alvos”  ocasionando  a  contaminação  do  ambiente  e
+
+provocando  desequilíbrios  ambientais.  De  acordo  com  a  Lei  Federal  n°  7.802/1989,
+
+atualmente alterada pela Lei Federal n° 9.974/2000, define que agrotóxicos são substâncias e
+
+produtos  empregados  como  desfolhantes,  dessecantes,  estimuladores  e  inibidores  de
+
+crescimento (BRASIL, 1989).
+
+Conforme  Soares  (2011),  os  agrotóxicos  podem  chegar  até  os  recursos  hídricos  por
+
+meio do descarte e lavagem incorreta das embalagens, através da lixiviação, erosão dos solos
+
+contaminados  ou  escoamento  superficial.  Sua  mobilidade  depende  principalmente  das
+
+características dos agrotóxicos utilizados, do solo, das condições ambientais e do relevo.
+
+No  Brasil  as  Resoluções  do  CONAMA  n°  357/2005  e  n°  430/2011  estabeleceram  a
+
+classificação, as condições e padrões da qualidade das águas superficiais, bem como os VMP
+
+de compostos inorgânicos e orgânicos, e dentre estes, os compostos agrotóxicos.
+
+Assim  sendo,  o  monitoramento  das  águas  superficiais  com  relação  aos  padrões  de
+
+qualidade das águas é importante, pois conforme o Ministério do Meio Ambiente  (BRASIL,
+
+2006),  as  alterações  da  qualidade  da  água  devido  a  interferências  humanas,  como  o
+
+lançamento  de  esgotos  domésticos  não  tratados,  áreas  de  intensa  atividade  industrial  e
+
+agrícola e, em especial o potencial poluidor associado à utilização de agrotóxicos em áreas de
+
+agricultura intensa, acarretam em problemas relacionados aos usos da água. Tendo em vista
+
+ainda,  que  a  Resolução  CONAMA  n°  357/2005  preconiza  que,  o  controle  da  poluição  dos
+
+recursos  hídricos  está  relacionado  diretamente  com  a  proteção  da  saúde,  garantia  do  meio
+
+ambiente ecologicamente equilibrado e da melhoria da qualidade de vida.
+
+1.1 OBJETIVO
+
+Os objetivos foram norteados em geral e específicos.
+
+18
+
+1.1.1 Objetivo geral
+
+Analisar a qualidade da água referente a parâmetros físico, químicos, microbiológicos
+
+e determinar a quantificação de multiresíduos de agrotóxicos em cinco pontos de amostragem
+
+em um trecho do Rio Ijuí, no município de Cerro Largo/RS.
+
+1.1.2 Objetivo específico
+
+Analisar  os  parâmetros  absorvância  UV  (λ  –  254  nm),  coliformes
+
+totais
+
+(positivo/negativo)  e  coliformes  termotolerantes  (Escherichia  Coli)  (positivo/negativo),  cor  aparente (uH), condutividade elétrica (μs cm-1), potencial Hidrogeniônico (pH), nitrato (mg L-1), temperatura (°C), turbidez (uT), sólidos sedimentáveis (mg L-1) e OD (mg L-1), nos pontos
+
+amostrais Linha Taquarussu (TA), Ponte (PO), Linha Santa Cruz (SC), Linha Caçador Baixo
+
+(CB) e Fundão Ijuí (FI), em um trecho do Rio Ijuí.
+
+Analisar  multiresíduos  de  agrotóxicos:  2,4-D,  atrazina,  azoxistrobina,  bentazona,
+
+carbofurano,  ciproconazol,  clomazona,  difenoconazol,  epoxiconazol,  fipronil,  imazapique,
+
+imazetapir,  malationa,  metsulfurom-metílico,  penoxsulam,  piraclostrobina,  pirazossulfurom,
+
+pirimicarbe,  profenofós,  propiconazol,  simazina,  tebuconazol,  tiametoxam  e  trifloxistrobina
+
+nas  águas  do  Rio  Ijuí,  no  município  de  Cerro  Largo/RS,  por  meio  da  técnica  analítica  de
+
+CLAE-EM.
+
+Avaliar  os  resultados  obtidos  em  termos  de  atendimento  aos  VMP  estabelecidos  na
+
+Resolução  CONAMA  n°  357/2005  e  n°  430/2011  e,  a  Lei  Estadual  n°  10.530/1994  que
+
+dispõe sobre o enquadramento dos corpos de água em classes de uso e conservação.
+
+1.2 JUSTIFICATIVA
+
+O  monitoramento  das  águas  no  tocante  a  parâmetros  físicos  e  microbiológicos,  bem
+
+como parâmetros químicos relacionados aos multiresíduos de agrotóxicos são importantes nos
+
+estudos  dos  possíveis  efeitos  negativos  associados  a  contaminação  das  águas  superficiais  e
+
+suas  fontes  de  contaminação  (RODRIGUES,  2016).  O  monitoramento  também  fomenta
+
+informações  para  o  atendimento  as  legislações  vigentes,  sendo  este,  um  mecanismo  que
+
+possibilita identificar problemas com a qualidade das águas superficiais e a posteriori, auxiliar
+
+na  busca  de  alternativas  para  soluções  de  melhorias  relacionadas  à  qualidade  do  meio
+
+ambiente e da vida dos seres humanos (ANA, 2011).
+
+19
+
+Atualmente não existem informações referentes ao monitoramento de agrotóxicos em
+
+todos  os  corpos  hídricos  passíveis  de  poluição/contaminação  por  estes  compostos.  Deste
+
+modo,  compostos  persistentes,  tóxicos  e  amplamente  utilizados,  tais  como  os  agrotóxicos
+
+devem  receber  atenção  prioritária  em  estudos  de  monitoramento  ambiental  (RODRIGUES,
+
+2016).  Consequentemente,  o  monitoramento  da  água  contribui  para  determinar  a  sua
+
+qualidade, bem como a classe de enquadramento atual das águas superficiais (ANA, 2011).
+
+Assim,  este  trabalho  se  justifica  pela  necessidade  de  monitoramento  das  águas
+
+superficiais para fins de identificação das principais fontes de  poluição/contaminação destes
+
+recursos.
+
+20
+
+2  REVISÃO DA LITERATURA
+
+2.1 RECURSOS HÍDRICOS
+
+O aumento na demanda dos recursos hídricos para suprir as necessidades humanas por
+
+vezes tem sido ainda mais oneroso devido a necessidade de tratamento das águas, ocasionado
+
+pela crescente redução da qualidade dos recursos hídricos. Segundo o Relatório Mundial das
+
+Nações  Unidas  (UNESCO,  2015),  o  despejo  de  efluentes  domésticos  e  industriais  e  o
+
+escoamento  superficial  de  áreas  agrícolas  contaminadas  estão  acima  da  capacidade  de
+
+autodepuração  dos  recursos  hídricos,  comprometendo  a  qualidade  da  água  e  podendo  em
+
+alguns casos impedir sua utilização.
+
+2.2 ASPECTOS QUALITATIVOS E QUANTITATIVOS DAS ÁGUAS SUPERFICIAIS
+
+Para  a  UNESCO  (2017),  a  disponibilidade  dos  recursos  hídricos  está  diretamente
+
+relacionada  com  a  qualidade  da  água,  uma  vez  que  a  poluição  pode  impedir  seus  diversos
+
+usos.  No mundo o  principal uso da água é destinado para a agricultura,  que realiza 70% do
+
+total  de  captação.  A  ANA  (2018)  afirmou  que  o  Brasil  tem  a  mesma  característica  de
+
+consumo  mundial,  sendo  a  maioria  consumida  na  agricultura  para  a  irrigação,  seguido  do
+
+abastecimento urbano, indústrias, abastecimento rural, termelétrica e dessedentação animal.
+
+No  Brasil,  a  qualidade  da  água  superficial  é  monitorada,  dentre  outros,  pela  Rede
+
+Hidrometeorológica Nacional (RHN). Em  2017, a rede  já continha mais de 21 mil estações
+
+entre  pluviométricas  e  fluviométricas  em  todo  território  nacional,  e  monitorou  parâmetros
+
+como  pH,  temperatura,  OD,  turbidez  e  condutividade  elétrica,  por  meio  de  sondas
+
+multiparamétricas (ANA, 2018).
+
+Segundo o PROSAB (2009), o monitoramento da qualidade da água está relacionado
+
+com o conhecimento dos constituintes presentes na água.  Consequentemente,  o conjunto de
+
+padrões  de  qualidade  das  águas  serve  para  subsidiar  o  enquadramento  do  corpo  hídrico  e,
+
+eventuais  interações  entre  as  substâncias  devem  ser  monitoradas  pelo  Poder  Público,  não
+
+podendo  conferir  às  águas  características  capazes  de  causar  efeitos  letais  ou  alteração  de
+
+comportamento, nem restringir os usos previstos. Portanto a água deve atender aos níveis de
+
+qualidade de modo que assegure seus usos preponderantes a fim evitar danos a animais e aos
+
+seres humanos (BRASIL, 2005).
+
+21
+
+De  acordo  com  a  Resolução  CONAMA  n°  357/2005,  as  águas  superficiais  são
+
+classificadas como doces, salobras ou salinas, onde a saúde e o bem-estar humano, bem como,
+
+o  equilíbrio  ecológico  aquático  não  devem  ser  deteriorados  pela  qualidade  das  águas.  Da
+
+mesma forma, as águas doces, salinas e salobras também recebem uma classificação segundo
+
+a  qualidade  requerida,  podendo  ser  enquadrada  como  Classe  Especial,  Classe  1,  Classe  2,
+
+Classe 3 e Classe 4 (BRASIL, 2005).
+
+No Quadro 1 estão descritos os principais parâmetros que influenciam na classificação
+
+e determinação da qualidade das águas superficiais.
+
+Quadro 1– Alguns dos principais parâmetros que influenciam na classificação e qualidade das
+
+águas superficiais.
+
+Parâmetro
+
+Coliformes
+
+Coliformes  Escherichia coli
+
+Condutividade elétrica
+
+Cor aparente
+
+Demanda  bioquímica  de  oxigênio (DBO)
+
+Temperatura
+
+Fósforo
+
+Nitrogênio
+
+Descrição  Coliformes  termotolerantes  além  de  estarem  presente  nas  fezes  humanas e de animais homeotérmicos, ocorrem em solos, plantas  ou outras matrizes ambientais que não tenham sido contaminados  por material fecal.   É  um  indicador  de  contaminação  exclusivamente  fecal,  utilizada  como  padrão  de  qualidade  microbiológica  das  águas  superficiais  destinadas  ao  abastecimento  público,  recreação,  irrigação  e  a  piscicultura.  Expressa  a  capacidade  da  água  em  conduzir  corrente  elétrica  e  indica  a  quantidade  de  sais  existentes  na  coluna  d‟água  e,  portanto, é uma medida indireta da concentração de poluentes.  É  referente  aos  sólidos  dissolvidos  na  água,  sua  presença  por  causas  naturais  pode  ser  devido  a  decomposição  da  matéria  orgânica,  presença  de  ferro  e  manganês.  Quando  ocorre,  devido  ações  antrópicas  é  por  despejo  de  resíduos  industriais  e  esgoto  doméstico.  É medida pela quantidade de oxigênio dissolvido consumido pelos  microrganismos para a estabilização da matéria orgânica presente  nesse  ambiente.  De  forma  indireta  retrata  o  teor  de  matéria  orgânica nos esgotos ou corpos d‟água.   É  de  grande  importância  por  interferir  em  reações  físicas,  químicas e biológicas. Em geral o aumento da temperatura de 0 a  30 °C causa a diminuição da viscosidade, tensão superficial, calor  específico, constante de ionização e calor latente.   É essencial para o crescimento de organismos decompositores de  matéria  orgânica,  entretanto  interfere  no  crescimento  das  algas  e  quando  disponível  em  abundância  pode  produzir  o  crescimento  exagerado destas e causar a eutrofização nos corpos hídricos.  A  série  de  Nitrogênio  Total  Kjeldahl  compreende  o  nitrogênio  orgânico e o nitrogênio amoniacal. Pode ser encontrado na forma  orgânica,  amoniacal,  nitrato  e  nitrito.  Podem  estar  presente  no  meio  aquático  naturalmente  ou  devido  a  despejos  de  esgotos,  excrementos de animais e fertilizantes. Sua determinação fornece informações sobre estágios de poluição dos corpos hídricos.
+
+Referência
+
+Brasil (2005)
+
+CETESB (2018)
+
+CETESB (2018)
+
+Von Sperling (2007)
+
+CETESB (2018)
+
+CETESB (2018)
+
+Von Sperling (2005)
+
+CETESB  (2018);   Von Sperling (2005)
+
+(continua)
+
+22
+
+Quadro 2– Alguns dos principais parâmetros que influenciam na classificação e qualidade das
+
+águas superficiais.
+
+Turbidez
+
+Salinidade
+
+Sólidos sedimentáveis
+
+Oxigênio  dissolvido (OD)
+
+pH
+
+Pode demonstrar a presença de materiais em suspensão e impedir  a  passagem  da  luz  na  água.  A  origem  natural  está  relacionada  a  presença  de  partículas  de  rochas,  argila,  silte,  algas  e  outros  microrganismos,  quando  ocasionada  por  ações  antropogênicas  é  devido ao despejo de efluentes domésticos, industriais e a erosão.  A salinidade nas águas naturais  está vinculada à presença de sais  minerais  dissolvidos  formados  por  ânions  de  cloreto,  sulfato  e  bicarbonato  e  cátions  como  cálcio,  magnésio,  potássio  e  sódio,  também  pode  estar  associada  a  concentração  de  sólidos  totais  dissolvidos  Sólidos  sedimentáveis  pertencem  ao  grupo  de  sólidos  suspensos,  podem  servir  de  suporte  para  bactérias  nitrificantes,  de  abrigo  a  microrganismos  patogênicos  e  substrato  rico  em  nutrientes,  além  de causar influência sobre parâmetros como a turbidez.  Representa  o  grau  de  poluição  da  água,  baixas  concentrações  de  OD representam águas poluídas, enquanto concentrações elevadas  indicam água limpa, consequentemente os níveis de OD indicam a  capacidade de um corpo d‟água em manter a vida aquática.   O pH influencia sobre diversos equilíbrios químicos que ocorrem  naturalmente  num  corpo  hídrico,  podendo  afetar  a  fisiologia  de  diversas  espécies,  representando  um  parâmetro  muito  importante  em  estudos  de  saneamento  ambiental.  Outro  efeito  devido  determinadas  condições  do  pH  é  a  precipitação  de  elementos  químicos  tóxicos  como  metais  pesados  ou  a  solubilidade  de nutrientes.
+
+(continuação)
+
+Von Sperling (2007)
+
+Libâno (2010)
+
+Libâno (2010)
+
+Libâno (2010)
+
+CETESB (2018)
+
+Fonte: elaborado pela autora, 2020.
+
+Portanto,  a  manutenção  da  qualidade  das  águas  superficiais  está  relacionada,  dentre
+
+outros,  às  concentrações  dos  parâmetros  descritos  no  Quadro  1,  os  quais  devem  ser
+
+monitorados, pois contribuem   diretamente   com as  questões de saúde ambiental e humana,
+
+refletem  as  condições  de  qualidade  dos  corpos  hídricos  do  local  monitorado  (PROSAB,
+
+2009), e servem de indicador de qualidade hídrica.
+
+2.3 CONTAMINAÇÃO DAS ÁGUAS SUPERFICIAIS
+
+Segundo a Lei Federal n° 9.605/1998 é crime causar poluição de qualquer natureza em
+
+níveis capazes de resultar danos à saúde humana ou que provoque mortandade de animais ou
+
+a destruição significativa (BRASIL, 1998), no entanto, são diversas as atividades que podem
+
+acarretar a contaminação das águas superficiais. Conforme a UNESCO (2015), na maioria dos
+
+países,  as  águas  residuárias  produzidas  são  despejadas  diretamente  no  meio  ambiente.  O
+
+aumento do lançamento de efluentes domésticos e industriais e o escoamento superficial das
+
+23
+
+águas  em  áreas  contaminadas  são  as  principais  fontes  de  contaminação  e  de  degradação  da
+
+qualidade das águas superficiais em todo o mundo.
+
+Adicionalmente, o monitoramento das águas superficiais demonstra além da poluição
+
+relacionada ao despejo de efluentes domésticos e industriais, a presença de agrotóxicos nestas
+
+águas.
+
+Varca  (2011)  identificou  nas  Filipinas,  a  presença  de  agrotóxicos  nas  águas
+
+superficiais dos rios e lagos próximos ao Lago de Bay. Os estudos foram realizados entre os
+
+anos  de  2007  e  2009  e  demonstraram  que  alguns  dos  agrotóxicos  usados  no  controle  de
+
+pragas, principalmente nas plantações de legumes e arroz, estavam sendo transportados até as
+
+águas  por  meio  da  drenagem  superficial.  Nos  Estados  Unidos  da  América  (EUA),  o  estudo
+
+realizado por Kohler (2005) demonstrou a presença de agrotóxicos na água de abastecimento
+
+público, identificando os herbicidas como os principais contaminantes, devido seu expressivo
+
+uso em aplicações agrícolas, na manutenção da limpeza de vias públicas, gramados, jardins
+
+residenciais  e  campos  de  golfe.  No  Egito,  Dahshan  et  al.  (2016)  realizaram  um  estudo,  ao
+
+longo  do  Rio  Nilo  através  do  monitoramento  e  coleta  de  águas  no  verão  de  2013,  e
+
+identificaram como resultado a presença de agrotóxicos, resultante da utilização em atividades
+
+industriais e agrícolas.
+
+No  Brasil,  no  Estado  de  Sergipe,  Britto  (2015)  monitorou  a  qualidade  de  água  e
+
+avaliou  o  risco  de  contaminação  das  águas  superficiais  do  rio  Betume  por  agrotóxicos.  As
+
+coletas foram bimestrais, de março de 2013 a dezembro de 2014, e os resultados apresentaram
+
+a presença de agrotóxicos associados às plantações de arroz nas proximidades do rio.
+
+No Estado do Rio Grande do Sul, o estudo realizado por Chiarello et al. (2017) avaliou
+
+a  presença  de  agrotóxicos  em  amostras  de  água  e  de  sedimentos  da  Bacia  Hidrográfica
+
+Tacongava  e  a  relação  com  o  uso  e  ocupação  do  solo,  particularmente  ligados  a  atividades
+
+agrícolas. A partir da avaliação, os autores constataram que existe a contaminação nos pontos
+
+amostrados, pois pôde observar a presença de nove resíduos de agrotóxicos nas amostras de
+
+água e cinco tipos nas amostras de sedimentos.
+
+2.3.1 Principais fontes de contaminação das águas superficiais
+
+Conforme  o  PROSAB  (2009),  a  principal  fonte  de  contaminação  das  águas
+
+superficiais são os esgotos domésticos seguidos dos agrotóxicos. A ausência de rede coleta de
+
+esgoto resulta no lançamento inadequado das águas residuárias em rios e córregos, refletindo
+
+na  qualidade  dos corpos  hídricos.  Os  mesmos  autores  salientam  ainda  que  o  lançamento  de
+
+24
+
+esgoto  doméstico  e  a  drenagem  de  áreas  são  fontes  de  nutrientes  para  os  corpos  hídricos,
+
+ocasionando  contaminações  que  podem  atingir  níveis  capazes  de  comprometer  os  usos
+
+desejáveis  da  água.  Libânio  (2010)  afirmou  que  os  cursos  d‟água  superficial  constituem  os
+
+principais corpos receptores do lançamento de esgotos domésticos e industriais.
+
+Para a Companhia Ambiental do Estado de São Paulo (CETESB, 2018), o lançamento
+
+de  esgotos  domésticos  constitui  o  principal  problema  de  poluição  dos  recursos  hídricos  do
+
+país, além do uso de agrotóxicos, fertilizantes, a criação de animais e a disposição inadequada
+
+de resíduos sólidos também serem fontes expressivas de contaminação. Segundo Dahshan et
+
+al. (2016), os agrotóxicos encontrados nas águas podem estar associados com a drenagem das
+
+águas, demonstrando a drenagem de áreas como uma fonte de contaminação de rios e lagos.
+
+Na Figura 1 estão apresentadas as diversas fontes de contaminação de águas superficiais.
+
+Figura 1 – Fontes de poluição das águas superficiais.
+
+Fonte: Von Sperling, 2005.
+
+Para  Kohler  (2005),  águas  superficiais  estão  muito  suscetíveis  à  contaminação,
+
+principalmente  devido  ao  escoamento  pluvial  que  pode  ser  oriundo  de  áreas  urbanas  e
+
+agrícolas, reforçando com o que foi apresentado na Figura 1.
+
+25
+
+2.3.2 Principais mecanismos de transporte de esgoto e de agrotóxicos dos solos às águas
+
+superficiais
+
+Para Libânio (2010), as precipitações são conhecidas pelos efeitos que são capazes de
+
+provocar  na  qualidade  das  águas  superficiais  devido  ao  transporte  de  contaminantes.  O
+
+período chuvoso auxilia no aumento da drenagem e no transporte de sedimentos aos recursos
+
+hídricos, cuja magnitude é agravada por diversas atividades antrópicas.
+
+A  Secretaria  Nacional  de  Saneamento  (SNS,  2018)  apontou  que  a  principal  carga
+
+poluidora de esgotos sanitários que atinge os rios é pela rede de drenagem urbana.  A ligação
+
+cruzada  entre  sistemas  de  drenagem  de  águas  pluviais  e  de  esgotamento  sanitário,  e  devido
+
+falhas  no  sistema,  acaba  transportando  o  esgoto  sanitário  até  os  recursos  hídricos,  uma  das
+
+principais fontes de poluição de rios que passam por áreas urbanas, sendo a maior parcela de
+
+carga poluidora oriunda de redes de drenagem (Figura 2).
+
+Quando  a  rede  de  drenagem  é  utilizada  para  descarga  de  esgotamento  sanitário
+
+acontece a  poluição  dos  corpos  hídricos superficiais,  ou,  quando  a  rede coletora de  esgotos
+
+não  foi  projetada  para  receber  as  águas  pluviais  acontece  a  sobrecarga  das  Estações  de
+
+Tratamento de Efluentes (ETE), comprometendo o tratamento (BRASIL, 2019).
+
+Figura 2 – Dinâmica dos esgotos até os recursos hídricos por meio da drenagem urbana.
+
+Fonte: adaptado de BRASIL, 2019.
+
+26
+
+Em relação a segunda principal fonte de contaminação das águas superficiais, ou seja,
+
+os agrotóxicos, Oliveira (2007) considerou que o vento, a drenagem superficial e a erosão são
+
+transportadores  destes  contaminantes  até os  corpos  hídricos.  Com  a  drenagem  ou erosão  de
+
+áreas  contaminadas  é  possível  que  poluentes  sejam  transportados  até  os  recursos  hídricos,
+
+sendo  o  carreamento  por  meio  da  erosão  o  principal  agente  de  transporte  de  substâncias
+
+contaminantes. Conforme os mesmos autores, a erosão do solo causada pela falta de cobertura
+
+vegetal nas encostas permite o transporte de partículas do solo para o leito dos rios, causando
+
+assim alterações nas propriedades físicas, químicas e biológicas das águas superficiais.
+
+Para Soares (2011), uma das principais formas de contaminação das águas superficiais
+
+pode estar relacionada ao transporte dos agrotóxicos, juntamente com a erosão e lixiviação de
+
+solos contaminados e a drenagem da água em locais onde houve a aplicação, tanto de áreas
+
+urbanas  quanto  rurais.  Além  de  poder  chegar  até  os  corpos  hídricos,  devido  a  deriva  de
+
+pulverização  das  áreas,  pela  lavagem  e  descarte  incorreto  das  embalagens  de  agrotóxicos
+
+(VEIGA,  2017).  Também  podem  ser  transportados  para  longe  do  seu  local  de  aplicação
+
+(ANA, 2011), por meio do escoamento pluvial até os rios, por meio da evaporação, através da
+
+infiltração  da  água  no  solo,  ou  devido  a  erosão  quando  adsorvidos  às  partículas  do  solo
+
+(LIBÂNIO, 2010), e desta forma chegarem até as águas superficiais.
+
+Veiga (2017) analisou o impacto do uso e ocupação do solo, por meio de simulações
+
+de cenários pelo modelo hidrológico Soil and Water Assessment Tool (SWAT) realizados em
+
+2017, no Estado de São Paulo, e pôde verificar que nos períodos mais chuvosos (de novembro
+
+a março) correspondem ao maior escoamento superficial, também apresentam, na maioria dos
+
+casos maior ocorrências de agrotóxicos na água superficial, demonstrando que o escoamento
+
+superficial foi um dos principais meios de contaminação dos recursos hídricos. Desta forma, o
+
+autor  destaca  também  a  importância  da  preservação  dos  mananciais  e  das  Áreas  de
+
+Preservação  Permanente
+
+(APP),  para  a
+
+redução  do  escoamento
+
+superficial  e
+
+consequentemente do transporte de agrotóxicos aderidos ao solo.
+
+Peres  e  Moreira  (2003)  afirmaram  que  agrotóxicos  podem  ser  transportados  por
+
+diferentes distâncias, a capacidade de uma substância ser transportada depende de uma série
+
+de fatores como: estabilidade, estado físico e a velocidade de fluxo do rio.
+
+Britto  (2015)  destacou  que  a  forma  de  aplicação  dos  compostos  como:  intensidade,
+
+frequência  e  concentração  também  interferem  na  distribuição  dos  agrotóxicos  no  ambiente.
+
+Agrotóxicos  aplicados  em  altas  concentrações  parecem  decompor  em  menor  velocidade  do
+
+que quando aplicados em concentrações menores, assim como a frequência de aplicação pode
+
+influenciar na biodegradação.
+
+27
+
+Essas  práticas,  consequentemente,  podem  afetar  a  qualidade  das  águas  superficiais,
+
+considerando  que  sua  qualidade  é  um  reflexo  do  uso  e  manejo  do  solo  (ANA,  2011).
+
+Conforme o MMA (2006), as práticas inadequadas do manejo de solo podem ser uma forma
+
+de  transporte  de  nutrientes,  adubos  químicos  e  agrotóxicos  excedentes  até  os  recursos
+
+hídricos.
+
+No Quadro 2 estão apresentadas algumas formas de manejo do solo e como isso pode
+
+afetar a poluição e contaminação dos recursos hídricos.
+
+Quadro  3  –  Práticas  de  manejo  e  gerenciamento  do  solo  e  as  implicações  com  relação  aos
+
+recursos hídricos.
+
+Manejo do solo
+
+Implicações
+
+Uso e ocupação do solo
+
+Irrigação
+
+Modo de aplicação
+
+O uso e ocupação do solo é uma variável muito importante na qualidade da água.  A mata  ciliar exerce  uma função de manutenção de qualidade da água através da  estabilidade do solo e consequente redução do assoreamento. A maior ocupação de  sub-bacias  por  lavouras  está  associada  a  maior  dispersão  de  agrotóxicos  no  ambiente,  além  da  ocupação  ilegal  de  áreas  de  interesse  ambiental  constituírem  maior vulnerabilidade à contaminação das águas.  A  irrigação  faz  com  que  a  aplicação  de  agrotóxicos  realizado  nas  folhas  por  pulverização acaba tendo como destino final o solo, ou quando acontece irrigação  em excesso, especialmente na produção de alimentos, além de poder agravar crises  hídricas auxilia na contaminação dos lençóis freáticos.  Aplicações  aéreas  de  agrotóxicos  podem  causar  contaminação  das  águas  pela  deriva  da  pulverização  e  facilitar  o  ciclo  de  evaporação-precipitação  destes  compostos. Enquanto, as aplicações feitas diretamente no solo são mais suscetíveis  ao transporte de agrotóxicos até os recursos hídricos em comparação às aplicações realizadas nas folhagens.
+
+Preparo do solo  O preparo intensivo do solo auxilia na compactação do solo, reduz sua capacidade  de infiltração e por consequência aumenta o processo erosivo.  Com  a  identificação  das  áreas,  o  conhecimento  do  comportamento  ambiental  e  o  conhecimento  das  substâncias  presentes  no  solo  é  possível  reduzir  a  taxa  de  aplicação  de  agrotóxicos  em  certas  áreas.  Considera-se  que  a  taxa  de  aplicação  deve ser de acordo com as características do solo e da bacia hidrográfica, a fim de diminuir os riscos de escoamento destes compostos para os cursos de água.
+
+Taxa de aplicação
+
+Fonte:  elaborado  pela  autora,  2020.  Adaptado  de  Kohler,  2005;  Soares,  2011;  Oliveira  e  Brighenti,  2011; Rodrigues, 2016; Veiga, 2017.
+
+Assim pelo fato de poderem ser facilmente transportados com a água, os agrotóxicos
+
+são encontrados em locais diferentes da aplicação e podem permanecer  no ambiente durante
+
+anos. Segundo Kohler (2005), alguns agrotóxicos demoram mais tempo para se decompor na
+
+água  podendo  permanecer  nela  por  longos  períodos,  isso  ocorre  devido  às  características
+
+físico-químicas  desses  compostos.  A  degradação  de  uma  molécula  é  medida  pelo  tempo
+
+necessário  para  que  sua  concentração  inicial  se  reduza  a  metade,  esse  tempo é  chamado  de
+
+tempo de meia vida (t1/2) (OLIVEIRA, 2007).
+
+28
+
+Oliveira  e  Brighenti  (2011)  afirmam  que  o  comportamento  dos  agrotóxicos  no  meio
+
+ambiente é influenciado pelas características físicas e químicas dos compostos. Conforme os
+
+mesmos  autores,  o  conhecimento  das  propriedades  físico-químicas  é  fundamental,  pois
+
+auxiliam no estudo do comportamento dos agrotóxicos no ambiente. Segundo Peres e Moreira
+
+(2003),  a  distribuição  ou  degradação  dos  agrotóxicos  no  solo  está  relacionada  com  as
+
+propriedades  físico-químicas  desses  compostos,  as  características  do  local  em  que  eles  se
+
+encontram,  bem  como  a  solubilidade,  pressão  de  vaporização  e  estabilidade  química  são
+
+variáveis que podem influenciar na degradação e na toxicidade dos agrotóxicos.
+
+No  Quadro  3  estão  apresentadas  as  principais  propriedades  dos  agrotóxicos  e  suas
+
+características: Coeficiente de partição de carbono orgânico ou coeficiente de sorção (KOC),
+
+Coeficiente de partição octanol-água (KOW), Índices de Groundwater Ubiquity Score (GUS),
+
+Solubilidade em Água (SA) e a constante da Lei de Henry (KH).
+
+Quadro 4 – Propriedades físico-químicas dos agrotóxicos.
+
+Propriedades dos  Agrotóxicos
+
+Coeficiente de  partição de  carbono orgânico ou  coeficiente de sorção (KOC)
+
+Coeficiente de  partição octanol-água (KOW)
+
+Índices de GUS
+
+Solubilidade em água (SA)
+
+Constante da Lei de Henry (KH).
+
+Características
+
+Estima  a  tendência  de  uma  substância  ser  adsorvida  à  matéria  orgânica, pelo solo ou por sedimentos, quando a substância apresenta  um valor de KOC alto maior será a possibilidade dela se fixar no solo e menor a tendência de se transferir para a água.
+
+KOW representa o grau de lipossolubilidade na substância, indicando a  tendência  do  agente  químico,  tal  como  o  agrotóxico  de  atravessar  membranas,  ser  absorvido  pela  pele,  bioconcentrar  em  tecidos  lipídicos e se adsorver ao solo ou a sedimentos.  São  indicadores  do  potencial  de  carreamento  dos  agrotóxicos  por  lixiviação,  considera  a  persistência  do  agrotóxico  no  solo  e  a  força  motriz  que  impede  a lixiviação  do  composto.  Quanto  maior a  meia- vida e menor a sorção da molécula, maior será o valor de GUS.  A  SA  representa  a  quantidade  máxima  de  uma  substância  que  pode  ser dissolvida em 1 L de água, quando essa substância apresenta alta  solubilidade são maiores as chances dela se transportar do solo para a  água,  enquanto  for  baixa  a  solubilidade  menor  será  o  risco  de  contaminação da água e maior a permanência no solo.  A Constante da  Lei de  Henry considera  a solubilidade, a pressão de  vapor e o peso molecular para indicar o grau de volatilidade de uma  substância  em  uma  solução  na  água.  Quando  a  substância  apresenta valor de pressão de vapor alto, sua KH será alta.
+
+Fonte: elaborado pela autora, 2020. Adaptado de Soares, 2011; Santos, 2015; Silva et al., 2017; Veiga, 2017.
+
+2.3.3 Presença de agrotóxicos em águas superficiais
+
+29
+
+Para o PROSAB (2009), o despejo de esgotos domésticos é a atividade que mais causa
+
+problemas  de  poluição  das  águas  superficiais,  embora  sejam  responsáveis  por  causar
+
+problemas  ao  meio  ambiente  e  de  saúde,  a  segunda  maior  fonte  de  contaminação,  os
+
+agrotóxicos, merecem destaque devido seu potencial risco associado.
+
+Os  primeiros  agrotóxicos  tornaram-se  disponíveis  durante  a  década  de  1940  e
+
+resultaram  no  aumento  da  produção  de  alimentos
+
+(VAN  DER  WERF,  1996).
+
+Concomitantemente  o  processo  de  automação  nas  lavouras  se  deu  com  a  utilização  de
+
+implementos agrícolas e insumos agrícolas, fazendo com que algumas indústrias se voltassem
+
+ao Brasil para a comercialização de equipamentos e produtos químicos (PERES; MOREIRA,
+
+2003).
+
+A  quantidade  de  agrotóxicos  encontrados  nas  águas  superficiais  depende  do  tipo  de
+
+solo,  tipo  de  agrotóxico  e  da  quantidade  que  foi  aplicada.  Estudos  realizados  no  Egito  por
+
+Dahshan et al. (2016), no Brasil por Soares (2011), Britto (2015), Piovesan (2016) e Chiarello
+
+et al. (2017) obtiveram como resultado a identificação da presença de agrotóxicos em águas
+
+superficiais.
+
+No estudo realizado no Egito, por Dahshan et al. (2016), amostras de água coletadas
+
+na  estação  do  verão  de  2013  determinaram  a  presença  de  agrotóxicos  organoclorados  e
+
+organofosforados,  extraídos  pelo  sistema  líquido-líquido  e  analisados  por  Cromatografia
+
+Gasosa com Detector de Captura por Elétrons (CG-DCE). As regiões de amostragem foram a
+
+jusante de locais de maior produção agrícola e maiores atividades industriais. Nas análises os resíduos de agrotóxicos encontrados no rio foram: endrin, dieldrina, p, p‟-DDD1 e p, p‟-DDT,
+
+p,  p‟-DDE,  triazofós,  quinafós,  fenitrotiona,  etoprofós,  clorpirifós,  ethion,  fenamifós  e
+
+pirimifós-metílico.
+
+Soares  (2011)  verificou  em  seus  estudos  na  região  de  Manhuaçu,  na  Bacia  do  Rio
+
+Doce  no  Estado  de  Minas  Gerais,  a  presença  de  agrotóxicos  na  água  superficial, num  local
+
+intensiva  produção  de  café.  Os  métodos  empregados  na  determinação  foram  Cromatografia
+
+Gasosa  acoplada  de  Espectrometria  de  Massa  (CG-EM)  e  Cromatografia  Líquida  acoplada
+
+com Espectrometria de Massa em Série (CL-EM/EM).  Os multiresíduos de  organoclorados,
+
+organofosforados  encontrados  no  manancial  pertencem  aos  grupos  de  piretróides,  triazol  e
+
+carbamatos.
+
+
+
+de
+
+As
+
+estruturas
+
+e  diclorodifenildicloroeteno (DDE) têm anéis com o cloro e algumas vezes são descritas como, por exemplo: “p,p‟  -  DDE”.  Os  prefixos  p  e  p‟  referem-se  as  posições  dos  cloros  no  primeiro  e  segundo  anel  (BAIRD;  CANN 2011).
+
+diclorodifeniltricloroetano
+
+diclorodifenildicloroetano
+
+(DDD),
+
+(DDT)
+
+30
+
+Britto  (2015)  realizou  estudos  entre  março  de  2013  e  dezembro  de  2014  para  o
+
+monitoramento  da  qualidade  das  águas  superficiais  no  perímetro irrigado  pelo  Rio  Betume,
+
+que compreende os municípios de Neópolis, Ilha das Flores e Pacatuba, no Estado do Sergipe,
+
+onde  prevalecem  as  atividades  de  rizicultura  e  a  criação  de  gado  de  corte.  Na  pesquisa  foi utilizado  o  Índice  de  GUS  e  o  método  de  Goss 2  quais  permitem  avaliar  a  potencial
+
+contaminação  de  águas  por  meio  do  transporte  de  agrotóxicos  associados  a  sedimentos  ou
+
+dissolvidos na água superficial. Para a determinação dos agrotóxicos foi utilizado o método de
+
+multiresíduos,  com  extração
+
+líquido-líquido  e  a  quantificação  foi  por  CG-DCE  e
+
+cromatógrafo  líquido.  Os  resultados  das  análises  das  amostras  de  água,  apresentaram  a
+
+presença dos princípios ativos clorpirifós, tetraconazol e tebuconazol correspondendo a alguns
+
+dos agrotóxicos utilizados nas atividades agrícolas local.
+
+No  Paraná,  Piovesan  (2016)  coletou  amostras  de  água  do  Rio  Monteiro,  no  mês  de
+
+setembro,  para  a  determinação  de  21  tipos  de  agrotóxicos.  O  preparo  das  amostras  foi
+
+realizado  por  Extração  em  Fase  Sólida  (EFS),  na  determinação  foi  utilizado  Cromatógrafo
+
+líquido  Alliance  Separtions,  modelo  2695  Waters,  com  coluna  analítica  Phenomenex  e
+
+cartuchos C18. Dos agrotóxicos analisados, 18 foram detectados, dentre eles a atrazina, 2,4 D,
+
+azoxistrobina, imazapique e tiametoxam.
+
+Chiarello et al. (2017) realizaram análises de 70 princípios ativos em amostras de água
+
+do  rio  e  afluentes  da  Bacia  Lajeado  Tacongava,  no  Estado  do  Rio  Grande  do  Sul  entre  os
+
+meses de fevereiro a julho de 2015. As culturas de maior representatividade na região serrana,
+
+local de estudo, são o milho, a soja, o trigo, a uva, o figo, a laranja e o pêssego. A extração
+
+das amostras foi por EFS. Para a leitura foi utilizando o sistema de Cromatografia a Líquido
+
+acoplada a Espectrometria de Massas de alta resolução (CLAE-EM). Entre os multiresíduos
+
+determinados,  nas  amostras  de  água,  foram  encontrados:  acetamiprido,  azoxistrobina,
+
+bendiocarbe, fanamidona, tiofanato-metílico, triflumizole, pendimentalina e metribuzin.
+
+Para  Pignati  (2017),  desde  2009  o  Brasil  é  considerado  o  maior  consumidor  de
+
+agrotóxicos do mundo. Bombardi (2017) afirmou que no Brasil nos últimos anos houve uma
+
+grande expansão nas áreas agrícolas e o aumento no uso de agrotóxicos, deixando o país em
+
+destaque dentre os maiores consumidores de agrotóxicos do mundo. O autor, relatou também
+
+sobre  a  grande  assimetria  entre  o  Brasil  e  a  União  Européia  referente  a  quantidade  de
+
+2 Método  desenvolvido  por  Goss  em  1992,  propondo  critérios  para  avaliação  do  potencial  de  contaminação  de  águas  superficiais  por  meio  da  classificação  dos  compostos  segundo  a  forma  de  transporte  associado  ao  sedimento ou dissolvido na água. Os algoritmos de Goss consideram o Koc, o tempo de meia-vida no solo (t1/2) e a solubilidade em água a 20 °C (SOARES, 2011).
+
+31
+
+agrotóxicos  utilizados  e  sobre  a  quantidade  de  resíduos  agrotóxicos  permitidos  nos  mais
+
+distintos  meios,  incluindo  nas  águas  superficiais.  Ainda,  ressaltou  que  a  água  contaminada
+
+influencia diretamente na contaminação humana e ambiental.
+
+2.3.4 Efeitos deletérios dos agrotóxicos à biota
+
+A  quantidade  de agrotóxicos  que  realmente  atinge  os  alvos  é  muito  pequena  (0,1%)
+
+comparada  com  a  quantidade  aplicada,  sendo  o  restante  (99,9%)  disponível  no  ambiente,
+
+podendo chegar aos recursos hídricos (SANTAROSSA, 2017) contaminando-os e interferindo
+
+na  biota,  tendendo  a  causar  efeitos indesejáveis  aos  seres  humanos  e ao meio  ambiente.  As
+
+adversidades  mencionadas  pelo  uso  de  agrotóxicos,  também  foram  afirmadas  pelo  Instituto
+
+Ambiental de Pesquisas da Amazônia (IPAM, 2012), que citou que ambientes contaminados
+
+com agrotóxicos podem causar danos a várias espécies, inclusos os peixes e seres humanos.
+
+Geralmente  os  principais  afetados  são  agricultores,  trabalhadores  da  indústria  de
+
+agrotóxicos  (que  trabalham  diretamente  com  estes  produtos),  e  a  população  por  meio  do
+
+consumo  de  alimentos  e  água  contaminada.  O  Instituto  Nacional  do  Câncer  (INCA,  2018)
+
+afirma  que  agrotóxicos  podem  chegar  até  o  homem  através  do  consumo  de  alimentos  e  da
+
+água e que a exposição pode causar várias doenças. As consequências causadas pelo contato
+
+com  agrotóxicos  dependem  do  produto  usado,  tempo  de  exposição  e  quantidade  absorvida
+
+pelo organismo. Segundo Sallam e Morshedy (2008), agrotóxicos persistentes causam vários
+
+impactos e problemas na saúde, sua toxicidade é nociva aos organismos aquáticos, terrestres e
+
+humanos.
+
+Dentre  os  problemas  causados  por  agrotóxicos  em  humanos,  pode-se  destacar  o
+
+câncer, dano hepático e renal, distúrbios do sistema nervoso, danos ao sistema imunológico,
+
+alteração  de  tireóide,  desregulação  endócrina  e  defeitos  congênitos  (KOHLER,  2005).
+
+Conforme o mesmo autor, os agrotóxicos são uma ameaça a saúde humana, mas poucas vezes
+
+a contaminação é alta o suficiente a ponto de causar efeitos imediatos na saúde. Kohler (2005)
+
+ressalta  ainda  que  evidências  dos  efeitos  sobre  na  saúde  relacionadas  ao  consumo  de  água
+
+contaminada ainda são limitadas, mas pesquisas crescentes sugerem que os seres humanos são
+
+suscetíveis  a  problemas  de  saúde  devido  à  exposição  prolongada  e  repetida  de  agrotóxicos,
+
+demandando mais atenção e estudos nesta área.
+
+De  acordo  com  o  INCA  (2019),  a  exposição  aos  agrotóxicos  pode  causar  diversas
+
+doenças,  que  podem  ser  agudas  (de  aparecimento  rápido)  ou  crônicas  (que  aparecem  após
+
+exposições  repetidas  por  um  período  prolongado).  Os  efeitos  agudos  podem  apresentar
+
+32
+
+problemas na pele como irritação, ardência, desidratação e alergias; problemas de respiração,
+
+ardência  no  nariz,  tosse,  coriza,  dor  no  peito  e  dificuldade  de  respirar,  irritação  na  boca  e
+
+garganta,  dor  no  estômago,  náuseas,  vômitos  e  diarreia.  Os  efeitos  crônicos  podem  se
+
+apresentar  como:  dificuldade  em  dormir,  esquecimento,  aborto,  impotência,  depressão,
+
+problemas  respiratórios  graves,  alteração  do  funcionamento  do  fígado  e  dos  rins,
+
+anormalidade da produção de hormônios da tireóide, dos ovários e da próstata, incapacidade
+
+de  gerar  filhos,  más  formações  e  problemas  de  desenvolvimento  intelectual  e  físico  das
+
+crianças e potencial desenvolvimento de câncer.
+
+Devido  seus  efeitos  toxicológicos  os  agrotóxicos  foram  divididos  em  categorias,
+
+conforme apresentado no Quadro 4.
+
+Quadro 5 – Categoria toxicológica dos agrotóxicos.
+
+Categoria 1
+
+Categoria 2
+
+Categoria 3
+
+Categoria 4  Categoria 5
+
+Extremamente tóxico
+
+Altamente tóxico
+
+Moderadamente tóxico
+
+Pouco  Tóxico
+
+Improvável  causar dano agudo
+
+Não   Classifica- do  Não   Classifica-do
+
+Picto-grama
+
+Palavra  de  adver-tencia
+
+Sem  Símbolo
+
+Sem  Símbolo
+
+PERIGO
+
+PERIGO
+
+PERIGO
+
+CUIDADO  CUIDADO
+
+Sem  Advertên-cia
+
+Oral
+
+Fatal se  Ingerido
+
+Fatal se ingerido
+
+Tóxico se ingerido
+
+Nocivo se ingerido
+
+CLASSE DE PERIGO
+
+Fatal em  contato com a pele
+
+Fatal em  contato com a pele
+
+Tóxico em  contato com a pele
+
+Nocivo em  contato com a pele
+
+Fatal se  Inalado
+
+Fatal se inalado
+
+Tóxico se inalado
+
+Nocivo se inalado
+
+Dérmica
+
+Inalató-ria
+
+Cor da faixa
+
+Fonte: elaborado pela autora, 2020. Adaptado de INCA, 2019.
+
+Pode ser  perigoso se  ingerido  Pode ser  perigoso em  contato com  a pele  Pode ser  perigoso se inalado
+
+-
+
+-
+
+-
+
+Decorrente  de  seus  efeitos  adversos,  a  China,  um  dos  maiores  produtores  e
+
+consumidores de agrotóxicos baniram o uso de DDTs e hexacloreto de benzeno (BHCs) desde
+
+1983,  e  desde  2001  o  governo  estabeleceu  regulamentos  para  reduzir  a  produção  de  cinco
+
+33
+
+principais  agrotóxicos,  metamidofós,  parationa,  parationa-metílica,  monocrotofós  e
+
+fosfamidon (ZHENG et al., 2016). O Egito, segundo Sallam e Morshedy (2008), já proibiu o
+
+uso agrícola do DDT e o lindano oficialmente desde 1980 e em 1996 por meio de um decreto
+
+ministerial proibiu também sua importação. Esse mesmo decreto proibiu a importação e o uso
+
+de 80 tipos de agrotóxicos entre eles o aldrin, o dieldrin, o clordano, o endossulfan, o endrin,
+
+heptacloro e o mirex.
+
+Para Sallam e Morshedy (2008), na China e no Egito o uso dos DDTs foram banidos a
+
+mais  de  35  anos,  no  entanto,  muitos  dos  agrotóxicos  banidos  em  diversos  países  ainda  são
+
+amplamente  utilizados,  principalmente  nos  países  em  desenvolvimento.  O  Brasil  proibiu  a
+
+fabricação, exportação, manutenção em estoque, comercialização e uso dos DDTs apenas em
+
+2009 conforme descrito na Lei Federal n° 11.936/2009 (BRASIL, 2009).
+
+Para o Instituto de Pesquisa Econômica Aplicada (IPEA, 2019), entre os ingredientes
+
+ativos  autorizados  no  Brasil,  os  mais  vendidos  em  2017  foram:  glifosato  e  seus  sais
+
+(herbicida), 2,4-D (herbicida), acefato (inseticida), atrazina (herbicida), paraquate (herbicida),
+
+mancozebe (acaricida).
+
+Conforme  Rodrigues  (2016),  os  herbicidas  representam  57,99%  do  total  dos
+
+agrotóxicos  comercializados,  seguido  dos  inseticidas  12,30%  e  fungicidas  10,62%  e  os
+
+demais representam 19,09% dos agrotóxicos utilizados.
+
+No Brasil, existiam cerca de 13.300 registros de agrotóxicos em 2019. Em termos de
+
+ingredientes  ativos,  em  2017,  haviam  517  tipos  cujo  uso  era  autorizado  (IPEA,  2019).  A
+
+grande variedade de agrotóxicos têm diversas finalidades e proporciona facilidade no trabalho
+
+da agricultura, por esse fato os agrotóxicos são amplamente utilizados, porém muitas vezes os
+
+efeitos adversos causados são ignorados (BOMBARDI, 2017).
+
+Os agrotóxicos são divididos conforme o tipo de praga que controla e o grupo químico
+
+que  pertence,  as  principais  categorias  são:  inseticidas,  fungicidas,  herbicida,  formicida,
+
+cupinicida,  rodenticidas/raticidas,  moluscocidas,  nematicidas,  acaricidas,  podendo  variar  da
+
+classificação toxicológica de extremamente tóxico a pouco tóxico (ANVISA, 2017).
+
+No Quadro 5 são apresentadas algumas categorias de agrotóxicos, o grupo químico a
+
+que  pertencem  os  tipos  de  agrotóxicos  e  a  classificação  toxicológica  de  cada  agrotóxico.
+
+Quadro 6 – Principais categorias, grupo químico, tipos de agrotóxicos e classificação toxicológica.
+
+Principais  categorias  Grupo Químico
+
+Agrotóxicos/ Classificação toxicológica
+
+Principais  categorias
+
+Carbofurano*(I), aldicarbe*, carbaril (II)
+
+Carbamatos  Dimetilcarbamato  Pirimicarbe (II)  Extratos vegetais  Óleos vegetais  Organoclorados  Metilcarbamato de oxima
+
+Metomil (I)
+
+Aldrin*, DDT, BHC, lindano* metamidofós*
+
+Inseticidas
+
+Herbicidas
+
+Organofosforados
+
+Acefato (III), fenitrotiona (II), paration*,  malationa (III), parationa-metílica* (I),  profenofós (II), terbufós (I), triazofós (II),  clorpirifós (II)  Fipronil (II) Permetrina (III)
+
+2,4-D (I)
+
+Pirazol  Piretróides  Ácido  ariloxialcanóico  Anilida  Bipiridílios  Carbamatos  Cloroacetanilida  Alacloro (III), metacloro (III)  Dinitroanilinas  Benzimidazol  Alquilenobis Dinitrofenol
+
+Pendimetalina (III), trifluralina  Carbendazim (III), tiabendazol (IV)  Mancozebe (III) Binapacril, dinocape (II)
+
+Propanil (III)  Diquate, paraquate* Profam, cloroprofam, bendiocarb
+
+Acaricidas
+
+Herbicidas
+
+Cupinicida
+
+Grupo Químico
+
+Alquilenobis   Carbamatos  Clorodifenilsulfona  Dinitrofenol  Metilcarbamato de oxima
+
+Organofosforados
+
+Organoclorados
+
+Sulfonamida  triazolopirimidina  Triazina  Imidazolinona  Uréia  Glicina Substituída  Isoxazolidinona  Carbamatos Pirazol
+
+Fungicidas
+
+Estrobilurina
+
+Piraclostrobina (II)
+
+Organoclorados
+
+Triazol
+
+Endrin*  Difenoconazol (I), ciproconazol, epoxiconazol (III), propiconazol (III), tebuconazol (IV)
+
+Nematicidas
+
+Hidrocarbonetos  halogenados Carbamatos
+
+Organofosforados
+
+Moluscocidas  Carbamatos
+
+Formicida
+
+Organofosforado  Clorpirifós (II) Pirazol
+
+Fipronil (II)
+
+Raticida
+
+Indationas
+
+Pindona
+
+Fonte: Elaborado pela autora, 2019. Adaptado de WHO, 1990, PERES, 2003 e ANVISA (2017). *Agrotóxicos proibidos ou que foram proibidos no Brasil em de 22 de setembro de 2020.
+
+34
+
+Agrotóxicos/ Classificação toxicológica
+
+Mancozebe (III)  Carbofurano* (I)  Tetradifona (IV) Dinocape (II)
+
+Metomil (I)
+
+Acefato (III), clorpirifós (II),  malationa (III), profenofós (II), triazofós (II)
+
+Dicofol*, DDTs*, lindano*, endrin*, dieldrina
+
+Penoxsulam (III)
+
+Atrazina (III), simazina (III)  Imazetapir (III), imazapir (I)  Diurom (III)  Glifosato (IV)  Clomazona (III)  Carbofurano* (I)  Fipronil (II) Mexacarbato
+
+Dicloropropeno, DD
+
+Carbofurano*  Fenamifós (I), triazofós (II), terbufós (I)
+
+35
+
+Na  grande  variedade  de  grupos  químicos  estão  inclusos  os  organoclorados,
+
+organofosforados,  carbamatos,  piretróides,  amidas,  anilinas,  azóticas  e  compostos
+
+heterocíclicos.  Organoclorados,  organofosforados  e  carbamatos  são  enfatizados,  devido  sua
+
+alta toxicidade aos animais e humanos, têm características de se manter estáveis, acumular e
+
+persistem  no  meio  ambiente  ou  causar  neurotoxicidade  em  insetos  e  animais  por  meio  da
+
+inativação  da  enzima  acetilnesterase.  Embora  organofosforados,  sejam  de  mais  fácil
+
+degradação  que  organoclorados  são  umas  das  maiores  ameaças  à  segurança  alimentar  e  ao
+
+ecossistema devido sua toxicidade aguda (ZHENG et al., 2016).
+
+2.4 LEGISLAÇÕES AMBIENTAIS BRASILEIRAS RELACIONADAS A MANUTENÇÃO
+
+DA QUALIDADE DAS ÁGUAS SUPERFICIAIS
+
+Dahshan  et  al.  (2016)  afirmaram  que  maioria  das  vezes  a  eficácia  das  políticas  de
+
+legislações  ambientais  depende  de  informações  que  descrevam  as  situações  de  poluição
+
+ambiental. As legislações são importantes ferramentas para o controle e gerenciamento do uso
+
+dos compostos químicos, dentre eles os agrotóxicos e delimitam VMP desses compostos nos
+
+recursos hídricos.
+
+Tratando de legislações sobre recursos hídricos, no Brasil é possível mencionar a Lei
+
+Federal n° 9.433/1997, que instituiu a Política Nacional dos Recursos Hídricos.  Esta definiu
+
+como um dos seus instrumentos o enquadramento dos corpos hídricos em classes, segundo os
+
+usos preponderantes da água. A Lei Estadual n° 10.350/1994 instituiu o Sistema Estadual de
+
+Recursos  Hídricos,  regulamentando  o  artigo  171  da  Constituição  do  Estado  do  RS  e  a  Lei
+
+Estadual n° 11.520/2000 instituiu o Código Estadual do Meio Ambiente do RS e deu outras
+
+providências.
+
+As  resoluções  que  tratam  acerca  dos  VMP  de  padrões  físicos,  químicos  e
+
+microbiológicos  em  recursos  hídricos  são  as  Resoluções  CONAMA  n°  357/2005  e  n°
+
+430/2011. Neste caso o órgão que estabelece esses padrões e limites é o CONAMA.
+
+Também, fica instituída a classificação dos corpos hídricos e estabelecidos padrões e
+
+limites  de  concentrações  de  parâmetros  para  lançamento  de  efluentes  tratados,  limites  de
+
+concentrações de compostos inorgânicos e orgânicos por meio dessas Resoluções.
+
+No RS, têm-se as Leis Estaduais n° 10.530/1994 e n° 11.520/2000. A primeira propõe
+
+ao órgão competente, o enquadramento dos corpos de água da bacia hidrográfica em classes
+
+de uso e conservação, enquanto a segunda estabelece que a qualidade e quantidade da água
+
+36
+
+deve  ser  mantida,  de  forma  que  não  ameace  a  manutenção  da  vida  aquática,  permitindo  a
+
+manutenção de usos nobres, de acordo com o enquadramento dos recursos hídricos.
+
+2.4.1  Limites  dos  parâmetros  físico-químicos  e  microbiológicos  para  corpos  hídricos
+
+superficiais
+
+Segundo  Peres  e  Moreira  (2003),  quanto  aos  agrotóxicos,  no  Brasil,  o  Ministério  da
+
+Agricultura,  Pecuária  e  Abastecimento  (MAPA)  tem  competência  para  avaliar  a  eficácia
+
+agronômica, o Ministério da Saúde (MS) realizar avaliação e classificar toxicologicamente, o
+
+Ministério do Meio Ambiente (MMA), por meio do IBAMA avaliar e classificar o potencial
+
+de periculosidade ambiental. E ao CONAMA é delegada a competência legal para estabelecer
+
+critérios e limites ao controle e à manutenção da qualidade do meio ambiente com o objetivo
+
+de  garantir  o  uso  racional  dos  recursos  ambientais,  principalmente  dos  recursos  hídricos
+
+(BRASIL, 1981).
+
+A Resolução CONAMA n° 357/2005 foi criada para dispor sobre a classificação dos
+
+corpos  de  água  e  diretrizes  ambientais  para  seu  enquadramento,  bem  como  estabelecer  as
+
+condições e padrões de lançamento de efluentes. Ela estabelece VMP para parâmetros físico-
+
+químicos  e  microbiológicos  para  coliformes  termotolerantes,  DBO,  nitrato,  OD,  pH  e
+
+turbidez,  além  de  determinar  limites  para  compostos  orgânicos,  incluindo  entre  eles  os
+
+agrotóxicos  acrilamida,  alacloro,  aldrin  +  dieldrin,  atrazina,bendizina,  benzeno,  benzidina,
+
+benzo(a)antraceno,  benzo(a)pireno,  benzo(b)fluoranteno,  benzo(k)fluoranteno,  carbaril,
+
+clordano,  2-clorofenol,  criseno,  2,4-D,  demeton,  dibenzo(a,h)  antraceno,  1,2-dicloroetano,
+
+1,1-dicloroeteno,  2,4-diclorofenol,  diclorometano,  DDT  (p,p‟-  DDT  +  p,p‟  -  DDE  +  p,p‟  -
+
+DDD),  3,3-diclorobenzidina,  dodecacloro  pentaciclodecano,  endossulfan,  endrin,  estireno,
+
+etilbenzeno,
+
+fenóis
+
+totais,  glifosato,  gution,  heptacloro  epóxido  +  heptacloro,
+
+hexaclorobenzeno,  indeno(1,2,3-cd)pireno,  lindano,  malationa,  metolacloro,  metoxicloro,
+
+parationa,  PCBs  –  bifenilas  policloradas,  pentaclorofenol,  simazina,  substâncias  tensoativas
+
+que reagem com o azul de metileno, 2,4,5-T, tetracloreto de carbono, tetracloroeteno, tolueno,
+
+toxafeno,  2,4,5-TP,
+
+tributilestanho,  2,4,6-triclorofenol,
+
+triclorobenzeno,
+
+tricloroeteno,
+
+trifluralina e xileno para águas Classe 1 e Classe 2 (BRASIL, 2005).
+
+Em seu art. 15, a Resolução CONAMA n° 357/2005, estabelece que às águas doces de
+
+Classe  2  aplicam-se  as  condições  e  padrões  de  Classe  1.  Desta  forma,  admite-se  aos
+
+parâmetros  não  definidos  para  águas  doces  de  Classe  2,  as  condições  e  padrões  para  águas
+
+doces o estabelecido no art. 14 da mesma Resolução.
+
+37
+
+Em  2011  a  Resolução  CONAMA  n°  430/2011  veio  a  complementar  e  alterar  a
+
+Resolução CONAMA n° 357/2005 estabelecendo maiores especificações quanto às condições
+
+e padrões de lançamento de efluentes e delimitando as concentrações máximas permitidas nos
+
+efluentes.  Além  de,  na  hipótese  de  fonte  de  poluição  geradora  de efluentes  ou  lançamentos
+
+individualizados, os limites constantes nessa Resolução devem ser atendidos, de forma que o
+
+efluente  não  poderá  causar  ou  possuir  potencial  para  causar  efeitos  tóxicos  aos  organismos
+
+aquáticos do corpo receptor.
+
+Desta  forma,  para  águas  superficiais  de  Classe  2,  ou  seja,  água  doce  proveniente  da
+
+maioria dos rios e lagos do país, a Resolução CONAMA n° 357/2005 estabelece para alguns
+
+parâmetros os VMP, conforme seguem apresentados na Tabela 1.
+
+Tabela 1 – Limites dos parâmetros físico-químicos e microbiológicos para águas de Classe 2.
+
+PARÂMETRO Absorvância (λ – 254 nm)
+
+Coliformes termotolerantes
+
+VMP (Águas superficiais Classe 2)  NA  ≤1.000 coliformes termotolerantes por 100  mL em 80% de pelo menos 6 amostras   NA  NA NA
+
+Coliformes Escherichia Coli  Condutividade elétrica (μs cm-1)  Cor aparente (uH)  Demanda bioquímica de oxigênio  (5 dias a 20 °C) (mg L-1)  Nitrato (mg L-1)  Oxigênio dissolvido (mg L-1)  Ph  Salinidade  Sólidos sedimentáveis (mg L-1)  Temperatura (°C)  Turbidez (uT)  Nota: NA: Não Apresenta. Neste caso a Resolução 357/2005 não apresenta VMP para tais parâmetros. Fonte: Elaborado pela autora, 2020. Adaptado da Resolução CONAMA n° 357/2005.
+
+10  ≥ 5  6,0 a 9,0  NA  NA  NA ≤ 100
+
+≤ 5
+
+A Resolução CONAMA n° 357/2005 estabelece ainda os  VMP de agrotóxicos, desta  forma,  na  Tabela  2  estão  listados  alguns  dos  VMP  de  agrotóxicos  em  águas  doces3 para atendimento ao padrão de qualidade para águas de Classe 1 e Classe 24.
+
+3 Salinidade igual ou inferior a 0,5 %.  4 Águas  que  podem  ser  destinada  ao  abastecimento  humano,  após  tratamento  simplificado,  à  proteção  das  comunidades aquáticas, à recreação de contato primário, irrigação de hortaliças que são consumidas cruas e de  frutas  que  se  desenvolvam  rentes  ao  solo  e  sejam  ingeridas  cruas  sem  remoção  de  película,  à  proteção  de comunidades aquáticas em Terras Indígenas.
+
+Tabela 2 – Limites de agrotóxicos em águas superficiais  conforme Resolução CONAMA  n°
+
+38
+
+357/2005.
+
+AGROTÓXICOS
+
+Clordano
+
+AGROTÓXICOS
+
+CONAMA n°   357/2005  0,5 µg L-1  20 µg L-1  0,005 µg L-1  2,0 µg L-1  0,001 µg L-1  0,005 mg L-1  0,0002 µg L-1  0,05 µg L-1  0,05 µg L-1  0,05 µg L-1  0,05 µg L-1 0,02 µg L-1
+
+Acrilamida  Alacloro  Aldrin* + Dieldrin  Atrazina  Bendizina  Benzeno  Benzidina  Benzo(a)antraceno   Benzo(a)pireno   Benzo(b)fluoranteno   Benzo(k)fluoranteno Carbaril
+
+Endrin*  Estireno   Etilbenzeno  Glifosato  Gution  Hexaclorobenzeno  Indeno(1,2,3-cd)pireno  Lindano* (gama HCH)  Malationa  Metolacloro   Metoxicloro  Parationa*  PCBs  –  policloradas  Pentaclorofenol  2-clorofenol  Simazina  Criseno  2,4,5-T  2,4 D  Tetracloreto de carbono  Demeton  Tetracloroeteno   Dibenzo(a,h)antraceno   Tolueno  1,2-dicloroetano   Toxafeno  1,1-dicloroeteno  2,4,5-TP  2,4-diclorofenol  2,4,6-triclorofenol   Diclorometano  Heptacloro  DDT* (p,p‟-DDD +  p,p „-DDE  heptacloro   + p,p‟-DDD)  Tricloroeteno  3,3-diclorobenzidina  Trifluralina  Dodecacloro pentaciclodecano  Xileno  Endossulfan (sulfato) Fonte: Elaborado pela autora, 2020. Adaptado de CONAMA, 2005.
+
+0,1 µg L-1  0,05 µg L-1  4,0 µg L-1  0,1 µg L-1  0,05 µg L-1  0,01 mg L-1  0,003 mg L-1  0, 3 µg L-1 0,02 mg L-1
+
+0,028 µg L-1  0,001 µg L-1 0,056 µg L-1
+
+0,04 µg L-1
+
+0,02 µg L-1
+
+bifenilas
+
+epóxido  +
+
+CONAMA  n° 357/2005  0,004 µg L-1  0,02 mg L-1  90,0 µg L-1  65 µg L-1  0,005 µg L-1  0,0065 µg L-1  0,05 µg L-1  0,02 µg L-1  0,1 µg L-1  10 µg L-1  0,03 µg L-1 0,04 µg L-1
+
+0,001 µg L-1
+
+0,009 mg L-1  2,0 µg L-1  2,0 µg L-1  0,002 mg L-1  0,01 mg L-1  2,0 µg L-1  0,01 µg L-1  10,0 µg L-1 0,01 mg L-1
+
+0,01 µg L-1
+
+0,03 mg L-1  0,2 µg L-1 300 µg L-1
+
+Conforme  Britto  (2015),  em  termos  de  legislação,  a  Resolução  CONAMA  n°
+
+357/2005  não  estabelece  limites  máximos  de  contaminantes  em  águas  para  a  maioria  dos
+
+agrotóxicos usados atualmente no país.
+
+Bombardi  (2017)  afirmou  que  o  Brasil,  comparando  com  países  da  União  Europeia
+
+pode  ser  considerado  como  menos  restritivo  quanto  a  quantidade  de  princípios  ativos
+
+registrados.
+
+39
+
+3 METODOLOGIA
+
+Para  a  determinação  dos  parâmetros  físicos,  químicos,  microbiológicos  e  a
+
+quantificação  de  multiresíduos  de  agrotóxicos  do  Rio  Ijuí  em  um  trecho  do  Município  de
+
+Cerro Largo/RS, foram necessárias atividades em campo (in situ) e em laboratório (ex situ),
+
+onde se fez o uso prioritário do Laboratório de Águas e Ecotoxicologia e do Laboratório de
+
+Química  Instrumental  da  Universidade  Federal  da  Fronteira  Sul  (UFFS),  campus  Cerro
+
+Largo/RS.
+
+3.1 DESCRIÇÃO DA ÁREA DE ESTUDO
+
+O  município  de  Cerro  Largo/RS  (Figura  3),  pertencente  a  Região  das  Missões,
+
+segundo dados do  Instituto Brasileiro de Geografia e Estatística (IBGE, 2017),  possuía  uma
+
+população estimada para 2019 de 14.133 habitantes. No Quadro 6 observa-se a caracterização
+
+geral referente a área de estudo.
+
+Quadro 7 – Caracterização geral da área de estudo.
+
+Descrição geral correspondente a Sub-bacia do Rio Ijuí
+
+Fonte
+
+Na  região  das  Missões  predominam  as  atividades  agrícolas(1)  com  a  produção  de  cultivares como soja, milho, trigo, mandioca, cana-de-açúcar e na pecuária na criação de bovinos e suínos.
+
+Principal atividade econômica
+
+Sub-bacia do Rio Ijuí
+
+A  Sub-bacia  é  abrangida  pela  Bacia  Hidrográfica  do  Uruguai  Médio,  situando-se  a  norte-noroeste  do  Estado  do  RS.  A  qualidade  da  água  e  os  conflitos  de  uso  sofrem  interferências  devido  aos  dejetos  da  suinocultura,  contaminação  por  agrotóxicos  e  problemas relacionados a falta de saneamento básico, tendo como problema principal  o lançamento de efluentes. Os principais usos da água estão relacionados à irrigação, abastecimento público, dessedentação animal e geração de energia.
+
+COREDE  Missões (2017)
+
+MMA  (2006);  SEMA (2011);
+
+Solos
+
+O  tipo  de  solo  da  Bacia  do  Uruguai  Médio  é  caracterizado  como  Brunizém Avermelhados, Litólicos, com predominância do Latossolo Roxo e Vermelho Escuro.
+
+MMA (2006)
+
+O trecho do rio  que abrange  o município de  Cerro Largo, em função  da presença de  Usinas  Hidrelétricas  (UHE‟s)  e  Pequenas  Centrais  Hidrelétricas  (PCH‟s)  foi enquadramento pela Resolução SEMA n° 111/2012 como Classe 2.
+
+SEMA (2012);
+
+Classe dos recursos hídricos
+
+Dados meteorológicos(2)
+
+O município de Cerro Largo apresentou precipitação acumulada  em 2019 de 2.206,5  mm.  As  temperaturas  médias  das  máximas  e  mínimas  foram  de  9,4  °C  e  33,2  °C,  respectivamente.  As  precipitações  médias  em  cada  estação  corresponderam  a:  Primavera (110,1 mm); Verão (223,4 mm); Outono (136,8 mm) e Inverno (265,2 mm).  Nota: (1) Detalhamento de cultivares descrito na Tabela 3; (2)  Detalhamento de dados meteorológicos descrito  na Tabela 4. Fonte: elaborado pela autora, 2020.
+
+Weather  Underground (2019);
+
+Na  Tabela  3  estão  apresentadas  as  culturas  predominantes  na  Região  das  Missões,
+
+época de plantio, a estação do ano que corresponde ao plantio e os agrotóxicos recomendados
+
+para cada plantio.
+
+40
+
+Tabela 3 – Principais cultivares da Região das Missões.
+
+41
+
+Época de plantio
+
+Estação do ano
+
+Agrotóxicos recomendados
+
+Início de setembro ao final de dezembro
+
+Metade do inverno e toda primavera
+
+Início de abril a final de julho
+
+Todo outono e início do inverno
+
+Cana-de-açúcar
+
+Início de abril ao final de outubro
+
+Outono, inverno e início da primavera
+
+Metade do inverno até metade da primavera
+
+Inverno e primavera
+
+De meados de agosto  ao final novembro  Início de julho ao final  dezembro (1° safra);  Início de janeiro ao  final de abril (2° safra)  De janeiro a março e julho a setembro
+
+Culturas Regionais
+
+Arroz
+
+Aveia
+
+Mandioca
+
+Milho
+
+Pastagens
+
+Soja
+
+Trigo
+
+fipronil,
+
+2,4-D,  azoxistrobina,  bentazona,  ciproconazol,  clomazona,  difenoconazol,  imazetapir,  malationa,  metsulfurom,  epoxiconazol,  imazapique,  penoxsulam,  pirazossulfurom,  piraclostrobina,  propiconazol,  tebuconazol,  tiametoxam e trifloxistrobina.  2,4-D,  azoxistrobina,  ciproconazol,  difenoconazol,  epoxiconazol,  metsulfurom,  piraclostrobina, propiconazol, tebuconazol, tiametoxam, trifloxistrobina  2,4-D,  clomazona,  epoxiconazol,  fipronil,  imazapique,  metsulfurom,  piraclostrobina,  simazina,  tebuconazol, tiametoxam e trifloxistrobina.  Clomazona, epoxiconazol, piraclostrobina, profenofós, tebuconazol, tebuconazol, tiametoxam e trifloxistrobina.
+
+azoxistrobina,
+
+ciproconazol,
+
+carbofurano,
+
+atrazina,
+
+atrazina,
+
+clomazona,  2,4-D,  difenoconazol,  epoxiconazol,  fipronil,  malationa,  piraclostrobina,  profenofós, propiconazol, simazina, tebuconazol, tiametoxam e trifloxistrobina
+
+azoxistrobina,
+
+ciproconazol,
+
+bentazona¸
+
+Verão e inverno
+
+2,4-D, imazapique, malationa, metsulfurom, piraclostrobina e tiametoxam.
+
+De outubro ao final de janeiro
+
+Toda primavera e início do verão
+
+Início de maio ao final de julho
+
+Metade do outono ao início do inverno
+
+ciproconazol,  difenoconazol,
+
+2,4-D,  bentazona,  fipronil,  imazapique,  imazetapir,  malationa,  piraclostrobina,  profenofós,  propiconazol¸  tebuconazol, tiametoxam e trifloxistrobina.  2,4-D, bentazona, ciproconazol, difenoconazol, epoxiconazol, fipronil, malationa,  metsulfurom,  propiconazol, tebuconazol, tiametoxam e trifloxistrobina.
+
+piraclostrobina,
+
+epoxiconazol,
+
+pirimicarbe,
+
+profenofós,
+
+Fonte: Elaborado pela autora, 2020. Adaptado de EMBRAPA, 2006; FEPAGRO, 2011; Mercado Agrícola, 2018; CONAB, 2019; ANVISA (2017).
+
+42
+
+Na  Tabela  4  estão  apresentadas  as  temperaturas  mínimas  e  máximas  e  o  volume  de
+
+precipitação que ocorreu no ano de 2019 no município de Cerro Largo.
+
+Tabela 4 – Médias meteorológicas mensais para Cerro Largo.
+
+Mês
+
+Temperatura   Mínima (°C)  17,2  Janeiro  13,7  Fevereiro  13,8  Março  12,9  Abril  9,9  Maio  3,8  Junho  0,3  Julho  0,7  Agosto  5,4  Setembro  5,4  Outubro  15,1  Novembro  14,5  Dezembro  9,4  Média Fonte: elaborado pela autora, 2020. Adaptado de Weather Underground, 2019.
+
+Temperatura   Máxima (°C)  36,8  36,9  34,6  25,4  29,9  30,3  26,8  33,6  34,8  34,8  35,8  38,6 33,2
+
+Precipitação (mm)
+
+181,4  254,5  234,4  57,7  321,6  31  638,5  109,7  47,5  47,5  137,2  145,5 183,9
+
+As  médias  mínimas  e  máximas  de  temperatura  na  estação  da  primavera  (outubro,
+
+novembro,  dezembro)  foram  de  11,7  °C  e  36,4  °C,  na  estação  do  verão  (janeiro,  fevereiro,
+
+março) as médias foram de 14,9 °C e 36,1 °C, na estação do outono (abril, maio, junho) foi de
+
+8,9 °C e 28,5 °C e na estação do inverno (julho, agosto, setembro) foi de  2,1 °C e 31,7 °C
+
+respectivamente.
+
+3.1.1 Pontos de amostragem
+
+Para  a  escolha  dos  pontos  de  amostragem  foi  levado  em  consideração  os  limites  do
+
+município, proximidade com a zona urbana e proximidade com áreas cultivadas. Cada coleta
+
+contemplou  cinco  pontos  de  amostragem,  ao  longo  do  Rio  Ijuí,  compreendendo  uma  coleta
+
+referente a cada estação do ano conforme apresentado na Figura 3.
+
+Figura 3 – Área de estudos e pontos de amostragem.
+
+43
+
+Fonte: elaborado pela autora, 2020.
+
+Os pontos foram denominados como: Ponto 1 para o ponto de amostragem próximo da
+
+localidade da Linha Taquarussu (TA), Ponto 2 para o ponto de amostragem próximo da Ponte
+
+(PO), Ponto 3 para o ponto de amostragem próximo da localidade da Linha Santa Cruz (SC),
+
+Ponto 4 para o ponto de amostragem próximo da localidade da Linha Caçador Baixo (CB) e
+
+Ponto 5 para o ponto de amostragem próximo ao local denominado Fundão Ijuí (FI).
+
+Para  uma  melhor  visualização  dos  locais  de  amostragem,  na  Figura  4  estão
+
+demonstrados  os  locais  de  coleta  correspondentes  as  estações  da  primavera  e  do  verão.  Na
+
+Figura  5  estão  demonstrados  os  locais  de  coleta  correspondentes  as  estações  do  outono  e
+
+inverno.
+
+Figura 4 – Pontos de amostragem das estações primavera e verão.
+
+44
+
+Nota: Ponto 1: Linha Taquarussu (TA); Ponto 2: Ponte (PO); Ponto3: Santa Cruz (SC); Ponto 4: Caçador Baixo  (CB); Ponto 5: Fundão Ijuí (FI). Fonte: Elaborado pela autora, 2020.
+
+Figura 5 – Pontos de amostragem das estações outono e inverno.
+
+Nota: Ponto 1: Linha Taquarussu (TA); Ponto 2: Ponte (PO); Ponto3: Santa Cruz (SC); Ponto 4: Caçador Baixo  (CB); Ponto 5: Fundão Ijuí (FI). Fonte: Elaborado pela autora, 2020.
+
+45
+
+Para a seleção dos pontos de amostragem foram escolhidos locais  mais afastados das
+
+margens  do  rio,  de  canais  e  pontos  de  lançamento  de  efluentes  para  haver  melhor
+
+representatividade da amostra.
+
+3.2 PROCEDIMENTOS DE COLETA E PRESERVAÇÃO DAS AMOSTRAS
+
+Ao  total,  quatro  coletas  de  água  foram  realizadas  no  Rio  Ijuí,  durante  o  período  de
+
+março  a  outubro  no  ano  de  2019,  sendo  uma  em  cada  estação  do  ano,  verão  (18/03/2019),
+
+outono (30/04/2019), primavera (23/10/2019) e inverno (02/07/2019).
+
+A coleta  e a preservação  das amostras foram realizadas conforme recomenda o Guia
+
+Nacional  de  Coleta  e  Preservação  de  Amostras  da  CETESB,  em  conjunto  com  a  Agência
+
+Nacional das Águas (CETESB; ANA, 2011).
+
+As amostras de água superficial foram coletadas a uma profundidade de 20 a 30 cm,
+
+evitando-se adentrar aos frascos de coleta resíduos da superfície hídrica. Sequencialmente, as
+
+amostras  foram  acondicionadas  em  frascos  devidamente  identificados  e  a  preservação  foi
+
+realizada por resfriamento e refrigeração a 4 °C ±  2 °C, com o propósito de  retardar a ação
+
+biológica, a alteração dos compostos químicos, reduções acerca de compostos voláteis,  bem
+
+como a precipitação de compostos e os possíveis efeitos de adsorção,conforme recomendado
+
+por parte do Guia Nacional de Coleta e Preservação de Amostras (CETESB; ANA, 2011), até
+
+a chegada ao laboratório de Águas e Ecotoxicologia da UFFS.
+
+As  amostras  para  análise  de  agrotóxicos foram  acondicionadas  em  frascos  âmbar de
+
+1 L,  e  para  as  análises  bacteriológica  (coliformes)  as  amostras  foram  acondicionadas  em
+
+frascos  de  plástico  de  0,1 L.  Os  frascos  para  acondicionamento  das  amostras  referentes  aos
+
+agrotóxicos  foram  previamente  limpos  em  banho  de  detergente  alcalino  Extran®  5%,após,
+
+foram lavados com água da torneira e sequencialmente realizada a tríplice lavagem com água
+
+destilada.  Quanto aos frascos para as amostras microbiológicas a limpeza foi realizada com
+
+imersão  durante  24  h  em  hipoclorito  de  sódio,  posteriormente  foi  realizada  a  lavagem  dos
+
+frascos  com  água  corrente,  em  seguida  foi  efetuada  lavagem  tríplice  com  água  destilada  e
+
+após os frascos secos, foram deixados durante 1 h em radiação Ultravioleta.
+
+3.3 PROCEDIMENTOS ANALÍTICOS
+
+3.3.1 Determinação dos parâmetros de qualidade da água
+
+46
+
+As análises dos parâmetros de absorvância UV (λ – 254 nm), coliformes totais (P/N),  coliformes  Escherichia  coli(P/N),  cor  aparente  (uH)  e  nitrato  (mg  L-1)  foram  realizadas  ex  situ, enquanto os parâmetros temperatura (°C), OD (mg  L-1), pH, condutividade elétrica (µS cm-1) e salinidade foram medidos in situ com a sonda multiparâmetro, YSI Professional Plus.
+
+Para fins de manter a acuracidade dos resultados, a sonda foi periodicamente calibrada.
+
+Na  Tabela  5  estão  apresentados  os  parâmetros  analisados,  seguido  das  referências
+
+metodológicas e equipamentos de análise correspondentes.
+
+Tabela 5 – Parâmetros de qualidade das águas superficiais do Rio Ijuí analisados.
+
+2510 B APHA (2005)
+
+Sonda YSI Professional Plus
+
+Parâmetro / unidade
+
+Referência Metodológica
+
+Absorvância (λ~254nm)
+
+5910 B APHA (2005)
+
+Coliformes totais (P/N)4  Condutividade elétrica  (µS cm-1) Cor aparente   (uH)
+
+SM 9221 C APHA (2005)
+
+2120 B APHA (2005)
+
+Escherichia Coli (P/N)
+
+SM 9221 F APHA (2005)
+
+Nitrato (mg L-1)
+
+4500 B APHA (2005)
+
+Oxigênio dissolvido (mg L-1)  Ph  Salinidade (mg L-1)  Sólidos sedimentáveis  (mL L-1)  Temperatura (°C) Turbidez (uT)
+
+4500 G APHA (2005)  4500 APHA (2005) 2520 D APHA (2005)
+
+2540 F APHA (2005)
+
+Equipamento  Evolution 201 UV–Visível  Sprectrophotometer Kit COLItest®
+
+Colorímetro Del Lab  Kit COLItest® - Ultravioleta (365  nm)  Evolution 201 UV-Visível  Sprectrophotometer  Sonda YSI Professional Plus  Sonda YSI Professional Plus Sonda YSI Professional Plus
+
+Cone de Imhoff
+
+2550 B APHA (2005) 2130 B APHA (2005)
+
+Sonda YSI Professional Plus Turbidímetro PoliControl AP 2000
+
+Nota: APHA: American Public Health Association; P/N: Positivo/Negativo Fonte: Elaborado pela autora, 2019.
+
+A  escolha  dos  parâmetros  de  qualidade  da  água  que  foram  determinados  levou  em
+
+consideração alguns dos parâmetros estabelecidos na Resolução CONAMA n° 357/2005, bem
+
+como o enquadramento do corpo hídrico e os usos preponderantes da água na região estudada.
+
+3.3.2 Determinação de multiresíduos de agrotóxicos
+
+A determinação de multiresíduos de agrotóxicos em amostras de águas superficiais do
+
+Rio  Ijuí  em  um  trecho  do  Município  de  Cerro  Largo  foram  realizadas  no  Laboratório  de
+
+Química  Instrumental,  sala  107  da  UFFS,  Campus  Cerro  Largo/RS,  que  consistiu  no  pré-
+
+tratamento  das  amostras  por  meio  da  utilização  de  técnicas  de  extração  e  pré-concentração
+
+utilizando-se do método de EFS e CLAE-EM.
+
+47
+
+Na  Tabela  6  estão  descritos  os  compostos  determinados  conjuntamente  a  classe,  o
+
+grupo  químico  e  a  classificação  toxicológica  que  cada  agrotóxico  apresenta.  A  escolha  dos
+
+agrotóxicos  se  deu  em  função  de  sua  utilização  nas  atividades  agrícolas  da  região,
+
+disponibilidade de padrões em laboratório e considerando a compatibilidade com as técnicas
+
+analíticas e validação do método (Item 3.3.5).
+
+48
+
+Tabela 6 – Multiresíduos analisados, classe, grupo químico e classificação toxicológica de cada agrotóxico.
+
+Parâmetro
+
+Classe
+
+2,4 D
+
+Atrazina
+
+Herbicida
+
+Herbicida
+
+Classificação toxicológica
+
+Classe I
+
+Arroz, aveia, cana-de-açúcar, centeio, cevada, eucalipto, milheto, milho, pastagens, soja, sorgo e trigo
+
+Aplicação
+
+Classe III  Abacaxi, cana-de-açúcar, milho, milheto, pinus, seringueira e sorgo
+
+Azoxistrobina
+
+Fungicida
+
+Classe III
+
+Abacate,  abóbora,  abobrinha,  alface,  alho,  ameixa,  amendoim,  arroz,  aveia,  azaleia,  batata,  begônia,  berinjela,  beterraba,  cana-de-açúcar,  caqui,  chalota,  cebola,  cenoura,  centeio,  cevada,  citros, couve-flor, crisântemo, feijão, figo, gérbera, girassol, goiaba, kalanchoe,  mamão, manga,  maracujá, melancia, melão, milho, milheto, morango, nectarina, pepino, pêssego, pimentão, rosa, sorgo e tomate
+
+Bentazona
+
+Carbofurano
+
+Herbicida  Inseticida,  Cupinicida,  acaricida nematicida
+
+e
+
+Classe III  Amendoim, arroz, feijão, milho, soja, trigo
+
+Classe I
+
+Banana e cana-de-açúcar
+
+Ciproconazol
+
+Fungicida
+
+Classe III
+
+Alho,  arroz,  aveia,  cana-de-açúcar,  eucalipto,  figo,  girassol,  goiaba,  maçã,  melancia,  melão, milho, soja, sorgo, trigo e uva.
+
+Clomazona
+
+Herbicida
+
+Classe III  Arroz, batata, cana-de-açúcar, mandioca, melão, milho, pimentão e soja.
+
+Difenoconazol
+
+Fungicida
+
+Classe I
+
+Abacate, abóbora, abobrinha, alface, alho, ameixa, amendoim, antúrio, arroz, alstroeméria, aveia,   azaleia,  batata,  begônia,  beterraba,  caqui,  cebola,  cenoura,  cevada,  cravo,  citros,  couve-flor,  cravínea,  crisântemo,  ervilha,  feijão,  figo,  gerânio,  gérbera,  girassol,  goiaba,  mamão,  manga,  maracujá,  melancia,  melão,  milho,  morango,  nectarina,  pepino,  pêssego,  pimentão,  rosa,  soja, sorgo e tomate, trigo, uva.
+
+Epoxiconazol
+
+Fungicida
+
+Fipronil
+
+Imazapique Imazetapir
+
+Malationa
+
+Inseticida,  Cupinicida  Herbicida  Herbicida  Inseticida, Acaricida
+
+Classe II
+
+Classe III  Amendoim,  arroz,  aveia,  cana-de-açúcar,  cevada,  feijão,  girassol,  mandioca,  milho,  soja,  sorgo,  trigo.  Amendoim,  araucária,  arroz,  batata,  cevada,  cana-de-açúcar,  feijão,  girassol,  milho,  pinus,  soja,  sorgo, trigo. Amendoim, arroz, cana-de-açúcar, milho, pastagem, soja.
+
+Classe II  Classe III  Arroz, feijão e soja. Classe III  Alface,  algodão,  arroz,  brócolis,  citros,  couve,  couve-flor,  feijão,  milho,  morango,  pastagens,
+
+pepino, pêra, pêssego, repolho, rosa, soja, sorgo, trigo, tomate.
+
+(continua)
+
+Tabela 6 – Multiresíduos analisados, classe, grupo químico e classificação toxicológica de cada agrotóxico
+
+Parâmetro
+
+Classe
+
+Metsulfurom  Penoxsulam  Herbicida Pirazossulfurom  Herbicida
+
+Classificação toxicológica
+
+Aplicação
+
+Arroz, aveia, cana-de-açúcar, centeio, cevada, citros, pastagens, trigo, triticale.
+
+(continuação)
+
+Classe III  Arroz. Classe III  Arroz.
+
+49
+
+Piraclostrobina
+
+Fungicida
+
+-
+
+Pirimicarbe
+
+Profenofós
+
+Propiconazol Simazina
+
+Inseticida  Inseticida  acaricida  Fungicida Herbicida
+
+Classe II
+
+Classe II
+
+e
+
+Abacaxi, abóbora, abobrinha, alface, alho, amendoim, anonáceas, arroz, aveia, batata, beterraba,  cana-de-açúcar, canola, cebola, cenoura, centeio, cevada, chuchu, citros, feijão, girassol, grão- de-bico, inhame, lentilha, linhaça, mandioca, maça, mamão, manga, maracujá, melancia, melão,  milho,  milheto,  nabo, pastagens,  pepino, pêssego,  pimenta,  pimentão,  pinhão,  pinus,  pupunha,  quiabo, rabanete, romã, rosa, sálvia, seringueira, soja, sorgo, tomate, trigo, triticale, uva.  Alface, batata, couve-flor, couve, feijão, pepino, pimenta, repolho, rosa, trigo, tomate.  Amendoim, batata, canola, cebola, ervilha, feijão, girassol, mandioca, melancia, milho, pepino,  repolho, rosa, soja, sorgo, trigo. Alho, amendoim, arroz, aveia, cevada, citros, feijão, milho, soja, seringueira, soja, tomate, trigo.
+
+Classe II Classe III  Abacaxi, cana-de-açúcar, citros, milho, pinus, seringueira, sorgo e uva
+
+Tebuconazol
+
+Fungicida
+
+Classe IV
+
+Tiametoxam
+
+Inseticida
+
+Classe III
+
+Trifloxistrobina
+
+Fungicida
+
+Classe II
+
+Abacaxi,  abóbora,  abobrinha,  acerola,  alface,  alho,  almeirão,  amendoim,  arroz,  aveia,  batata,  berinjela,  beterraba,  café,  caqui,  cebola,  cenoura,  centeio,  cevada,  chalota,  chicória,  chuchu,  citros,  couve,  cravo,  feijão,  figo,  gladíolo,  goiaba,  gramados,  inhame,  jiló,  mamão,  mandioca,  manga,  maracujá,  maxixe,  melancia,  melão,  milheto,  milho,  morango,  mostarda,  nabo,  nectarina,  nêspera,  pepino,  pêra,  pêssego,  pimentão,  rabanete,  repolho,  rosa,  seriguela,  soja,  sorgo, tomate, trigo, triticale e uva.  Abacaxi,  abobrinha,  alface,  agrião,  alho,  amendoim,  arroz,  aveia,  batata,  berinjela,  café,  cana- de-açúcar, cebola, cebolinha, cevada, citros, croentro, crisântemo, ervilha, feijão, figo, girassol,  maça, mamão, mandioca, manga, melancia, melão, milho, morango, pastagem, pepino, pêssego,  pimentão, repolho, soja, sorgo, tomate, trigo e uva.  Abacaxi, abóbora, abobrinha, acelga, acerola, alface, alho, almeirão, ameixa, amendoim, arroz,  aveia,  batata,  beterraba,  brócolis,  cana-de-açúcar,  caqui,  cebola,  cenoura,  cevada,  chicória,  citros,  couve-flor,  feijão,  girassol,  goiaba,  inhame,  jiló,  mamão,  mandioca,  manga,  maracujá,  maxixe,  melancia,  melão,  milho,  morango,  mostarda,  nabo,  nectarina,  nêspera,  pepino,  pêra, pêssego, pimentão, rabanete, repolho, soja, tomate, trigo e uva
+
+Fonte: Elaborado pela autora, 2020. Adaptado de ANVISA, 2017.
+
+50
+
+3.3.3 Preparo das amostras
+
+O preparo das amostras para análise de agrotóxicos foi realizado por meio de filtração
+
+por membrana de acetato de celulose de 0,45 µm. Houve a substituição da membrana filtrante
+
+sempre que ocorreu a saturação. A filtração por membrana de acetato proporcionou a remoção
+
+dos materiais sólidos suspensos a fim de evitar interferências na leitura e na pré-concentração
+
+das  amostras,  possibilitando  a  detecção  de  analitos  em  baixas  concentrações  através  do
+
+CLAE-EM.
+
+Foram filtrados 250 mL de amostra de água, com o auxílio de uma bomba de sucção,
+
+um kitassato, um copo de vidro, um funil, membranas filtrantes de acetato de celulose, garra
+
+para  vedação  dos  itens,  rolha  de  silicone.  Na  Figura  6  está  apresentado  o  conjunto  de
+
+equipamentos e utensílios utilizados para a filtração das amostras de água por membrana de
+
+acetato.
+
+Figura 6 – Conjunto de equipamento para filtração da amostra de água por membrana.
+
+Fonte: Elaborado pela autora, 2019.
+
+Após a filtração, as amostras foram  transferidas para balões volumétricos de 250 mL
+
+para posterior acidificação com ácido fosfórico 50% até a amostra obter pH próximo de a 3.
+
+Em  seguida  foi  realizada  a  pré-concentração  por  meio  da  técnica  EFS.  Esta  técnica
+
+prevê o isolamento dos analitos de uma matriz complexa, a partir da sorção por meio de uma
+
+fase sólida, o sorvente (ZINI, 2016).
+
+Antes  de  isolar  os  agrotóxicos  (analitos),  foi  necessário  o  condicionamento  dos
+
+cartuchos C18, ou seja, a ativação do sorvente, por meio da adição de uma solução de 3 mL de
+
+metanol grau HPLC (99,8%), marca LiChorosolv®, em seguida houve a adição de 3 mL de
+
+51
+
+água  ultrapura  acidificada  a  pH  3.  Conectou-se  uma  mangueira  de  politetrafluoretileno
+
+(PTFE)  entre  o  balão  volumétrico  (contendo  a  amostra)  e  os  cartuchos,  dando  início  a
+
+extração que teve duração de aproximadamente 25 minutos por amostra.
+
+O sistema EFS foi montado com uma cuba de vidro, acompanhado de uma tampa de
+
+plástico com orifícios, onde foram encaixados os cartuchos C18 (Manifofd), esse sistema foi
+
+ligado na bomba a vácuo, conforme apresentado na Figura 7.
+
+Figura 7 – Sistema para extração em fase sólida.
+
+Fonte: Elaborado pela autora, 2019.
+
+A  velocidade  de  passagem  das  alíquotas  nos  cartuchos  foi  controlada  para  que permanecesse com vazão ideal de passagem de 10 mL min-1, a fim de permitir corretamente a
+
+adsorção  dos  componentes  desejados  pelo  cartucho.  Após  percolada  toda  a  amostra,  os
+
+cartuchos  foram  envelopados  com  papel  alumínio  e  acondicionados  no  freezer  (por  no
+
+máximo 3 meses) até a realização da eluição.
+
+A  eluição  dos cartuchos  foi  realizada  por  meio  do  sistema  Manifold,  preparado com
+
+agulhas  especiais  para  encaixe  na  parte  interna  e  tubos  volumétricos  para  a  coleta  das
+
+amostras.  Foram  percoladas  duas  alíquotas  de  1  mL  de  metanol  em  cada  cartucho  para
+
+dessorver  os  resíduos  de  agrotóxicos,  obtendo-se  2 mL  de  eluato.  Ao  final,  o  eluato
+
+concentrado foi armazenado em vials (frascos) de vidro específicos para a leitura no CLAE-
+
+EM.
+
+3.3.4 Condições do sistema CLAE-EM e análise cromatográfica
+
+52
+
+As  condições  de  detecção  e  separação  cromatográficas  foram  otimizadas  de  acordo
+
+com  a  metodologia  elaborada  pelo  Laboratório  de  Química  Instrumental  da  UFFS  a  fim  de
+
+obter  a  melhor  detectabilidade  para  cada  composto  analisado.  Os  parâmetros  empregados
+
+foram: o equipamento utilizado nas determinações foi o Cromatógrafo Líquido Shimadzu LC-
+
+MS 2020 conforme a Figura 8, com fonte de Ionização por Electrospray (ESI), analisador de
+
+massa tipo Quadrupolo e sistema de aquisição de dados LabSolutions®.
+
+A separação cromatográfica dos multiresíduos de agrotóxicos foi realizada em coluna
+
+analítica  Athena  C18-WP,  com  temperatura  do  forno  de  coluna  em  40  °C  e  a  fase  móvel
+
+composta por água ultrapura (A) e metanol (B), ambos com ácido fórmico 0,1% e formiato de amônia  5mmol  L-1,  em  modo  gradiente  de  composição  dos  solventes  conforme  descrito  na
+
+Tabela 7.
+
+Figura 8 – Cromatógrafo líquido de alta eficiência e espectrômetro de massa.
+
+Fonte: Elaborada pela autora, 2019.
+
+A  eluição  foi  por  gradiente  conforme  apresentado  na  Tabela  7,  com  vazão  de
+
+0,2 mL min-1, iniciando com 90% de A, totalizando 13 minutos de análise.
+
+Tabela 7 – Gradiente de eluição da fase móvel.
+
+Tempo (min)  0,01  0,25  2  8  9  11  13 Fonte: Elaborado pela autora, 2020.
+
+Água ultrapura (%)  90  90  52  0  0  90 90
+
+Metanol (%)  10  10  48  100  100  10 10
+
+53
+
+3.3.5 Validação do método para análise de resíduos de agrotóxicos em amostra de água
+
+A  validação  do  método  para  análise  de  resíduos  de  agrotóxicos  foi  otimizada  de
+
+acordo  com  a  metodologia elaborada  no Laboratório  de  Química  Instrumental  da UFFS,  de
+
+modo a garantir que atenda as exigências das aplicações analíticas. Desta forma, o método foi
+
+validado com base nas normas do Instituto Nacional de Metrologia, Qualidade e Tecnologia
+
+(INMETRO, 2019), para: seletividade, linearidade/faixa e trabalho/faixa; precisão; exatidão;
+
+limite de detecção (LD) e limite de quantificação (LQ).
+
+54
+
+4 RESULTADOS E DISCUSSÕES
+
+Neste item estão apresentados os dados obtidos referentes aos parâmetros da qualidade
+
+da  água  (físico-químicos  e  microbiológicos)  do  Rio  Ijuí  no  trecho  do  Município  de  Cerro
+
+Largo/RS, bem como à detecção de multiresíduos de agrotóxicos.
+
+4.1  PARÂMETROS  FÍSICO-QUÍMICOS  E  MICROBIOLÓGICOS  DA  QUALIDADE  DA
+
+ÁGUA
+
+Seguem  descritos  os  resultados  obtidos  para  os  parâmetros  físico-químicos  e
+
+microbiológicos  comparados  com  os  VMP  previstos  em  legislação  ambiental  vigente  no
+
+Brasil e no RS.
+
+4.1.1 Absorvância UV
+
+Na  Tabela  8estão  apresentados  os  resultados  obtidos  para  absorvância  UV  (λ  –  254
+
+nm) nas 4 estações do ano de 2019.
+
+Tabela 8 – Absorvância UV (λ – 254 nm) das amostras do Rio Ijuí no trecho do Município de
+
+Cerro Largo.
+
+Absorvância (λ – 254 nm) dos pontos monitorados
+
+CB  Estação  0,53  Verão  0,28  Outono  0,12  Inverno  0,11  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí. Fonte: Elaborado pela autora, 2020.
+
+PO  0,42  0,34  0,11 0,08
+
+TA  0,46  0,20  0,18 0,10
+
+SC  0,53  0,27  0,12 0,08
+
+FI  0,33  0,20  0,11 0,06
+
+Para os pontos amostrados do Rio Ijuí (Figura3), foi possível observar que na estação
+
+do verão a absorvância variou de 0,33 a 0,53  (λ – 254 nm), na estação do outono de 0,20 a
+
+0,34 (λ – 254 nm), na estação do inverno de 0,11 a 0,18 (λ – 254 nm), e na primavera de 0,06
+
+a 0,11 (λ – 254 nm). Os resultados de identificação da absorvância podem estar relacionados
+
+com  a  presença  de  Matéria  Orgânica  Natural  (MON),  comumente  encontrada  em  corpos
+
+hídricos,  sendo  que  a  quantidade  presente  de  MON  nas  águas  superficiais  depende  de
+
+características como clima, geologia e topografia (MATILAINEN, 2011).
+
+55
+
+A média das precipitações nas estações do verão de 223,4 mm, e do outono de 136,8
+
+mm (WEATHER UNDERGROUND, 2019), remetem que os resultados de absorvância UV
+
+(λ  –  254  nm)  nessas  estações  podem  estar  associados  ao  índice  de  precipitações  e  o
+
+consequente  aumento  do  escoamento  superficial  nestas  épocas  e  corroboram  com  os
+
+resultados de absorvância UV (λ – 254 nm) maiores nestas estações.
+
+Em termos de legislação não foi possível estabelecer relação  entre a absorvância UV
+
+(λ  –  254  nm)  e  as  Resoluções  CONAMA  n°  357/2005,  bem  como  a  Lei  Estadual  n°
+
+10.350/1994, pois elas não apresentam (NA) VMP estabelecidos para este parâmetro.
+
+4.1.2 Coliformes totais e Escherichia Coli
+
+Na  Tabela  9  estão  apresentados  os  resultados  referentes  ao  parâmetro  de  coliformes
+
+totais nas 4 estações do ano de 2019.
+
+Tabela  9  –  Coliformes  totais  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de
+
+Cerro Largo.
+
+Coliformes Totais (Positivo/Negativo) dos pontos monitorados   TA  Positivo  Positivo  Positivo Positivo
+
+PO  Estação  Positivo  Verão  Positivo  Outono  Positivo  Inverno  Primavera  Positivo  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+CB  Positivo  Positivo  Positivo Positivo
+
+FI  Positivo  Positivo  Positivo Positivo
+
+SC  Positivo  Positivo  Positivo Positivo
+
+Os resultados positivos acerca da presença de coliformes totais identificados em todos
+
+os  pontos  analisados  (Figura  3)  para  todas  as  estações  do  ano  podem  estar  relacionadas  a
+
+despejos domésticos, comumente esgotos, ou ainda relacionados a dejetos animais devido ao
+
+fato de que o Rio Ijuí passa por áreas rurais dentro do município de Cerro Largo.  Coliformes
+
+totais podem ocorrer também em águas com alto teor de matéria orgânica, como por exemplo,
+
+efluentes  industriais  ou  material  vegetal  do  solo  em  processo  de  decomposição  (CETESB,
+
+2018), portanto sua presença pode estar diretamente relacionada com as atividades realizadas
+
+na região.
+
+A  Resolução  CONAMA  n°  357/2005  estabelece  que  as  águas  doces  de  Classe  2
+
+destinadas  ao  uso  de  recreação  de  contato  primário  deverão  ser  atendidos  os  padrões  de
+
+qualidade previstos na Resolução do CONAMA n° 274/2000, para as demais finalidades não
+
+56
+
+deverá  exceder  o  limite  de  1.000  coliformes  termotolerantes  por  100 mL  em  80%  de  pelo
+
+menos seis amostras coletadas durante o período de um ano (BRASIL, 2005). No entanto, não
+
+foram  realizadas  análises  quantitativas,  apenas  qualitativas,  portanto  não  foi  possível
+
+estabelecer  relação  de  comparação  entre  os  resultados  obtidos  para  coliformes  totais  e  a
+
+legislação.
+
+Assim  como  para  coliformes  totais,  na Tabela  10  é  possível  observar  que  100% das
+
+amostras apresentaram presença de Escherichia Coli.
+
+Tabela  10  –  Coliformes  Escherichia  Coli  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do
+
+Município de Cerro Largo.
+
+Escherichia Coli (Positivo/Negativo) dos pontos monitorados
+
+CB  PO  Estação  Positivo  Positivo  Verão  Positivo  Positivo  Outono  Positivo  Positivo  Inverno  Primavera  Positivo  Positivo  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+TA  Positivo  Positivo  Positivo Positivo
+
+SC  Positivo  Positivo  Positivo Positivo
+
+FI  Positivo  Positivo  Positivo Positivo
+
+Referente  ao  parâmetro  Escherichia  Coli,  os  resultados  de  todos  os  pontos
+
+analisados,  assim  como  para  todas  as  estações  do  ano  foram  positivos.  Para  o  PROSAB
+
+(2003),  a  maioria  das  cepas  de  Escherichia  Coli  é  habitante  da  flora  bacteriana  do  trato
+
+gastrointestinal de seres humanos e animais e conforme a CETESB (2018), está presente em
+
+quantidades  elevadas  nas  fezes  de  humanos,  mamíferos  e  pássaros,  sendo  raramente
+
+encontradas  em  água  ou  solo  que  não  tenham  recebido  contaminação  fecal.  Desta  forma,
+
+entende-se  ser  possível  associar  a  presença  de  coliformes  totais  e  Escherichia  Coli  com  a
+
+principal fonte de contaminação das águas superficiais, o lançamento de efluentes domésticos
+
+(PROSAB,  2009),  diretamente  nos  rios  afluentes  do  Rio  Ijuí,  usualmente  associados  à
+
+drenagem pluvial urbana, a presença de animais e as atividades realizadas na região.
+
+Considerando a legislação, as Resoluções CONAMA n° 357/2005, bem como a Lei
+
+Estadual  n°  10.350/1994  não  foi  possível  estabelecer  relação  entre  estas  e  os  resultados
+
+obtidos  para  a  Escherichia  Coli.  Entretanto,  este  parâmetro  poderá  ser  determinado  em
+
+substituição  ao  parâmetro  de  coliformes  termotolerantes  de  acordo  com  os  limites
+
+estabelecidos pelo órgão ambiental competente (BRASIL, 2005).
+
+57
+
+4.1.3 Condutividade elétrica
+
+Os resultados obtidos para a condutividade elétrica estão descritos na Tabela 11 para
+
+as 4 estações do ano de 2019.
+
+Tabela 11 – Condutividade elétrica das amostras de água do Rio Ijuí no trecho do Município
+
+de Cerro Largo.
+
+Condutividade elétrica (µS cm-1) dos pontos monitorados   FI  66,0  65,0  17,3 22,0
+
+PO  Estação  58,0  Verão  60,0  Outono  17,3  Inverno  Primavera  21,1  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+CB  66,0  62,0  17,1 22,3
+
+SC  71,0  62,0  17,4 22,4
+
+TA  65,0  60,0  17,3 19,2
+
+Na Tabela 11 é possível observar que a variação dos valores mínimos e  máximos de  condutividade elétrica foi  de 58,0 a 71,00 µS cm-1 na estação do verão, de 60,0 a 65,00  µS  cm-1 na estação do outono, de 17,1 a 17,4 µS cm-1 na estação do inverno e de 19,0 a 22,4 µS cm-1 na estação da primavera.
+
+A  presença  do  reservatório  de  acumulação,  destinado  para  abastecimento  de  PCH  a
+
+jusante dos pontos de amostragem, pode ter favorecido o aumento da condutividade elétrica
+
+(SEMA, 2012), além de ser intensificado com a ocorrência de lançamento de esgoto ou fontes
+
+de nutrientes, corroborando com o descrito por Libânio (2010).
+
+Condutividade  elétrica  acima  de  100  µS  cm-1  é  um  indicativo  de  ambiente
+
+contaminado (CETESB, 2018), desta forma, conforme a Tabela 11 foi possível verificar que
+
+para todas as estações analisadas durante o ano de 2019 a condutividade elétrica se manteve abaixo  de  100 µS  cm-1  podendo  ser  um  indicativo  de  ambiente  com  menor  índice  de
+
+contaminação  por  despejos  orgânicos,  no  entanto,  somente  em  relação  aos  pontos  e  no
+
+período amostrado.
+
+Com  relação  à  legislação,  não  foi  possível  relacionar  os  resultados  obtidos  para
+
+condutividade elétrica com as Resoluções CONAMA n° 357/2005, bem como a Lei Estadual
+
+n° 10.350/1994, pois estas não apresentam VMP para este parâmetro.
+
+4.1.4 Cor aparente
+
+58
+
+Na  Tabela  12  estão  apresentados  os  resultados  obtidos  nas  análises  do  parâmetro  de
+
+cor aparente das 4 estações do ano de 2019.
+
+Tabela 12 – Cor aparente das amostras de água do Rio Ijuí no trecho do Município de Cerro
+
+Largo.
+
+Estação  Verão  Outono  Inverno  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+Cor aparente (uH) dos pontos monitorados   SC  499  461  12 481
+
+TA  487  476  70,6 500
+
+PO  475  461  12,3 484
+
+CB  500  430  12 478
+
+FI  424  464  12 475
+
+De acordo com os resultados apresentados na Tabela 12, foi possível observar que na
+
+estação do verão houve variação da cor aparente de 424 a 500 uH, na estação do outono de
+
+430 a 476 uH, na estação do inverno de 12 a 70,6 uH e na estação da primavera a variação de
+
+cor aparente foi de 475 a 500 uH.
+
+Os resultados obtidos acerca deste parâmetro podem estar relacionados a presença de
+
+sólidos dissolvidos, principalmente material orgânico e inorgânico em estado coloidal, dentre
+
+estes podem ser mencionados substâncias naturais resultantes da decomposição de compostos
+
+orgânicos, ou ocasionados pelo lançamento de esgotos domésticos e industriais  que também
+
+formam material orgânico em estado coloidal, reforçando o que foi descrito por Von Sperling
+
+(2007).  Ou  ainda,  devido  a  presença  de  compostos  inorgânicos  como  óxidos  de  ferro  e
+
+manganês  comumente  presentes  em  diversos  tipos  de  solos  (CETESB,  2018),  inclusive  no
+
+solo do tipo Latossolo, característico do local de estudo.
+
+Em  termos  de  legislação,  não  foi  possível  relacionar  os  resultados  obtidos  com  as
+
+Resoluções CONAMA n° 357/2005, bem como a Lei Estadual n° 10.350/1994, pois estas não
+
+apresentam VMP para o parâmetro cor aparente para águas doces de Classe 2.
+
+4.1.5 Nitrato
+
+Na Tabela 13 estão apresentados os valores obtidos para o parâmetro de nitrato nas 4
+
+estações do ano de 2019.
+
+Tabela 13 – Nitrato nas amostras de água do Rio Ijuí no trecho do Município de Cerro Largo.
+
+59
+
+Estação  CB  Verão  0,65  Outono  0,49  Inverno  0,48  0,70  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+Nitrato (mg L-1) dos pontos monitorados   SC  0,81  0,37  1,21 1,21
+
+TA  0,85  0,77  1,39 1,21
+
+PO  1,44  0,62  0,84 1,47
+
+FI  1,40  0,65  0,35 0,67
+
+Conforme a Tabela 13 é possível verificar que as concentrações de nitrato variaram de  0,65a 1,44 mg L-1 na estação do verão, de 0,37 a 0,77 mg L-1  na estação do outono, de 0,35 a 1,39 mg L-1 na estação do inverno e de 0,67 a 1,47 na estação da primavera, desta forma, foi
+
+possível  verificar  que  houve  a  detecção  de  nitrato  em  todas  as  amostras  analisadas.  A
+
+presença de nitrato na água do Rio Ijuí corrobora com o descrito por Britto (2015), o qual cita
+
+que  a  presença  do  nitrato  está  usualmente  relacionada  como  lançamento  de  esgotos
+
+domésticos, ou até mesmo pelo fato desse parâmetro ser característico das águas naturais.
+
+Considerando que a Resolução CONAMA n° 357/2005 estabelece limite de 10 mg L-1
+
+para águas de Classe 2 foi possível verificar que todos os pontos analisados, nas 4 estações do
+
+ano atendem o limite estabelecido pela Resolução CONAMA n° 357/2005. Com relação à Lei
+
+Estadual n° 10.350/1994 não foi possível estabelecer relação com os resultados obtidos, pois
+
+esta não apresenta VMP para o parâmetro de nitrato.
+
+4.1.6 Oxigênio dissolvido
+
+Na  Tabela  14  estão  apresentados  os  valores  obtidos  para  o  parâmetro  de  OD  nas  4
+
+estações do ano de 2019.
+
+Tabela 14 – Oxigênio dissolvido das amostras de água do Rio Ijuí no trecho do Município de
+
+Cerro Largo.
+
+Oxigênio dissolvido (mg L-1) dos pontos monitorados   SC  5,6  7,8  9,1 7,2
+
+Estação  PO  Verão  6,1  Outono  8,5  Inverno  9,4  6,9  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+CB  5,5  6,7  8,8 7,4
+
+TA  5,3  8,3  9,5 7,1
+
+FI  5,6  7,7  8,9 7,3
+
+60
+
+Conforme a Tabela 14 foi possível verificar variação de OD de 5,3 mg L-1 a 6,1 mg L-1  referente a leitura na estação do verão, valores de mínima de 6,7 mg L-1 e máxima de 8,5 mg  L-1  no  outono,  valores  de  8,8  mg  L-1  para  a  mínima  e  de  9,5  para  a  máxima  no  inverno,  e valores de 6,9 para a mínima e 7,2 mg L-1 para a máxima na primavera.
+
+O OD é inversamente proporcional à temperatura (LIBÂNIO, 2010), desta forma foi
+
+possível inferir, conforme apresentado na Tabela 14 que os menores valores obtidos para OD
+
+correspondem às estações do ano que apresentaram as maiores médias de temperaturas (verão
+
+e primavera), enquanto os maiores resultados obtidos para OD correspondem às estações do
+
+ano com menores temperaturas (outono e inverno).
+
+A  concentração  de  OD  na  água  depende  da  temperatura,  salinidade,  turbulência,
+
+atividade  fotossintética  e  pressão  do  oxigênio  na  atmosfera.  Esse  parâmetro  tem  papel
+
+fundamental no processo de autodepuração dos corpos hídricos superficiais (PROSAB, 2009),
+
+consequentemente,  as  estações  que  apresentam  temperaturas  menores  apresentam  maior
+
+concentração  de  OD  disponível  e  consequentemente  poderão  apresentar  maior  potencial  de
+
+autodepuração.
+
+Valores de OD abaixo de 2 mg L-1 caracterizam situação hipóxia e comprometerem a
+
+vida  aquática,  principalmente  de  peixes,  já  as  águas  consideradas  de  boa  qualidade apresentam  concentrações  geralmente  superiores  a  5mg  L-1  (ANA,  2018).  Deste  modo,  a
+
+partir  dos  resultados  obtidos  para  este  parâmetro,  foi  identificado  que  a  qualidade  da  água
+
+atende as necessidades para a manutenção da vida aquática nos pontos analisados.
+
+Quanto à legislação, a Resolução CONAMA n° 357/2005 estabelece o limite mínimo de 5mg L-1 de OD, ou seja, para todos os pontos amostrados (Figura 3), durante as 4 estações
+
+do ano, foi possível observar que os resultados estão de acordo com o limite estabelecido pela
+
+resolução  para  águas  superficiais  enquadradas  como  Classe  2.  Quanto  a  Lei  Estadual  n°
+
+10.350/1994  não  foi  possível  estabelecer  relação  com  os  resultados  obtidos,  pois  esta  não
+
+apresenta VMP para o parâmetro de OD.
+
+4.1.7 pH
+
+Na Tabela 15 estão apresentados os resultados referentes ao parâmetro  pH durante as
+
+4 estações do ano.
+
+Tabela 15 – Valor de pH das amostras de água do Rio Ijuí no trecho do Município de Cerro
+
+Largo.
+
+61
+
+PO  Estação  7,42  Verão  7,72  Outono  7,78  Inverno  Primavera  7,66  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+pH dos pontos monitorados  CB  7,37  7,82  7,70 7,64
+
+TA  7,24  7,70  7,91 7,93
+
+SC  7,40  7,83  7,74 7,61
+
+FI  7,24  8,36  7,62 7,30
+
+Na Tabela 15 foi possível observar que os valores de pH variaram de 7,24 e 7,42 no
+
+verão, de 7,70 a 8,36 no outono, de 7,62 a 7,91 no inverno e de 7,30 a 7,93 na primavera. O
+
+valor do  pH  tem influência  sobre os ecossistemas aquáticos e  sobre a fisiologia de diversas
+
+espécies, sendo que os valores de pH entre 6,0 e 9,0 são bons para a proteção da vida aquática
+
+(CETESB, 2018), desta forma, foi possível inferir que os resultados obtidos, estão de acordo
+
+com o indicado pela CETESB para a manutenção da qualidade de vida aquática.
+
+Quanto  à  legislação,  a  Resolução  CONAMA  n°  357/2005  estabelece  limites  de  pH
+
+entre 6,0 e 9,0, desta forma, foi possível concluir que resultados obtidos estão de acordo com
+
+os  limites  estabelecidos  pela  Resolução  CONAMA  n°  357/2005  para  águas  superficiais  de
+
+Classe 2. Quanto a Lei Estadual n° 10.350/1994 não foi possível estabelecer relação  com os
+
+resultados obtidos, pois esta não apresenta VMP para o parâmetro pH.
+
+4.1.8 Salinidade
+
+Na Tabela 16 estão apresentados os resultados referentes  ao parâmetro de salinidade
+
+durante as 4 estações do ano.
+
+Tabela  16  –  Salinidade  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de  Cerro
+
+Largo.
+
+Salinidade (mg L-1) dos pontos monitorados
+
+Estação  CB  Verão  -  Outono  -  Inverno  0,01  0,01  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+PO  -  -  0,01 0,01
+
+SC  -  -  0,01 0,01
+
+TA  -  -  0,01 0,01
+
+FI  -  -  0,01 0,01
+
+62
+
+Nas  estações  do  verão  e  do  outono  não houve  determinação  da  salinidade,  enquanto
+
+nas estações do inverno e da primavera os resultados de todas as amostras se mantiveram em  0,01 mg  L-1.  Os  valores  reduzidos  se  comparado  a  Classe  do  corpo  hídrico  remetem  a  contaminação menos severa no local. E os valores obtidos, apesar de reduzidos (0,01 mg mL-1) podem estar relacionados ao lançamento de águas residuárias domésticas e industriais, ou
+
+por  causas  naturais  como,  pelo  intemperismo  e  composição  das  rochas  e  solos  da  bacia,
+
+corroborando  com  Libânio  (2010).  A  poluição  das  águas  superficiais  por  nutrientes  e
+
+agrotóxicos  oriundos  das  atividades  agrícolas  podem  aumentar  a  salinidade  (ANA,  2011),
+
+uma vez que a Bacia Hidrográfica do Uruguai sofre poluição associada ao uso de agrotóxicos,
+
+ratificando o que foi descrito pelo MMA (2006), sendo portanto, um importante parâmetro a
+
+ser monitorado neste corpo hídrico.
+
+Em  termos  de  legislação  a  Resolução  CONAMA  n°  357/2005  não  estabelece  VMP
+
+para o parâmetro de salinidade, no entanto, define que água doce são aquelas cuja salinidade sejam inferiores a 0,5% (500 mg L-1), desta forma,  o Rio Ijuí se enquadra como corpo hídrico
+
+de água doce, e condiz com o enquadramento Classe 2 determinado pela Resolução SEMA n°
+
+111/2012. Quanto à Lei Estadual n° 10.350/1994 não foi possível estabelecer relação com os
+
+resultados obtidos para salinidade, pois estas não apresentam VMP.
+
+4.1.9 Sólidos sedimentáveis
+
+Na  Tabela  17  estão  apresentados  os  resultados  referentes  ao  parâmetro  sólidos
+
+sedimentáveis durante as 4 estações do ano.
+
+Tabela 17 – Sólidos sedimentáveis das amostras de água do Rio Ijuí  no trecho do Município
+
+de Cerro Largo.
+
+Sólidos sedimentáveis (mg L-1) dos pontos monitorados
+
+Estação  PO  Verão  0,12  Outono  0,00  Inverno  0,00  0,00  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+TA  0,00  0,00  0,03 0,10
+
+SC  0,00  0,00  0,00 0,00
+
+CB  0,00  0,00  0,00 0,00
+
+FI  0,00  0,00  0,00 0,00
+
+Foi possível observar, conforme apresentado na  Tabela 17 que os valores de sólidos
+
+sedimentáveis apresentaram-se iguais ou próximos a zero na maioria dos resultados. No verão
+
+63
+
+apenas o PO apresentou sedimentação de 0,12 mg L-1. No outono não houve sedimentação de  sólidos em nenhuma das amostras, no inverno apenas no ponto TA apresentou 0,03 mg L-1 e para a primavera apenas o TA resultou em 0,1 mg L-1. Tais valores podem estar associados ao
+
+ponto de coleta, longe das margens do Rio Ijuí, uma vez que somente processos erosivos mais
+
+expressivos seriam passíveis de percepção por meio desta análise.
+
+A  entrada  de  sólidos  na  água  pode  ocorrer  não  somente  a  processos  erosivos,  está
+
+também  associada  ao  lançamento  de  resíduos  ou  esgotos  (FUNASA,  2014),  corroborando
+
+com  os  problemas  apresentados  na  Bacia  do  Rio  Uruguai,  bem  como  em  sua  Sub-bacia  do
+
+Rio  Ijuí,  onde  existem  problemas  relacionados  ao  lançamento  de  efluentes,  e  de  processos
+
+erosivos  decorrentes  das  atividades  realizadas  no  local  (MMA,  2006).  Nesse  contexto,
+
+destaca-se a importância da Lei Federal n° 12.651/2012, que estabelece dentre outros, as APP,
+
+devido  ao  papel  fundamental  que  elas  desenvolvem  na  proteção  dos  recursos  hídricos,
+
+estabilidade geológica, da fauna, da flora e na proteção do solo (BRASIL, 2012).
+
+Em  termos  de  legislação,  não  foi  possível  estabelecer  relação  entre  sólidos
+
+sedimentáveis  e  as  Resoluções  CONAMA  n°  357/2005,  bem  como  a  Lei  Estadual  n°
+
+10.350/1994, pois nestas não estão apresentados VMP para sólidos sedimentáveis.
+
+4.1.10 Temperatura
+
+Na  Tabela  18  estão  apresentados  os  resultados  das  análises  das  amostras  de  água
+
+referente ao parâmetro de temperatura para as 4 estações do ano de 2019.
+
+Tabela 18 – Temperatura das amostras de água do Rio Ijuí no trecho do Município de Cerro
+
+Largo.
+
+Temperatura (°C) dos pontos monitorados
+
+CB  Estação  28,2  Verão  24,1  Outono  17,2  Inverno  Primavera  26,3  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+TA  27,9  22,4  16,5 26,1
+
+PO  28,4  21,8  16,9 26,5
+
+SC  23,4  22,9  16,6 24,9
+
+FI  26,2  23,0  17,3 26,3
+
+De acordo com a Tabela 18 a temperatura da água apresentou variação de 23,4 a 28,4
+
+°C na análise da estação do verão, de 21,8 a 24,1 °C no outono, de 16,5 a 17,3 °C no inverno
+
+e de 24,9 a 26,5 °C na primavera.
+
+64
+
+As  variações  de  temperatura  em  corpos  de  água  são  consequências  do  regime
+
+climático normal, a temperatura sofre influência de fatores como latitude, altitude, estação do
+
+ano, período do dia, taxa de fluxo e profundidade (CETESB, 2018), desta forma foi possível
+
+afirmar  que  as  variações  de  temperaturas  fazem  parte  do  regime  climático  natural  do  local
+
+monitorado.
+
+Levando em consideração as Resoluções CONAMA n° 357/2005, n° 430/2011 e a Lei
+
+Estadual n° 10.350/1994 não foi possível estabelecer relação entre os resultados obtidos para
+
+temperatura  e  a  legislação,  pois  estas  não  apresentam  valores  estabelecidos  para  águas
+
+superficiais de Classe 2. Entretanto, a Resolução CONAMA n° 430/2011 estabelece limite de
+
+temperatura  para  o  lançamento  de  efluentes,  determinando  que  estes  tenham  temperatura
+
+inferior a 40 °C e acarretem alteração de no máximo 3 °C no corpo receptor, no limite da zona
+
+de mistura (BRASIL, 2005; 2011).
+
+4.1.11 Turbidez
+
+Na  Tabela  19  estão  apresentados  os  resultados  referentes  ao  parâmetro  de  turbidez
+
+durante as 4 estações do ano de 2019.
+
+Tabela  19  –  Turbidez  das  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de  Cerro
+
+Largo.
+
+Estação  Verão  Outono  Inverno  Primavera  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí.  Fonte: Elaborado pela autora, 2020.
+
+Turbidez (uT) dos pontos monitorados   PO  74  38  13 30
+
+CB  108  31  10 27
+
+TA  73  56  11 53
+
+SC  57  44  13 29
+
+FI  42  28  10 27
+
+Com relação a turbidez, conforme a Tabela 19 foi possível verificar variação de 57 a
+
+108  uT  no  verão,  de  28 a  56  uT  no  outono,  de  10  a  13  uT  no  inverno  e  de  27  a 53  uT  na
+
+primavera.
+
+A  turbidez  é  ocasionada  pela  presença  de  sólidos  em  suspensão  o  que  pode  ocorrer
+
+naturalmente, ou através da erosão dos solos, embora esgotos domésticos ou outras fontes de
+
+poluição também possam elevar a turbidez (ANA, 2018). O lançamento in natura de esgotos
+
+nos  rios  e  arroios,  erosão  e  assoreamento  dos  cursos  d‟água  são  problemas  na  região  das
+
+65
+
+Missões (COREDE Missões, 2017), então foi possível inferir que os resultados obtidos para
+
+turbidez estão relacionados com as características naturais do solo, bem com o lançamento de
+
+esgotos e os processos erosivos que a região sofre.
+
+Considerando a Resolução CONAMA n° 357/2005, o limite estabelecido para turbidez
+
+é de até 100 uT, desta forma foi possível observar que no ponto CB, na amostragem realizada
+
+na  estação  do  verão,  o  limite  estabelecido  pela  resolução  não  foi  atendido.  Para  os  demais
+
+pontos  analisados,  durante  as  4  estações  do  ano  os  limites  foram  atendidos.  Quanto  a  Lei
+
+Estadual n° 10.350/1994 não foi possível estabelecer relação com os resultados obtidos para
+
+turbidez, pois esta não apresenta VMP.
+
+4.2 DETECÇÃO E QUANTIFICAÇÃO DE MULTIRESÍDUOS DE AGROTÓXICOS
+
+Por  meio  da  CLAE-EM,  foram  determinados  os  agrotóxicos  2,4-D,  atrazina,
+
+azoxistrobina,
+
+bentazona,
+
+carbofurano,
+
+ciproconazol,
+
+clomazona,
+
+difenoconazol,
+
+epoxiconazol,  fipronil,
+
+imazapique,
+
+imazetapir,  malationa,  metsulfurom,  penoxsulam,
+
+piraclostrobina,  pirazossulfurom,  pirimicarbe,  profenofós,  propiconazol,
+
+simazina,
+
+tebuconazol,  tiametoxam  e  trifloxistrobina  de  cinco  pontos  de  amostragem  de  água  em  um
+
+trecho do percurso do Rio Ijuí, no município de Cerro Largo (Figura 3), nas 4 estações do ano
+
+de 2019.
+
+4.2.1 Determinação de multiresíduos de agrotóxicos
+
+Na  Tabela  20  estão  apresentados  os  resultados  das  análises  de  multiresíduos  de
+
+agrotóxicos referente às estações da primavera e do verão, enquanto que, na Tabela 21 estão
+
+apresentados os resultados de multiresíduos de agrotóxicos referente as estações do outono e
+
+inverno.
+
+Tabela  20  –  Quantificação  de  agrotóxicos  nas  amostras  de  água  do  Rio  Ijuí  no  trecho  do  Município  de  Cerro  Largo  nas  estações  da
+
+66
+
+Primavera e do Verão.
+
+Agrotóxicos
+
+2,4-D Atrazina
+
+TA  <LQ 0,167
+
+Concentração µg L-1
+
+Verão
+
+Primavera  SC  <LQ  0,049  ND  ND  ND  ND  ND  <LQ  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  <LQ  ND ND
+
+CB  <LQ  0,072  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  <LQ  ND ND
+
+Fipronil  Imazapique  Imazetapir Malationa
+
+Azoxistrobina  ND  ND  Bentazona  Carbofurano  ND  Ciproconazol  ND  ND  Clomazona  Difenoconazol  ND  Epoxiconazol  ND  ND  ND  0,015  ND  Metsulfurom  ND  ND  Penoxsulam  Piraclostrobina  ND  Pirazossulfurom  ND  ND  Pirimicarbe  Profenofós  ND  Propiconazol  ND  ND  <LQ  ND  Trifloxistrobina  ND  Nota: TA:  Taquarussu;  PO:  Ponte;  SC:  Santa  Cruz;  CB:  Caçador  Baixo;  FI:  Fundão  Ijuí;  ND:  Não  Detectado;  LQm:  Limite  de  Quantificação  do  método;  <  LQm:  abaixo do Limite de Quantificação do método.  Fonte: elaborada pela autora, 2020.
+
+Simazina  Tebuconazol Tiametoxam
+
+FI  <LQ  0,069  <LQ  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  <LQ  ND ND
+
+CB  <LQ  0,013  <LQ  <LQ  <LQ  <LQ  ND  ND  <LQ  <LQ  <LQ  <LQ  <LQ  ND  ND  <LQ  ND  <LQ  1,791  <LQ  <LQ  <LQ  ND 2,744
+
+LQm  1,000  0,010  0,040  0,020  0,020  0,040  0,040  0,100  0,020  0,040  0,010  0,010  0,200  0,100  0,040  0,200  0,040  0,080  0,200  0,020  0,040  0,100  0,200 0,200
+
+PO  <LQ  0,063  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  ND  <LQ  ND ND
+
+PO  <LQ  0,055  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ  <LQ  <LQ  <LQ  0,207  ND  ND  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND <LQ
+
+SC  <LQ  0,019  <LQ  ND  ND  0,086  ND  ND  <LQ  <LQ  ND  0,010  0,737  ND  ND  ND  <LQ  <LQ  ND  <LQ  <LQ  <LQ  ND <LQ
+
+FI  <LQ  0,027  <LQ  ND  ND  0,043  ND  ND  <LQ  <LQ  ND  0,010  <LQ  ND  ND  ND  <LQ  <LQ  ND  <LQ  <LQ  <LQ  ND <LQ
+
+TA  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  ND  <LQ  <LQ  <LQ  ND  <LQ  <LQ  <LQ  ND <LQ
+
+Tabela 21 – Quantificação de agrotóxicos nas amostras de água do Rio Ijuí no trecho do Município de Cerro Largo nas estações do Outono
+
+67
+
+e Inverno.
+
+Agrotóxicos
+
+Concentração µg L-1
+
+Fipronil  Imazapique  Imazetapir Malationa
+
+2,4-D  Atrazina  Azoxistrobina  Bentazona  Carbofurano  Ciproconazol Clomazona
+
+TA  <LQ  0,014  <LQ  <LQ  ND  <LQ  ND  Difenoconazol  ND  Epoxiconazol  ND  ND  ND  ND  <LQ  Metsulfurom  ND  ND  Penoxsulam  Piraclostrobina  ND  Pirazossulfurom  ND  ND  ND  <LQ  <LQ  <LQ  ND  Trifloxistrobina  ND  Nota: TA:  Taquarussu;  PO:  Ponte;  SC:  Santa  Cruz;  CB:  Caçador  Baixo;  FI:  Fundão  Ijuí;  ND:  Não  Detectado;  LQm:  Limite  de  Quantificação  do método;  <  LQm:  inferior ao Limite de Quantificação do método.  Fonte: elaborada pela autora, 2020.
+
+FI  <LQ  0,015  <LQ  <LQ  ND  <LQ  ND  ND  ND  <LQ  ND  <LQ  <LQ  ND  ND  ND  ND  ND  ND  ND  <LQ  <LQ  ND ND
+
+PO  <LQ  0,220  -  ND  ND  ND  -  <LQ  ND  <LQ  ND  ND  -  ND  ND  <LQ  ND  ND  ND  ND  ND  <LQ  ND <LQ
+
+PO  <LQ  0,014  0,049  <LQ  ND  <LQ  ND  ND  ND  <LQ  ND  <LQ  <LQ  ND  ND  ND  ND  ND  ND  ND  <LQ  <LQ  ND ND
+
+TA  ND  ND  -  ND  ND  ND  -  0,133  ND  ND  ND  ND  -  ND  0,052  <LQ  0,064  ND  ND  <LQ  ND  ND  ND <LQ
+
+LQm  1,000  0,010  0,040  0,020  0,020  0,040  0,040  0,100  0,020  0,040  0,010  0,010  0,200  0,100  0,040  0,200  0,040  0,080  0,200  0,020  0,040  0,100  0,200 0,200
+
+FI  <LQ  0,141  -  <LQ  <LQ  ND  -  <LQ  ND  <LQ  ND  ND  -  ND  ND  <LQ  ND  ND  ND  ND  ND  ND  ND <LQ
+
+CB  <LQ  0,136  -  <LQ  <LQ  ND  -  <LQ  ND  <LQ  ND  ND  -  ND  ND  <LQ  ND  ND  ND  <LQ  ND  ND  ND <LQ
+
+CB  <LQ  0,014  <LQ  <LQ  ND  <LQ  ND  ND  ND  <LQ  ND  <LQ  <LQ  ND  ND  ND  ND  ND  ND  <LQ  <LQ  <LQ  ND ND
+
+Inverno  SC  <LQ  0,056  -  ND  <LQ  <LQ  -  0,240  ND  2,215  <LQ  ND  -  ND  ND  ND  ND  ND  ND  ND  ND  <LQ  <LQ <LQ
+
+Outono  SC  <LQ  0,014  <LQ  <LQ  ND  <LQ  ND  ND  ND  <LQ  ND  <LQ  <LQ  ND  ND  ND  <LQ  ND  ND  ND  <LQ  <LQ  ND ND
+
+Pirimicarbe  Profenofós  Propiconazol  Simazina  Tebuconazol Tiametoxam
+
+68
+
+As  informações  de  forma  sintetizada,  acerca  dos  resultados  de  multiresíduos  de
+
+agrotóxicos detectados e não quantificados (< LQm), pelo menos uma vez, em pelo menos um
+
+dos  pontos  de  amostragem,  referente  às  estações  primavera,  verão,  outono  e  inverno  estão
+
+apresentadas no Apêndice I, na Tabela 22.
+
+As  informações  de  forma  sintetizada,  acerca  dos  multiresíduos  de  agrotóxicos
+
+detectados  e  quantificados,  pelo  menos  uma  vez,  em  pelo  menos  um  dos  pontos  de
+
+amostragem, referente às estações primavera, verão, outono e inverno, estão apresentadas no
+
+Apêndice I, na Tabela 23.
+
+Os resultados apresentados nas Tabelas 20 e 21 estão descritos, a seguir, em termos
+
+de multiresíduos de agrotóxicos identificados e não quantificados (< LQm) e de multiresíduos
+
+identificados e quantificados (LQm).
+
+4.2.1.1 Multiresíduos de agrotóxicos identificados e não quantificados
+
+Conforme  foi  possível  verificar  a  partir  das  Tabelas  20  e  21,  para  as  análises  das
+
+amostras de água do Rio Ijuí, realizadas durante o ano de 2019, foram detectados < LQm pelo
+
+menos  uma  vez  os  resíduos  dos  princípios  ativos  de  atrazina,  azoxistrobina,  bentazona,
+
+carbofurano,  ciproconazol,  2,4-D,  difenoconazol,  epoxiconazol,  fipronil,
+
+imazapique,
+
+imazetapir,  malationa,
+
+piraclostrobina,
+
+pirazossulfurom,
+
+pirimicarbe,
+
+profenofós,
+
+propiconazol, simazina, tebuconazol, tiametoxam e trifloxistrobina.
+
+Na  estação  da  primavera,  foi  possível  verificar  a  partir  das  amostras  de  água
+
+analisadas, conforme apresentado na Tabela 20, que entre os agrotóxicos determinados, houve
+
+a  detecção,  porém  abaixo  do  Limite  de  Quantificação  do  método  (<  LQm),  de  2,4-D  e
+
+tebuconazol  em  todos  os  pontos  de  amostragem.  Foram  detectados  ainda,  <  LQm
+
+azoxistrobina (FI) e difenoconazol (SC).
+
+Na  estação  do  verão,  conforme  apresentado  na  Tabela  20  foi  possível  observar  que
+
+foram  detectados,  porém  <  LQm  os  agrotóxicos  de  2,4-D,  azoxistrobina,  epoxiconazol,
+
+fipronil,  pirimicarbe,  propiconazol,  simazina  e  tebuconazol  em  todos  os  pontos  de
+
+amostragem.  Foram  detectados,  ainda,  <  LQm  a  atrazina  (TA),  bentazona  (TA,  PO,  e  CB),
+
+carbofurano  (TA,  PO  e  CB),  ciproconazol  (TA,  PO  CB),  difenoconazol  (TA  e  PO),
+
+imazapique  (TA,  PO  e  CB),  imazetapir  (TA,  PO  e  CB),  malationa  (TA,  CB  e  FI),
+
+piraclostrobina  (TA,  PO  e  CB),  pirazossulfurom  (TA,  PO,  SC  e  FI),  profenofós  (PO)  e
+
+trifloxistrobina (TA, PO, SC, FI). Entre os agrotóxicos detectados, porém não quantificados,
+
+69
+
+na estação do verão, o 2,4-D (herbicida), atrazina (herbicida) estão entre os mais vendidos no
+
+Brasil (IPEA, 2019).
+
+Na estação do outono, conforme apresentado na Tabela 21, foi possível verificar que
+
+houve  detecção,  porém  < LQm,  em  todos  os  pontos  de  amostragem  dos  multiresíduos  de
+
+agrotóxico  2,4-D,  bentazona,  ciproconazol,  malationa,  simazina  e  tebuconazol.  Foram
+
+detectados ainda, abaixo do < LQm, a azoxistrobina (TA, SC, CB, FI), fipronil (PO, SC, CB e
+
+FI), imazetapir (PO, SC, CB e FI), pirazossulfurom (SC) e propiconazol (TA e CB).
+
+Na estação do inverno, conforme apresentado na Tabela 21, foi possível observar que
+
+foram  detectados,  porém  <  LQm,  os  multiresíduos  de  agrotóxicos  de  e  trifloxistrobina  em
+
+todos os pontos de amostragem.  Foram detectados ainda, porém <  LQm o multiresíduos de
+
+2,4-D (PO, SC, CB e FI), bentazona (CB e FI), carbofurano (SC, CB e FI), ciproconazol (SC),
+
+difenoconazol (PO, CB e FI), fipronil (PO, CB e FI), imazapique (SC), piraclostrobina (TA,
+
+PO, CB e FI), propiconazol (TA e CB), tebuconazol (PO e SC), tiametoxam (SC).
+
+Os  parâmetros  de  agrotóxicos  detectados,  porém  não  quantificados,  nas  amostras  de
+
+água  do  Rio  Ijuí,  durante  o  ano  de  2019,  correspondem  aos  indicados  para  as  culturas
+
+praticadas  na  região  da  Bacia  do  Rio  Ijuí  (Tabela  3),  desta  forma,  a  presença  de traços  dos
+
+agrotóxicos determinados corrobora com as intensas atividades agrícolas realizadas na região
+
+das Missões (MMA, 2006).
+
+A concentração traço detectada destes agrotóxicos pode ter relação com o Koc destes
+
+compostos,  devido  a  capacidade  de  ficarem  adsorvidos  ao  solo  superficial  e  não  atingirem
+
+camadas mais profundas,  bem como  com relação ao t1/2, que em alguns casos pode  ter sido
+
+reduzida, devido o intervalo de tempo entre a aplicação do composto e a análise, o que pode
+
+ter permitido a degradação do composto no meio ambiente.
+
+A  determinação,  porém,  não  quantificação  dos  agrotóxicos  se  deu  pelo  fato  da
+
+concentração  detectada  desses  compostos  estarem  <  LQm,  com  base  nos  valores  dos  LQm
+
+validados pelo Laboratório de Química Instrumental considerando os procedimentos descritos
+
+no INMETRO (2018) e conforme apresentados nas Tabelas 20 e 21.
+
+4.2.1.2 Multiresíduos de agrotóxicos identificados e quantificados
+
+Conforme  foi  possível  verificar  a  partir  das  Tabelas  20  e  21,  para  as  análises  das
+
+amostras de água do Rio Ijuí, realizadas durante o ano de 2019, foram detectados acima do
+
+LQm  pelo  menos  uma  vez  os  resíduos  dos  princípios  ativos  de  atrazina,  azoxistrobina,
+
+70
+
+ciproconazol,  difenoconazol,  fipronil,  imazetapir,  malationa,  penoxsulam,  pirazossulfurom,
+
+profenofós e trifloxistrobina.
+
+A atrazina foi detectada e quantificada em todas as amostras das estações da primavera
+
+e do outono. Na estação do verão, a atrazina somente não foi quantificada no ponto TA, nos
+
+demais  pontos,  houve  detecção  e  quantificação.  Na  estação  do  inverno,  a  atrazina  foi  ND
+
+apenas no ponto TA, para as demais amostras de água houve detecção e quantificação.
+
+A  azoxistrobina  foi  quantificada  na  estação  do  outono  (PO).  O  ciproconazol  foi
+
+quantificado  na estação do verão (SC e FI). O difenoconazol foi quantificado na estação do
+
+inverno (TA e SC). O fipronil foi quantificado na estação do inverno (SC). O imazetapir foi
+
+determinado na estação da primavera  (TA), na estação do verão  (SC e  FI).  A malationa foi
+
+determinada  na  estação  do  verão  (PO  e  SC).  O  penoxsulam  foi  determinado  na  estação  do
+
+inverno (TA). O pirazossulfurom foi determinado na estação do inverno  (TA). O profenofós
+
+foi determinado na estação do verão  (CB) e a trifloxistrobina foi determinada na estação do
+
+verão (CB).
+
+A  detecção  e  quantificação  de  traços  desses  agrotóxicos  nas  águas  superficiais
+
+amostradas corrobora com que a utilização de insumos químicos, aplicação de agrotóxicos nas
+
+atividades agrícolas e a mecanização a região das Missões apresentam problemas ambientais
+
+relacionados a contaminação do solo e da água, devido ao uso indiscriminado de agrotóxicos,
+
+perda  de  solo  fértil  por  erosão  e  desmatamento  das  margens  dos  rios  (COREDE  Missões,
+
+2017).
+
+4.2.1.2.1 Estação Primavera
+
+Conforme  descrito  na  Tabela  20,  para  as  amostras  de  água  analisadas  na  estação da
+
+primavera,  foram  identificados  e  quantificados  acima  do  LQm  os  multiresíduos  de
+
+agrotóxicos  dos  herbicidas  atrazina  e  imazetapir,  estando  os  demais  compostos  ausentes  ou
+
+em concentração < LQm.
+
+A  atrazina,  herbicida  de  classificação  toxicológica  III  (Tabela  6),  foi  detectada  em  todos  os  pontos,  nas  concentrações  de  0,167µg  L-1  (TA),  0,063  µg  L-1  (PO),  0,049  µg  L-1 (SC), 0,072 µg L-1 (CB) e 0,069 µg L-1 (FI). Considerando as culturas da Região das Missões,
+
+a época de plantio (Tabela 3) e a data da coleta das amostras, pode-se remeter que a atrazina
+
+tenha sido utilizada na cana-de-açúcar e milho, uma vez que o plantio das culturas de cana-de-
+
+açúcar é realizado entre o início de abril até o final de outubro, enquanto o plantio de milho é
+
+realizado  entre  o  início  do  mês  de  julho  ao  final  de  dezembro  (CONAB,  2019),
+
+71
+
+correspondendo às estações da primavera e do  inverno, inclusive coincidindo com a data da
+
+coleta  das  amostras,  de  forma  a  corroborar  que  esses  compostos  tenham  sido  utilizados  nas
+
+culturas da região.
+
+O herbicida de toxicologia III, imazetapir foi detectado na concentração de 0,015 µg L-1 (TA). Considerando que no RS o período de plantio da soja é realizado entre o início do
+
+mês de outubro até o final de janeiro (CONAB, 2019), e uma das coletas também foi realizada
+
+na  mesma  época  do  início  do  plantio  da  soja  (de  outubro  ao  final  de  janeiro),  foi  possível
+
+inferir  que  o  imazetapir  possivelmente  tenha  sido  utilizado  nesta  cultura.  Em  virtude  desse
+
+composto  ser  considerado  altamente  persistente,  com  t1/2  ≥  60  dias,  lixiviável  no  perfil  do
+
+solo,  com  potencial  associado  a  perdas  por  escoamento  superficial  entre  médio  e  alto,
+
+podendo,  portanto  podendo  causar  contaminação  aos  recursos  hídricos  superficiais
+
+(RODRIGUES, 2016), tal composto pode ter atingido o corpo hídrico devido a ocorrência das
+
+chuvas  nessa  estação  Weather  Underground  (2019)  e  consequentemente  ocorrência  de
+
+drenagem de áreas onde houve aplicação dos agrotóxicos.
+
+Quanto à legislação, aos agrotóxicos determinados nos pontos amostrados, na estação
+
+da  primavera  foi  possível  estabelecer  relação  apenas  com  a  atrazina.  Para  este  parâmetro  a Resolução CONAMA n° 357/2005 estabelece limite de  2,0 µg  L-1, deste modo, foi  possível
+
+ratificar  que  a  atrazina  atende  os  limites  estabelecidos  na  referida  resolução  para  todos  os
+
+pontos  quantificados  nessa  estação.  Quanto  a  Lei  Estadual  n°  10.350/1994  não  foi  possível
+
+estabelecer  relação  com  os  resultados  obtidos  para  os  agrotóxicos,  pois  esta  não  apresenta
+
+VMP.
+
+4.2.1.2.2 Estação Verão
+
+De acordo com a Tabela 20, nas amostras realizadas nesta estação, foram identificados
+
+acima  do  LQm  o  herbicida  atrazina,  o  fungicida  ciproconazol,  o  herbicida  imazetapir,  os
+
+inseticidas  e  acaricidas  malationa  e  profenofós  e  o  fungicida  trifloxistrobina,  estando  os
+
+demais compostos ausentes ou abaixo do LQm.
+
+Conforme  apresentado  na  Tabela  20,  o  resíduo  de  atrazina  foi  detectado  nas concentrações de 0,055 µg L-1 (PO), 0,019 µg L-1 (SC), 0,013 µg L-1 (CB) e 0,027 µg L-1 (FI).
+
+A  atrazina  é  recomendada  para  as  culturas  de  cana-de-açúcar  e  milho  (Tabela  3).
+
+Considerando a data da coleta da amostra, a época de plantio da cultura de cana-de-açúcar e o
+
+t1/2 de aproximadamente  75  dias  da atrazina  no  solo  (IUPAC,  2020)  não  foi  possível  inferir
+
+que sua detecção tenha relação o plantio da cana-de-açúcar. No entanto, considerando que o
+
+72
+
+plantio do milho (Tabela 3) pode ser realizado em duas épocas do ano, de julho a dezembro e
+
+de janeiro ao final de abril, foi possível inferir que sua detecção estava associada ao uso  da
+
+atrazina na plantação desta cultura.
+
+O ciproconazol foi detectado nas concentrações de 0,086 µg  L-1 (SC) e 0,043 µg L-1
+
+(FI).  Conforme  apresentado  na  Tabela  3  o  ciproconazol  é  recomendado  para  as  culturas  de
+
+arroz,  aveia,  cana-de-açúcar,  milho,  soja,  e  trigo.  Considerando  as  culturas  para  as  quais  o
+
+ciproconazol  é  recomendado,  com  a  época  de  plantio  e  a  data  da  coleta  das  amostras,  na
+
+estação do verão, foi possível associar sua detecção com o uso nos plantios de arroz, milho e
+
+soja. Tendo em vista, que o ciproconazol é considerado altamente persistente no solo, com t1/2
+
+de  142  dias,  com  potencial  de  transporte  dissolvido  em  água  superficial  (BRITTO,  2015),
+
+desta  forma,  o  composto  pode  ter  atingido  as  águas  superficiais  por  meio  do  escoamento
+
+superficial, devido ao alto índice de precipitação ocorrida na estação do verão.
+
+O imazetapir foi detectado nas concentrações de 0,010 µg L-1 (SC) e 0,010 µg L-1 (FI).
+
+O plantio de soja é realizado entre o início de outubro até final de janeiro, considerando que o
+
+imazetapir  é  recomendado  para  essa  cultura  (Tabela  3)  e  possui  t1/2  ≥  60  dias,  é  altamente
+
+persistente  no  ambiente,  possui elevada persistência  no  solo  e alto  potencial  de  escoamento
+
+superficial (RODRIGUES, 2016), é possível inferir que o imazetapir tenha sido utilizado nas
+
+culturas de soja.
+
+O composto malationa foi detectado nas concentrações de 0,207 µg L-1 (PO) e 0,737 µg L-1 (SC). O inseticida e acaricida, malationa é da classe toxicológica III (Tabela 6) e possui
+
+t1/2 de 0,17 dias, é recomendada para os cultivos de arroz, milho, pastagens, soja e trigo. Pode-
+
+se descartar sua relação com o plantio de arroz, milho, soja e trigo, pelo fato dessas culturas
+
+não  serem  realizadas  próximas  a  data  da  coleta  e  também  devido  à  malationa  possuir  t1/2
+
+relativamente  curto  (0,17  dias).  Sua  detecção  pode  estar  associada  ao  plantio  de  pastagens
+
+forrageiras  (cultura  perene),  uma  vez  que  estas  são  plantadas  no  verão  (Tabela  3)
+
+(EMBRAPA, 2006).
+
+O  profenofós  foi  detectado  na  concentração  de  1,791  µg  L-1  (CB).  Conforme
+
+apresentado  na  Tabela  3,  o  princípio  ativo  profenofós  é  recomendado  para  as  culturas  de
+
+mandioca,  soja,  milho,  pastagens  e  trigo.  O  plantio  da  mandioca  é  realizado  de  meados  de
+
+agosto até o final de novembro (FEPAGRO, 2011), enquanto as culturas de milho e trigo são
+
+realizadas  após  o  mês  de  março  (CONAB,  2019),  portanto  não  correspondendo  ao  mês  de
+
+detecção  do  profenofós,  desta  forma,  não  foi  possível  associar  o  uso  de  profenofós  aos
+
+cultivos de mandioca, milho ou trigo. As culturas que condizem com a estação do verão são
+
+as de pastagens e de soja. No entanto, não foi possível estabelecer relação entre a presença de
+
+73
+
+profenofós, a data de coleta da amostra e a época de cultivo de soja, uma vez que o t 1/2 deste
+
+agrotóxico é de 7 dias (UIPAC, 2020). Desta forma, foi possível estabelecer relação entre a
+
+data  de  coleta  da  amostra  e  a  época  de  plantio  apenas  para  as  pastagens,  reforçando  que  a
+
+detecção do profenofós tenha relação com a aplicação nesse cultivo.
+
+O  resíduo  de  trifloxistrobina  foi  detectado  na  concentração  de  2,744  µg  L-1  (CB).
+
+Conforme apresentado na Tabela 3 a trifloxistrobina é recomendada para as culturas de cana-
+
+de-açúcar,  soja,  milho,  trigo  e  mandioca,  porém  o  plantio  das  culturas  de  cana-de-açúcar,
+
+milho, trigo e mandioca são realizados após o mês da coleta da amostra de água, de forma que
+
+não  foi  possível  associar  o  plantio  dessas  culturas  à  detecção  de  trifloxistrobina.  O  t1/2  da
+
+trifloxistrobina é de 40 dias, desta forma a detecção da trifloxistrobina pode estar associada a
+
+cultura de soja que tem seu plantio realizado até final de janeiro.
+
+Quanto à legislação, foi possível estabelecer relação entre os agrotóxicos quantificados
+
+na  estação  do  verão  e  a  resolução  CONAMA  n°  357/2005  para  os  parâmetros  atrazina  e
+
+malationa. Para esses agrotóxicos a Resolução CONAMA n° 357/2005 estabelece limites de 2,0 µg  L-1, e de 0,1 µg L-1, respectivamente (Tabela 2). Desta forma, foi possível inferir que a
+
+atrazina  atende  os  limites  estabelecidos  na  referida  resolução  para  todos  os  pontos
+
+quantificados na estação do verão. Enquanto a malationa não atende os limites estabelecidos na resolução na estação do verão, nos pontos PO (0,207 µg L-1) e SC (0,737 µg L-1). Quanto a
+
+Lei  Estadual  n°  10.350/1994  não  foi  possível  estabelecer  relação com  os  resultados  obtidos
+
+para  os  agrotóxicos  detectados,  pois  esta  não  apresenta  VMP  para  os  agrotóxicos
+
+supracitados.
+
+4.2.1.2.3 Estação Outono
+
+Conforme  apresentado  na  Tabela  21  foram  detectados  acima  do  LQm  o  herbicida
+
+atrazina  e  o  fungicida  azoxistrobina  estando  os  demais  compostos  ausentes  ou  abaixo  do
+
+LQm.
+
+A atrazina foi detectada novamente em todos os pontos amostrados, nas concentrações de 0,014 µg L-1 (TA), 0,014 µg L-1 (PO), 0,014 µg L-1 (SC), 0,014 µg L-1 (CB) e 0,015 µg L-1
+
+(FI). Considerando as culturas predominantes da região das missões praticadas no outono, são
+
+realizados os plantios de culturas de cana-de-açúcar e milho (Tabela 3). O plantio da cana-de-
+
+açúcar é realizado entre o início de abril até o final de outubro, enquanto o plantio da primeira
+
+safra de milho é realizado entre o início de julho ao final de dezembro e a segunda safra no
+
+início de janeiro ao final de abril na região Sul do país. Desta forma, a detecção da atrazina
+
+74
+
+pode estar associada ao uso no cultivo dessas duas culturas, principalmente ao uso na segunda
+
+safra  de  milho.  Sendo  assim,  a  detecção  da  atrazina  em  todos  os  pontos  de  amostragem  na
+
+estação do outono, reforça sobre seu elevado potencial de contaminação de águas superficiais
+
+e moderada solubilidade na água (RODRIGUES, 2016) associada às atividades agropecuárias
+
+praticadas na região.
+
+O  fungicida  azoxistrobina  foi  detectado  na  concentração  de  0,049  µg  L-1  (PO).  O
+
+azoxistrobina  é  considerado  perigoso  ao  meio  ambiente,  possui  potencial  intermediário  de
+
+lixiviação no solo, potencial de escoamento superficial de médio a alto e altamente persistente
+
+com t1/2 estimado em 78 dias (RODRIGUES, 2016). Considerando as culturas na Região das
+
+Missões foi possível inferir que a azoxistrobina foi utilizada na cultura de aveia e na cana-de-
+
+açúcar.  No  RS,  o  plantio  da  aveia  é  realizado  entre  o  início  de  abril  ao  final  de  julho
+
+(CONAB, 2019), conforme apresentado na Tabela 3.
+
+Em  termos  de  legislação,  aos  agrotóxicos  determinados  nos  pontos  amostrados,  na
+
+estação  do  outono  foi  possível  estabelecer  relação  apenas  com  a  atrazina.  Neste  caso,  foi
+
+possível  concluir  que  os  pontos  onde  foi  quantificado  a atrazina  nesta  estação,  o parâmetro atende o limite de 2,0 µg L-1 da Resolução CONAMA n° 357/2005. Quanto a Lei Estadual n°
+
+10.350/1994  não  foi  possível  estabelecer  relação  com  os  resultados  obtidos  para  os
+
+agrotóxicos, pois esta não apresenta VMP para estes agrotóxicos.
+
+4.2.1.2.4 Estação inverno
+
+A  partir  dos  resultados  apresentados  na  Tabela  21  foi  possível  observara  detecção,
+
+acima do LQm dos resíduos de agrotóxicos da atrazina, difenoconazol, fipronil, penoxsulam e
+
+pirazossulfurom, estando os demais compostos ausentes ou abaixo do LQm.
+
+As concentrações de atrazina foram de 0,220 µg L-1 (PO), 0,056 µg L-1 (SC), 0,136 µg L-1  (CB)  e  de  0,141 µg  L-1  (FI).  O  inverno  foi  a  estação  que  apresentou  a  maior  média  de
+
+precipitação,  com  relação  ás  demais  estações,  correspondendo  com  as  maiores  valores  de
+
+concentrações do princípio ativo na água, considerando seu potencial de transporte dissolvido
+
+em água superficial (BRITTO, 2015), que corrobora com a possibilidade desse composto ter
+
+sido levado por meio de escoamento superficial até os recursos hídricos.
+
+Entretanto, considerando que as culturas da época, no RS, o plantio da cana-de-açúcar
+
+é realizado entre o início do mês de abril e final de outubro (MERCADO AGRÍCOLA, 2018),
+
+e o plantio da segunda safra do milho é realizado entre  o início de janeiro ao final de abril
+
+(CONAB,  2019),  desta  forma,  foi  possível  inferir  que  a atrazina  tenha  sido  utilizada  nessas
+
+75
+
+culturas. A relação entre a detecção da atrazina, a cultura do milho e a data da coleta, pode ter
+
+sido  pelo  fato  deste  agrotóxico  possuirt1/2  de  aproximadamente  75  dias  da  atrazina  no  solo
+
+(IUPAC, 2020), sendo desta forma, possível sua detecção mesmo após longo período após o
+
+plantio do milho em virtude do seu potencial elevado de contaminação de águas superficiais
+
+(RODRIGUES, 2016).
+
+O  fungicida,  classe  I,  difenoconazol  foi  detectado  nas  concentrações  de  0,133µg  L-1 (TA)  e  de  0,240  µg  L-1  (SC).  Considerando  as  culturas  do  RS,  a  época  de  plantio  e  os
+
+agrotóxicos recomendados conforme apresentado na Tabela 3 foi possível estabelecer relação
+
+com as culturas de milho e trigo. O plantio do milho é realizado entre o início do mês de julho
+
+ao  final  de  dezembro,  correspondendo  às  estações  da  primavera  e  do  inverno,  enquanto  o
+
+plantio de trigo é realizado entre o início do mês de maio ao final de julho, correspondendo as
+
+estações  do  outono  e  do inverno  (CONAB,  2019).  Deste  modo,  foi  possível  concluir  que  o
+
+Difenoconazol tenha sido utilizado nessas culturas.
+
+O resíduo de fipronil foi detectado na concentração de 2,215 µg L-1 (SC), conforme a
+
+ANVISA (2017), o fipronil é um inseticida, formicida e acaricida de Classe II. Considerando
+
+as  culturas  do  RS,  com  a  época  de  plantio  e  os  agrotóxicos  recomendados  conforme
+
+apresentado na Tabela 3 foi possível ratificar que o fipronil tenha sido utilizado nas culturas
+
+de cana-de-açúcar, milho e trigo.
+
+O  penoxsulam  foi  detectado  na  concentração  de  0,052  µg  L-1  (TA),  conforme    a
+
+ANVISA  (2017),  o  agrotóxico  penoxsulam  é  um  herbicida  de  Classe  II  recomendado  para
+
+plantações de arroz (Tabela 6). Considerando as culturas do RS, com a época de plantio e os
+
+agrotóxicos  recomendados  não  foi  encontrado  relação  com  nenhuma  das  culturas
+
+apresentadas na Tabela 3.
+
+O  pirazossulfurom  foi  detectado  na  concentração  de  0,064  µg  L-1  (TA),  conforme  a
+
+ANVISA  (2017)  o  herbicida  é  recomendado  para  as  culturas  de  arroz  somente  (Tabela  3).
+
+Considerando  as  demais  culturas  praticadas  do  RS  na  estação  do  inverno,  com  a  época  de
+
+plantio  e  os  agrotóxicos  recomendados  conforme  apresentado  na  Tabela  3  descarta-se  a
+
+possibilidade da detecção do  pirazossulfurom ter relação com  as culturas de aveia,  cana-de-
+
+açúcar,  mandioca,  milho,  pastagens,  soja  ou  trigo.  Sendo  possível  inferir  relação  do  uso  de
+
+pirazossulfurom apenas com a cultura de arroz.
+
+Quanto à legislação, aos agrotóxicos determinados nos pontos amostrados, na estação
+
+do inverno foi  possível ratificar  que os agrotóxicos detectados,  atendem o  estabelecido pela
+
+Resolução  CONAMA  n°  357/2005.  Em  relação  a  Lei  Estadual  n°  10.350/1994  não  foi
+
+possível  estabelecer  relação  com  os  resultados  obtidos  para  os  agrotóxicos,  pois  esta  não
+
+apresenta VMP.
+
+76
+
+77
+
+5 CONCLUSÃO
+
+Considerando a poluição causada pelo lançamento de efluentes, o manejo inadequado
+
+do solo e o expressivo uso de agrotóxicos no estado do RS, e ainda, os escassos estudos de
+
+monitoramento  de  águas  superficiais  da  região  dos  pontos  de  amostragem  e  os  objetivos
+
+propostos neste estudo foi possível concluir que:
+
+Em  relação  aos  resultados  obtidos  das  análises  da  água  para  os  parâmetros  físicos,
+
+químicos e microbiológicos, exceto agrotóxicos dos pontos amostrados do Rio Ijuí, no trecho
+
+do município de Cerro Largo/RS, foi possível constatar que o parâmetro turbidez, na estação
+
+do verão, no ponto CB não atendeu ao limite de ≤ 100 uT estabelecido com pela Resolução
+
+CONAMA n° 357/2005, sendo portanto um  indicativo de problemas associados a processos
+
+erosivos  e/ou  lançamento  de  efluentes  neste  local.  A  ocorrência  de  coliformes  totais  e
+
+coliformes Escherichia coli em 100% das amostras é um indicativo da presença de material
+
+fecal no curso d‟água, o que pode estar relacionado com a criação de animais, bem como, com
+
+o lançamento de efluentes domésticos, condizendo com a falta de saneamento básico de forma
+
+a  corroborar  com  o  descrito  na  literatura.  Quanto  aos  demais  parâmetros  analisados
+
+(absorvância  UV  (λ-254  nm),  condutividade  elétrica,  cor  aparente,  sólidos  sedimentáveis  e
+
+temperatura), estes não possuem VMP nas Resoluções CONAMA n° 357/2005, bem como na
+
+Lei n° 10.350/1994 do Estado do Rio Grande do Sul.
+
+Quanto aos parâmetros de agrotóxicos, entre os 24 compostos determinados, 21 foram
+
+detectados  < LQm,  enquanto  11  foram  detectados  e  quantificados.  Aos  agrotóxicos
+
+determinados,  a  Resolução  CONAMA  n°  357/2005  estabelece  VMP  apenas  para  atrazina (2 µg L-1), malationa (0,1 µg L-1) e simazina (2 µg L-1).
+
+Desta  forma,  foi  possível  observar  que  entre  os  agrotóxicos  detectados,  a  atrazina
+
+estava <  LQm e para a simazina os resultados estavam <  LQm ou ND  de forma atender os
+
+VMP  estabelecido  pela  resolução.  A  malationa  não  atendeu  os  VMP  estabelecidos  pela
+
+resolução na estação do verão, nos pontos PO e SC.
+
+Deste  modo,  o  estudo  realizado  indica  que  a  utilização  de  agrotóxicos  na  produção
+
+agrícola, concomitantemente com as práticas agrícolas inadequadas e o desmatamento causam
+
+erosão  e  carreamento  de  sedimentos  aos  cursos  de  água,  representando  problemas  podem
+
+contribuir  para  a  poluição  das  águas  superficiais  na  região.  Entretanto,  estudos
+
+complementares  e  de  monitoramento  são  necessários  para  a  compreensão  da  poluição  em
+
+médio  prazo  (10  anos),  em  especial  para  se  identificar  a  capacidade  de  autodepuração  do
+
+corpo hídrico em estudo no tocante a poluição por compostos agrotóxicos.
+
+78
+
+Os resultados obtidos também ratificam a necessidade de atribuição de limites aos
+
+parâmetros  analisados  neste  estudo,  especialmente  aos  agrotóxicos  que  não  possuem  VMP
+
+estabelecido na legislação ambiental, devido a sua toxicidade e os possíveis efeitos adversos
+
+ao meio ambiente.
+
+Enfim,  sugere-se  que  seja  dada  continuidade  aos  estudos  de  monitoramento  dos
+
+parâmetros analisado, bem como demais parâmetros estabelecidos em legislação, para fins de
+
+identificar se pode haver ao longo do tempo a contaminação deste recurso hídrico. Para isso
+
+pode  ser  realizada  a  análise  de  amostras  de  água  com  base  nos  parâmetros  utilizados  para
+
+determinação  do  Índice  de  Qualidade  da  Água  (IQA),  bem  como  dos  parâmetros  de
+
+agrotóxicos correspondentes ao uso agrícola da região.
+
+79
+
+
+
+86
+
+Tabela  22  –  Multiresíduos  de  agrotóxicos,  detectados  e  não  quantificados  (<  LQm),  pelo  menos  uma  vez  em  pelo  menos  um  dos  pontos  de amostragem nas estações da primavera, verão, outono e inverno.
+
+Agrotóxicos
+
+2,4-D  Azoxistrobina  Difenoconazol Tebuconazol
+
+2,4-D  Atrazina  Azoxistrobina  Bentazona  Carbofurano  Ciproconazol  Difenoconazol  Epoxiconazol  Fipronil  Imazapique  Imazetapir  Malationa  Piraclostrobina  Pirazossulfurom  Pirimicarbe  Profenofós  Propiconazol  Simazina  Tebuconazol Trifloxistrobina
+
+Concentração µg L-1 Primavera
+
+TA  <LQ  ND  ND <LQ
+
+PO  <LQ  ND  ND <LQ
+
+SC
+
+<LQ  ND  <LQ <LQ
+
+CB  <LQ  ND  ND <LQ
+
+FI  <LQ  <LQ  ND <LQ
+
+LQm  1,000  0,040  0,100 0,100
+
+Verão
+
+0,086
+
+<LQ  <LQ  <LQ  0,019  <LQ  0,055  <LQ  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ  ND  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ  0,207  <LQ  <LQ  <LQ  ND  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  ND  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ <LQ
+
+0,010 0,737
+
+<LQ  1,000  <LQ  0,027  0,010  0,013  0,040  <LQ  <LQ  0,020  ND  <LQ  ND  0,020  <LQ  0,043  0,040  <LQ  0,100  ND  ND  0,020  <LQ  <LQ  0,040  <LQ  <LQ  ND  0,010  <LQ  0,010  0,010  <LQ  0,200  <LQ  <LQ  0,200  ND  <LQ  0,040  <LQ  ND  0,080  <LQ  <LQ  0,200  1,791  ND  0,020  <LQ  <LQ  0,040  <LQ  <LQ  0,100  <LQ  <LQ  0,200  <LQ 2,744
+
+Agrotóxicos
+
+2,4-D  Azoxistrobina  Bentazona  Ciproconazol  Fipronil  Imazetapir  Malationa  Pirazossulfurom  Propiconazol  Simazina Tebuconazol
+
+2,4-D  Bentazona  Carbofurano  Ciproconazol  Difenoconazol  Fipronil  Imazapique  Piraclostrobina  Propiconazol  Tebuconazol  Tiametoxam Trifloxistrobina
+
+Concentração µg L-1  Outono  CB  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ <LQ
+
+SC  PO  TA  <LQ  <LQ  <LQ  0,049  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  <LQ  <LQ  ND  <LQ  <LQ  <LQ  <LQ  ND  ND  ND  <LQ  ND  <LQ  <LQ  <LQ  <LQ  <LQ <LQ
+
+FI  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  <LQ  ND  ND  <LQ <LQ
+
+<LQ  ND  ND  ND  ND  ND  ND  ND  0,133  <LQ  <LQ  ND  ND  ND  <LQ  <LQ  <LQ  ND  <LQ  ND  ND  ND  <LQ <LQ
+
+Inverno
+
+<LQ  <LQ  <LQ  ND  <LQ  <LQ  <LQ  ND  0,240  <LQ  2,215  <LQ  ND  <LQ  <LQ  ND  <LQ  ND  ND  <LQ  ND  <LQ  <LQ <LQ
+
+<LQ  <LQ  <LQ  ND  <LQ  <LQ  ND  <LQ  ND  ND  ND <LQ
+
+LQm  1,000  0,040  0,020  0,040  0,040  0,010  0,200  0,040  0,020  0,040 0,100
+
+1,000  0,020  0,020  0,040  0,100  0,040  0,010  0,200  0,020  0,100  0,200 0,200
+
+Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo; FI: Fundão Ijuí; ND: Não Detectado;  LQm: Limite de Quantificação do método; < LQm: abaixo do  Limite de Quantificação do método.  Fonte: elaborada pela autora, 2020.
+
+87
+
+Tabela 23  – Multiresíduos de agrotóxicos, detectados e quantificados, pelo menos uma vez,  em  pelo  menos  um  dos  pontos  de  amostragem  nas  estações  da  primavera,  verão,  outono  e inverno.
+
+Agrotóxicos
+
+Atrazina Imazetapir
+
+TA  0,167 0,015
+
+Atrazina  Ciproconazol  Imazetapir  Malationa Profenofós
+
+<LQ  <LQ  <LQ  <LQ  ND Trifloxistrobina  <LQ
+
+Atrazina Azoxistrobina
+
+0,014 <LQ
+
+PO  0,063 ND
+
+0,055  <LQ  <LQ  0,207  <LQ <LQ
+
+0,014 0,049
+
+Concentração µg L-1  Primavera  CB  0,072 ND
+
+SC  0,049 ND
+
+Verão
+
+0,019  0,086  0,010  0,737  ND <LQ
+
+0,013  <LQ  <LQ  <LQ  1,791 2,744
+
+0,014 <LQ
+
+Outono
+
+0,014 <LQ
+
+Inverno
+
+FI  0,069 ND
+
+0,027  0,043  0,010  <LQ  ND <LQ
+
+0,015 <LQ
+
+LQm  0,010 0,010
+
+0,010  0,040  0,010  0,200  0,200 0,200
+
+0,010 0,040
+
+Atrazina  Difenoconazol  Fipronil Penoxsulam
+
+ND  0,133  ND  0,052  Pirazossulfurom  0,064  Nota: TA: Taquarussu; PO: Ponte; SC: Santa Cruz; CB: Caçador Baixo;  FI: Fundão Ijuí; ND: Não Detectado;  LQm: Limite de Quantificação do método; < LQm: abaixo do Limite de Quantificação do método.  Fonte: elaborada pela autora, 2020.
+
+0,136  <LQ  <LQ  ND ND
+
+0,141  <LQ  <LQ  ND ND
+
+0,010  0,100  0,040  0,040 0,040
+
+0,056  0,240  2,215  ND ND
+
+0,220  <LQ  <LQ  ND ND
+

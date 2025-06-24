@@ -1,0 +1,6794 @@
+
+
+MONITORIZAÇÃO DE PESTICIDAS EM MEIOS HÍDRICOS
+
+GABRIEL LAENDER TELES DE FREITAS
+
+Tese de Mestrado em Engenharia Química no contexto do Programa de Dupla
+
+Diplomação entre o Instituto Politécnico de Bragança e o Centro Federal de
+
+Educação Tecnológica de Minas Gerais
+
+Orientação
+
+Prof. Doutora Ana Queiroz  Prof. Doutor Paulo Brito Prof. Doutor António Ribeiro
+
+Coorientação
+
+Prof. Doutora Patrícia Patrício
+
+BRAGANÇA
+
+
+
+
+
+RESUMO
+
+O trabalho realizado tem o objetivo de desenvolver uma metodologia analítica para a
+
+monitorização de micropoluentes em meios hídricos. Foi selecionado para estudo um
+
+grupo de 11 pesticidas tendo por base aqueles mais utilizados na região nordeste de
+
+Portugal e no Brasil.
+
+Esta metodologia baseia-se numa etapa de extração em fase sólida (SPE) seguida de
+
+quantificação  por  cromatografia  gasosa  em  fase  acoplada  com  espetrometria  de
+
+massas (GC-MS).
+
+Na  otimização  da  etapa  de  extração  utilizam-se  cartuchos  com  adsorvente  de
+
+poli(divinilbenzeno-co-N-vinilpirrolidona
+
+(Chromabond
+
+HLB).  Optou-se  por
+
+desenvolver  os  estudos  de  SPE  utilizando  um  grupo  de  pesticidas  solúveis  em
+
+metanol e outro grupo solúvel em hexano. A metodologia de extração proposta obteve
+
+recuperações  superiores  a  78%  para  uma  mistura  composta  pelos  pesticidas
+
+dimetoato, terbutilazina e heptacloro.
+
+Na identificação e quantificação por GC-MS, os limites de deteção e de quantificação
+
+foram estimados através das curvas de calibração obtidas por análise sem extração
+
+de  soluções padrão  de  dimetoato,  terbutilazina  e heptacloro.  Os  limites de deteção
+
+obtidos, são de 0,003 mg/L para o heptacloro, 0,066 mg/L para a terbutilazina e 1,98
+
+mg/L  para  o  dimetoato.  Devido  à  pouca  exatidão  dos  resultados,  decidiu-se  a
+
+utilização do método do padrão interno para melhores resultados.
+
+Devido  à  situação  de  pandemia  e  à  obrigatoriedade  de  confinamento  imposta  pelo
+
+governo português, foi possível estudar apenas as condições operatórias de análise
+
+utilizando padrões analíticos e sem utilizar a etapa inicial de extração por SPE. Estava
+
+prevista a validação do método utilizando amostras recolhidas de 3 rios de Bragança,
+
+rio Fervença, Sabor e Onor, contudo, esta não foi realizada.
+
+Palavras-chave: poluentes emergentes; pesticidas; risco ambiental; extração em fase
+
+sólida; cromatografia gasosa acoplada com espetrometria de massas.
+
+
+
+
+
+ÍNDICE
+
+Lista de Tabelas  Lista de Figuras Lista de Abreviaturas
+
+1. INTRODUÇÃO
+
+1.1 Enquadramento
+
+1.2 Objetivos
+
+1.3 Descrição dos capítulos do trabalho
+
+2. POLUENTES EMERGENTES EM RECURSOS HÍDRICOS
+
+2.1 Classificação dos poluentes emergentes
+
+2.2 Os pesticidas como grupo prioritário
+
+2.2.1 Fungicidas
+
+2.2.2 Bactericidas
+
+2.2.3 Herbicidas
+
+2.2.4 Inseticidas
+
+2.3 Legislação brasileira e portuguesa sobre os pesticidas
+
+2.4  Métodos  de  remoção  de  poluentes  emergentes  em  meios
+
+hídricos
+
+3.TÉCNICAS E MÉTODOS PARA MONITORIZAÇÃO DE PESTICIDAS
+
+3.1 Monitorização de pesticidas
+
+3.2 Pesticidas selecionados
+
+4. MATERIAIS E MÉTODOS
+
+4.1 Reagentes
+
+4.2 Material e equipamento
+
+4.2.1 Sistema de extração em fase sólida
+
+4.2.2 Sistema de cromatografia gasosa acoplado com espetrometria de
+
+massas
+
+4.3 Metodologia experimental
+
+4.3.1 Otimização das condições operatórias em GC-MS
+
+i  ii iii
+
+1
+
+1
+
+2
+
+3
+
+5
+
+7
+
+8
+
+10
+
+11
+
+11
+
+12
+
+13
+
+14
+
+16
+
+16
+
+25
+
+36
+
+36
+
+36
+
+37
+
+37
+
+38
+
+39
+
+4.3.2 Otimização das condições operatórias em SPE
+
+4.3.3 Validação da metodologia experimental desenvolvida
+
+5. RESULTADOS E DISCUSSÃO
+
+5.1 Otimização do método de análise e quantificação por GC-MS
+
+5.1.1 Separação e identificação dos 11 pesticidas
+
+5.1.2 Análises realizadas com injetor em modo Split e detetor de massas
+
+em modo de varrimento FullScan
+
+5.1.3 Influência do método do padrão interno em análises sem extração
+
+5.1.4 Estudo das análises em modo SIM ou FullScan
+
+5.1.5 Influência do modo de injeção Split/Splitless em modo SIM
+
+5.1.6  Estudos  de  repetibilidade  e  reprodutibilidade  em  análises  sem
+
+extração
+
+5.2 Otimização da técnica de extração por SPE
+
+5.2.1 Seleção do tipo de adsorvente utilizado
+
+5.2.2 Otimização do tipo de solvente a utilizar na etapa de eluição
+
+5.2.3 Seleção das condições operatórias das 4 etapas de SPE
+
+5.2.4 Determinação das recuperações
+
+6. CONCLUSÕES E SUGESTÕES PARA TRABALHO FUTURO
+
+6.1 Conclusões
+
+6.2 Sugestões para trabalho futuro
+
+7. REFERÊNCIAS
+
+8. ANEXOS
+
+42
+
+44
+
+49
+
+49
+
+50
+
+58
+
+62
+
+68
+
+71
+
+72
+
+74
+
+75
+
+75
+
+76
+
+78
+
+82
+
+82
+
+84
+
+86
+
+95
+
+LISTA DE TABELAS
+
+Tabela 2.1
+
+Classes e exemplos de poluentes emergentes.
+
+Tabela 2.2
+
+Legislação para potabilidade da água no Brasil.
+
+Tabela 3.1
+
+Algumas  propriedades  físico-químicas  dos  pesticidas  selecionados  para estudo.
+
+Tabela 3.2
+
+Nível de solubilidade em água dos pesticidas selecionados para estudo.
+
+Tabela 3.3
+
+Principais referências encontradas na literatura, relativamente às técnicas de  extração, métodos de quantificação, limites de deteção e quantificação para os pesticidas propostos para estudo e referidos na Tabela 3.1.
+
+Tabela 5.1
+
+Condições operatórias do “Método 1” utilizado na análise por GC-MS.
+
+Tabela 5.2
+
+Tabela 5.3
+
+Tabela 5.4
+
+Tabela 5.5
+
+Tabela 5.6
+
+Tabela 5.7
+
+Tabela 5.8
+
+Tabela 5.9
+
+Tabela 5.10
+
+Tabela 5.11
+
+Tempo de retenção para cada pesticida com uma concentração de 50 mg/L em metanol, utilizando o Método 1.
+
+Tempo de retenção e área obtida por GC-MS para os 5 pesticidas com uma concentração de 50 mg/L em hexano e utilizando o Método 2.
+
+Tempos de retenção e valores das áreas cromatográficas obtidas na análise  dos padrões individuais dos 8 pesticidas com uma concentração de 100 mg/L,  por GC-MS utilizando uma razão de Split de 1:10 e em modo de varrimento FullScan.
+
+Resultados do estudo da linearidade das análises por GC-MS sem extração e  sem  utilizar  o  método  do  padrão  interno,  gamas  de  linearidade  (y=a+bx),  ordenada  na  origem (a), declive (b)  e respetivos erros a 95%  de confiança,  coeficientes de determinação (R2), limites de deteção (LD) e de quantificação  (LQ)  e  coeficiente  de  variação  do  método  (CVm)  para  os  3  pesticidas estudados.
+
+Resultados do estudo da linearidade das análises por GC-MS sem extração e  utilizando  o  método  do  padrão  interno,  gamas  de  linearidade  (y=a+bx),  ordenada  na  origem (a), declive (b)  e respetivos erros a 95%  de confiança,  coeficientes de determinação (R2), limites de deteção (LD) e de quantificação  (LQ)  e  coeficiente  de  variação  do  método  (CVm)  para  os  3  pesticidas estudados.
+
+Iões  selecionados  para  a  análise  de  cada  um  dos  8  pesticidas  utilizando  o modo SIM.
+
+Resultados experimentais obtidos para a repetibilidade utilizando a mistura M1 com uma concentração de 10 mg/L.
+
+Resultados experimentais obtidos para a reprodutibilidade utilizando a Mistura M1 com uma concentração de 10 mg/L.
+
+Áreas obtidas para as amostras recolhidas nas duas etapas finais de eluição  em cada uma das 3 réplicas da solução padrão de cada pesticida com uma concentração de 10 mg/L.
+
+Valores  de  massa,  concentração,  áreas  médias,  razão  entre  as  áreas  dos  pesticidas e do PI (A/API)média, razão entre a concentração dos pesticidas e do PI (C/CPI) e constante (K) calculados no estudo do padrão 10 mg/L.
+
+Tabela 5.12  Concentrações e massas determinadas de cada pesticida para o padrão 1
+
+Tabela 5.13  Concentrações e massas determinadas de cada pesticida para o padrão 2
+
+Tabela 5.14  Concentrações e massas determinadas de cada pesticida para o padrão 3
+
+Tabela 5.15  Resultados  da  percentagem  de  recuperação  média  dos  3  padrões  para  os
+
+pesticidas estudados.
+
+i
+
+7
+
+14
+
+18
+
+19
+
+22
+
+50
+
+53
+
+57
+
+60
+
+65
+
+65
+
+69
+
+72
+
+73
+
+78
+
+79
+
+80
+
+80
+
+80
+
+80
+
+LISTA DE FIGURAS
+
+Figura 3.1
+
+Representação esquemática das 4 etapas fundamentais da extração por SPE.
+
+Figura 3.2
+
+Esquema de funcionamento de um sistema de cromatografia gasosa acoplado com espetrometria de massas.
+
+Figura 3.3
+
+Estrutura química do acetocloro.
+
+Figura 3.4
+
+Estrutura química do alacloro.
+
+Figura 3.5
+
+Estrutura química do dimetoato.
+
+Figura 3.6
+
+Estrutura química do epoxiconazol.
+
+Figura 3.7
+
+Estrutura química do glifosato.
+
+Figura 3.8
+
+Estrutura química do heptacloro.
+
+Figura 3.9
+
+Estrutura química do imidacloprida.
+
+Figura 3.10
+
+Estrutura química do MCPA.
+
+Figura 3.11
+
+Estrutura química do metolacloro.
+
+Figura 3.12
+
+Estrutura química do tebuconazol.
+
+Figura 3.13
+
+Estrutura química do terbutilazina.
+
+Figura 4.1
+
+Sistema de extração em fase sólida (a) e Cartuchos utilizados para o processo de extração Chromabond (b).
+
+Figura 4.2
+
+Sistema de GC-MS da Shimatzu, modelo QP2020.
+
+Figura 5.1
+
+Figura 5.2
+
+Figura 5.3
+
+Figura 5.4
+
+Figura 5.5
+
+Figura 5.6
+
+Cromatogramas  individuais  dos  11  pesticidas  preparados  em  metanol,  com uma concentração de 50 mg/L e utilizando o Método 1.
+
+Cromatogramas  individuais  dos  5  pesticidas  com  uma  concentração  de  50 mg/L e utilizando o Método 2.
+
+Cromatogramas individuais dos 5 pesticidas, preparados em hexano com uma concentração de 50 mg/L e utilizando o Método 2.
+
+Cromatogramas  dos  8  padrões concentração de 100 mg/L e utilizando o Método 3.
+
+individuais  dos  pesticidas  com  uma
+
+Sobreposição  dos  cromatogramas  dos  6  pesticidas  preparados  em  metanol com concentração de 100 ppm.
+
+Sobreposição  dos  cromatogramas  dos  2  pesticidas  preparados  em  hexano com concentração de 100 ppm.
+
+Figura 5.7
+
+Cromatograma do trifenilmetano.
+
+Figura 5.8
+
+Figura 5.9
+
+Figura 5.10
+
+Figura 5.11
+
+Figura 5.12
+
+Curva  de  calibração  dos  3  pesticidas  presentes  na  mistura  1  sem  utilizar  o padrão interno.
+
+Curvas  de  calibração  dos  3  pesticidas  presentes  na  mistura  1  utilizando  o padrão interno.
+
+Cromatogramas da Mistura 1, obtidos com o injetor em Splitless e (a) em modo SIM e (b) em modo FullScan.
+
+Cromatogramas da mistura 1, obtidos em SIM e com o injetor em (a) Splitless e (b) Split (1:10).
+
+Diagrama  representativo  da  técnica  de  SPE  otimizada  para  a  extração  de pesticidas em amostras aquosas.
+
+ii
+
+20
+
+20
+
+26
+
+26
+
+28
+
+29
+
+29
+
+31
+
+32
+
+33
+
+33
+
+34
+
+35
+
+37
+
+38
+
+51
+
+55
+
+56
+
+59
+
+61
+
+62
+
+63
+
+66
+
+66
+
+70
+
+71
+
+77
+
+iii
+
+LISTA DE ABREVIATURAS
+
+CEFET-MG
+
+Centro Federal de Educação Tecnológica de Minas Gerais
+
+CTN
+
+ETA
+
+ETE
+
+GC
+
+GC-ECD
+
+GC-MS
+
+HPLC
+
+HPLC-FLD
+
+HPLC-DAD
+
+HPLC-ESI
+
+HPLC-MS
+
+HSF
+
+IPB
+
+Nanotubos de Carbono
+
+Estação de Tratamento de Água
+
+Estação de Tratamento de Esgotos
+
+Cromatografia em fase Gasosa
+
+Cromatografia Gasosa com Detetor de Captura de Eletrões
+
+Cromatografia Gasosa acoplada com Espetrometria de Massas
+
+Cromatografia Líquida de Alta Eficiência
+
+Cromatografia Líquida de Alta Eficiência com Detetor de Fluorescência
+
+Cromatografia Líquida com Detetor de Arranjo de Díodos
+
+Cromatografia  Líquida  de  Alta  Eficiência  com Eletronebulização
+
+Ionização  por
+
+Cromatografia  Líquida  de  Alta  Eficiência  acoplada  com  Espetrometria de Massas.
+
+Hormonas Sexuais Femininas
+
+Instituto Politécnico de Bragança
+
+LC-APCI-MS/MS
+
+Cromatografia  Líquida  com  Fonte  de  Ionização  Química  a  Pressão Atmosférica acoplada com Espetrometria de Massas.
+
+LC-MS
+
+Cromatografia líquida acoplada com espetrometria de massas
+
+LD
+
+LLE
+
+LQ
+
+mNTC
+
+PE
+
+PI
+
+Limite de Deteção
+
+Extração Líquido-Líquido
+
+Limite de Quantificação
+
+Nanotubos  de  Carbono  Híbridos  e  Anfifílicos  com  Propriedades Magnéticas
+
+Poluentes Emergentes
+
+Padrão Interno
+
+QuEChERS
+
+Quick, Easy, Cheap, Effective, Rugged, Safe
+
+RP-HPLC
+
+Cromatografia Líquida de Alta de Eficiência em Fase Reversa
+
+SIM
+
+SPE
+
+SPME
+
+TIC
+
+Monitoramento de Ião Selecionado
+
+Extração em Fase Sólida
+
+Microextração em Fase Sólida
+
+Cromatograma  obtido  pela  soma  das  intensidades  de  corrente  iónica total de todos os fragmentos de massa
+
+UPLC-MS
+
+Cromatografia Líquida de Ultra Eficiência acoplada com Espetrometria de massa
+
+1
+
+1. INTRODUÇÃO
+
+1.1 Enquadramento
+
+A análise da poluição em meios hídricos tem sido um tema cada vez mais relevante
+
+no  âmbito  dos  estudos  ambientais.  Com  o  passar  dos  anos,  os  meios  hídricos
+
+tornaram-se recetores de diferentes tipos de poluentes oriundos de diversas fontes,
+
+como  sejam  o  setor  industrial,  as  atividades  agrárias  e  pecuárias,  os  resíduos
+
+hospitalares, entre outros.
+
+Com o desenvolvimento de novas atividades e novas reações químicas, os resíduos
+
+têm-se  tornado  cada  vez  mais  complexos  podendo  vir  a  representar  um  perigo
+
+potencial  não  só  para  a  fauna  e  flora  aquática,  como  também  para  o  ser  humano.
+
+Dentre os diversos poluentes, destacam-se os pesticidas, os fármacos, os produtos
+
+de higiene pessoal, os nanomateriais, entre outros.
+
+Os  poluentes  emergentes  têm  sido  encontrados  em  diversos  corpos  de  água  em
+
+concentrações muito baixas, chegando até mesmo a níveis inferiores a 1 miligrama
+
+por bilião (ppb), dificultando não só a sua identificação e quantificação, como também
+
+o desenvolvimento de métodos eficientes para o tratamento de águas contaminadas.
+
+Atualmente, as  estações  de  tratamento  de  água  (ETA)  e de  esgoto  (ETE)  não têm
+
+condições  de  realizar  o  tratamento  eficaz  de  água  e  lixiviados  contendo  esses
+
+poluentes, existindo assim um interesse crescente em desenvolver metodologias para
+
+identificar  e  quantificar  e  remover  esses  compostos,  garantindo  a  proteção  do  ser
+
+humano.
+
+Um dos principais grupos de poluentes são os pesticidas, normalmente utilizados na
+
+agricultura. Estes compostos são classificados em herbicidas, inseticidas, fungicidas,
+
+entre  outras  classes.  Uma  das  principais  características  que  definem  os  pesticidas
+
+como  possível  problema  para  o  meio  ambiente  é  a  capacidade  que  alguns  destes
+
+compostos tem de migrar para os solos, alimentos ou aquíferos, contaminando toda a
+
+cadeia alimentar.
+
+2
+
+Neste  contexto,  torna-se  necessário  o  desenvolvimento  de  novas  metodologias  e
+
+técnicas experimentais ou o aperfeiçoamento das já existentes, para quantificação e
+
+identificação desses compostos, seja por questões ambientais ou de saúde pública.
+
+Este  trabalho  propõe  um  método  de  análise  e  quantificação  para  11  pesticidas  em
+
+meios aquosos, sendo eles, o acetocloro, alacloro, dimetoato, epoxiconazol, glifosato,
+
+heptacloro,  imidacloprida,  metolacloro,  MCPA,  tebuconazol  e  a  terbutilazina.  A
+
+metodologia proposta baseia-se na extração em fase sólida (SPE) seguida da análise
+
+e  quantificação  por  cromatografia  gasosa  acoplada  com  espetrometria  de  massas
+
+(GC-MS).
+
+Realiza-se o estudo e a otimização das condições operatórias quer para a técnica de
+
+extração/concentração  por  SPE,  quer  das  condições  operatórias  do  sistema  de
+
+análise e quantificação utilizando um sistema de GC-MS.
+
+A  otimização  do  método  de  extração  por  SPE  engloba  a  seleção  do  tipo  de
+
+adsorvente, do volume e tipo de solventes, assim como os caudais a utilizar em cada
+
+passo  do  processo  de  extração  para  cada  pesticida  ou  classe  de  pesticidas.  No
+
+processo  cromatográfico,  otimizam-se  as  condições  operatórias  como  sejam  o
+
+programa  de  temperaturas  e  a  razão  de  Split  na  injeção  da  amostra  de  forma  a
+
+maximizar a resolução e a aumentar os limites de deteção e quantificação. Estudou-
+
+se ainda a utilização do método do padrão interno (PI) na otimização da linearidade
+
+das  curvas  de  calibração.  Em  relação  à  deteção  por  espetrometria  de  massas
+
+compararam-se análises em modo de deteção por FullScan (Varrimento completo) e
+
+modo SIM (Monitoramento do ião selecionado)
+
+1.2 Objetivos
+
+Com este trabalho pretende-se realizar uma revisão bibliográfica sistemática sobre as
+
+diferentes classes de poluentes emergentes (PE) em matrizes aquosas. Atendendo
+
+que na região de Bragança, o setor agrícola tem uma forte relevância, este estudo foi
+
+direcionado para a análise de pesticidas, mais especificamente aqueles que são mais
+
+utilizados  no  Nordeste  de  Portugal,  no  Brasil  e  em  regiões  com  características
+
+socioeconómicas semelhantes às de Bragança.
+
+3
+
+Na revisão bibliográfica apresentada, pretende-se identificar claramente as técnicas
+
+de extração e concentração assim como os métodos instrumentais de análise atuais
+
+mais utilizados para a monitorização de pesticidas em meios hídricos.
+
+De acordo com os equipamentos de análise disponíveis no  Laboratório de Química
+
+Analítica  do  Instituto  Politécnico  de  Bragança,  deverá  ser  feita  uma  seleção  de
+
+reagentes,  técnicas  analíticas  e  equipamentos  de  deteção  e  quantificação  que
+
+permitam  o  desenvolvimento  de  uma  metodologia  analítica  capaz  de  monitorizar
+
+pesticidas em meios hídricos.
+
+A  metodologia  experimental  escolhida  deve  ser  desenvolvida  e  os  seus  principais
+
+parâmetros de operação otimizados.
+
+1.3 Descrição dos capítulos do trabalho
+
+Este trabalho está divido em 8 capítulos, sendo o primeiro deles a introdução, onde é
+
+apresentada a contextualização do tema, apresentando a problemática da crescente
+
+utilização  dos  poluentes  emergentes  e  de  como  estes  micropoluentes,  incluindo  os
+
+pesticidas,  podem  influenciar  negativamente  o  meio  ambiente  e  a  saúde  do  ser
+
+humano. São também enumerados os objetivos propostos do trabalho.
+
+No  segundo  capítulo  é  apresentado  o  conceito  de  poluentes  emergentes,  uma
+
+discussão sobre o problema do excesso desses compostos na natureza, em especial
+
+nos  recursos  hídricos,  modo  de  atuação,  classificações  dos  poluentes,  discussão
+
+sobre  os  pesticidas,  quais  as  classes  nas  quais  os  pesticidas  são  subdivididos,  as
+
+legislações brasileira e portuguesa quanto à presença desses pesticidas na água, e
+
+os principais métodos utilizados atualmente para a remoção de poluentes emergentes
+
+em meios hídricos.
+
+No capítulo 3 são apresentadas diferentes metodologias para a monitorização dos 11
+
+pesticidas estudados neste trabalho. As diferentes metodologias foram propostas por
+
+diferentes  autores,  para  monitorização  de  diferentes  amostras,  com  diferentes
+
+técnicas de extração e métodos analíticos utilizados não só para identificação como
+
+para  quantificação  dos  poluentes.  Além  disso,  são  apresentadas  informações
+
+4
+
+referentes  a  cada  um  dos  11  pesticidas  estudados  neste  trabalho,  suas  estruturas
+
+químicas, como atuam na proteção dos vegetais ou como atuam  para combater as
+
+pragas e as suas principais características químicas.
+
+No capítulo 4 são apresentados os materiais e métodos propostos e utilizados neste
+
+trabalho,  como,  reagentes,  equipamentos,  método  e  etapas  para  otimização  da
+
+extração  por  SPE  proposta,  método  e  etapas  para  otimização  do  método  analítico
+
+proposto  por  GC-MS  e  uma  discussão  sobre  a  validação  da  metodologia
+
+desenvolvida.
+
+No capítulo 5 são apresentados os resultados obtidos em cada etapa da otimização
+
+do  método  de  extração  e  do  método  analítico.  Apresentam-se  também  os  devidos
+
+tratamentos estatísticos para os resultados, de modo a se selecionar a metodologia
+
+mais completa e eficiente tanto na extração, quanto na identificação dos pesticidas.
+
+No capítulo 6 apresentam-se as conclusões e algumas sugestões para trabalho futuro.
+
+No  capítulo  7  enumeram-se  as  referências  bibliográficas  utilizadas  para  o
+
+enquadramento teórico do trabalho e o capítulo 8 contém os anexos.
+
+5
+
+2. POLUENTES EMERGENTES EM RECURSOS HÍDRICOS
+
+Os  poluentes  emergentes  (PE) são  compostos  que  têm  recebido muita  atenção  no
+
+cenário  ambiental  atual,  pois  trata-se  de  substâncias  que  normalmente  não  são
+
+monitorizadas, mas que apresentam um potencial elevado de provocar efeitos nocivos
+
+severos  aos  seres  humanos  e  ao  meio  ambiente.  Apesar  de  muitos  dos  poluentes
+
+emergentes não exibirem uma toxicidade aguda pronunciada, muitos deles,  mesmo
+
+em  valores  de  concentração  extremamente  baixa,  podem  levar  a  distúrbios  na
+
+reprodução,  fisiologia e  desenvolvimento  das  espécies  (Portal Saneamento  Básico,
+
+2018).
+
+Uma  característica  importante  dos  poluentes  é  que  cada  uma  das  suas  classes
+
+apresenta comportamentos diferentes no meio ambiente e, portanto, cada um deles
+
+pode resultar em impactes ambientais distintos (Montagner et al., 2017).
+
+Os  principais  contaminantes  emergentes  englobam  os  pesticidas,  os  fármacos,  os
+
+produtos de beleza, as fragrâncias, os plastificantes, as hormonas,  os retardadores
+
+de chama, as nanopartículas, os compostos perfluoro-alcalinos, as parafinas cloradas,
+
+os siloxanos, as toxinas de algas e os radionuclídeos. Deve-se salientar que existem
+
+diversos outros contaminantes, mas estes são alguns dos principais exemplos (Portal
+
+Saneamento Básico, 2018).
+
+Um fator preponderante para o perigo dos poluentes emergentes consiste no facto de
+
+ainda  não  existir  legislação  para  este  tipo  de  compostos  e,  portanto,  muitos  deles
+
+podem  representar  uma  ameaça  potencial  para  os  ecossistemas  e  para  a  saúde
+
+humana num futuro próximo (Ferreira et al., 2009).
+
+O  facto  de  termos  pouca  informação  sobre  a  sua  proveniência,  concentrações  nos
+
+meios  hídricos  e  efeitos  toxicológicos  no  ambiente,  faz  com  que  o  problema  dos
+
+poluentes emergentes esteja a ser de especial importância a nível mundial (Ferreira
+
+et al., 2009).
+
+Apesar  de,  atualmente,  ainda  não  ser  possível  avaliar  a  real  gravidade  da
+
+contaminação dos recursos hídricos, a crescente utilização destes compostos pode
+
+6
+
+representar  um  alto  risco  ambiental,  principalmente  devido  às  elevadas  taxas  de
+
+desenvolvimento industrial, síntese de novos compostos e reações químicas cada vez
+
+mais complexas. Por outro lado, existe ainda o acréscimo da total despreocupação e
+
+desrespeito de diversas indústrias com a deposição e/ou libertação descontrolada dos
+
+seus resíduos para o meio ambiente (Antunes, 2013).
+
+Na literatura (Sodré et al., 2007), encontram-se destacados inúmeros efeitos tóxicos
+
+provocados  pelas  diversas  classes  de  contaminantes  emergentes  nos  organismos
+
+vivos, mesmo em concentrações consideradas muito baixas:
+
+•  Disfunção do sistema endócrino e reprodutivo de seres humanos e animais;
+
+•  Antecipação da idade da menarca;
+
+•  Abortos espontâneos;
+
+•  Distúrbios metabólicos, como a disfunção na tiroide;
+
+•  Aumento de casos de cancro como da mama, testículo e próstata;
+
+•  Bactérias resistentes;
+
+•  Defeitos congénitos;
+
+•  Infertilidade masculina (devido à queda da taxa de espermatozoides);
+
+•  Alterações no sistema neurológico;
+
+Apesar de serem ainda estudos recentes, sabe-se que a persistência, bioacumulação
+
+e
+
+transformação  destes  compostos  no  corpo  humano  são  os
+
+três
+
+fatores
+
+preponderantes  para  os  danos  que  eles  podem  causar,  já  que  alguns  deles  são
+
+resistentes  à  degradação  fotoquímica  e  biológica  e  têm  afinidade  com  os  tecidos
+
+animais,  podendo  concentrar-se  sobre  estes  e  se  transformar  noutras  substâncias,
+
+que podem ser ainda mais tóxicas do que as iniciais (Bila e Dezotti, 2007).
+
+O  principal  desafio  para  a  determinação  de  um  tratamento  para  cada  um  dos
+
+diferentes poluentes emergentes, deve-se ao facto de ser difícil prever o seu efeito
+
+nos ecossistemas e para a saúde humana, já que são várias as reações resultantes
+
+da  mistura  entre  diferentes  poluentes  e  também  as  interações  entre  diferentes
+
+substâncias  que  geram  novos  compostos  cada  vez  mais  complexos,  em
+
+concentrações e com efeitos desconhecidos (Silva, 2016a).
+
+7
+
+2.1 Classificação dos poluentes emergentes
+
+São  exemplos  de  poluentes  emergentes  os  produtos  farmacêuticos,  toxinas
+
+provenientes  de  algas,  antioxidantes,  biocidas,  detergentes,  subprodutos  de
+
+tratamento  de  água,  fragrâncias,  produtos  de  higiene  pessoal,  pesticidas,  resíduos
+
+oriundos  de  obras  de  alvenaria,  entre  outros.  As  principais  fontes  desses
+
+contaminantes  são  os  esgotos  domésticos,  efluentes  de  unidades  de  saúde,
+
+atividades  de  agricultura,  pecuária  e  aquacultura  e  principalmente,  resíduos  de
+
+indústrias dos mais diferentes tipos (Arias, 2013).
+
+Os  contaminantes  emergentes  podem  ser  divididos  em  diferentes  classes,  como
+
+representado na Tabela 2.1.
+
+Tabela 2.1 – Classes e exemplos de poluentes emergentes. (Fonte: Adaptado de Arias, 2013)
+
+Poluentes Emergentes
+
+Exemplos
+
+Pesticidas
+
+Antibióticos
+
+Dieldrina, aldrina, endrina, heptacloro, piretrina, sabatina,
+
+rotenona, clorados, clorofosforados, fosforados, carbamatos
+
+Trimetropina, eritromicina, lincomicina, sulfametazona.
+
+Analgésicos e anti-
+
+Codeína, ibuprofeno, acetaminofeno, ácido acetilsalicílico,
+
+inflamatórios
+
+diclofenaco, fenoprofeno.
+
+Esteroides e hormonas
+
+(contracetivos)
+
+Estradiol, estrona, estriol, dietilestilbestrol.
+
+Retardantes de chama
+
+Éteres difenílicos polibromados, tetrabromobis fenol A.
+
+Aditivos industriais
+
+EDTA, sulfonatos aromáticos.
+
+Produtos de desinfeção
+
+Bromoácidos, bromoaldeídos, cianoformaldeídos, bromatos, iodo.
+
+A lista de contaminantes emergentes inclui uma ampla variedade de produtos que são
+
+de uso diário industrial e doméstico. Segundo Ghiselli e Jardim (2007), “Estima-se que
+
+uma pessoa utilize, em média, dez produtos entre cosméticos e produtos de higiene
+
+todos os dias antes de sair de casa”.
+
+A  fonte  mais  importante  dos  poluentes  emergentes,  na  maioria  dos  países,  são  as
+
+estações  de  tratamento  de  esgotos,  devido  à  ausência  de  uma  rede  coletora
+
+adequada e uma baixa eficiência dos sistemas de tratamento de efluentes, os quais
+
+não conseguem remover os contaminantes emergentes por completo (Silva e Collins,
+
+2011).
+
+8
+
+Dentre os diversos poluentes emergentes, os pesticidas são considerados uma das
+
+principais classes desses compostos, uma vez que têm sido cada vez mais utilizados
+
+em  culturas  agrícolas,  para  ampliar  e  proteger  as  plantações  de  organismos
+
+indesejados.
+
+Apesar de cada país possuir uma legislação própria quanto a estes compostos, muitas
+
+pesquisas têm sido desenvolvidas em diversos países, nos últimos anos, de modo a
+
+estudar a influência dos pesticidas, no solo, ar, nos vegetais, assim como os possíveis
+
+efeitos na saúde dos seres vivos em geral.
+
+2.2 Os pesticidas como grupo prioritário
+
+Os pesticidas são compostos utilizados na agricultura com a função de prevenir e ou
+
+reduzir os efeitos causados por pragas ou doenças em plantações. Estas substâncias
+
+são geralmente compostos orgânicos sintéticos de baixa solubilidade em água e alta
+
+atividade  biológica.  Estes  compostos  podem  ser  classificados  em  inseticidas,
+
+fungicidas e herbicidas, entre outras classificações (Silva e Fay, 2004).
+
+O  principal mecanismo  de ação dos pesticidas  consiste  em  bloquear uma das  vias
+
+metabólicas de um organismo, levando à sua morte. A eficácia da ação dos pesticidas
+
+reside  nalgumas  das  suas  propriedades,  como  por  exemplo,  a  sua  elevada
+
+persistência no meio ambiente, grande estabilidade química e bioacumulação (Ghiselli
+
+e Jardim, 2007). Por outro lado, estas características são também nefastas em termos
+
+ambientais.
+
+O  uso  de  pesticidas  na  agricultura  pode  conduzir  à  contaminação  das  águas
+
+superficiais e subterrâneas quer pelo vento, escoamento, drenagem e ou lixiviação. A
+
+contaminação da água tem quase sempre efeitos tóxicos para a fauna e flora aquática
+
+e para a saúde humana (Cerejeira et al., 2003).
+
+Os pesticidas sofrem transformações químicas após a sua aplicação na agricultura e,
+
+portanto, tornam-se substâncias mais complexas (Batista et al., 2000). Os principais
+
+efeitos  dos  pesticidas  para  a  saúde  humana,  quando  da  ingestão  de  águas
+
+contaminadas  com  estes  compostos,  é  o  possível  desenvolvimento  de  diversas
+
+9
+
+formas  de  mutações,  alterações  imunológicas  na  reprodução,  além  de  possíveis
+
+desregulações endócrinas (Batista, 2003).
+
+O  comportamento  e  distribuição  dos  pesticidas  no  ambiente  depende  das  suas
+
+propriedades  físico-químicas,  como  solubilidade  na  água,  pressão  de  vapor  e
+
+constante de ionização, ácido ou base, porém uma das propriedades consideradas
+
+mais importantes é a constante de partição octanol-água (Cerejeira, 1993).
+
+Em termos ambientais, um pesticida ideal depois de alcançar o seu efeito toxicológico,
+
+dever-se-ia  degradar  em  substâncias  não  tóxicas.  Atualmente,  existem  muitas
+
+pesquisas para garantir que os pesticidas tenham aplicações não só eficazes, como
+
+também que não produzam danos no meio ambiente (Ferreira et al., 2009).
+
+Os  pesticidas  são  mais  persistentes  em  águas  subterrâneas  do  que  em  corpos  de
+
+água superficiais e no solo devido à presença de microrganismos e luz solar em águas
+
+superficiais,
+
+facilitando  os  processos  de  degradação  desses  compostos,
+
+diferentemente  de  águas  subterrâneas,  que  não  apresentam  muita  atividade
+
+microbiana e não sofrem ação da luz ultravioleta (Batista, 2003).
+
+Existem  três  vias  principais  pelas  quais  o  homem  pode  expor-se  aos  pesticidas:
+
+consumo  de  água  contaminada,  inalação  de  vapores  de  água  contaminada  ou
+
+absorção cutânea através de banho com água contaminada.
+
+A  maioria  dos  pesticidas  são  desenvolvidos  para  atuar  sobre  um  tipo  de  peste
+
+agrícola específica, mas após  a sua utilização, muitos compostos  remanescentes
+
+da  aplicação  dos  pesticidas  podem  afetar  negativamente  inúmeras  espécies  da
+
+fauna e da flora.
+
+Outro problema causado pelo excesso de pesticidas no meio ambiente consiste no
+
+facto  de  que  alguns  microrganismos  desenvolvem-se  degradando  e  consumindo
+
+alguns compostos oriundos dos pesticidas, enquanto para outros esses compostos
+
+são tóxicos e levam à sua morte. Esse cenário tem alterado biologicamente o meio
+
+ambiente, levando à seleção natural de algumas espécies (Cedergreen, 2014).
+
+10
+
+A aplicação dos pesticidas, depende das suas formulações e estado físico, sendo que
+
+as  mais  utilizadas  são  a  técnica  de  polvilhação,  pulverização,  nebulização  e
+
+distribuição.  Dentre  esses  métodos,  o  mais  utilizado  atualmente  é  a  pulverização
+
+devido, principalmente, à sua dinâmica de aplicação. Para esta técnica é importante
+
+escolher o equipamento adequado e garantir a aplicação direta sobre o alvo, evitando
+
+contaminações diretas do solo, água, ar ou outras plantas (Lovecka et al., 2012).
+
+Devido à grande diversidade de formulações disponíveis de pesticidas, eles passaram
+
+a ser classificados comercialmente de acordo com o alvo a ser atingido pela utilização
+
+do  produto,  destacando-se  os  fungicidas,  bactericidas,  herbicidas  e  inseticidas.
+
+Existem também os rodenticidas, acaricidas, hematicidas, vermífugos, entre outros.
+
+2.2.1 Fungicidas
+
+Os
+
+fungicidas  são  compostos  químicos  ou  organismos  biológicos  utilizados
+
+principalmente  em  atividades  agrícolas,  para  inibir  ou  matar  fungos  e  esporos.  Os
+
+fungos  são  considerados  um  sério  problema  para  a  agricultura,  devido  aos  danos
+
+causados  por  estes  microrganismos,  que  levam  a  perdas  críticas  de  qualidade  e
+
+rendimento de diversas culturas de plantações (Costa et al., 2013).
+
+Os fungicidas configuram-se como compostos de alto risco de poluição uma vez que
+
+a  sua  aplicação,  armazenamento  e  eliminação  são  frequentemente  realizadas  de
+
+forma  inadequada.  Outro  fator  que  contribui  para  o  risco  na  utilização  destes
+
+compostos é a poluição causada principalmente pela lixiviação e escoamento para os
+
+lençóis  freáticos.  Alguns  estudos  indicam  que  qualquer  que  seja  o  trajeto  dos
+
+fungicidas no meio ambiente, o homem acaba sendo o seu potencial recetor (Costa
+
+et  al.,  2013).  Os  fungicidas  atuam  diretamente  sobre  a  membrana  celular  dos
+
+microrganismos núcleo e/ou respiração dos fungos, levando à sua morte (Gavrilescu,
+
+2005).
+
+Os  fungicidas  mais  persistentes  têm  maior  probabilidade  de  permanecer  no  meio
+
+ambiente por mais tempo podendo contaminar mais facilmente o solo e a água. Os
+
+principais fatores que afetam a degradação dos pesticidas são a temperatura, o valor
+
+de  pH,  a  humidade  e  o  teor  de  matéria  orgânica  (Pierzynski  et  al.,  1994).  Alguns
+
+11
+
+pesticidas  são  degradados  rapidamente  em  solos  com  elevados  níveis  de  matéria
+
+orgânica,  enquanto  outros  são  degradados  mais  lentamente  (Bollag  e  Liu,  1990)  e
+
+apesar  da  proibição  da  comercialização  e  utilização  de  alguns  fungicidas  mais
+
+persistentes, em muitos países, a utilização destes continua a ser feita.
+
+2.2.2 Bactericidas
+
+Os bactericidas podem chegar até os meios hídricos através do seu escoamento a
+
+partir das plantas e dos solos tratados. O Serviço Geológico dos EUA indica que 90%
+
+das amostras de água e peixe de todos os lagos dos EUA contêm diversos tipos de
+
+pesticidas (Kole et al., 2001).
+
+Apesar  de  existir  uma  pesquisa  intensa  sobre  poluição  nos  meios  hídricos,  ainda
+
+existe dificuldade na avaliação real dos riscos para a saúde humana causados pelos
+
+bactericidas,  devido  a  existir  uma  grande  gama  de  parâmetros  humanos  a  avaliar,
+
+como sejam o seu efeito em relação à idade, sexo, saúde, entre outros.
+
+Mesmo  com  diversos  estudos  indicando  os  riscos  dos  bactericidas,  os  benefícios
+
+oferecidos,  principalmente  económicos,  são  sempre  os  que  prevalecem,  sendo
+
+normalmente  uma  alternativa  fácil  e  relativamente  barata  para  a  proteção  e  o
+
+tratamento de culturas agrícolas.
+
+2.2.3 Herbicidas
+
+Os  herbicidas  são  utilizados  principalmente  em  aplicações  agrícolas,  sendo
+
+substâncias  na  sua  grande  maioria  persistentes  no  meio  ambiente.  O  escoamento
+
+superficial e a lixiviação são as vias de contaminação preferenciais dos meios hídricos.
+
+Alguns  estudos  indicam  que  por  todo  o  mundo,  os  efluentes  das  estações  de
+
+tratamento  de  águas  residuais  contêm  elevados  teores  de  diversos  herbicidas,
+
+comprovando a dificuldade em eliminar estes poluentes nos processos de tratamento
+
+de águas (Filizola et al., 2002).
+
+Os  efeitos  causados  por  um  herbicida  numa  planta  variam  de  acordo  com  a
+
+suscetibilidade  da  mesma,  já  que  os  herbicidas  demonstram  seletividade  sobre
+
+determinados  vegetais.  Os  herbicidas  conhecidos  como  não-seletivos  são
+
+12
+
+considerados os mais perigosos, pois podem exercer uma ação nefasta sobre a vida
+
+vegetal quando aplicados de forma incorreta (Sherwani; Arif; Khan, 2015).
+
+Apesar  dos  danos  que  podem  ser  causados  pelos  herbicidas,  estes,  são
+
+desenvolvidos para possuir ação unicamente em vegetais, portanto, são compostos
+
+que apresentam uma baixa toxicidade em mamíferos.
+
+Alguns herbicidas  são  solúveis em água  podendo  deslocar-se pelo  solo através da
+
+erosão, atingindo os lençóis freáticos e podendo ser transportados até corpos de água
+
+próximos à sua aplicação. Um herbicida mesmo sendo considerado específico para
+
+uma ou mais espécies de plantas, caso entre em contato com um sistema de água,
+
+pode  representar  um  risco  para  animais  e  seres  humanos  (Sherwani;  Arif;  Khan,
+
+2015).
+
+Quando contaminadas por herbicidas, as águas subterrâneas passam a necessitar de
+
+um tratamento dispendioso de forma a evitar riscos à saúde humana. Desta forma, é
+
+importante  considerar  algumas  medidas  preventivas  no  momento  da  aplicação  do
+
+produto de forma a evitar que estes cheguem até às águas.
+
+2.2.4 Inseticidas
+
+Os  inseticidas  são  a  classe  de  pesticidas  utilizada  no  combate  de  insetos.  Nessa
+
+classe estão incluídos os ovicidas e os larvicidas, utilizados no combate contra os ovos
+
+e larvas de insetos,  respetivamente. Os inseticidas são utilizados na agricultura, na
+
+medicina, na indústria e no ambiente doméstico.
+
+Os inseticidas têm um potencial elevado para alterar ecossistemas, apesar de muitos
+
+destes compostos serem tóxicos para os seres humanos. Os inseticidas aplicados nas
+
+culturas  agrícolas  e  nas  áreas  urbanas  não  se  degradam
+
+facilmente.  Os
+
+organoclorados,  por  exemplo,  permanecem  no  ambiente  por  longos  períodos,
+
+podendo aí ficar durante anos. Em certas circunstâncias, esta característica pode ser
+
+benéfica  para  a  ação  do  pesticida,  pois  compostos  mais  persistentes  são
+
+potencialmente mais eficazes no combate de pragas por mais tempo. Por outro lado,
+
+13
+
+os compostos persistentes também terão mais facilidade para contaminar fontes de
+
+água provocando danos aos organismos aquáticos por períodos mais longos.
+
+Os  inseticidas  podem  acumular-se  biologicamente  em  invertebrados  e  espécies  de
+
+peixes, avançando na cadeia alimentar através das aves que se alimentam de insetos,
+
+depois de mamíferos que se alimentem de aves ou plantas e, finalmente, alcançar os
+
+seres humanos. Existe também a possibilidade mais direta de contaminação quando
+
+os humanos se alimentam diretamente das plantas contaminadas.
+
+2.3 Legislação brasileira e portuguesa sobre pesticidas
+
+O Brasil é um país de enorme extensão tendo grande parte de sua economia voltada
+
+para  a  agricultura.  A  importância  dessa  atividade  para  o  país,  faz  com  que  sejam
+
+utilizados  diversos  métodos  para  garantir  a  qualidade  e  proteção  das  culturas
+
+agrícolas. Um dos métodos mais utilizados é a aplicação intensiva de pesticidas para
+
+proteção  das  plantações.  Alguns  estudos  realizados  em  2015  indicam  que  foram
+
+pulverizados  899  milhões  de  litros  de  pesticidas  em  21  áreas  agrícolas  por  todo  o
+
+Brasil, destacando-se a soja como alimento em que foi utilizada a maior quantidade
+
+de pesticidas, seguida do milho e da cana-de-açúcar (IBGE, 2015).
+
+Dentre as regiões que mais utilizam pesticidas, destacam-se os estados de São Paulo,
+
+Tocantins  e  Paraná,  uma  vez  que  são  estados  brasileiros  com  elevada  atividade
+
+agrícola. Os princípios ativos dos pesticidas mais utilizados são os herbicidas alacloro,
+
+a atrazina, o diuron, o glifosato e a trifluralina, o fungicida carbendazim, uma mistura
+
+dos  inseticidas  heptacloro,  clordano  e  nonacloro,  com  o  nome  de  clordano  e  a
+
+permetrina utilizada como inseticida, repelente e acaricida. (Pignati, et al., 2017).
+
+O principal problema da aplicação destes compostos é a falta de controlo e legislação,
+
+sendo a aplicação feita em grande parte por equipamentos pulverizadores, atingindo
+
+não  só  as  plantações,  como  também  leitos  de  água  e  solos  circundantes  às
+
+plantações.
+
+Segundo a legislação brasileira, são vários os pesticidas que devem ser controlados
+
+para garantir o padrão mínimo  de potabilidade da água para consumo humano. Os
+
+14
+
+anexos da portaria brasileira Nº 2.914, de 12 de dezembro de 2011 destacam alguns
+
+compostos,  enumerados  na  Tabela  2.2,  como  tendo  limites  máximos  a  serem
+
+respeitados.  Dos  compostos  enumerados,  destacam-se  o  alacloro,  o  glifosato  e  o
+
+ácido aminometilfosfónico (AMPA), o diuron, o metolacloro e o tebuconazol (Ministério
+
+da Saúde do Brasil, 2011).
+
+Tabela 2.2 – Legislação para potabilidade da água no Brasil.
+
+(Fonte: Ministério da Saúde, Brasil, 2013)
+
+Agrotóxicos
+
+Valor máximo permitido (μg/L)
+
+Alacloro
+
+Glifosato + AMPA
+
+Diuron
+
+Metolacloro
+
+Tebuconazol
+
+20
+
+500
+
+90
+
+10
+
+180
+
+O Brasil tem ajustado a atual legislação e por outro lado tem feito nova legislação mais
+
+rígida em relação à utilização de pesticidas, à semelhança da Europa onde muitos dos
+
+pesticidas utilizados já possuem um valor limite máximo de utilização muito inferior,
+
+chegando mesmo a ser proibida a utilização de alguns pesticidas.
+
+Quanto  à  legislação  portuguesa  para  a  monitorização  das  águas  destinadas  ao
+
+consumo humano, ao abrigo do Decreto-Lei n.º 306/2007, atualizado no ano de 2018,
+
+são feitas indicações de quais os contaminantes que devem ser monitorizados para
+
+cada região do país. Em relação ao distrito de Bragança, existe ênfase na necessidade
+
+na  monitorização  dos  herbicidas  MCPA  (ácido  (4-cloro-2-metilfenoxi)acético)  e
+
+terbutilazina,  do  inseticida  imidacloprida  e  do  inseticida  dimetoato.  Este  documento
+
+também  destaca  que  devem  ser  feitas  monitorizações  anuais  quanto  ao  nível  do
+
+herbicida glifosato em águas.
+
+2.4  Métodos de remoção de poluentes emergentes em meios hídricos
+
+Apesar  da  concentração  dos  poluentes  emergentes  no  meio  ambiente  poder  ser
+
+muitíssimo baixa, chegando a situar-se na escala do miligrama por bilião ou mesmo
+
+por trilião, os possíveis efeitos adversos no ser humano ou nos ecossistemas podem
+
+ser enormes. Este problema tem vindo a impulsionar a comunidade científica para o
+
+15
+
+desenvolvimento  de  esforços  no  aperfeiçoar  de  métodos  para  identificar  e  eliminar
+
+estes  poluentes  em  meios  hídricos  uma  vez  que  os  métodos  de  tratamento
+
+convencionais utilizados nas estações de tratamento de água e esgoto (ETA e ETE)
+
+não são eficientes na remoção desses poluentes.
+
+Atualmente,  nas  estações  de  tratamento  utilizam-se  métodos  físicos,  biológicos  e
+
+químicos. Destacam-se os métodos químicos de processos de permuta de fase, como
+
+sejam  os  métodos  de  adsorção  em  diferentes  matrizes  sólidas  e  os  processos  de
+
+separação  por  membrana,  assim  como  os  processos  biológicos  e  de  oxidação
+
+avançados,  os  quais  têm  tido  um  desenvolvimento  significativo  nos  últimos  anos,
+
+podendo  alcançar  remoções  até  cerca  de  98%  para  alguns  poluentes  (Marcelino,
+
+2014).
+
+Os jardins filtrantes ou “Wetlands”, têm-se mostrado uma alternativa promissora na
+
+remoção de alguns poluentes emergentes, destacando-se principalmente na remoção
+
+de pesticidas e de fármacos. Estes sistemas de tratamento naturais para tratamento
+
+de águas residuais, são constituídos por plantas aquáticas e substratos, como areia,
+
+brita,  orgânicos,  entre  outros.  São  considerados  sistemas  de  baixo  custo  e  de  fácil
+
+operação.  Atualmente,  a  implementação  destes  jardins  tem  crescido  em  diversos
+
+países  sendo  principalmente  utilizados  no  tratamento  secundário  e  terciário  de
+
+esgotos. Este processo de tratamento pode ser combinado com processos químicos,
+
+físicos  e  biológicos,  aumentando  a  eficiência  do  tratamento  de  diferentes  tipos  de
+
+efluentes (Poças, 2015).
+
+16
+
+3. TÉCNICAS E MÉTODOS PARA MONITORIZAÇÃO DE PESTICIDAS
+
+3.1 Monitorização de pesticidas
+
+A  poluição  da  água  pode  ser  definida  como  qualquer  alteração  nas  suas
+
+características originais pela adição de contaminantes, fazendo com que esta deixe
+
+de  servir  para  consumo  humano  ou  para  sobrevivência  do  ecossistema  aquático
+
+(Agrawal et al., 2010).
+
+A agricultura pode contribuir para a poluição da água de confinamentos, pastagens e
+
+plantações,  além  das  atividades  agrícolas,  a  mineração,  perfuração  de  petróleo  e
+
+aterros sanitários também podem ser fontes importantes de poluição da água. Outras
+
+fontes  de  poluição  da  água,  relacionadas  aos  seres  humanos  são  os  esgotos
+
+sanitários, águas pluviais, efluentes da indústria e da construção civil.
+
+Os  pesticidas  são  amplamente  utilizados  na  agricultura  para  reduzir  a  quebra  de
+
+produção causada por pragas. No entanto, os pesticidas são compostos diretamente
+
+responsáveis pela poluição do meio ambiente já que a sua presença na água ou no
+
+solo representa um risco para os organismos aquáticos ou terrestres e para a saúde
+
+humana (Hallberg, 1989; Sankhla et al., 2018).
+
+Segundo algumas pesquisas da Organização das Nações Unidas, menos de 1% dos
+
+pesticidas  aplicados  afetam  exclusivamente  o  seu  alvo,  enquanto  o  restante  se
+
+distribui  pelo  solo,  ar  e  água.  Portanto,  o  tratamento  de  águas  contaminadas  com
+
+pesticidas  é  uma  grande  preocupação,  uma  vez  que  os  pesticidas  são  compostos
+
+tóxicos, podendo ser carcinogénicos, resultando em riscos significativos para a saúde
+
+(Barcelo et al., 1996; Readman et al.,1992).
+
+Na produção agrícola, a utilização de pesticidas tem sido uma estratégia de controlar
+
+diferentes  tipos  de  doenças,  pragas  e  ervas  daninhas.  Contudo,  a  sua  utilização
+
+intensiva e de forma descoordenada, tem causado inúmeros problemas ambientais,
+
+como a poluição da água e dos solos.
+
+Os  pesticidas  são  desenvolvidos  para  atuar  contra  insetos  e  pragas  em  geral  e,
+
+portanto, muitas vezes não são específicos para uma única espécie. Assim, quando
+
+17
+
+aplicados, entram em contato com as pragas-alvo, mas também com organismos não-
+
+alvo.
+
+Atualmente,  o  principal  objetivo  dos  fabricantes  é  a  produção  de  pesticidas  que
+
+tenham não só uma ótima eficiência biológica, com uma boa relação custo-benefício,
+
+sejam  produtos  fáceis  de  se  utilizar  e  que  causem  o  mínimo  impacte  ambiental
+
+possível.
+
+A  monitorização  de  pesticidas  em  amostras  aquosas  é  feita  através  de  métodos
+
+analíticos, tanto no que diz respeito à sua deteção como à sua quantificação. Para
+
+determinar e quantificar pesticidas em matrizes complexas, é normalmente necessária
+
+uma etapa inicial onde se realiza a extração e a concentração simultâneas, permitindo
+
+um aumento significativo da sensibilidade do método de análise permitindo alcançar
+
+limites de deteção  e  quantificação  muito  baixos.  Por outro  lado, esta  etapa permite
+
+igualmente eliminar compostos interferentes que possam estar presentes na matriz, e
+
+que  afetem  a  exatidão  dos  resultados  obtidos.  Existem  diferentes  técnicas  de
+
+extração, devendo a sua escolha depender do tipo de matriz estudada, do objetivo da
+
+análise e das propriedades físico-químicas do pesticida ou classe de pesticidas que
+
+se deseja analisar.
+
+De entre os métodos analíticos utilizados atualmente, destacam-se a cromatografia
+
+líquida  acoplada  à  espectrometria  de  massas  (HPLC-MS),  assim  como  a
+
+cromatografia gasosa acoplada à espetrometria de massa (GC-MS). Estes métodos
+
+instrumentais combinam as vantagens da alta seletividade e eficiência de separação,
+
+com deteção por espetrometria de massa, a qual fornece uma informação estrutural
+
+detalhada do composto analisado (Trocewicz, 1996).
+
+No início do trabalho elaborou-se um inventário dos reagentes e selecionaram-se para
+
+estudo 11 pesticidas existentes no Laboratório de Química Analítica (LQA). Todos os
+
+pesticidas foram catalogados, com as suas respetivas fórmulas moleculares, massas
+
+molares, solubilidade em água, ponto de ebulição e coeficiente de partição octanol-
+
+água.
+
+18
+
+Realizou-se  de  seguida  uma  pesquisa  sobre  todos  os  pesticidas  que  seriam
+
+estudados, de modo a avaliar o comportamento destes na água e no solo, produtos
+
+de degradação e seus efeitos na saúde humana, além dos meios de contaminação e
+
+dissipação no meio ambiente.
+
+Na  Tabela  3.1  apresentam-se  algumas  propriedades  físico-químicas  dos  pesticidas
+
+existentes no Laboratório de Química Analítica (LQA) do IPB.
+
+Tabela 3.1 - Algumas propriedades físico-químicas dos pesticidas selecionados para estudo.
+
+(Fonte: PUBCHEM; IUPAC; PPDB, agosto 2019)
+
+Classe
+
+Nome
+
+Fórmula
+
+molecular
+
+Massa
+
+Nº CAS
+
+molar
+
+(g/mol)
+
+Solubilidade
+
+Ponto
+
+em água a
+
+de
+
+Log
+
+20ºC (mg/L)
+
+ebulição
+
+(Kow)
+
+Herbicida
+
+Acetocloro
+
+C14H20ClNO2
+
+34256-82-1
+
+269,8
+
+Alacloro
+
+C14H20ClNO2
+
+15972-60-8
+
+269,8
+
+Metolacloro
+
+C15H22ClNO2
+
+51218-45-2
+
+283,8
+
+Glifosato
+
+C3H8NO5P
+
+1071-83-6
+
+169,1
+
+MCPA
+
+C9H9ClO3
+
+94-74-6
+
+200,6
+
+Terbutilazina
+
+C9H16ClN5
+
+5915-41-3
+
+229,7
+
+Fungicida
+
+Epoxiconazol  C17H13ClFN3O  133855-98-8
+
+329,8
+
+Tebuconazol  C16H22ClN3O
+
+80443-41-0
+
+307,8
+
+233
+
+240
+
+530
+
+12000
+
+29390
+
+6,6
+
+7,1
+
+3,7
+
+Heptacloro
+
+C10H5Cl7
+
+76-44-8
+
+373,3
+
+0,056
+
+Inseticida
+
+Imidacloprida  C9H10ClN5O2
+
+105827-78-9
+
+255,7
+
+610
+
+Dimetoato
+
+C5H12NO3PS2
+
+60-51-5
+
+229,3
+
+25000
+
+(°C)
+
+391,5
+
+4,14
+
+404,1
+
+100,0
+
+3,5
+
+3,1
+
+465,8
+
+-3,2
+
+327,0
+
+373,1
+
+463,1
+
+476,9
+
+392,3
+
+442,3
+
+440,6
+
+2,8
+
+3,4
+
+3,6
+
+3,7
+
+6,1
+
+0,57
+
+0,78
+
+Quanto  à  solubilidade  dos  pesticidas  em  água,  segundo  a  Tabela  3.1  é  possível
+
+perceber  a  diferença  entre  o  nível  de  solubilidade  em  água  existente  entre  os
+
+compostos  em  estudo.  Por  conta  disso  existe  uma  maior  probabilidade  de  se
+
+encontrar alguns pesticidas que são mais solúveis em água em diferentes matrizes
+
+aquosas, diferentemente de pesticidas que são menos solúveis e, portanto, têm menor
+
+probabilidade de serem encontrados em meios hídricos. Na Tabela 3.2 os pesticidas
+
+foram classificados de acordo com o nível de solubilidade dos mesmos.
+
+19
+
+Tabela 3.2 – Nível de solubilidade em água dos pesticidas selecionados para estudo.
+
+Pesticidas
+
+Nível de Solubilidade
+
+Dimetoato, MCPA e Glifosato
+
+Acetocloro, alacloro, imidacloprida e metolacloro
+
+Epoxiconazol, tebuconazol e terbutilazina
+
+Heptacloro
+
+Muito elevada
+
+Moderada
+
+Baixa
+
+Muito baixa
+
+Quanto ao coeficiente de partição Kow, que relaciona as concentrações da substância
+
+num solvente orgânico como o octanol, e em água, foi possível observar a diferença
+
+de polaridade entre as substâncias segundo a Tabela 3.1. Quanto maior o valor desse
+
+coeficiente, menor a polaridade do composto. Os compostos mais polares tendem a
+
+ser mais miscíveis em água, enquanto compostos menos polares tem a tendência de
+
+serem mais miscíveis em solventes orgânicos.
+
+A partir das informações contidas nas Tabelas 3.1 e 3.2 é possível perceber que o
+
+glifosato  é  o  pesticida  mais  solúvel  em  água  entre  aqueles  em  estudo  e  que,
+
+inversamente a ele, o heptacloro trata-se do pesticida menos solúvel em água.
+
+Com  base  nas  pesquisas  realizadas  e  tendo  por  base  os  métodos  instrumentais
+
+presentes no LQA, decidiu-se desenvolver um método analítico utilizando a extração
+
+em fase sólida (SPE) para extrair e concentrar as amostras e a cromatografia gasosa
+
+acoplada  com  espetrometria  de  massas  (GC-MS)  como  método  de  identificação  e
+
+quantificação dos pesticidas.
+
+A extração por SPE consiste em 4 etapas: o acondicionamento do adsorvente contido
+
+nos  cartuchos,  o  carregamento  dos  cartuchos  com  a  amostra,  a  lavagem  do
+
+adsorvente  e  por  fim  a  eluição  dos  analitos.  Este  procedimento  geral  está
+
+esquematizado na Figura 3.1.
+
+20
+
+Figura 3.1 – Representação esquemática das 4 etapas fundamentais da extração por SPE.
+
+(Fonte: Caldas et al., 2011)
+
+A cromatografia gasosa é uma técnica de quantificação de compostos, com alto poder
+
+de  resolução  e  sensibilidade  que  tem  como  metodologia  de  análise  a  partição  dos
+
+componentes  da  amostra  entre  uma  fase  móvel  gasosa  e  uma  fase  estacionária
+
+normalmente sólida. O processo de funcionamento do GC é representado na Figura
+
+3.2.
+
+O  processo  inicia-se  com  a  introdução  da  amostra  gasosa  ou  líquida  numa  coluna
+
+capilar contendo a fase estacionária. Uma corrente de um gás inerte, contínua, arrasta
+
+então a amostra pela coluna. Durante esse percurso, a amostra que é arrastada pelo
+
+gás,  interage  com  a  fase  estacionária.  Essa  interação  faz  com  que  os  analitos
+
+presentes  na  amostra  tenham  velocidades  de  arraste  diferentes,  provocando  uma
+
+separação entre estes (Diniz, 2011).
+
+Figura 3.2 – Esquema de funcionamento de um sistema de cromatografia gasosa acoplado com
+
+espectrometria de massas. (Fonte: Ferreira, 2011)
+
+21
+
+A principal desvantagem da técnica de cromatografia gasosa é que a amostra a ser
+
+analisada  deve  ser  termicamente  estável  e  facilmente  volatilizada  (Grob,  1995).  A
+
+espetrometria  de  massas  é  uma  técnica  analítica  utilizada  para  identificar  as
+
+moléculas  de  interesse  da  amostra  com  base  na  sua  relação  massa/carga  e
+
+caracterizar a sua estrutura química.
+
+Num  sistema  de  GC-MS,  as  moléculas  provenientes  do  GC  são  ionizadas,  o  que
+
+causa a sua quebra gerando iões positivos, negativos e radicais, que são separados
+
+pelas suas diferenças de relação massa/carga. O equipamento faz a leitura dos iões
+
+positivos que por possuírem alta energia podem ser divididos em fragmentos ainda
+
+menores (Fowlis, 1995).
+
+A partir da massa molecular dos fragmentos, o equipamento a partir de uma base de
+
+dados interna, propõe algumas estruturas moleculares que possam ser referentes ao
+
+composto em estudo.
+
+Tabela 3.3 – Principais referências encontradas na literatura, relativamente às técnicas de extração,  métodos de quantificação, limites de deteção e quantificação para os pesticidas propostos para estudo e referidos na Tabela 3.1.
+
+22
+
+Pesticida
+
+Acetocloro
+
+Alacloro
+
+Dimetoato
+
+Epoxiconazol
+
+Técnica de
+
+Método de
+
+LD
+
+LQ
+
+extração
+
+quantificação
+
+(μg/L)
+
+(μg/L)
+
+Referência
+
+QuEChERS
+
+GC-ECD
+
+4
+
+7
+
+Marcilio et al., 2008
+
+SPE
+
+mNTC
+
+SPE
+
+LC-MS
+
+GC-MS
+
+GC-MS
+
+0,001
+
+0,005
+
+Lazarov et al.,2013
+
+0,640
+
+1,494
+
+Barbosa, 2015
+
+0,007
+
+0,02
+
+Lavor et al., 2015
+
+QuEChERS
+
+GC-ECD
+
+11
+
+22
+
+Marcilio et al. 2008
+
+LLE
+
+SPE
+
+HPLC
+
+110
+
+330
+
+QuEChERS
+
+LC-APCI-MS
+
+HPLC-DAD
+
+0,5
+
+0,016
+
+1,7
+
+0,05
+
+Kumar e Gurupadayya,
+
+2013
+
+Martins, 2015
+
+Tomasini, 2011
+
+LLE
+
+SPE
+
+SPE com
+
+derivatização
+
+RP-HPLC
+
+1,6
+
+19
+
+Kaliyan e Tamilselvan, 2018
+
+HPLC-DAD
+
+0,17
+
+0,39
+
+Ribeiro et al., 2013
+
+UPLC-MS
+
+0,07
+
+0,24
+
+Olivo et al., 2015
+
+Glifosato
+
+Resina complexante
+
+HPLC
+
+0,01
+
+1
+
+Armas et al., 2007
+
+Heptacloro
+
+Imidacloprida
+
+MCPA
+
+Metolacloro
+
+Tebuconazol
+
+Terbutilazina
+
+SPE com
+
+Derivatização
+
+LLE
+
+SPE
+
+SPME
+
+LLE
+
+SPE
+
+HPLC-FLD
+
+0,025
+
+0,0125
+
+Mendonça, 2018
+
+GC-MS
+
+GC-MS
+
+0,0023
+
+0,0038
+
+Kivrack e Gokturk, 2017
+
+0,031
+
+0,103
+
+Silva, 2012
+
+GC-ECD
+
+0,003
+
+RP-HPLC
+
+HPLC-DAD
+
+0,1
+
+20
+
+0,19
+
+0,1
+
+Carlos et al., 2011
+
+Samnani et al., 2011
+
+Ribeiro et al., 2013
+
+Tomasini, 2011
+
+6
+
+0,12
+
+0,033
+
+QuEChERS
+
+LC-APCI-MS
+
+SPE
+
+SPE
+
+SPE
+
+SPE
+
+SPE
+
+SPE
+
+SPE
+
+SPE
+
+LLE
+
+SPE
+
+SPE
+
+HPLC-ESI
+
+0,003
+
+0,005
+
+Sklivagou et al., 2010
+
+HPLC-DAD
+
+HPLC-DAD
+
+GC-MS
+
+GC-MS
+
+HPLC-DAD
+
+0,17
+
+0,07
+
+1
+
+0,20
+
+Coelho et al., 2018
+
+Caldas, 2009
+
+0,005
+
+0,016
+
+Lavor et al., 2015
+
+0,02
+
+0,07
+
+0,05
+
+0,20
+
+Cassoli et al., 2015
+
+Caldas, 2009
+
+GC-MS
+
+0,015
+
+0,048
+
+Lavor et al., 2015
+
+HPLC-DAD
+
+0,19
+
+0,39
+
+Ribeiro et al., 2013
+
+RP-HPLC
+
+0,09
+
+0,389
+
+HPLC-DAD
+
+HPLC-DAD
+
+0,02
+
+0,26
+
+0,06
+
+0,80
+
+Kaliyan e
+
+Tamilselvan, 2018
+
+Martins, 2015
+
+González et al., 2013
+
+23
+
+Na  Tabela  3.3  apresentam-se  as  principais  referências  encontradas  sobre  a
+
+monitorização  de  cada  um  dos  pesticidas  selecionados  para  este  estudo,  em
+
+diferentes matrizes. Enumeram-se as técnicas de extração, os métodos de análise e
+
+de quantificação e os limites de deteção e quantificação obtidos por cada referência.
+
+Em relação aos métodos de extração, encontram-se a extração em fase sólida (SPE),
+
+a  microextração  em  fase  sólida  (SPME),  a  extração  líquido-líquido  (LLE),  uma
+
+metodologia semelhante a extração em fase sólida (QuEChERS), na qual seu nome
+
+é  uma  abreviação  das  palavras  em  inglês,  Quick,  Easy,  Cheap,  Effective,  Rugged,
+
+Safe,  utilizada  no  estudo  de  poluentes  emergentes  em  amostras  alimentícias,
+
+nanotubos de carbono híbridos e anfifílicos com propriedades magnéticas (mNTC) e
+
+nanotubos  de  carbono  (CTN)  baseadas  em  nanotubos  de  carbono  e  extração  com
+
+resinas complexantes, respetivamente.
+
+Quanto  aos  métodos  de  quantificação,  os  mais  utilizados  são  baseados  em
+
+cromatografia líquida ou em cromatografia gasosa.
+
+Em relação aos métodos que utilizam a cromatografia líquida, encontram-se estudos
+
+que utilizam a cromatografia líquida de alta eficiência (HPLC) ou de alta eficiência de
+
+fase  reversa  (RP-HPLC),  de  alta  eficiência  com  ionização  por  eletronebulização
+
+(HPLC-ESI),  de  alta  eficiência  com  detetor  de  fluorescência  (HPLC-FLD),  de  alta
+
+eficiência  com  detetor  de  arranjo  de  díodos  (HPLC-DAD),  cromatografia  líquida
+
+acoplada com espetrometria de massas (LC-MS), cromatografia líquida com fonte de
+
+ionização química à pressão atmosférica acoplada com espetrometria de massas (LC-
+
+APCI-MS/MS)  e  a  cromatografia
+
+líquida  de  ultra  eficiência  acoplada  com
+
+espectrometria de massas (UPLC-MS).
+
+Em relação aos métodos que utilizam a cromatografia gasosa, encontram-se estudos
+
+que  referem  a  utilização  de  cromatografia  gasosa  acoplada  com  espetrometria  de
+
+massas (GC-MS) e com detetor de captura de eletrões (GC-ECD).
+
+Da  análise  das  referências  apresentadas  na  Tabela  3.3  é  possível  perceber  a
+
+preferência dos autores pela utilização da cromatografia líquida, além de optarem na
+
+24
+
+sua maioria pela técnica de SPE. A cromatografia líquida tem-se destacado no estudo
+
+de pesticidas, pois tem apresentado análises melhores não só dos pesticidas, como
+
+também de seus produtos de degradação, além de se tratar de uma técnica rápida,
+
+sensível e de baixo custo. Outro fator importante são os diversos detetores que podem
+
+ser associados  a  essa  técnica,  garantindo  ainda  mais especificidade para  o  estudo
+
+dos pesticidas escolhidos para serem analisados.
+
+A  extração  SPE  é  a  técnica  de  extração  mais  utilizada  para  o  pré  tratamento  de
+
+amostras na maioria das pesquisas, devido a algumas vantagens comparadas com
+
+as outras técnicas, destacando-se principalmente pela pouca quantidade de solvente
+
+necessária, não necessita de grande quantidade de amostra, trata-se de uma técnica
+
+eficiente  e  rápida  que  se  tem  destacado  com  bons  resultados  na  extração  de
+
+pesticidas, além de que alguns estudos indicam que os cartuchos utilizados  para a
+
+metodologia  podem  ser  reaproveitados,  considerando  os  analitos  que  foram
+
+analisados, os compostos que serão analisados em seguida,  as concentrações das
+
+amostras,  a  polaridade  dos  compostos,  tipo  de  adsorvente  e  finalidade  da  técnica
+
+(Morrison, 2017).
+
+Dentre  as  diversas  referências  analisadas,  há  a  destacar  alguns  autores  que
+
+utilizaram o método de extração em fase sólida, seguida de análise por cromatografia
+
+gasosa (SPE/GC-MS), assim como o proposto neste trabalho e tiveram sucesso na
+
+identificação  e  quantificação  dos  pesticidas.  Lavor  e  colaboradores  em  2015,
+
+conseguiram alcançar para o alacloro um LD de 0,007 μg/L e um LQ de 0,02 μg/L,
+
+para o tebuconazol um LD de 0,015 μg/L e um LQ de 0,048 μg/L e para o metolacloro
+
+foram  obtidos  0,005  μg/L  e  0,016  μg/L  como  limites  de  deteção  e  quantificação,
+
+respetivamente. O autor Silva em 2012 obteve em seu estudo do heptacloro, valores
+
+de 0,031 μg/L e 0,103 μg/L como limites de deteção e quantificação, respetivamente
+
+e  em  2015  o  autor  Cassoli  e  colaboradores  obtiveram  resultados  consideráveis  no
+
+estudo do metolacloro, alcançado um LD de 0,02 μg/L e um LQ de 0,05 μg/L.
+
+Outros  autores  realizaram  os  estudos  de  diferentes  pesticidas  também  utilizando  a
+
+técnica de cromatografia gasosa acoplada ao espetrómetro de massas, porém com
+
+outras técnicas de extração. Barbosa, em 2015, para o estudo do alacloro optou pela
+
+25
+
+técnica de extração baseada nos nanotubos de carbono (mNTC). Alcançando 0,640
+
+μg/L  e  1,494  μg/L  como  limites  de  deteção  e  quantificação,  respetivamente.  Os
+
+autores Kivrack e Gokturk em 2017 optaram pela técnica de extração líquido-líquido
+
+seguida  da  análise  por  GC-MS  para  o  estudo  do  heptacloro.  A  partir  dessa
+
+metodologia  foram  obtidos  valores  muito  satisfatórios  para  o  limite  de  deteção  de
+
+0,0023 μg/L e para o limite de quantificação de 0,0038 μg/L.
+
+Dentre os pesticidas enumerados na tabela, existem alguns com mais metodologias
+
+de  pesquisas  e  estudos  que  outros.  Isso  ocorre  devido  à  existência  de  mais
+
+informações e conhecimento sobre alguns pesticidas, seus comportamentos no meio
+
+ambiente e seus malefícios sobre os seres vivos. Além disso, outro fator é que cada
+
+país e  região  apresentam  diferentes  características  e diferentes pestes e,  portanto,
+
+são utilizados diferentes pesticidas.
+
+Nas  seções  seguintes  apresenta-se  de  uma  forma  resumida  algumas  informações
+
+encontradas em cada um dos trabalhos encontrados na literatura e apresentados na
+
+Tabela 3.3.
+
+3.2 Pesticidas selecionados
+
+Acetocloro
+
+O acetocloro, cuja estrutura química é apresentada na Figura 3.3, é utilizado para o
+
+controlo  de  pré-emergência  das  plantações  de  milho  e  soja  e  para  proteção  de
+
+plantações de gramíneas (Guo et al., 2000; Weed et al., 1995).
+
+O  acetocloro é  considerado um  composto  pouco polar,  com  moderada  solubilidade
+
+em água o configurando como um composto perigoso para o ambiente aquático. A
+
+lixiviação do herbicida reduz a sua persistência e sua interação com as plantas, o que
+
+faz diminuir também a sua eficácia. Deste modo, a facilidade que o composto tem em
+
+sofrer lixiviação, aumenta o risco de contaminação de águas subterrâneas (Lengyel e
+
+Foldenyi, 2003; Stamper e Tuovinen, 1998).
+
+26
+
+Figura 3.3 – Estrutura química do acetocloro. (Fonte: Pubchem, 2109)
+
+Marcilio  e  seus  colaboradores,  em  2008,  apresentaram  uma  metodologia  para  a
+
+análise e quantificação de alguns pesticidas, entre eles o acetocloro. No processo de
+
+extração,  utilizam  a  técnica  QuEChERS,  sendo  esta  uma  modificação  da  SPE,
+
+seguida  de  uma  análise  por GC-ECD,  alcançando um  LD de  4  μg/L e  um LQ de 7
+
+μg/L.
+
+Em  2013,  Lazarov  e  colaboradores,  apresentaram  o  desenvolvimento  de  uma
+
+metodologia  também  baseada  na  extração  por  SPE,  seguida  de  análise  por
+
+cromatografia  líquida  com  espetrometria  de  massas,  LC-MS.  Dentre  os  pesticidas
+
+estudados  e  quantificados  encontra-se  o  acetocloro.  Com  a  metodologia  proposta,
+
+alcançaram  o  limite  de  deteção  de  0,001  μg/L  e  o  limite  de  quantificação  de  0,005
+
+μg/L, valores estes consideravelmente inferiores aos obtidos no estudo de Marcilio et
+
+al., em 2008.
+
+Alacloro
+
+O alacloro, cuja estrutura química se apresenta na Figura 3.4 é um herbicida usado
+
+para o controlo de ervas daninhas nas culturas de milho, soja, amendoim e feijão. É
+
+um herbicida sistémico seletivo, absorvido pelos brotos e pelas raízes dos vegetais.
+
+Este pesticida atua interferindo na capacidade de uma planta produzir determinadas
+
+proteínas interferindo diretamente no alongamento da raiz (EPA, 1998).
+
+Figura 3.4 – Estrutura química do alacloro. (Fonte: Pubchem, 2019)
+
+27
+
+Assim como foi feito para o acetocloro, Marcilio et al., em 2008, propõem um método
+
+com QuEChERS seguido de GC-ECD para o estudo do alacloro, obtendo 11 μg/L para
+
+o LD e 22 μg/L para o LQ.
+
+No ano de 2015, Barbosa propôs um método de extração não comumente utilizado,
+
+baseado  na  aplicação  de  efeitos  magnéticos  dos  nanotubos  de  carbono  para  a
+
+concentração das amostras, que posteriormente são analisadas por GC-MS. A partir
+
+dessa metodologia o autor obteve valores de 0,640 μg/L e 1,494 μg/L para o LD e LQ,
+
+respetivamente.
+
+Lavor  e  colaboradores,  em  2015,  propuseram  um  método  mais  eficiente  para
+
+quantificação  do  alacloro,  comparados  com  os  autores  citados  anteriormente.  O
+
+método proposto era baseado na extração SPE, seguido de GC-MS e foram obtidos
+
+valores de LD e LQ baixos, quando comparados com os demais autores estudados,
+
+alcançando 0,007 μg/L e 0,02 μg/L, respetivamente.
+
+Dimetoato
+
+O dimetoato é um inseticida organofosforado sistémico utilizado em várias culturas de
+
+trigo, algodão, milho, entre outras. A sua estrutura química é apresentada na Figura
+
+3.5. Trata-se de um composto não volátil, que é solúvel em água e não apresenta alta
+
+mobilidade no solo, onde se degrada com uma meia-vida de aproximadamente 2 a 4
+
+dias, com base nas condições do meio em que se encontra (US EPA, 2006).
+
+Os autores Kumar e Gurupadayya, utilizaram em 2013, uma metodologia de extração
+
+por  LLE,  seguida  de  análise  por  HPLC  para  a  determinação  e  quantificação  de
+
+dimetoato,  obtendo  valores  de  110  e  330  g/L,  para  LD e  LQ,  respetivamente.  Em
+
+2015, Martins, optou pela técnica de extração por SPE, seguida de análise por HPLC,
+
+em  que  obteve  resultados  melhores,  quando  comparados  com  os  autores  citados
+
+anteriormente, alcançando um LD e um LQ de 0,5 μg/L e 1,7 μg/L, respetivamente.
+
+Em 2011, o autor Tomasini propôs uma técnica que se mostrou mais eficiente do que
+
+a  proposta  pelos  outros  autores  para  a  quantificação  do  dimetoato,  baseada  na
+
+extração pelo método de QuEChERS, seguida de LC-APCI-MS com a qual obteve um
+
+LD de 0,016 μg/L e um LQ de 0,05 μg/L.
+
+28
+
+Figura 3.5 – Estrutura química do dimetoato. (Fonte: Pubchem, 2019)
+
+Epoxiconazol
+
+O  epoxiconazol  é  um  ingrediente  ativo  de  fungicidas  desenvolvidos  para  proteger
+
+culturas  de  cereais,  arroz,  café,  banana,  entre  outras  do  ataque  fúngico.  Esse
+
+composto  atua  com  a  inibição  do  metabolismo  de  células  fúngicas  que  infestam
+
+plantas.  O  epoxiconazol,  com  a  estrutura  representada  na  Figura  3.6,  pode  ser
+
+encontrado  adicionado  a  muitos  produtos  aumentando  o  seu  potencial  de  proteção
+
+contra os patógenos (Passeport et al., 2011).
+
+Kaliyan  e  Tamilselvan,  em  2018,  desenvolveram  um  método  de  análise  do
+
+micropoluente  epoxiconazol  em  mistura  com  outro  pesticida,  a  azoxistrobina.  O
+
+epoxiconazol foi extraído por extração líquido-líquido, seguido de análise por HPLC
+
+com detetor de ultravioleta-visível em modo de fase reversa, como limite de deteção
+
+foi obtido  o  valor  de 0,09  μg/L  e  para o  limite  de quantificação  foi obtido  o  valor de
+
+0,389 μg/L.
+
+Ribeiro et al., 2013, utilizam a extração por SPE, seguida pela análise por HPLC-DAD
+
+obtendo resultados para o LD e LQ, de 0,17 µg/L e 0,39 µg/L, respetivamente.
+
+29
+
+Figura 3.6 – Estrutura química do Epoxiconazol. (Fonte: Pubchem, 2019)
+
+Glifosato
+
+O  glifosato,  cuja estrutura  química  se  apresenta na  Figura  3.7,  é um  herbicida não
+
+seletivo,  que  é  aplicado  após  a  germinação  e  crescimento  das  plantas,  evitando  o
+
+crescimento de outras culturas no meio da plantação. O seu principal mecanismo de
+
+ação baseia-se no bloqueio de uma enzima, necessária para que as plantas produzam
+
+aminoácidos  e  proteínas.  O  bloqueio  dessa  enzima  faz  com  que  plantas  daninhas
+
+morram  em  alguns  dias  (Noori  et  al.,  2018;  Josson  et  al.,  2013).  Mesmo  sendo
+
+considerado  um  composto  perigoso  quando  presente  nos  solos,  o  glifosato  não  é
+
+considerado  um  grande  problema,  porque  raramente  consegue  deslocar-se  até
+
+alguma corrente de água ou mesmo até águas subterrâneas, já que a sua interação
+
+com os solos pode ser muito forte (Mink et al., 2012).
+
+Figura 3.7 – Estrutura química do glifosato. (Fonte: Pubchem, 2019)
+
+Olivo  et  al.,  em  2015,  propuseram  um  método  por  cromatografia  líquida  de  ultra
+
+eficiência  acoplada  com  espetrometria  de  massas  (UPLC-MS),  para  determinar  o
+
+glifosato em amostras de águas subterrâneas, utilizando filtros de extração em fase
+
+sólida  (SPE)  após  derivatização  com  cloroformato  de  9-fluorenilmetoxicarbonil
+
+(FMOC-Cl). Em 2018, Mendonça também utilizou do mesmo método de extração, mas
+
+optou  pelo  HPLC  com  detetor  de  fluorescência.  Ambos  autores,  obtiveram  bons
+
+resultados na quantificação do glifosato, sendo que Mendonça, em 2018, obteve um
+
+30
+
+LD  de  0,025  µg/L  e  um  LQ  de  0,0125  µg/L,  enquanto  que,  Olivo  e  colaboradores
+
+alcançaram valores de 0,07 µg/L para LD e 0,24 µg/L para LQ.
+
+Armas  e  colaboradores  em  2007,  também  obtiveram  bons  valores  de  LD  e  LQ,
+
+utilizando uma metodologia baseada na extração por resina complexante, seguida de
+
+análise  por  HPLC  com  deteção  por  fluorescência.  Neste  estudo,  apresentam-se  os
+
+valores de 0,01 µg/L para o LD e 1 µg/L para o LQ.
+
+Heptacloro
+
+O heptacloro, cuja estrutura química se apresenta na Figura 3.8, foi um pesticida muito
+
+utilizado na década passada sendo utilizado para matar insetos em plantações, casas
+
+e  prédios,  no  combate  de  pragas.  Este  pesticida  foi  banido  na  União  Europeia  em
+
+1984  e  nos  anos  seguintes  na  maioria  dos  outros  países  do  mundo  devido  à  alta
+
+persistência  desse  composto  e  dos  seus  produtos  de  degradação  no  ambiente
+
+(NIOSH, 1997).
+
+Este inseticida tem a capacidade de se ligar ao solo e evaporar lentamente no ar, não
+
+se dissolvendo facilmente na água. Quando no solo e na água, o heptacloro pode ser
+
+transformado  por  bactérias  no  epóxido  de  heptacloro,  um  produto  mais  tóxico,
+
+podendo  ser  absorvido  pelas  plantas  através  das  raízes  no  solo  e  passar  para  os
+
+animais que se alimentarem dessas plantas contaminadas (NIOSH, 1997).
+
+Em 2017, Kivrack e Gokturk, realizaram um estudo para deteção e a quantificação do
+
+heptacloro,  a  partir  de  uma  extração  líquido-líquido  para  concentração  da  amostra,
+
+seguida por uma técnica analítica de cromatografia gasosa acoplada à espetrometria
+
+de massas (GC-MS). Os valores obtidos para o limite de deteção e de quantificação
+
+para o heptacloro foram de 0,0023 μg/L e 0,0038 μg/L, respetivamente.
+
+Outros autores propuseram métodos diferentes, como Silva, em 2012, que quantificou
+
+o heptacloro através da extração por SPE, seguida de análise por GC-MS, e Carlos e
+
+colaboradores, em 2011, que propõem uma metodologia com microextração em fase
+
+sólida (SPME), seguida de análise por GC-ECD. Tanto Silva quanto Carlos obtiveram
+
+bons valores de LD e LQ, mesmo que as suas técnicas de extração tenham sido bem
+
+distintas. Silva obteve um LD de 0,031 μg/L e um LQ de 0,103 μg/L, enquanto Carlos
+
+et al., em 2011, obteve 0,003 μg/L e 0,1 μg/L de LD e LQ, respetivamente.
+
+31
+
+Figura 3.8 – Estrutura química do heptacloro. (Fonte: Pubchem, 2019)
+
+Imidacloprida
+
+O imidacloprida, cuja estrutura se encontra representada na Figura 3.9, é um princípio
+
+ativo muito utilizado em inseticidas para proteger as plantas por inteiro, interferindo na
+
+transmissão  de  estímulos  do  sistema  nervoso  dos  insetos,  levando  à  sua  morte
+
+(Armbrust  e  Peeler,  2002).  Este  composto  protege  toda  a  planta  durante  o  seu
+
+crescimento,  por  se  tratar  de  um  composto  de  ação  sistémica,  sendo  transportado
+
+desde a seiva até toda a extensão da planta. Apesar disso, o nível de imidacloprida
+
+diminui durante o crescimento do vegetal, chegando a níveis muito baixos durante a
+
+floração (Armbrust e Peeler, 2002).
+
+Em  2011,  Samnani  e  colaboradores,  propuseram  a  análise  e  quantificação  do
+
+pesticida imidacloprida, através de um método de HPLC de fase reversa com detetor
+
+de fluorescência, com uma etapa de extração através de um processo líquido-líquido.
+
+A metodologia proposta pelos autores apresentou um limite de deteção de 6 μg/L e
+
+um  limite  de  quantificação  de  20  μg/L.  Estes  valores  são  considerados  elevados,
+
+quando comparados com as metodologias propostas por Ribeiro et al. em 2013 e por
+
+Tomasini em 2011 para quantificação do mesmo pesticida.
+
+Ribeiro  et  al.,  em  2013,  propuseram  um método  de  extração  por SPE,  seguida  por
+
+uma análise em HPLC-DAD, enquanto que, Tomasini em 2011, propôs um método
+
+baseado  na  extração  por  QuEChERS,  seguida  de  uma  análise  por  cromatografia
+
+líquida  com  fonte  de  ionização  química  à  pressão  atmosférica  acoplada  com
+
+espetrometria de massas. Enquanto Tomasini em 2011 obteve 0,033 μg/L de LD e 0,1
+
+μg/L  de  LQ,  Ribeiro  et  al.,  2013,  obteve  um  LD  e  LQ  de  0,12  μg/L  e  0,19  μg/L,
+
+respetivamente.
+
+32
+
+Figura 3.9 – Estrutura química do Imidacloprida. (Fonte: Pubchem, 2019)
+
+MCPA
+
+O  MCPA,  abreviatura  utilizada  para  o  ácido  2-metil-4-clorofenoxiacético,  com  a
+
+estrutura  química  representada  na  Figura  3.10,  é  um  herbicida  regulador  de
+
+crescimento  vegetal  seletivo  e  bastante  eficaz,  pois  a  absorção  do  produto  ocorre
+
+tanto através das raízes, como também da folhagem da planta, o que faz com que
+
+ocorra uma distribuição do material para todos os tecidos da planta de forma rápida
+
+(WSSA, 1989).
+
+Coelho  et  al.  em  2018  e  Caldas  em  2009,  utilizaram  técnicas  semelhantes  para
+
+identificação  e  quantificação  do  MCPA.  Os  processos  foram  realizados  através  de
+
+uma  extração  por  SPE,  seguida  por  uma  análise  por  HPLC-DAD.  Apesar  de
+
+metodologias semelhantes, Coelho et al. em 2018 obteve um LD de 0,17 μg/L e um
+
+LQ de 1 μg/L, enquanto Caldas, em 2009, conseguiu obter limites mais baixos, sendo
+
+estes de 0,07 μg/L e 0,20 μg/L para LD e LQ, respetivamente.
+
+Sklivagou  e  colaboradores,  em  2010,  propuseram  a  determinação  do  MCPA
+
+recorrendo à extração por SPE seguida de HPLC-ESI. O limite de quantificação obtido
+
+para o MCPA foi de 0,005  μg/L e o limite de deteção do método foi de 0,003 μg/L.
+
+Resultados  esses  considerados  satisfatórios,  quando  comparadas  com  as  demais
+
+literaturas.
+
+33
+
+Figura 3.10 – Estrutura química do MCPA. (Fonte: Pubchem, 2019)
+
+Metolacloro
+
+O metolacloro, representado na Figura 3.11, é um herbicida que inibe o crescimento
+
+da  raiz  do  vegetal  e  é  utilizado  para  o  controlo  e  proteção  de  gramíneas,  milho,
+
+algodão, soja e feijão (Carvalho, 2013).
+
+Este pesticida é formado por dois isómeros R e S, que estão presentes em proporções
+
+iguais  (mistura  racémica)  no  composto,  sendo  que  o  isómero  S  apresenta  maior
+
+atividade herbicida do que o isómero R (Liu et al., 1989).
+
+Figura 3.11 – Estrutura química do metolacloro. (Fonte: Pubchem, 2019)
+
+Lavor e colaboradores, em 2015, e Cassoli e colaboradores, no mesmo ano, utilizaram
+
+métodos semelhantes para o estudo do metolacloro. Ambos iniciaram o processo com
+
+uma extração por SPE, seguida de uma análise dos padrões e amostras por GC-MS.
+
+Apesar da utilização de metodologias semelhantes, os autores obtiveram resultados
+
+muito diferentes. Lavor et al., alcançaram um limite de deteção de 0,005 μg/L e um
+
+limite  de  quantificação  de  0,016  μg/L,  enquanto  Cassoli  et  al.  obtiveram  limites  em
+
+concentrações superiores, sendo o LD de 0,02 μg/L e o LQ de 0,05 μg/L.
+
+34
+
+Tebuconazol
+
+O  tebuconazol  pertencente  à  classe  dos  triazóis  é  o  ingrediente  ativo  do  herbicida
+
+comercial Mirage Stressgard, que é utilizado para controlar certas doenças de verão
+
+e  de  inverno  de  relva  em  campos  de  golfe,  amplamente  utilizado  para  controlar
+
+patógenos fúngicos foliares (Strickland et al., 2004).
+
+O  tebuconazol,  cuja  estrutura  química  está  representada  na  Figura  3.12,  pode
+
+adentrar  e  persistir  no  solo  e  na  água  resultante  de  resíduos  de  pulverização  e
+
+escoamento. Trata-se de um composto estável quimicamente, que não se decompõe
+
+reagindo  com  luz  ou  água,  podendo  a  sua  estrutura  ser  quebrada  lentamente  por
+
+microrganismos quando presente no meio ambiente (Li et al., 2012).
+
+No trabalho de Lavor et al, em 2015, a determinação do tebuconazol é proposta em
+
+amostras a partir de uma  extração por SPE e uma posterior análise por  GC-MS. O
+
+limite de quantificação e de deteção obtidos para o tebuconazol são de 0,015 μg/L e
+
+0,048 μg/L, respetivamente.
+
+Caldas,  em  2009,  e  Ribeiro  et  al.,  em  2013,  propuseram  como  metodologia para a
+
+identificação  e  quantificação  do  tebuconazol,  uma  extração  SPE,  seguida  de  uma
+
+análise por HPLC-DAD.  Apesar de  as  metodologias  propostas  serem  semelhantes,
+
+estes autores apresentam resultados de LD e LQ relativamente diferentes. Enquanto
+
+Ribeiro  e  seus  colaboradores  apresentaram  um  LD  de  0,19  μg/L  e  um  LQ  de  0,39
+
+μg/L, Caldas apresentou limites ainda inferiores, sendo o LD de 0,07 μg/L e o LQ de
+
+0,20 μg/L.
+
+Figura 3.12 – Estrutura química do Tebuconazol. (Fonte: Pubchem, 2019)
+
+35
+
+Terbutilazina
+
+A terbutilazina é um herbicida que atua inibindo a  fotossíntese, levando à morte da
+
+planta. A sua estrutura química está representada na Figura 3.13. Este composto é
+
+absorvido  pelas  raízes  e  pelas  folhas,  sendo  posteriormente  distribuído  por  toda  a
+
+estrutura da planta (WHO, 2003). Trata-se de um pesticida seletivo para milho, batata,
+
+ervilha,  cana-de-açúcar,  árvores  frutíferas,  café,  entre  outras  culturas  (Gikas  et  al.,
+
+2018).
+
+Os autores Kaliyan e Tamilselvan, em 2018, propuseram um método de análise para
+
+a  terbutilazina  contida  numa  mistura  com  o  composto  Bromacil.  Neste  trabalho,
+
+utilizam a extração líquido-líquido, seguida por uma análise por cromatografia líquida
+
+de alta eficiência por fase reversa. O limite de quantificação e de deteção obtidos para
+
+a terbutilazina foram de 0,09 µg/L e 0,389 µg/L, respetivamente.
+
+Martins, em 2015, e González et al., em 2013, utilizaram metodologias semelhantes.
+
+Ambos propõem a identificação e quantificação da terbutilazina, partindo-se de uma
+
+extração em fase sólida, seguido por um método de análise e quantificação de HPLC-
+
+DAD. Os autores apresentam limites de deteção e quantificação diferentes, sendo que
+
+o  método  proposto  por Martins,  se  mostrou mais eficiente, obtendo  um  LD de  0,02
+
+µg/L e um LQ de 0,06 µg/L, quando comparados com os 0,26 µg/L e 0,80 µg/L de LD
+
+e LQ, respetivamente, obtidos por González et al.
+
+Figura 3.13 – Estrutura química do terbutilazina. (Fonte: Pubchem, 2019)
+
+36
+
+4. MATERIAIS E MÉTODOS
+
+O desenvolvimento da metodologia experimental para a monitorização de pesticidas
+
+em meios hídricos encontra-se dividida em duas etapas principais.
+
+Na primeira etapa, faz-se o desenvolvimento e a otimização do método de deteção e
+
+quantificação por cromatografia gasosa acoplada com espetrometria de massas (GC-
+
+MS).
+
+Na segunda etapa e última etapa, otimiza-se e avalia-se o processo extração em fase
+
+sólida  (SPE)  para  os  pesticidas  selecionados,  através  da  análise  das  amostras
+
+recolhidas após a SPE utilizando a metodologia de análise por GC-MS já desenvolvida
+
+na primeira etapa.
+
+4.1 Reagentes
+
+Todos  os  11  reagentes  analíticos  individuais  dos  pesticidas,  assim  como  o
+
+trifenilmetano, utilizado como padrão interno, possuem uma pureza superior a 95%,
+
+tendo  sido  adquiridos  à  Sigma-Aldrich  (Merck,  Darmstadt,  Alemanha).  Como
+
+solventes  foram  utilizados  água  ultrapura,  metanol,  hexano  e  acetonitrilo.  A  água
+
+ultrapura possui uma resistividade inferior a 18.2 MΩ.cm (Tipo I), tendo sido obtida
+
+com um equipamento laboratorial da marca Merck Millipore, modelo Direct Q3 UV. O
+
+metanol  com  pureza  de  HPLC  foi  adquirido  à  Carlo  Erba  (Val  de  Reuil,  França),  o
+
+hexano foi adquirido à Fisher Scientific (Madrid, Espanha) e o acetonitrilo à Fluka (Neu
+
+Wulmstorf, Alemanha).
+
+4.2 Material e equipamento
+
+Na  preparação  dos  padrões  analíticos  a  medição  de  massas  foi  realizada  numa
+
+balança analítica  da Adam  Equipment, modelo  ADA  210/C  com  uma  precisão  de  ±
+
+0,0002 g. Todos os padrões utilizados foram preparados por diluição de uma solução
+
+mãe com a concentração de 1000 mg/L. Tanto as soluções mãe  como as soluções
+
+diluídas  ou  misturas  de  pesticidas  foram,  após  a  sua  preparação,  guardadas  em
+
+frascos de amostras de vidro âmbar e colocadas a -20ºC até ao momento de extração
+
+por SPE e/ou análise por GC-MS.
+
+37
+
+4.2.1 Sistema de extração em fase sólida
+
+Todas  as  extrações  foram  realizadas  com  um  equipamento  de  SPE  da  Supelco,
+
+modelo  Visiprep  acoplado  com  uma  bomba  de  vácuo  de  regulação  manual
+
+(manómetro) de caudal de eluente. Devido à sua grande versatilidade relativamente à
+
+afinidade com diversas classes de pesticidas, foram utilizados cartuchos Chromabond
+
+HLB,  da  marca  Macherey-Nagel,  com  6  mL  de  capacidade  e  com  500  mg  de
+
+enchimento de poli(divinilbenzeno-co-N-vinilpirrolidona) com um diâmetro de partícula
+
+de 60 m (Figura 4.1).
+
+(a)                                                                   (b)
+
+Figura 4.1 – Sistema de extração em fase sólida (a) e Cartuchos utilizados na extração SPE (b).
+
+4.2.2 Sistema de cromatografia gasosa acoplado com espetrometria de massas
+
+Na identificação e quantificação dos padrões e das amostras de pesticidas utilizou-se
+
+um  sistema  de  cromatografia  gasosa  acoplado  com  espetrometria  de  massas,  da
+
+marca  Shimatzu,  modelo  QP2020,  como  ilustrado  na  Figura  4.2.  Este  sistema
+
+encontra-se equipado com um amostrador automático AOC-20i e uma coluna capilar
+
+Low  bleed  Rxi-5ms  (30  m  ×  0,25mm  I.D.,  com  0,25  μm  de  espessura  de  filme)  da
+
+Restek (Bellefonte, USA).
+
+38
+
+Figura 4.2 – Sistema de GC-MS da Shimatzu, modelo QP2020.
+
+4.3 Metodologia experimental
+
+Como  já  foi  referido  no  Capítulo  3,  os  pesticidas  disponíveis  para  estudo  são  o
+
+acetocloro,  alacloro, metolacloro, terbutilazina,  dimetoato, heptacloro,  epoxiconazol,
+
+imidacloprida,  glifosato,  tebuconazol  e  MCPA.  Estes  pesticidas  são  utilizados  em
+
+diversas regiões do Brasil assim como na região nordeste de Portugal, sendo também
+
+citados na legislação sobre a monitorização de pesticidas dos dois países (Ministério
+
+da saúde do Brasil, 2011 e Decreto-Lei nº 306/2007 atualizado no ano de 2018 em
+
+Portugal). No início do trabalho foi decidido utilizar a totalidade do conjunto destes 11
+
+pesticidas e estudar a viabilidade da sua análise com a metodologia experimental a
+
+desenvolver.
+
+A metodologia experimental inclui as seguintes etapas:
+
+I. Otimização das condições operatórias da análise por  GC-MS. Esta etapa inclui a
+
+otimização das condições operatórias na separação cromatográfica e na identificação
+
+por espetrometria de massas. Em relação à separação cromatográfica otimiza-se o
+
+programa de temperaturas de forma a obter uma separação completa e identificação
+
+de todos os pesticidas. Estuda-se igualmente o efeito do modo de injeção da amostra,
+
+comparando os cromatogramas obtidos com o modo Split e os cromatogramas obtidos
+
+com o modo Splitless. Em relação à análise por espetrometria de massas, apresenta-
+
+39
+
+se um estudo da influência dos modos SIM (Monitorização de ião único) e FullScan
+
+(Varrimento completo) na sensibilidade do método.
+
+II. Otimização dos parâmetros de operação da extração em fase sólida, como o tempo
+
+de extração, o tipo de fase sólida, o volume da amostra e o volume e a composição
+
+do solvente de eluição.
+
+III.  Determinação  de  todos  os  parâmetros  estatísticos  associados  à  metodologia
+
+desenvolvida.  Na  cromatografia  gasosa,  determina-se  a  linearidade  das  curvas  de
+
+calibração e apresenta-se também um estudo sobre o efeito da utilização do método
+
+do padrão interno na otimização da linearidade das curvas de calibração.
+
+4.3.1 Otimização das condições operatórias em GC-MS
+
+Preparação de padrões
+
+Inicialmente,  preparou-se  uma  solução  mãe  com  uma  concentração  de  1000  mg/L
+
+para cada um dos 11 pesticidas e do padrão interno, utilizando metanol como solvente.
+
+As massas medidas para balões volumétricos de 5 mL, encontram-se registadas no
+
+Anexo A.
+
+Optou-se  pelo  metanol  como  solvente  devido  a  polaridade  dos  pesticidas,  que
+
+indicava que possivelmente seriam solúveis e identificáveis nesse solvente, além do
+
+metanol ser um solvente mais ecologicamente correto que alguns outros disponíveis
+
+em laboratório.
+
+De seguida, foram preparadas diluições, também em metanol, de cada pesticida para
+
+as  concentrações  de  100  e  50  ppm,  utilizando  uma  micropipeta  de  capacidade
+
+adequada,  de  forma  a  se  poder  encontrar  um  sinal  do  detetor  de  massas  que
+
+permitisse uma boa identificação.
+
+A preparação e a análise cromatográfica dos padrões individuais de cada pesticida,
+
+são importantes para o estudo dos tempos de retenção e separação dos pesticidas.
+
+Com a análise cromatográfica é possível avaliar a resolução entre compostos e por
+
+outro lado estudar a linearidade das curvas de calibração individuais. Refira-se que as
+
+40
+
+curvas  de  calibração  obtidas  sem  extração  servem  como  referência  para  avaliar  a
+
+capacidade  do  processo  prévio  de  extração  e  concentração  (SPE)  em  fazer  baixar
+
+consideravelmente os valores dos limites de deteção e quantificação.
+
+Para  a  determinação  das  curvas  de  calibração  individuais,  foram  preparadas  3
+
+misturas  com  3  ou  2  pesticidas  cada  e  com  trifenilmetano  (utilizado  como  padrão
+
+interno),  denominadas  de  “M1”,  “M2”  e  “M3”.  Os  pesticidas  presentes  na  mistura  1
+
+preparada em metanol, são o dimetoato, a terbutilazina e o heptacloro. A mistura 2
+
+também  preparada  em  metanol  contém  os  pesticidas  alacloro,  metolacloro  e  o
+
+acetocloro. A mistura 3 foi preparada em hexano e contém os pesticidas epoxiconazol
+
+e o tebuconazol. As misturas foram preparadas de modo a agilizar a metodologia em
+
+termos  de  tempos  e  número  de  análises  necessárias  nos  passos  de  extração  e
+
+análise.  Por  outro
+
+lado,  verificou-se  que  os  resultados  obtidos  na  análise
+
+cromatográfica  dos  padrões  individuais  não  diferem  dos  resultados  obtidos  com  as
+
+respetivas misturas (tempos de retenção e intensidade de sinal). É importante referir
+
+que a seleção do solvente utilizado para cada mistura e a composição das misturas
+
+foram decididas em função das solubilidades que estes compostos apresentaram em
+
+metanol/hexano individualmente, em função dos tempos de retenção e finalmente do
+
+processo  de  degradação  que  as  suas  soluções  sofrem  ao  longo  o  tempo.  Para  a
+
+determinação  das  curvas  de  calibração  sem  utilizar  o  processo  de  extração,  foram
+
+preparadas  soluções  padrão  para  as  misturas  1  e  3,  sendo  que  o  padrão  com
+
+concentração mais alta foi o de 100 ppm e o de menor concentração foi de 0,001 ppm
+
+(ou seja, 1 ppb).
+
+As  misturas  também  foram  utilizadas  para  o  estudo  da  técnica  de  extração  SPE.
+
+Foram  feitos  diferentes  ensaios  para  otimizar  os  tempos/caudais  a  utilizar  nas  4
+
+etapas  do  procedimento  de  extração.  De  seguida  realizaram-se  extrações  com  as
+
+misturas  M1  e  M3,  seguidas  de  análise  por  GC-MS  para  avaliar  as  recuperações
+
+obtidas para cada pesticida.
+
+As análises dos compostos em diferentes concentrações foram feitas com o método
+
+de  adição  de  trifenilmetano,  sólido  incolor,  utilizado  como  padrão  interno.  Neste
+
+método adiciona-se um composto à mistura, que não esteja presente na amostra e
+
+41
+
+que  não  reaja  com  os  pesticidas.  O  composto  utilizado  como  padrão  interno  deve
+
+também ter o pico cromatográfico bem resolvido, além de não introduzir impurezas e
+
+não  reagir  com  nenhum  dos  componentes  presentes  da amostra. Este  composto  é
+
+adicionado  à  solução  numa  concentração  conhecida  e  a  razão  entre  a  área
+
+cromatográfica de cada pesticida e a área cromatográfica do padrão interno obtidas
+
+na  mesma  análise  funciona  como  parâmetro  analítico  de  correção  do  volume  de
+
+amostra e consequentemente de concentração de cada padrão injetado.
+
+A utilização do método do padrão interno permite minimizar os erros experimentais
+
+cometidos aquando da introdução das amostras no sistema cromatográfico. Contudo,
+
+existem sempre os erros provenientes das incertezas das leituras das massas e dos
+
+volumes na preparação e diluição das soluções padrão.
+
+Deve-se referir que após a preparação das soluções mãe dos pesticidas ou misturas
+
+e respetivas diluições, todas as soluções foram armazenadas em frascos de amostras
+
+para cromatografia de 2 e/ou 4 mL, fechados com tampa, protegidos com parafilme,
+
+envoltos em papel de alumínio e colocados a -20ºC até ao momento da sua utilização.
+
+As condições operatórias iniciais, utilizadas no sistema GC-MS, para a identificação
+
+dos  tempos  de  retenção  e  estudo  da  resolução,  foram  adaptadas  de  Gonçalves  e
+
+Alpendurada, 2004.
+
+Limpeza do sistema de GC-MS
+
+A limpeza de um sistema de GC-MS é uma condição imprescindível para a obtenção
+
+de  resultados  com  boa  reprodutibilidade  e  sensibilidade,  para  além  de  proteger  o
+
+tempo de vida útil da coluna cromatográfica e do detetor. Neste sentido, decidiu-se
+
+construir no sistema de GC-MS um “método de limpeza” o qual era utilizado sempre
+
+que  se  verificava  a  eluição  de  compostos  contaminantes  ou  “estranhos”  no
+
+cromatograma obtido. A utilização deste método revelou-se de grande utilidade já que
+
+o  equipamento  era  utilizado  por  outros  grupos  de  investigação  e  com  diferentes
+
+matrizes e famílias de compostos.  No método de limpeza, utiliza-se quer no vial de
+
+limpeza, quer no vial de amostra, o mesmo solvente em que a amostra é preparada.
+
+O  injetor  é  colocado  a  300ºC,  o  forno  é  colocado  a  uma  temperatura  constante  de
+
+42
+
+310ºC, 40ºC abaixo da sua temperatura máxima, e durante um tempo de 60 min. De
+
+referir  que  o  equipamento  permite  fazer  a  limpeza  inicial  da  seringa  com  solvente,
+
+depois com a amostra e finalmente novamente com solvente um número de vezes e
+
+a uma velocidade pré-definida.
+
+4.3.2 Otimização das condições operatórias em SPE
+
+A  preparação  das  amostras  para  a  análise  por  GC-MS,  neste  caso  a
+
+extração/concentração do analito por SPE é uma etapa crucial, podendo levar à perda
+
+do  analito  por extração  incompleta  e  à  contaminação  da  amostra,  uma  vez  que  no
+
+caso  de  existirem  compostos  interferentes,  pode  resultar  em  contaminação  e
+
+consequente perda de exatidão nos resultados obtidos por cromatografia.
+
+Após  a  otimização do método  de  separação  e  quantificação  por GC-MS,  realiza-se
+
+em seguida a otimização dos principais parâmetros da técnica de SPE.
+
+A  extração  em  fase  sólida  geralmente  é  utilizada  como  forma  de  se  aumentar
+
+consideravelmente  as  concentrações  presentes  em  amostras  muito  diluídas.  É
+
+também muito utilizada para purificar amostras, processo no qual as impurezas ficam
+
+retidas na fase adsorvente, enquanto os compostos de interesse são  recolhidos na
+
+fase líquida ou vice-versa (Oliveira, 1999).
+
+As vantagens deste tipo de extração relativamente à extração líquido-líquido, baseia-
+
+se  no  menor  consumo  de  solventes  e  a  simplicidade  e  facilidade  de  aplicação  da
+
+técnica.  Vale  o  destaque  também  para  a  possibilidade  de  se  reutilizar  o  cartucho
+
+levando-se em consideração a finalidade e a precisão desejada para as análises e os
+
+compostos que são estudados na extração (Morrison, 2017).
+
+O procedimento geral adotado na técnica de extração por SPE foi escolhido tendo por
+
+base as indicações do fabricante dos cartuchos Macherey-Nagel e a metodologia já
+
+desenvolvida  em  trabalhos  anteriores  para  a  extração  de  fármacos  em  amostras
+
+aquosas (Oliveira, 2019; Nemoto, 2019).
+
+43
+
+Na primeira utilização de cada cartucho,  utiliza-se água ultrapura como amostra na
+
+etapa  do  carregamento.  Todo  o  restante  procedimento  de  extração  é  realizado  de
+
+acordo como o descrito nos parágrafos seguintes.
+
+Numa extração típica de SPE o primeiro passo é a etapa de acondicionamento, na
+
+qual o cartucho é preenchido com 5 mL de metanol. De seguida, a bomba de vácuo é
+
+acionada e abre-se a válvula para libertação do metanol, gota a gota, de forma lenta
+
+e  contínua.  Após  a  eluição  de  todo  o  metanol,  a  válvula  é  fechada  e  desliga-se  a
+
+bomba  a  vácuo.  Em  seguida,  adiciona-se  5  mL  de  água  ultrapura  e  o  processo  é
+
+repetido, finalizando-se a etapa de acondicionamento.
+
+No segundo passo, designado por etapa de carregamento, são adicionados os 10 mL
+
+de  uma  amostra  contendo  um  pesticida  ou  uma  mistura  de  pesticidas  com  uma
+
+concentração  previamente  definida,  e  o  processo  anterior  é  repetido.  Ou  seja,  a
+
+amostra é adicionada ao cartucho e ao acionar a bomba de vácuo, abre-se de forma
+
+lenta a válvula para que se tenha um caudal lento e gradual. Quando toda a amostra
+
+já foi filtrada, a válvula é então fechada e a bomba de vácuo desligada.
+
+No  terceiro  passo,  realiza-se  a  etapa  de  limpeza  com  a  adição  de  5  mL  de  água
+
+ultrapura,  para  remoção  de  possíveis  impurezas  que  possam  estar  no  adsorvente
+
+juntamente  com  os  pesticidas.  O  procedimento  desta  etapa  é  semelhante  ao  das
+
+etapas anteriores.
+
+Por  último,  na  etapa  de  eluição,  são  adicionados  8  mL  de  metanol  (ou  hexano,  no
+
+caso do epoxiconazol e do tebuconazol) ao cartucho, e deixa-se todo o solvente eluir
+
+de forma lenta e gradual. A solução eluída nesta etapa, contendo o(s) pesticida(s) é
+
+então  armazenada  num  frasco  de  vidro.  De  forma  a  verificar  se  o  processo  de
+
+dessorção  foi  completo,  repete-se  esta  etapa  com  mais  2  mL  de  eluente  o  qual  é
+
+recolhido e posteriormente analisado. É importante que a última etapa, denominada
+
+de eluição, seja realizada no maior tempo possível para garantir maior recuperação
+
+do analito.
+
+44
+
+As amostras recolhidas após a eluição são transferidas para frascos com tampa para
+
+serem analisadas pelo sistema de GC-MS.
+
+Realizando o procedimento completo de SPE utilizando uma solução de concentração
+
+conhecida de um dado pesticida é possível determinar a sua recuperação no processo
+
+de extração. Para a determinação da recuperação de um composto, as amostras a
+
+serem  analisadas  são  fortificadas  com  uma  quantidade  conhecida  de  analito  e  os
+
+resultados  obtidos  pós  extração  são  comparados  com  os  valores  iniciais  antes  da
+
+extração para as mesmas amostras.
+
+A precisão de um método avalia a dispersão de resultados independentes repetidos
+
+com uma mesma amostra nas mesmas condições laboratoriais. Uma das formas mais
+
+comuns  de  se  avaliar  a  precisão  de  um  método  de  extração  é  pelas  medições  de
+
+recuperação do composto com a sua matriz. A recuperação representa a quantidade
+
+do  composto  recuperada  no  processo  em  relação  à  quantidade  em  que  se
+
+apresentava na amostra (Pedroso, 2007).
+
+As eficiências do método de extração foram calculadas através da recuperação (𝑅)
+
+em massa dos pesticidas, utilizando a Equação 1. Sendo as massas iniciais (𝑚1) e
+
+residuais (𝑚2) de cada composto após o final de cada extração.
+
+𝑅 =
+
+𝑚1− 𝑚2𝑚1
+
+×  100
+
+[1]
+
+4.3.3 Validação da metodologia experimental desenvolvida
+
+A  validação  do  método  cromatográfico  é  normalmente  realizada  através  da
+
+determinação dos parâmetros estatísticos associados com as análises. Assim, para a
+
+avaliação da precisão e da exatidão dos resultados, determinam-se os parâmetros de
+
+repetibilidade e reprodutibilidade.
+
+A precisão é uma medida que indica se os resultados obtidos estão próximos uns dos
+
+outros,  ou  seja,  se  existe  um  certo  grau  de  concordância  entre  os  valores  obtidos
+
+numa dada experiência realizada repetidamente. Esta medida é diretamente afetada
+
+pelos  erros  aleatórios  que  podem  ser  provenientes  da  própria  precisão  dos
+
+45
+
+equipamentos  de  medição
+
+(massas,  volumes,
+
+temperaturas,  entre  outros).
+
+(INMETRO, 2012).
+
+A exatidão de um método é definida como o grau de concordância do resultado obtido
+
+com o resultado considerado real, ou seja, essa medida determina o quão próximo os
+
+valores obtidos estão do correto. Um dos fatores que pode influenciar negativamente
+
+na  exatidão  de  um  método  são  os  erros  sistemáticos,  como  por  exemplo,  um
+
+equipamento não calibrado e utilização de um equipamento em condições não ideais.
+
+São erros fáceis de identificar e que causa uma tendência de um instrumento registar
+
+um valor sistematicamente acima ou abaixo do esperado (INMETRO, 2012).
+
+A  repetibilidade  é  definida  como  a  concordância  entre  resultados  de  medições
+
+sucessivas  de  um  mesmo  analito,  sob  as  mesmas  condições  no  menor  tempo
+
+possível,  enquanto  a  reprodutibilidade  é  a  concordância  de  resultados  da
+
+concentração de um analito sob condições diferentes de análise (Pedroso, 2007).
+
+Algumas  das  principais  características  que  garantem  uma  boa  repetibilidade  é  a
+
+repetição da análise no mesmo laboratório, utilizando-se os mesmos equipamentos,
+
+reagentes, intervalos de tempo e condições de operação do método.
+
+A  determinação  da  reprodutibilidade  e  da  repetibilidade  é  feita  com  o  cálculo  do
+
+coeficiente de variação, CV, definido pela Equação 2. Esse valor é apresentado em
+
+percentagem.  Se  o  valor  do  coeficiente  de  variação  obtido  for  baixo,  normalmente
+
+considerado abaixo de 5%, o método apresenta boa repetibilidade e reprodutibilidade.
+
+O  parâmetro 𝑆  representa o  desvio padrão de  6 medidas  da  solução de  calibração
+
+para um nível de concentração selecionado e o parâmetro x̅ é a média aritmética dos
+
+valores  das  6  medidas  da  solução  de  calibração  para  um  nível  de  concentração
+
+selecionado.
+
+𝐶𝑉(%) =
+
+
+
+x̅
+
+×  100
+
+[2]
+
+Além do estudo da repetibilidade e reprodutibilidade é também importante determinar
+
+a linearidade do sinal do detetor em função das diferentes gamas de concentrações
+
+46
+
+estudadas. Para esse efeito são determinadas as curvas de calibração (regressões
+
+lineares) a partir de soluções padrão preparadas com diferentes concentrações.
+
+Através dos parâmetros da curva de calibração, como a ordenada na origem, o seu
+
+declive  e  os  erros  associados  a  estes  dois  parâmetros  determinam-se  a  menor
+
+concentração do analito presente na amostra que o método permite detetar (limite de
+
+deteção)  e  quantificar  (limite  de  quantificação),  com  um  grau  de  confiança
+
+previamente definido, geralmente a 95%.
+
+A  linearidade  do  método  pode  ser  representada  por  uma  equação  matemática
+
+utilizada para calcular a concentração do analito na amostra analisada. Normalmente
+
+o  sinal  do  instrumento  encontra-se  no  eixo das ordenadas  (y) e  a  concentração do
+
+padrão no eixo das abcissas (x) (Vicente, 2001).
+
+Em cromatografia, a Equação 3, relaciona a linearidade entre a área cromatográfica
+
+obtida em função da concentração do analito na amostra. O parâmetro b representa
+
+o declive e 𝑎 o valor da ordenada na origem.
+
+𝑦 = 𝑎 + 𝑏𝑥
+
+[3]
+
+Neste  trabalho,  na  construção  das  curvas  de  calibração,  são  utilizados  no  mínimo
+
+cinco níveis de concentração e cada nível de concentração analisado em duplicado,
+
+garantindo maior precisão e exatidão aos resultados.
+
+A linearidade do método é avaliada através do coeficiente de determinação, dado pelo
+
+quadrado  do  coeficiente  de  correlação  (R2)  da  regressão  linear.  Esse  coeficiente
+
+permite  obter  uma  estimativa  da  qualidade  do  ajuste  do  modelo  linear  aos  pontos
+
+experimentais que são obtidos (Miller et al., 2018).
+
+O método dos mínimos quadrados é utilizado para determinar o valor mais provável
+
+de  uma  grandeza  medida  várias  vezes,  ou  para  determinar  uma  relação  funcional
+
+entre duas ou mais grandezas. O método utiliza as Equações 4 e 5, na determinação
+
+47
+
+dos valores do declive e da ordenada na origem. A linha determinada a partir destas
+
+Equações é conhecida como a linha de regressão de y em x.
+
+𝑏 =
+
+Σi{[(xi−x̅)(yi−y̅]}
+
+Σi(xi−x̅)²
+
+𝑎 =  y̅ − bx̅
+
+[4]
+
+[5]
+
+É importante também calcular os erros associados dos valores de 𝑎 e 𝑏. A Equação 6
+
+é referente à soma dos erros aleatórios na direção 𝑦, sendo que 𝑦𝑖* são os pontos na
+
+linha de regressão calculada para os valores de 𝑥 correspondentes. Com o valor de
+
+𝑆y/x,  calculam-se  o  desvio  padrão  para  o  declive  (𝑆𝑏)  e  o  desvio  padrão  para  a
+
+ordenada na origem (𝑆𝑎), utilizando as Equações 7 e 8, respetivamente.
+
+𝑆𝑦/𝑥    =   √Σi(yi−yi*)²
+
+n−2
+
+𝑆𝑏    =
+
+𝑆 𝑦/𝑥
+
+√Σi(xi−x̅i)²
+
+𝑆𝑎    =   𝑆𝑦/𝑥√ Σixi²
+
+nΣi(xi−x̅)²
+
+[6]
+
+[7]
+
+[8]
+
+Para o cálculo do desvio padrão do método (𝑆𝑚) é utilizada a Equação 9, enquanto o
+
+coeficiente  de  variação  do  método  (𝐶𝑉𝑚)  pode  ser  determinado  pela  Equação  10.
+
+Sendo que o  𝑆𝑦/𝑥 como explicado anteriormente trata-se da soma de erros aleatórios
+
+na  direção  de  𝑦, o 𝑏 é  o  valor do  declive e  o  parâmetro x̅  é  a média  aritmética  dos
+
+valores em estudo.
+
+𝑆𝑚    =
+
+𝑆𝑦/𝑥  𝐶𝑉𝑚   =
+
+x̅
+
+×  100
+
+[9]
+
+[10]
+
+Outro  parâmetro  que  deve  ser  avaliado  é  o  limite  de  quantificação  (LQ).  Este
+
+parâmetro é considerado a menor quantidade com precisão que pode ser determinada
+
+48
+
+de um analito numa amostra nas condições estabelecidas pelo método desenvolvido.
+
+Neste trabalho, foi considerado o limite de quantificação como sendo o valor referente
+
+ao valor de concentração mais baixo considerado na gama de linearidade estudada.
+
+Com o valor de LQ é possível então calcular o limite de deteção (LD) de um analito
+
+segundo a Equação 11. O Limite de deteção é definido como a menor concentração
+
+do analito que se pode detetar pelo método desenvolvido, com um nível de confiança
+
+pré-definido.
+
+𝐿𝐷 =
+
+3.3
+
+
+
+× 𝐿𝑄
+
+[11]
+
+49
+
+5. RESULTADOS E DISCUSSÃO
+
+Como já foi descrito no capítulo anterior, o desenvolvimento da metodologia inicia-se
+
+com a otimização das condições operatórias da separação, deteção e quantificação
+
+dos pesticidas no sistema GC-MS.
+
+Na segunda fase da etapa experimental, estudam-se alguns dos principais parâmetros
+
+que influenciam a recuperação nas extrações por SPE. Análises de extração em fase
+
+sólida (SPE) para alguns pesticidas, variando alguns parâmetros operatórios, de modo
+
+a maximizar os valores da recuperação.
+
+5.1 Otimização do método de análise e quantificação por GC-MS
+
+Importa referir que logo após a preparação das primeiras soluções padrão e com a
+
+sua análise cromatográfica verificou-se que alguns dos pesticidas estudados sofrem
+
+degradação quando em solução de metanol ou hexano. Após algumas semanas da
+
+preparação dos padrões, alguns deles já não eram identificados pelo GC-MS, devido
+
+ao facto de que se degradam no solvente e o seu pico cromatográfico característico
+
+tinha  uma  intensidade  reduzida  e  por  vezes  observa-se  no  cromatograma  obtido
+
+outros picos compostos com sinal de menor intensidade.
+
+Os  pesticidas  dimetoato  e  a  terbutilazina  foram  os  compostos  que  se  degradaram
+
+mais rapidamente no intervalo entre as análises. Além disso, outra questão relevante
+
+é referente à polaridade e solubilidade dos pesticidas tebuconazol e epoxiconazol. A
+
+presença  de  grupos polares  nesses  compostos,  poderia  induzir  a sua  miscibilidade
+
+em metanol, por ser também polar, e que por isso se poderia utilizar esse solvente na
+
+sua análise. Contudo, as análises realizadas destes dois pesticidas em metanol não
+
+permitiram  a  sua  identificação,  mesmo  aumentando  o  tempo  de  análise  ou  a
+
+temperatura final do método cromatográfico. A solução encontrada foi a substituição
+
+desse  solvente  por  hexano,  no  qual,  apesar  da  solubilidade  ser  baixa,  as  análises
+
+realizadas com hexano como solvente permitiram a identificação destes pesticidas.
+
+50
+
+5.1.1 Separação e identificação dos 11 pesticidas
+
+De acordo com o que já foi referido na seção 4.4.1, após a preparação das soluções
+
+individuais dos 11 pesticidas com uma concentração de 50 ppm, procedeu-se à sua
+
+análise  utilizando  o  método  proposto  por  Gonçalves  e  Alpendurada  em  2004.  Este
+
+método inicial foi denominado de “Método 1”, e as suas condições operatórias estão
+
+descritas na Tabela 5.1.
+
+Tabela 5.1 – Condições operatórias do “Método 1” utilizado na análise por GC-MS.
+
+Injetor em modo Split 1:10 e a uma temperatura de 250ºC durante 20 min.
+
+CROMATOGRAFIA GASOSA
+
+C
+
+Volume de injeção = 2 µL
+
+Forno: Hélio a uma velocidade constante a 37 cm/s e com o seguinte programa de temperaturas: 2  min a 120°C, depois rampa de 10°C/min até 180°C, manteve-se esta temperatura por 2 min e  depois nova rampa a 8°C/min até 250°C, mantendo-se esta temperatura por mais 1,25 min para um tempo total de análise de 20 min.
+
+Integração = área mínima de integração de 10000 counts.
+
+ESPETROMETRIA DE MASSAS
+
+Temperaturas: detetor e interface a 280°C
+
+Varrimento de massas: 40 a 450 m/z
+
+Modo de ionização: Impacto eletrónico (EI) com início retardado em 5 min.
+
+Apesar do método desenvolvido ter início aos 5 minutos, todos os cromatogramas são
+
+apresentados  a  partir  dos  6  min  de  análise,  já  que  pouco  depois  dos  5  min,  ainda
+
+ocorria uma pequena eluição do solvente pela coluna. O início com atraso do processo
+
+é importante para proteger o detetor de massas da ação do solvente, evitando a sua
+
+saturação.
+
+Os cromatogramas referentes à análise das 11 soluções padrão dos pesticidas a uma
+
+concentração de 50 mg/L, utilizando este método são apresentados na Figura 5.1.
+
+51
+
+Figura 5.1 - Cromatogramas individuais dos 11 pesticidas preparados em metanol, com uma concentração de 50 mg/L e utilizando o Método 1.
+
+52
+
+Figura 5.1 (Continuação) - Cromatogramas individuais dos 11 pesticidas preparados em metanol, com uma concentração de 50 mg/L e utilizando o Método 1.
+
+53
+
+Figura 5.1 (Continuação) - Cromatogramas individuais dos 11 pesticidas preparados em metanol, com uma concentração de 50 mg/L e utilizando o Método 1.
+
+Dos 11 pesticidas estudados, 8 deles apresentaram picos em seus cromatogramas,
+
+mas apenas 6 deles foram identificados com o “Método 1”. Após a obtenção de cada
+
+cromatograma,  a  identificação  individual  de  cada  pesticida  foi  comprovada  com
+
+recurso à comparação do espetro de massa de cada composto com os espetros de
+
+massa existentes nas librarias existentes no software do equipamento. Os espetros
+
+de massa experimentais obtidos para cada pesticida são apresentados no Anexo B e
+
+os tempos de retenção obtidos para cada um dos pesticidas, estão apresentados na
+
+Tabela 5.2.
+
+Tabela 5.2 – Tempo de retenção para cada pesticida com uma concentração de 50 mg/L em metanol,
+
+utilizando o Método 1.
+
+Composto
+
+Tempo de retenção (min)
+
+Área (TIC)
+
+Glifosato
+
+Dimetoato
+
+Terbutilazina
+
+Imidacloprida
+
+Acetocloro
+
+Heptacloro
+
+Alacloro
+
+Metolacloro
+
+MCPA
+
+Tebuconazol
+
+Epoxiconazol
+
+10,73
+
+11,83
+
+12,54
+
+13,09
+
+14,25
+
+14,52
+
+14,53
+
+15,57
+
+Não identificado
+
+Não identificado
+
+Não identificado
+
+325064
+
+45514
+
+1041273
+
+168835
+
+1736665
+
+177993
+
+495444
+
+1613492
+
+-
+
+-
+
+-
+
+54
+
+Os  pesticidas  identificados  foram  o  acetocloro,  alacloro,  dimetoato,  heptacloro,
+
+metolacloro  e  terbutilazina.  Os  pesticidas,  glifosato,  epoxiconazol,  imidacloprida,
+
+MCPA e tebuconazol não foram identificados por esse método.
+
+Como  se  pode  observar  pelos  respetivos  cromatogramas,  o  epoxiconazol,
+
+tebuconazol,  MCPA  não  apresentam  nenhum  pico  cromatográfico  enquanto  para  o
+
+glifosato e a imidacloprida, apesar de se observarem alguns sinais, estes não foram
+
+identificados com os pesticidas respetivos quando comparados com os espetros de
+
+massa existentes nas librarias.
+
+Devido  à  não  identificação  dos  5  pesticidas,  epoxiconazol,  tebuconazol,  MCPA,
+
+glifosato  e  imidacloprida,  decidiu-se  alterar  a  parte  final  da  programação  de
+
+temperaturas da coluna cromatográfica. Esta alteração consistiu em realizar a partir
+
+dos 20 minutos uma nova rampa de temperaturas a 8ºC/min até uma temperatura final
+
+de 300ºC, perfazendo um novo tempo total de análise de 30 minutos.
+
+Manteve-se  constante  a  velocidade  do  gás  de  arraste  a  37  cm/s  com  o  seguinte
+
+programa  de  temperaturas:  2  min  a  120°C,  depois  rampa  de  10°C/min  até  180°C,
+
+manteve-se esta temperatura por 2 min e depois nova rampa a 8°C/min até 250°C,
+
+mantendo-se esta temperatura por mais 2 min, seguido de uma rampa de 8°C/min até
+
+alcançar a temperatura de 300°C que era mantida por 3 min, para um tempo total de
+
+análise de 30 min.
+
+Após uma limpeza intermédia da coluna cromatográfica, foram novamente analisados
+
+com este novo método, designado por “Método 2”, os mesmos padrões individuais,
+
+preparados  em  metanol  com  uma  concentração  de  50  mg/L  dos  5  pesticidas  não
+
+identificados.
+
+Apesar do aumento do tempo de análise de 20 para 30 min e da temperatura final de
+
+250 para 300ºC, apenas foi possível a identificação de um composto no cromatograma
+
+do MCPA, sendo que este não era referente ao pesticida, como mostrou a base de
+
+dados  do  equipamento.  Portanto,  não  foi  possível  identificar  qualquer  um  dos  5
+
+pesticidas  referidos  com  o  “Método  2”.  Os  cromatogramas  obtidos  para  cada  um
+
+destes 5 pesticidas, estão representados na Figura 5.2.
+
+55
+
+Figura 5.2 – Cromatogramas individuais dos 5 pesticidas com uma concentração de 50 mg/L e utilizando o Método 2.
+
+56
+
+A  segunda  estratégia  para  estudar  a  possibilidade  de  identificar  estes  compostos,
+
+consistiu em alterar o tipo de solvente utilizado na preparação destes padrões. Assim,
+
+prepararam-se  5  novas  soluções  individuais  destes  pesticidas  a  50  mg/L  utilizando
+
+hexano, um solvente apolar, mantendo-se o “Método 2” como método de análise. Os
+
+cromatogramas obtidos estão apresentados na Figura 5.3.
+
+Figura 5.3 – Cromatogramas individuais dos 5 pesticidas, preparados em hexano com uma concentração de 50 mg/L e utilizando o Método 2.
+
+57
+
+Os resultados obtidos para os padrões em hexano são descritos na Tabela 5.3.
+
+Tabela 5.3 – Tempo de retenção e área obtida por GC-MS para os 5 pesticidas com uma
+
+concentração de 50 mg/L em hexano e utilizando o Método 2.
+
+Composto   Tempo de retenção (min)  Área (TIC)
+
+Tebuconazol
+
+Epoxiconazol
+
+20,65
+
+21,22
+
+Glifosato
+
+Não identificado
+
+Imidacloprida
+
+Não identificado
+
+MCPA
+
+Não identificado
+
+622822
+
+304290
+
+-
+
+-
+
+-
+
+Conforme  se  pode  confirmar  pela  observação  dos  respetivos  cromatogramas,
+
+apresentados  na  Figura  5.3,  tanto  o  tebuconazol  como  o  epoxiconazol  apresentam
+
+picos  com  uma  intensidade  de  sinal  significativa  e  a  sua  identificação  foi  direta
+
+aquando  da  comparação  dos  respetivos espetros  de  massa  com os  existentes nas
+
+librarias  do  equipamento.  Os  espetros  de  massa  referentes  à  identificação  do
+
+tebuconazol e do epoxiconazol encontram-se no Anexo C.
+
+A partir deste ponto do trabalho experimental, e após uma pesquisa da literatura mais
+
+cuidada sobre a análise dos 3 pesticidas não identificados, imidacloprida, glifosato e
+
+MCPA,  decidiu-se  abandonar  o  estudo  destes  pesticidas  utilizando  a  metodologia
+
+proposta.  Alguns  autores  indicam  diferentes  processos  de  derivatização  para  a
+
+possível análise destes 3 pesticidas por GC-MS.
+
+O processo de derivatização consiste em reações de transformação ou derivação dos
+
+compostos a serem estudados em outros compostos, os quais possuam uma estrutura
+
+química  que  possa  ser  mais  facilmente  identificada  por  cromatografia  gasosa.
+
+Algumas das referências que utilizaram essa técnica para o estudo desses pesticidas
+
+foram  Olivo  e  seus  colaboradores  que,  em  2015,  desenvolveram  uma  metodologia
+
+para o estudo do glifosato, baseada na derivatização seguida da SPE e a análise por
+
+HPLC-FLD. Weiping, Wei e Kevin, em 2007, desenvolveram um método para o estudo
+
+da degradação da imidacloprida em diferentes solos e matrizes aquosas. Por outro
+
+lado, Cai e colaboradores, no ano de 2010, propuseram um método para determinar
+
+58
+
+o MCPA em solos com a derivatização do composto, seguido de uma extração líquido-
+
+líquido e analisado por GC-ECD.
+
+5.1.2  Análises  realizadas  com  injetor  em  modo  Split  e  detetor  de  massas  em
+
+modo de varrimento FullScan
+
+O passo experimental seguinte consistiu em realizar a  análise das soluções padrão
+
+individuais com uma concentração de 100 mg/L de forma a obter o tempo de retenção
+
+de  todos  os  8  pesticidas  com  um  novo  “Método  3”.  Este  novo  método  resulta  da
+
+constatação  de  que  o  tempo  de  análise  do  composto  mais  retido  (epoxiconazol)
+
+utilizando o “Método 2” é de 21,22 min. Por este facto, não se torna necessária uma
+
+análise para além dos 22 min. As condições operatórias utilizadas com este método
+
+baseiam-se na utilização de uma velocidade constante de 37 cm/s do gás de arraste
+
+e  com  o  seguinte  programa  de  temperaturas:  2  min  a  120°C,  depois  rampa  de
+
+10°C/min até 180°C, manteve-se esta temperatura por 2 min e depois nova rampa a
+
+8°C/min até 250°C, mantendo-se esta temperatura por mais 3,25 min para um tempo
+
+total de análise de 22 minutos. O volume de injeção foi de 2 L. O injetor foi mantido
+
+em  modo  Split  1:10  e  a  análise  de  massas  foi  realizada  em  modo  de  varrimento
+
+FullScan.
+
+Por outro lado, o aumento do valor da concentração de 50 para 100 mg/L permite a
+
+obtenção  de  um  sinal  cromatográfico  mais  intenso  para  os  pesticidas  que
+
+apresentaram um menor sinal com o “Método 1”. Estas análises foram realizadas em
+
+duplicado para ser possível estudar a repetibilidade das análises cromatográficas sem
+
+o processo prévio de extração.
+
+Os cromatogramas obtidos para a análise dos 8 pesticidas com uma concentração de
+
+100  mg/L  em  metanol/hexano,  conforme  explicado  previamente,  são  ilustrados  na
+
+Figura 5.4.
+
+59
+
+Figura 5.4 - Cromatogramas dos 8 padrões individuais dos pesticidas com uma concentração de 100 mg/L e utilizando o Método 3.
+
+60
+
+Figura 5.4 (Continuação) - Cromatogramas dos 8 padrões individuais dos pesticidas com uma concentração de 100 mg/L e utilizando o Método 3.
+
+Os  tempos  de  retenção  assim  como  as  intensidades  dos  sinais  cromatográficos
+
+obtidos para cada pesticida encontram-se na Tabela 5.4.
+
+Tabela 5.4 – Tempos de retenção e valores das áreas cromatográficas obtidas na análise dos
+
+padrões individuais dos 8 pesticidas com uma concentração de 100 mg/L, por GC-MS utilizando uma
+
+razão de Split de 1:10 e em modo de varrimento FullScan.
+
+Composto
+
+Solvente
+
+Tempo de
+
+retenção (min)
+
+Dimetoato
+
+Terbutilazina
+
+Acetocloro
+
+Alacloro
+
+Heptacloro
+
+Metolacloro
+
+Tebuconazol
+
+Epoxiconazol
+
+Metanol
+
+Hexano
+
+11,77
+
+12,50
+
+14,18
+
+14,48
+
+14,54
+
+15,49
+
+20,59
+
+21,17
+
+Área (TIC)
+
+1761287
+
+1294104
+
+183247
+
+Área (TIC)
+
+Duplicata
+
+1847116
+
+943187
+
+214782
+
+1441083
+
+2150636
+
+299509
+
+1412342
+
+35223
+
+10800
+
+382897
+
+634316
+
+91114
+
+4823
+
+CV (%)
+
+3,36
+
+22,18
+
+11,20
+
+27,94
+
+17,28
+
+53,76
+
+62,56
+
+54,10
+
+Os resultados obtidos na Tabela 5.4 indicam que a análise dos pesticidas com o injetor
+
+em  Split  1:10  e  varrimento  de  massas  em  FullScan,  não  garante  repetibilidade  do
+
+método  de  quantificação,  obtendo-se  coeficientes  de  variação  bastante  elevados,
+
+como  é  o  caso  para  o  pesticida  tebuconazol,  com  um  coeficiente  superior  a  60%,
+
+enquanto  o  menor  coeficiente  calculado  foi  para  o  dimetoato,  com  um  valor  pouco
+
+superior a 3%. A falta de reprodutibilidade nas áreas cromatográficas obtidas indica a
+
+necessidade  de  se  testar  uma  nova  metodologia  para  analisar  as  misturas  de
+
+61
+
+pesticidas. Optou-se por estudar se a utilização do método do padrão interno permite
+
+aumentar a reprodutibilidade nas áreas cromatográficas.
+
+Um dos principais motivos que pode ter ocasionado os altos coeficientes de variação
+
+obtido para a as áreas dos pesticidas se deve pela instabilidade desses compostos,
+
+que  se  degradam,  dificultando  as  análises  e  reduzindo  a  reprodutibilidade  das
+
+análises.
+
+Os cromatogramas obtidos nas análises referidas na Tabela 5.4, com o “Método 3”,
+
+são  apresentados  na  Figura  5.5  utilizando  metanol  como  solvente  e  na  Figura  5.6,
+
+utilizando hexano como solvente.
+
+Figura 5.5 – Sobreposição dos cromatogramas dos 6 pesticidas preparados em metanol com
+
+concentração de 100 ppm.
+
+62
+
+Figura 5.6 – Sobreposição dos cromatogramas dos 2 pesticidas preparados em hexano com
+
+concentração de 100 ppm.
+
+Na  Figura  5.6  é  possível  observar  a  existência  de  dois  picos  referentes  ao
+
+epoxiconazol,  sendo  que  o  pico  característico  é  o  segundo  identificado  no  gráfico
+
+(21,22  min).  A  presença  de  um  segundo  pico  (20  min)  pode  ser  justificada  pela
+
+presença  de  um  possível  contaminante  na  solução  preparada  do  pesticida,  um
+
+possível composto presente na seringa ou na coluna do equipamento e que foi eluído
+
+durante a análise, ou até mesmo significar uma possível degradação do epoxiconazol
+
+quando preparado em hexano.
+
+Estas  análises  com  o  injetor  em  modo  Split  1:10  e  a  análise  de  massas  feita  por
+
+varrimento total de iões (FullScan ou TIC) permitiram não só determinar os tempos de
+
+retenção  para  cada  pesticida,  avaliar  seus  comportamentos  nos  solventes,  como
+
+também confirmar a sua identificação utilizando a comparação do espetro de massa
+
+de cada pesticida com os espetros de massa existentes nas bibliotecas de espetros
+
+de massa do software do equipamento.
+
+5.1.3 Influência do método do padrão interno em análises sem extração
+
+Após tomada a decisão de utilizar o método do padrão interno (“PI”) para garantir que
+
+a  metodologia  fosse  mais  reprodutível,  realizou-se  a  análise  do  padrão  interno
+
+selecionado, o trifenilmetano, por GC-MS, de modo a avaliar o seu tempo de retenção,
+
+63
+
+o seu espetro de massas para determinar os seus iões quantitativos e estudar se o
+
+seu pico não se sobrepunha com outro pesticida estudado. O espetro de massas do
+
+PI  encontra-se  no  Anexo  D  e  o  cromatograma  obtido  com  o  “Método  3”,  está
+
+representado na Figura 5.7.
+
+Figura 5.7 –Cromatograma do trifenilmetano.
+
+Como  ilustrado  na  Figura  5.7,  o  tempo  de  retenção para o  PI foi de  15,95 min.  De
+
+modo a avaliar a influência do método do padrão interno foram preparados padrões
+
+da  Mistura  1  com e  sem  o padrão  interno, nas  concentrações de  1 a 100  ppm.  Os
+
+volumes utilizados para a preparação dos padrões encontram-se nos Anexos E e F.
+
+No final da análise, todos os cromatogramas foram estudados e obteve-se os valores
+
+para as áreas individuais de cada pesticida nas diferentes concentrações. Assim, foi
+
+feita  uma  relação  entre  as  áreas  e  concentrações  dos  pesticidas  com  as  áreas  e
+
+concentrações do padrão interno, permitindo deste modo que fossem representadas
+
+as curvas de calibração para cada composto.
+
+Nas  Tabelas  5.5  e  5.6  apresentam-se  os  estudos  de  linearidade  das  análises
+
+realizadas sem utilizar a etapa de extração por SPE. Na Tabela 5.5 encontram-se os
+
+resultados de linearidade para a Mistura 1 de pesticidas sem a utilização do método
+
+do padrão interno. Na Tabela 5.6 apresenta-se um estudo idêntico, mas considerando
+
+o método do padrão interno. Nestas tabelas apresentam-se as curvas de calibração
+
+obtidas para os pesticidas da Mistura 1 estudados, assim como os respetivos dados
+
+64
+
+estatísticos calculados: gama(s) de linearidade, número de pontos utilizado em cada
+
+gama (n), declive (a), ordenada na origem (b), erros associados ao declive e ordenada
+
+na origem baseados num nível de significância de 95%, coeficiente de determinação,
+
+limites de deteção e de quantificação, valores dos coeficientes de determinação das
+
+equações de regressão linear, limite de deteção e limite de quantificação para cada
+
+pesticida estudado, em cada gama de linearidade, o número de pontos existentes em
+
+cada gama (n) obtidos por análise no GC-MS utilizando amostras sem extração.
+
+A comparação dos valores dos coeficientes de determinação (R2) permite verificar que
+
+para  a  generalidade  dos  pesticidas  a  linearidade  é  semelhante,  contudo  os
+
+coeficientes de variação são ligeiramente menores. Deste modo, de acordo com os
+
+resultados  obtidos,  sem a  utilização  de  extração  em  fase  sólida, pode-se  dizer que
+
+não  existem  diferenças  significativas  na  utilização  ou  não  do  método  do  padrão
+
+interno, pelo menos para esta metodologia e para os pesticidas em estudo.
+
+A  representação  gráfica  de  todas  as  curvas  de  calibração  obtidas,  assim  como  as
+
+tabelas de dados necessários à sua construção encontra-se no Anexo G.
+
+65
+
+Tabela 5.5 – Resultados do estudo da linearidade das análises por GC-MS sem extração e sem utilizar o método do padrão interno, gamas de linearidade  (y=a+bx), ordenada na origem (a), declive (b) e respetivos erros a 95% de confiança, coeficientes de determinação (R2), limites de deteção (LD) e de quantificação (LQ) e coeficiente de variação do método (CVm) para os 3 pesticidas estudados.
+
+Composto
+
+Solvente
+
+Dimetoato
+
+Metanol
+
+Terbutilazina
+
+Metanol
+
+Heptacloro
+
+Metanol
+
+Gama linear  (mg.L-1)  6-100  20-80  6-20  0,2-100  20-100  2-20  0,4-2  0,01-100  8-100 0,01-8
+
+n
+
+8  4  4  15  5  6  5  21  7 14
+
+Ordenada  𝒂 ± 𝒕𝒔𝒂  −𝟏𝟎𝟕𝟏𝟒𝟕𝟐 ± 𝟏𝟐𝟗𝟗𝟓𝟕𝟑   −1094537 ± 1029599  −94636 ± 52339  −𝟐𝟕𝟗𝟒𝟖𝟎 ± 𝟒𝟑𝟓𝟎𝟑𝟏   −337416 ± 4145889  −108619 ± 121058  −18452 ± 2068  −𝟖𝟐𝟕𝟗𝟒 ± 𝟖𝟐𝟏𝟒𝟎   −347952 ± 347228 −1304 ± 1149
+
+Declive  𝒃 ± 𝒕𝒔𝒃  𝟖𝟓𝟗𝟐𝟖 ± 𝟐𝟒𝟔𝟕𝟎  18798 ± 9799  14763 ± 4273  𝟏𝟏𝟑𝟎𝟐 ± 𝟖𝟏𝟒  157930 ± 62502  93019 ± 11909  54833 ± 1863  𝟓𝟑𝟏𝟎𝟑 ± 𝟐𝟓𝟐𝟓  56938 ± 6171 19717 ± 417
+
+R2
+
+0,9237  0,9838  0,9910  0,9807  0,9557  0,9916  0,9997  0,9903  0,9912 0,9989
+
+LD  (mg.L-1)  1,980  6,600  1,980  0,066  6,600  0,660  0,132  0,003  2,640 0,003
+
+LQ  (mg.L-1)  6,000  20,00  6,000  0,200  20,00  2,000  0,400  0,010  8,000 0,010
+
+CVm   (%)  27,60  5,48  6,59  18,31  13,11  7,89  1,39  18,63  8,15 6,28
+
+Tabela 5.6 – Resultados do estudo da linearidade das análises por GC-MS sem extração e utilizando o método do padrão interno, gamas de linearidade  (y=a+bx), ordenada na origem (a), declive (b) e respetivos erros a 95% de confiança, coeficientes de determinação (R2), limites de deteção (LD) e de quantificação (LQ) e coeficiente de variação do método (CVm) para os 3 pesticidas estudados.
+
+Composto
+
+Solvente
+
+Dimetoato
+
+Metanol
+
+Terbutilazina
+
+Metanol
+
+Heptacloro
+
+Metanol
+
+Gama linear  (mg.L-1)  10-100  10-100  1-8  0,2-0,8  10-100  1-8  0,1-0,8 0,02-0,08
+
+n
+
+6  6  5  4  6  5  5 4
+
+Ordenada  𝒂 ± 𝒕𝒔𝒂  −𝟎, 𝟎𝟗𝟏𝟗 ± 𝟎, 𝟏𝟑𝟐𝟑   −𝟎, 𝟎𝟔𝟒𝟖 ± 𝟎, 𝟎𝟔𝟐𝟐   −0,0345 ± 0,0238  −0,0450 ± 0,0680  −𝟎, 𝟎𝟑𝟎𝟎 ± 𝟎, 𝟎𝟑𝟑𝟏   −0,0087 ± 0,0107  −0,0007 ± 0,0075 0,0354 ± 0,0072
+
+Declive  𝒃 ± 𝒕𝒔𝒃  𝟎, 𝟒𝟕𝟒𝟒 ± 𝟎, 𝟐𝟏𝟖𝟎  𝟎, 𝟖𝟔𝟏𝟎 ± 𝟎, 𝟏𝟎𝟐𝟓  0,4223 ± 0,0483  0,2063 ± 0,1037  𝟎, 𝟐𝟗𝟑𝟔 ± 𝟎, 𝟎𝟓𝟒𝟓  0,1278 ± 0,0217  0,0892 ± 0,0153 0,0303 ± 0,0131
+
+R2
+
+0,9013  0,9913  0,9961  0,9734  0,9824  0,9915  0,9914 0,9803
+
+LD  (mg.L-1)  3,300  3,300  0,330  0,066  3,300  0,330  0,033 0,007
+
+LQ  (mg.L-1)  10,00  10,00  1,000  0,200  10,00  1,000  0,100 0,020
+
+CVm   (%)  24,98  6,75  4,90  10,45  10,09  7,28  7,35 8,96
+
+66
+
+As Figuras 5.8 e 5.9 comparam e ilustram os resultados obtidos para a Mistura 1 (M1)
+
+contendo  os  pesticidas  dimetoato,  heptacloro  e  terbutilazina,  com  e  sem  padrão
+
+interno, para concentrações de 10 a 100 ppm, utilizando uma concentração constante
+
+de padrão interno de 100 ppm. Os valores de concentrações e áreas utilizados para a
+
+construção  das  curvas  de  calibração  encontram-se  no  Anexo  H.  Os  ensaios  foram
+
+feitos em duplicado e, portanto, os tratamentos estatísticos foram feitos com a média
+
+dos resultados obtidos.
+
+Figura 5.8 – Curva de calibração dos 3 pesticidas presentes na Mistura 1 sem utilizar o padrão
+
+interno.
+
+Figura 5.9 – Curvas de calibração dos 3 pesticidas presentes na Mistura 1 utilizando o padrão
+
+interno.
+
+67
+
+As curvas de concentração são a representação da relação entre a concentração do
+
+analito e o sinal gerado pelo equipamento. Para a construção das curvas de calibração
+
+foi  aplicado  o  método  dos  mínimos  quadrados,  para  que  fossem  determinados  os
+
+parâmetros  do modelo,  o  declive e o  valor  da  ordenada na  origem.  A  partir desses
+
+parâmetros  eram  feitos  os  cálculos  para  determinar  os  erros  associados  a  esses
+
+parâmetros, utilizando de cálculos de desvio padrão e da distribuição de t de student,
+
+com intervalo de 95% de confiança, como citado anteriormente no capítulo 4.
+
+As  Figuras  5.8  e  5.9  indicam  que  não  existiu  uma  diferença  significativa  para  a
+
+linearidade das curvas de calibração com a utilização do padrão interno. Esperava-
+
+se, porém, que a utilização desse método fosse mais significativa do que os resultados
+
+apresentaram. Apesar dessa diferença, o método do padrão interno ainda se mostrou
+
+válido e se destaca por ser uma técnica que garante mais linearidade e confiança aos
+
+resultados,  podendo  compensar  principalmente  para  gamas  de  valores  de
+
+concentração mais baixas.
+
+Nas Tabelas 5.5 e 5.6 para os pesticidas em metanol, há a destacar o dimetoato como
+
+o  pesticida  para  o  qual  os  resultados  obtidos  apresentaram  maior  coeficiente  de
+
+variação, ultrapassando 24% para o método com padrão interno e 27% sem o método
+
+de padrão interno. Esses altos valores, consequentemente, refletem o baixo valor de
+
+R² e a menor linearidade dos resultados do dimetoato, quando comparados com os
+
+demais pesticidas em metanol. Os coeficientes de variação para o heptacloro e para
+
+a  terbutilazina  também  não  foram  o  esperado  para  os  dois  métodos.  Para  a
+
+terbutilazina  no  método  sem  padrão  interno  o  coeficiente  superou  os  18%,
+
+comparados com os 6,75% quando da utilização do PI. Para o heptacloro no método
+
+sem padrão interno o coeficiente de variação também foi superior a 18%, enquanto
+
+ao se utilizar o PI, o coeficiente foi reduzido a pouco mais que 10%.
+
+Dentre os pesticidas em metanol estudados, com e sem a utilização do método do
+
+padrão interno, aquele que permitiu alcançar as menores gamas de concentração foi
+
+o heptacloro.
+
+68
+
+Como representado na Tabela 5.5, foram obtidos resultados de limites de deteção e
+
+quantificação satisfatórios a partir do método sem a utilização do padrão interno. Para
+
+o  heptacloro  foram  alcançados  um  limite de deteção  de  0,003 mg/L  e  um  limite  de
+
+quantificação de 0,010 mg/L, enquanto para a terbutilazina foram alcançados 0,066
+
+mg/L e 0,200 mg/L para o LD e LQ, respetivamente. Já para o dimetoato os limites
+
+foram superiores, obtendo-se 1,98 mg/L e 6,0 mg/L para o LD e LQ, respetivamente.
+
+O  estudo  de  linearidade  do  método  cromatográfico,  sem  utilizar  a  etapa  prévia  de
+
+extração, mas com o método do padrão interno, representado na Tabela 5.6, permite
+
+verificar que se consegue detetar concentrações de 3,30 mg/L para os três pesticidas,
+
+dimetoato, terbutilazina e heptacloro, enquanto o limite de quantificação para os três
+
+pesticidas foi de 10 mg/L.
+
+Na  Tabela  3.3  é  possível  perceber  que  os  estudos  do  autor  Silva  em  2012  para
+
+heptacloro basearam-se em uma metodologia semelhante à proposta neste trabalho.
+
+Ele utilizou a técnica de SPE para extração dos analitos e o GC-MS como metodologia
+
+analítica. Ao se comparar o LD e LQ obtidos por esse autor, com os valores dos limites
+
+obtidos  neste  trabalho,  é  possível  afirmar  que  os  resultados  obtidos  foram  muito
+
+satisfatórios, pois Silva em seu trabalho, realizou o processo de linearização após a
+
+extração por SPE, etapa essa não realizada neste trabalho. Enquanto Silva em 2012,
+
+obteve um LD e LQ de 0,031 μg/L e 0,103 μg/L para o heptacloro, a metodologia agora
+
+proposta permitiu alcançar os valores de 0,003 mg/L de LD e 0,010 mg/L de LQ para
+
+o mesmo pesticida.
+
+Dentre  os  fatores  que  podem  ser  responsáveis  pela  diferença  dos  limites  LD e  LQ
+
+obtidos  neste  trabalho  relativamente  aos  limites  estudados  das  outras  referências
+
+citadas  na  Tabela  3.3,  destaca-se  as  diferentes  metodologias  propostas  para  a
+
+quantificação  de  cada  pesticida,  diferentes  condições  e  metodologias  de  extração,
+
+diferentes métodos analíticos, diferentes detetores e diferentes condições operatórias
+
+propostas e utilizadas por cada autor.
+
+Comparando os valores obtidos nas Tabela 5.5 e 5.6 com outros estudos, destacados
+
+na Tabela 3.3, os limites de deteção e quantificação alcançados neste trabalho são
+
+69
+
+considerados  satisfatórios,  tendo  em  vista  que  com  a  utilização  da  técnica  de  SPE
+
+podem  ser  alcançados  limites  ainda  mais  inferiores,  fazendo  com  que  essa
+
+metodologia possivelmente seja eficaz na análise de amostras reais, nas quais esses
+
+analitos se encontram em concentrações bem pequenas.
+
+5.1.4 Estudo das análises em modo SIM ou FullScan
+
+Em  análises  por  GC-MS  o  modo  de  aquisição  por  varrimento  total  de  iões  “TIC”,
+
+também  designado  por  “FullScan”,  é  utilizado  para  a  identificação  dos  compostos
+
+químicos presentes numa amostra utilizando os respetivos espetros de massa, assim
+
+como para a análise quantitativa e determinação de alguns parâmetros necessários
+
+na análise por varrimento seletivo de iões previamente selecionados designado por
+
+“SIM”. Por outro lado, a análise utilizando o modo SIM, permite a obtenção de limites
+
+de deteção mais baixos quando comparado com o modo de varrimento, uma vez que
+
+a sensibilidade em modo SIM é cerca de 10 a 100 vezes mais elevada.
+
+Para  a  análise  utilizando  o  modo  SIM  é  necessário  definir  os  iões  a  serem
+
+monitorizados pelo detetor de massas. Estes iões foram determinados de acordo com
+
+o espetro de massas da análise individual de cada pesticida, em que se avaliou quais
+
+os iões mais abundantes e aqueles que se destacavam para cada um dos compostos.
+
+Foram  igualmente  considerados  os  valores  referidos  no  trabalho  desenvolvido  por
+
+Fang et al. em 2018. As razões m/z selecionadas para cada pesticida encontram-se
+
+descritas na Tabela 5.7.
+
+Tabela 5.7 – Iões selecionados para a análise de cada um dos 8 pesticidas utilizando o modo SIM.
+
+Pesticidas
+
+Iões Selecionados
+
+Alacloro
+
+45; 160; 188
+
+Acetocloro
+
+146; 162; 174; 223
+
+Dimetoato
+
+87; 93;125
+
+Heptacloro
+
+100; 270; 272
+
+Metolacloro
+
+162; 211; 238
+
+Terbutilazina
+
+132; 174; 214; 229
+
+Epoxiconazol
+
+111; 138; 192
+
+Tebuconazol
+
+70; 125; 250
+
+Trifenilmetano
+
+152; 167; 244
+
+70
+
+Com o objetivo de comparar os dois modos de aquisição de massas, foram realizadas
+
+análises  em  duplicado,  com  a  Mistura  1,  composta  por  dimetoato,  terbutilazina,
+
+heptacloro e padrão interno (trifenilmetano), na concentração de 100 ppm. O injetor
+
+foi mantido em modo de Splitless, tendo-se utilizado um volume de injeção de 1 L.
+
+Os  cromatogramas  obtidos  para  a  Mistura  1  na  concentração  de  100  ppm  dos
+
+pesticidas, nos dois modos de deteção de massas, são apresentados na Figura 5.10.
+
+Figura 5.10 – Cromatogramas da Mistura 1, obtidos com o injetor em Splitless e (a) em modo SIM
+
+e (b) em modo FullScan.
+
+A análise da Figura 5.10 permite verificar que, com a exceção do dimetoato, o modo
+
+FullScan apresenta valores de intensidade de sinal ligeiramente mais elevados. Uma
+
+explicação possível poderá relacionar-se com o facto de que quando a análise é feita
+
+em modo FullScan são analisados todos os iões para um dado tempo de retenção, o
+
+que  poderá  influenciar  no  resultado  do  sinal,  sendo  que  por  vezes,  as  somas  dos
+
+sinais de um tempo de retenção podem não ser referentes a um só composto.
+
+Quanto ao modo SIM, apesar de ter um sinal ligeiramente inferior para cada pesticida,
+
+os  sinais  obtidos  são  referentes  aos  iões  que  foram  selecionados  para  serem
+
+analisados,  portanto  o  sinal  é  mais  específico  de  cada  composto.  Este  modo  de
+
+deteção  destaca-se  pela  vantagem  de  que  quando  são  analisadas  amostras  de
+
+concentrações  inferiores,  por  se  tratar  de  uma  análise  para  iões  específicos,  são
+
+obtidos  sinais  maiores  do  que  quando  se  utiliza  o  modo  FullScan,  que  faz  uma
+
+aquisição global de todos os iões. Outra vantagem do modo SIM, claramente visível
+
+71
+
+pela comparação dos dois cromatogramas apresentados na Figura 5.10, é que a linha
+
+de base obtida está isenta de contaminantes, uma vez que o detetor considera apenas
+
+os iões selecionados para cada pesticida.
+
+5.1.5 Influência do modo de injeção Split/Splitless em modo SIM
+
+A  injeção  da  amostra  com  o  injetor  em  modo  Split  é  geralmente  utilizada  para
+
+amostras  de  concentrações  elevadas,  e  permite  obter  picos  cromatográficos  bem
+
+resolvidos para os compostos analisados. A injeção da amostra com o injetor em modo
+
+Splitless é normalmente utilizada quando os compostos em análise estão presentes
+
+em  concentrações baixas  e quando  esses  compostos  possuem pontos  de  ebulição
+
+altos, sendo superiores a 150°C, como é o caso dos pesticidas deste estudo (Grande,
+
+2012).
+
+Realizaram-se  análises  em  duplicado  da  Mistura  1,  na  concentração  de  100  ppm,
+
+utilizando  o  modo  SIM  para  a  deteção  de  massas  e  o  injetor  foi  colocado  em  Split
+
+(1:10) e em Splitless. Os cromatogramas obtidos são apresentados na Figura 5.11.
+
+GC
+
+Temperatura do Injetor: 250°C
+
+MS
+
+SIM
+
+Volume de injeção: 1 µL
+
+Temperaturas do detetor e interface: 280°C
+
+Split 1:10
+
+Figura 5.11 – Cromatogramas da Mistura 1, obtidos em SIM e com o injetor em (a) Splitless e (b) Split (1:10).
+
+72
+
+Estes resultados permitem verificar que o método de injeção por Splitless permite que
+
+sejam obtidas intensidades de sinais bastante superiores quando comparadas com as
+
+intensidades  obtidas  com  a  injeção  em  Split  (1:10).  Desta  forma  torna-se  possível
+
+analisar  compostos  em  menores  concentrações,  atingindo  limites  de  deteção  e
+
+quantificação  inferiores,  o  que  aumenta  a  sensibilidade  do  método  para  analisar
+
+amostras  reais  nas  quais  geralmente  os  analitos  se  encontram  em  concentrações
+
+muito baixas. Deste modo decidiu-se realizar, a partir desta fase experimental, todas
+
+as análises por GC-MS em modo SIM, com injeção de apenas 1 µL de amostra e com
+
+o injetor em Splitless, em um novo método denominado “Método 4”.
+
+5.1.6 Estudos de repetibilidade e reprodutibilidade em análises sem extração
+
+De  modo  a  se  avaliar  a  repetibilidade  e  reprodutibilidade  da  metodologia  proposta,
+
+foram feitas análise de 6 padrões na concentração 10 mg/L da mistura M1 sem realizar
+
+a técnica de SPE, em sequência, pelo “Método 4” e 6 análises do mesmo padrão em
+
+dias e condições diferentes, também pelo “Método 4”. Esses estudos permitem discutir
+
+sobre  a  repetibilidade  e  a  reprodutibilidade  do  método,  como  representado  nas
+
+Tabelas  5.8  e  5.9.  Os  cromatogramas  dos  padrões  analisados  nesse  estudo  estão
+
+representados no Anexo I.
+
+Tabela 5.8 – Resultados experimentais obtidos para a repetibilidade utilizando a mistura M1 com uma
+
+concentração de 10 mg/L.
+
+Pesticidas
+
+Área 1
+
+Área 2
+
+Área 3
+
+Área 4
+
+Área 5
+
+Área 6
+
+Repetibilidade
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(CV%)
+
+Dimetoato
+
+42811
+
+32356
+
+34653
+
+43088
+
+42652
+
+62487
+
+Terbutilazina
+
+1026658
+
+881852
+
+859259
+
+741737
+
+765661
+
+931109
+
+Heptacloro
+
+407981
+
+353445
+
+326999
+
+283865
+
+288232
+
+331221
+
+Trifenilmetano  2381948  1961063  1929842  1766093  1766087  2119582
+
+24,67
+
+12,18
+
+13,80
+
+11,80
+
+73
+
+Tabela 5.9 – Resultados experimentais obtidos para a reprodutibilidade utilizando a mistura M1 com
+
+uma concentração de 10 mg/L.
+
+Pesticidas
+
+Área 1
+
+Área 2
+
+Área 3
+
+Área 4
+
+Área 5
+
+Área 6
+
+Reprodutibilidade
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(SIM)
+
+(CV%)
+
+Dimetoato
+
+41196
+
+18611
+
+42652
+
+15931
+
+24831
+
+30865
+
+Terbutilazina
+
+1027983  922674
+
+765661
+
+771416
+
+746261
+
+855227
+
+Heptacloro
+
+350775
+
+360988
+
+288232
+
+285217
+
+289982
+
+336174
+
+Trifenilmetano  2323581  2090290  1766087  1792723  1815575  1988487
+
+38,83
+
+13,02
+
+10,87
+
+11,07
+
+Segundo os resultados da Tabela 5.8, as análises da mistura M1 por diversas vezes,
+
+sequencialmente,  no  mesmo  dia  e  nas  mesmas  condições  operatórias,  permitiram
+
+inferir  que  o  método  não  possui  boa  repetibilidade.  Destaca-se  o  dimetoato  como
+
+pesticida que apresentou maior coeficiente de variação, com quase 25%. Este valor é
+
+consideravelmente  alto  e  uma  das  possíveis  explicações  para  esse  fenómeno  é  o
+
+facto  de  que  este  pesticida,  como  bem  demonstrou  este  estudo,  se  degrada  mais
+
+facilmente e rapidamente que os demais. Isso faz com que a cada análise a área de
+
+seu pico característico seja cada vez mais instável.
+
+Quanto ao estudo da reprodutibilidade, salienta-se que foram realizadas duas análises
+
+por  dia  com  intervalo  de  5  horas  entre  elas,  levando-se  em  consideração  as
+
+degradações sofridas pelos pesticidas no solvente após um tempo da preparação do
+
+padrão,  e,  portanto,  respeitou-se  um  tempo  máximo  para  evitar  que  as  possíveis
+
+degradações dos compostos tivessem influência nos resultados.
+
+Os resultados expressos na Tabela 5.9 indicaram também coeficientes de variação
+
+bastante elevados, obtendo-se resultados diferentes para os valores das áreas dos
+
+pesticidas a cada análise, quer em análises no mesmo dia quer em análises realizadas
+
+em dias diferentes. O dimetoato destaca-se novamente como sendo o pesticida com
+
+maior  coeficiente  de  variação,  atingindo  um  valor  de  aproximadamente  39%.  Uma
+
+hipótese poderá também ser a degradação do composto, que com o tempo faz com
+
+que seu pico e sua área sejam reduzidos. No segundo dia de análise já era possível
+
+observar a presença de pequenos picos no cromatograma do padrão como pode ser
+
+visto no Anexo I, referentes aos iões selecionados para o dimetoato, ilustrando a sua
+
+provável degradação.
+
+74
+
+Os altos valores do coeficiente de variação para a reprodutibilidade e a repetibilidade,
+
+superiores  a  10%,  dificultam  no  desenvolvimento  do  método  e  também  na  sua
+
+validação. Por isso a importância de se estudar meios de tornar o método mais seguro
+
+e válido, como a utilização do método do padrão interno, adotado neste trabalho, para
+
+garantir  mais  segurança  aos  resultados  encontrados  e  assim  tornar  a  metodologia
+
+mais segura.
+
+5.2 Otimização da técnica de extração por SPE
+
+Foi  proposta  uma  primeira  metodologia  de  SPE  para  ser  realizada  no  estudo  do
+
+heptacloro, como um teste, de modo a avaliar se o método proposto seria eficiente na
+
+extração do analito. Foram preparados 10 mL de um padrão na concentração 10 mg/L
+
+do  pesticida,  juntamente  com  o  padrão  interno  em  água  ultrapura.  Esse  padrão  foi
+
+então submetido ao processo de SPE proposto em duplicado.
+
+O  método  consistiu nas  etapas  de  acondicionamento,  extração,  lavagem e  eluição.
+
+Na  primeira  etapa  são  adicionados  5  mL  de  metanol  e  5  mL  de  água  ultrapura  ao
+
+cartucho, a bomba de vácuo é acionada e a válvula é aberta para libertação do líquido
+
+gota a gota.
+
+Na etapa seguinte, de extração, foram adicionados os 10 mL do padrão preparado no
+
+cartucho, a bomba a vácuo é acionada e controla-se a válvula para a libertação gota
+
+a gota do líquido de forma lenta. Na etapa de lavagem o processo é repetido, mas
+
+dessa vez com 5 mL de água ultrapura e na última etapa é feita a eluição do pesticida
+
+do  polímero  do  cartucho  através  da  adição  de  8  mL  de  metanol  no  cartucho  e  o
+
+gotejamento de forma lenta e contínua do líquido.
+
+O  recolhido  foi  então  analisado  por  GC-MS  para  avaliação  dos  resultados.  Os
+
+cromatogramas  obtidos  após  o  processo  de  extração  do  heptacloro  estão
+
+representados na Anexo J.
+
+A partir dessa metodologia, do teste realizado e de referências estudadas, foi proposto
+
+um novo método com algumas alterações para garantir a otimização do processo.
+
+75
+
+5.2.1 Seleção do tipo de adsorvente utilizado
+
+Para a realização da técnica de extração em fase sólida foi necessário pesquisar na
+
+literatura  os  tipos  de  adsorvente  existentes,  de  modo  a  se  determinar  qual  o  mais
+
+indicado para ser utilizado, levando-se em consideração que os compostos em estudo
+
+são pesticidas.
+
+Atualmente, a maioria dos cartuchos para SPE desenvolvidos pelos fabricantes pode
+
+ser utilizado para diferentes aplicações, sendo capazes muitas vezes de adsorver uma
+
+gama  abrangente  de  poluentes  emergentes.  Alguns  outros  apresentam
+
+características  mais  específicas  e  são  mais  seletivos  em  relação  a  compostos
+
+específicos (Moreira, 2008).
+
+Segundo  alguns  autores,  os  adsorventes  mais  adequados  para  a  extração  de
+
+compostos orgânicos são as partículas de sílica revestidas por cadeias apolares de
+
+C18  e  C8,  co-polímeros  apolares  com  elevada  superfície  específica  e  ligações
+
+cruzadas e também materiais carbonáceos (Gonçalves, 2006).
+
+Liu  et  al  fizeram  um  estudo  em  2004  para  avaliar  a  eficiência  da  recuperação  dos
+
+poluentes emergentes em relação a diferentes tipos de cartuchos com adsorventes
+
+diferentes.  Segundo  os  autores,  dentre  os  cartuchos  estudados,  a  adsorção  de
+
+poluentes  emergentes  revelou-se  mais  eficiente  utilizando  cartuchos  Chromabond
+
+HLB, 500 mg de enchimento de poli(divinilbenzeno-co-N-vinilpirrolidona).
+
+Com  base  na  revisão  bibliográfica  realizada,  optou-se  por  se  utilizar  cartuchos
+
+Chromabond HLB, da marca Macherey-Nagel, com 6 mL de capacidade e com 500
+
+mg  de  enchimento de  poli(divinilbenzeno-co-N-vinilpirrolidona) com um  diâmetro de
+
+partícula de 60 m. Esse cartucho é indicado para o estudo de amostras que sejam
+
+aquosas,  tendo  a  vantagem  de  poder  ser  utilizado  para  o  estudo  de  poluentes
+
+emergentes em geral e de possuir uma boa relação custo/benefício.
+
+5.2.2 Otimização do tipo de solvente a utilizar na etapa de eluição
+
+Levando-se  em  consideração  os  ensaios  que  foram  feitos  para  identificação  dos
+
+pesticidas pela cromatografia gasosa, optou-se por utilizar os mesmos solventes para
+
+76
+
+eluição dos pesticidas na técnica de extração por SPE, que também foram utilizados
+
+para preparação dos padrões de cada um deles na primeira etapa experimental do
+
+trabalho.
+
+Deste  modo,  para  a  mistura  M1,  contendo  os  pesticidas,  dimetoato,  heptacloro  e
+
+terbutilazina o solvente utilizado na etapa de eluição da SPE foi o metanol, enquanto
+
+para a mistura M3, composta por epoxiconazol e tebuconazol, o eluente escolhido foi
+
+o hexano.
+
+5.2.3 Seleção das condições operatórias das 4 etapas de SPE
+
+De acordo com a metodologia de SPE proposta e explicada na seção 5.2, foi proposto
+
+um novo método, considerado otimizado para a análise dos compostos em estudo.
+
+Os  pesticidas  estudados  através  dessa  metodologia  foram  aqueles  presentes  nas
+
+misturas M1 e M3. Foram preparados 10 mL de 3 padrões de concentração 10 ppm,
+
+de  cada  uma  das  misturas  em  água  ultrapura,  denominados  de  padrão  1,  2  e  3,
+
+simulando  uma  matriz  aquosa  real.  Cada  um  desses  padrões  continha  também  o
+
+padrão interno na concentração de 10 ppm. O cálculo das massas dos pesticidas e
+
+diluições para obtenção dos padrões encontram-se no Anexo K.
+
+O método representado na Figura 5.12 ilustra as etapas propostas para a otimização
+
+da extração por SPE. Diferentemente do método anteriormente realizado, foi proposta
+
+uma 2ª etapa de eluição de modo a avaliar se todo o analito retido nos cartuchos seria
+
+eluído na primeira etapa, ou se algum pesticida ainda retido no cartucho pudesse ser
+
+eluído com a adição de mais solvente.
+
+As  amostras  recolhidas  nas  diversas  etapas  de  SPE  foram  de  seguida  analisadas
+
+utilizando o método otimizado de GC-MS.
+
+77
+
+Acondicionamento
+
+5 mL de metanol   +  5 mL de água Ultrapura
+
+Extração
+
+10 mL de amostra
+
+Lavagem
+
+5 mL de água Ultrapura
+
+2ª Eluição
+
+2 mL de metanol/hexano
+
+1ª Eluição
+
+8 mL de metanol/hexano
+
+Figura 5.12 – Diagrama representativo da técnica de SPE otimizada para a extração de pesticidas
+
+em amostras aquosas.
+
+O procedimento proposto e representado na Figura 5.12 mostrou-se eficiente para a
+
+extração dos pesticidas da mistura M1. Para a primeira etapa de eluição foi possível
+
+recuperar  todos  os  pesticidas  da  mistura,  com  sinais  cromatográficos  bastante
+
+intensos, enquanto para a 2ª eluição apenas foram obtidos picos para a terbutilazina
+
+e para o heptacloro. A alta solubilidade dos pesticidas da mistura M1 em água e em
+
+metanol facilita a sua adsorção no cartucho e depois mais facilmente são eluídos pelo
+
+solvente.
+
+Para  a  mistura  M3  os  cromatogramas  ilustraram  que  o  método  não  permitiu  a
+
+recuperação  dos  pesticidas  por  essa  metodologia.  Possivelmente  a  utilização  de
+
+hexano  como  eluente  e  a  baixa  solubilidade  que  os  pesticidas  têm  em  água  não
+
+permite que estes não fiquem adsorvidos no cartucho e consequentemente não sejam
+
+extraídos com eficiência.
+
+A utilização de outro solvente, como o acetonitrilo, ou até mesmo a utilização de um
+
+cartucho  diferente  do  utilizado  poderá  ser  mais  indicado  para  esta  família  de
+
+pesticidas.
+
+Todos os cromatogramas obtidos para os 3 padrões da mistura M1 e M3, submetidos
+
+a extração por SPE estão representados no Anexo L.
+
+78
+
+5.2.4 Determinação das recuperações
+
+Para a determinação da recuperação dos pesticidas alcançada através da técnica de
+
+SPE, foi feito um tratamento estatístico com os resultados obtidos para os 3 padrões
+
+de concentração 10 mg/L da mistura M1, citados na etapa anterior, na seção 5.2.3.
+
+Para cada um dos padrões, 1, 2 e 3 foram obtidas duas amostras referentes às duas
+
+eluições. As áreas obtidas para cada uns dos pesticidas através da extração por SPE
+
+encontram-se na Tabela 5.10. Destaca-se, como já citado anteriormente, o facto de
+
+que na 2a etapa de eluição para todos os padrões, já não se observar a presença de
+
+dimetoato  e  os  demais  pesticidas  aparecem  em  quantidades  bastante  reduzidas
+
+quando comparadas com a 1ª eluição.
+
+A terbutilazina teve em média para os 3 padrões apenas 0,46% do pesticida eluídos
+
+na  segunda  etapa  quando  comparada  com  a  primeira,  enquanto  para  o  heptacloro
+
+esse valor foi um pouco superior, atingindo 3,41% eluídos do pesticida na segunda
+
+eluição, quando comparada com a 1ª etapa.
+
+Tabela 5.10 - Áreas obtidas para as amostras recolhidas nas duas etapas finais de eluição em cada
+
+uma das 3 réplicas da solução padrão de cada pesticida com uma concentração de 10 mg/L.
+
+Pesticidas e
+
+Áreas (SIM) para o
+
+Áreas (SIM) para o
+
+Áreas (SIM) para o
+
+padrão interno
+
+1° Padrão
+
+2° Padrão
+
+3° Padrão
+
+1ª eluição
+
+2ª eluição
+
+1ª eluição
+
+2ª eluição
+
+1ª eluição
+
+2ª eluição
+
+Dimetoato
+
+35647
+
+-
+
+29265
+
+-
+
+41805
+
+Terbutilazina
+
+1385382
+
+7006
+
+1346166
+
+6467
+
+1582058
+
+Heptacloro
+
+305124
+
+10840
+
+295021
+
+10835
+
+309467
+
+-
+
+6569
+
+9416
+
+Padrão interno
+
+1929241
+
+984169
+
+1795185
+
+627630
+
+2238296
+
+908243
+
+Foram  analisados  também  os  resultados  obtidos  da  análise  em  duplicado  de  um
+
+padrão  controlo  de  metanol  da  mistura  M1,  preparado  num  balão  volumétrico  de
+
+10 mL. O cromatograma das análises desse padrão em metanol está representado no
+
+Anexo M. As massas medidas para cada pesticida, a concentração dos pesticidas e
+
+do padrão interno, as áreas médias determinadas em duplicada para os pesticidas e
+
+padrão interno, a razão média entre as áreas dos pesticidas obtidas pelo padrão em
+
+metanol com as áreas médias obtida para o PI para cada eluição (A/API)média, a razão
+
+entre as concentrações dos pesticidas e do PI (C/CPI) e uma constante (K), calculada
+
+79
+
+a  partir  da  Equação  12  estão  registados  na  Tabela  5.11.  O  parâmetro  𝐴  e  𝐴𝑃𝐼  se
+
+referem as áreas do pesticida e do padrão interno respetivamente, e os parâmetros 𝐶
+
+e 𝐶𝑃𝐼 são referentes as concentrações dos pesticidas e do padrão interno.
+
+𝐾 =
+
+
+
+𝐴𝑃𝐼
+
+×
+
+𝐶𝑃𝐼
+
+
+
+[12]
+
+Tabela 5.11 – Valores de massa, concentração, áreas médias, razão entre as áreas dos pesticidas e
+
+do PI (A/API)média, razão entre a concentração dos pesticidas e do PI (C/CPI) e constante (K)
+
+calculados no estudo do padrão 10 mg/L em metanol.
+
+Pesticidas e
+
+Massa
+
+Concentração
+
+Área
+
+padrão interno
+
+Dimetoato
+
+Terbutilazina
+
+Heptacloro
+
+(mg)
+
+0,101
+
+0,105
+
+0,102
+
+Trifenilmetano
+
+0,108
+
+(mg/L)
+
+média
+
+(A/API)média  C/CPI
+
+K
+
+10,1
+
+10,5
+
+10,2
+
+10,8
+
+34597,5
+
+0,9352
+
+0,0166  0,0155
+
+945759,5
+
+0,9722
+
+0,4382  0,4260
+
+326855,5
+
+0,9444
+
+0,1560  0,1473
+
+2215972
+
+A partir dos resultados apresentados nas Tabelas 5.10 e 5.11 foi feito o tratamento
+
+estatístico  para  o  cálculo  das  recuperações.  Primeiramente  foram  calculadas  para
+
+cada padrão preparado as concentrações (c1 e c2) e massas de cada pesticida (m1
+
+e  m2)  para  as  duas  eluições.  Com  esses  valores  é  possível  determinar  as
+
+recuperações  em  massa  para  cada  eluição  através  da  Equação  1.  Os  dados  são
+
+detalhados na Tabela 5.12, Tabela 5.13 e Tabela 5.14.
+
+Para determinar as concentrações foi utilizada a Equação 13.
+
+𝐶𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎çã𝑜 =
+
+
+
+𝐴𝑃𝐼
+
+
+
+𝐶𝑃𝐼
+
+
+
+[13]
+
+Para o cálculo das massas m1 e m2, referentes às duas eluições, foram utilizadas as
+
+Equações 14 e 15, considerando os volumes de eluição utilizados na 1ª e 2ª fases de
+
+eluição, 8 mL e 2 mL, respetivamente.
+
+𝑚1 = 𝐶𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎çã𝑜 × 0,008
+
+𝑚2 = 𝐶𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎çã𝑜 × 0,002
+
+[14]
+
+[15]
+
+80
+
+Tabela 5.12 – Concentrações e massas determinadas de cada pesticida com o 1º padrão.
+
+Pesticida
+
+c11 (mg/L)  m11 (mg)
+
+c12 (mg/L)  m12 (mg)
+
+R11 (%)  R12 (%)
+
+Dimetoato
+
+Terbutilazina
+
+Heptacloro
+
+12,04
+
+17,70
+
+10,95
+
+0,0963
+
+0,1416
+
+0,0876
+
+0,00
+
+0,18
+
+0,76
+
+0,0000
+
+0,0004
+
+0,0015
+
+95,3
+
+134,9
+
+85,9
+
+0,0
+
+0,3
+
+1,5
+
+Tabela 5.13 - Concentrações e massas determinadas de cada pesticida com o 2º padrão.
+
+Pesticida
+
+c21 (mg/L)  m21 (mg)
+
+c22 (mg/L)  m22 (mg)
+
+R21 (%)  R22 (%)
+
+Dimetoato
+
+Terbutilazina
+
+Heptacloro
+
+9,88
+
+17,20
+
+10,59
+
+0,0791
+
+0,1376
+
+0,0847
+
+0,00
+
+0,16
+
+0,76
+
+0,0000
+
+0,0003
+
+0,0015
+
+78,3
+
+131,0
+
+83,0
+
+0,0
+
+0,3
+
+1,5
+
+Tabela 5.14 – Concentrações e massas determinadas de cada pesticida com o 3º padrão.
+
+Pesticida
+
+c31 (mg/L)  m31 (mg)
+
+c32 (mg/L)  m32 (mg)
+
+R31 (%)  R32 (%)
+
+Dimetoato
+
+Terbutilazina
+
+Heptacloro
+
+14,12
+
+20,21
+
+11,11
+
+0,1129
+
+0,1617
+
+0,0888
+
+0,00
+
+0,16
+
+0,66
+
+0,0000
+
+0,0003
+
+0,0013
+
+111,8
+
+154,0
+
+87,1
+
+0,0
+
+0,3
+
+1,3
+
+Com  a determinação da  recuperação  de  cada  etapa de eluição,  foi feito  também  o
+
+cálculo  das  recuperações  médias,  em  percentagem,  para  cada  pesticida,  como
+
+representado na Tabela 5.15.
+
+Tabela 5.15 - Resultados da percentagem de recuperação média dos 3 padrões para os pesticidas
+
+Pesticida
+
+Dimetoato
+
+Terbutilazina
+
+Heptacloro
+
+estudados.
+
+Recuperação média 1 (%)
+
+Recuperação média 2 (%)
+
+95,1
+
+140,0
+
+85,3
+
+0,0
+
+0,3
+
+1,4
+
+Os  resultados  de  recuperação  foram  satisfatórios  obtendo-se  um  valor  superior  a
+
+100% para a terbutilazina, e bons valores para o dimetoato (95%) e heptacloro (85%)
+
+para a primeira eluição dos padrões, enquanto para a segunda eluição a recuperação
+
+foi baixa, principalmente por se levar em consideração que a maior parte dos analitos
+
+já havia sido eluída na primeira etapa. Portanto o método se mostrou eficiente e capaz
+
+de garantir a extração de pesticidas eluídos em metanol.
+
+81
+
+Recuperações superiores a 100% podem ocorrer nesse tipo de metodologia, pois as
+
+concentrações  medidas  dos  compostos,  geralmente  são  próximas  do
+
+limite
+
+instrumental da  técnica  analítica.  Outro  fator  que  pode  originar  esse  fenómeno  é  a
+
+possível  interação  do  eluente  ou  dos  pesticidas  com  o  material  adsorvente  do
+
+cartucho. Esses materiais podem se eluir juntamente com os pesticidas, aumentando
+
+as áreas de seus picos, gerando recuperações maiores do que realmente são.
+
+A determinação das recuperações não foi calculada para a mistura M3, já que como
+
+visto  anteriormente,  a  metodologia  proposta  de  SPE  não  permitiu  a  extração  dos
+
+pesticidas epoxiconazol e tebuconazol.
+
+82
+
+6. CONCLUSÕES E SUGESTÕES PARA TRABALHO FUTURO
+
+6.1 Conclusões
+
+Este trabalho teve como objetivo principal o desenvolvimento e a validação de uma
+
+metodologia experimental para identificar e quantificar 11  pesticidas diferentes, que
+
+são mais utilizados na região nordeste de Portugal e no Brasil. São eles o acetocloro,
+
+alacloro,  dimetoato,  epoxiconazol,  glifosato,  imidacloprida,  heptacloro,  MCPA,
+
+metolacloro, tebuconazol e terbutilazina. Infelizmente devido à pandemia e todas as
+
+limitações por ela imposta, algumas etapas não puderam ser devidamente realizadas.
+
+Primeiramente, foi realizada uma pesquisa bibliográfica aprofundada para avaliar os
+
+métodos  de  extração  e  quantificação  mais  utilizados  atualmente  no  estudo  e
+
+quantificação de pesticidas em meios aquosos. Com base neste passo inicial, decidiu-
+
+se  desenvolver  uma  metodologia  baseada  na  extração  em  fase  sólida,  seguida  de
+
+uma análise instrumental por  cromatografia gasosa acoplada  com espetrometria de
+
+massas.
+
+No desenvolvimento da metodologia, realizou-se a otimização do método de análise
+
+e  da  metodologia  de  extração.  Para  isso  foram  realizadas  diversas  análises  dos
+
+pesticidas,  alterando,  por  exemplo,  as  suas  concentrações,  o  solvente  utilizado  na
+
+diluição  dos  compostos,  as  condições  operatórias  do  GC-MS  e  as  condições
+
+operatórias  de  SPE.  Foram  feitos  tratamentos  estatísticos  para  os  ensaios  de
+
+repetibilidade e reprodutibilidade, além dos cálculos de recuperação para o método
+
+de extração.
+
+A  mistura  M1,  contendo  os  pesticidas  dimetoato,  heptacloro  e  terbutilazina,  foi
+
+utilizada  para  o  estudo  da  repetibilidade  e  reprodutibilidade  do  método.  Para  a
+
+repetibilidade obteve-se um coeficiente de variação superior a 24% para o dimetoato,
+
+12,18% para a terbutilazina e 13,80% para o heptacloro, já para a reprodutibilidade os
+
+coeficientes  de  variação  foram  de  38,83%  para  o  dimetoato,  13,02%  para  a
+
+terbutilazina e 10,87% para o heptacloro. Devido aos altos valores desses parâmetros,
+
+principalmente  para  o  dimetoato  que  se  trata  de  um  pesticida  que  se  degrada
+
+rapidamente quando em solução com metanol, a implementação do método do padrão
+
+83
+
+interno  mostrou-se  como  uma  boa  opção  para  garantir  menor  variação  entre  os
+
+resultados, tornando o método mais reprodutível.
+
+Dos  11  pesticidas  propostos  para  estudo  neste  trabalho,  foi  possível  identificar  e
+
+quantificar  o  acetocloro,  o  alacloro,  o  dimetoato,  o  epoxiconazol,  o  heptacloro,  o
+
+metolacloro, o tebuconazol e a terbutilazina. Os pesticidas glifosato, imidacloprida e
+
+MCPA não foram identificados através da metodologia desenvolvida, nem estudados
+
+nas  demais  etapas  do  trabalho,  pois  necessitam  de  um  processo  químico  de
+
+derivatização, para que sejam derivados em compostos que possam ser analisados
+
+por cromatografia gasosa.
+
+Com o desenvolvimento de uma metodologia otimizada para análise dos pesticidas
+
+por  GC-MS,  a  segunda  etapa  do  trabalho  foi  o  desenvolvimento  também  de  uma
+
+metodologia otimizada para SPE. A extração por SPE realizada para os pesticidas da
+
+mistura M1, garantiu recuperações médias de 85% para o heptacloro, 140% para a
+
+terbutilazina e 95% para o dimetoato. Os elevados valores de recuperação indicam
+
+que  o  método  foi  devidamente  otimizado  para  esses  pesticidas  e  possivelmente
+
+também  para  os  pesticidas  da  mistura  M2,  formada  pelos  pesticidas  acetocloro,
+
+alacloro e metolacloro, porém para os pesticidas em hexano da mistura M3, o método
+
+deve ser alterado de forma a garantir a eluição e extração dos mesmos.
+
+Só  foi  possível  construir  curvas  de  calibração  e  determinar  a  linearidade  para  os
+
+pesticidas da mistura M1, sem a realização anterior da técnica de SPE. Apesar disso,
+
+os  valores  obtidos  para  os  limites  de  deteção  e  quantificação  para  o  dimetoato,
+
+terbutilazina e heptacloro, sem a utilização do método do padrão interno alcançaram
+
+bons resultados, quando comparados com os estudos presentes na literatura. Para o
+
+dimetoato  foram  obtidos  um  limite  de  deteção  de  1,98  mg/L  e  um  limite  de
+
+quantificação  de  6,00  mg/L,  com  um  coeficiente  de  variação  de  27,60%,  enquanto
+
+para a terbutilazina o LD foi de 0,066 mg/L e o LQ foi de 0,200 mg/L e um coeficiente
+
+de variação de 18,31%, já para o heptacloro os limites foram de 0,003 mg/L e 0,010
+
+mg/L para o LD e LQ, respetivamente, com um coeficiente de variação de 18,63%. Os
+
+coeficientes  de  variação  foram  elevados  o que  indica  que o  método não apresenta
+
+84
+
+uma boa reprodutibilidade, sendo o motivo para o estudo da mesma metodologia com
+
+o padrão interno.
+
+Para  o  método  em  que  se  utiliza  o  padrão  interno  os  resultados  já  não  foram  tão
+
+satisfatórios, já que para os 3 pesticidas da M1 foram obtidos um LD de 3,3 mg/L e
+
+um LQ de 10 mg/L.  Apesar do aumento nos  limites de deteção  e  quantificação,  os
+
+coeficientes  de  variação  para  os  3  pesticidas  foram  reduzidos.  Para  o  dimetoato  o
+
+coeficiente  foi  de  24,98%,  para  a  terbutilazina  o  coeficiente  foi  de  6,75%  e  para  o
+
+heptacloro  foi  obtido  o  menor  coeficiente  de  variação  com  10,09%.  Mesmo  com  a
+
+redução dos coeficientes de variação, esses ainda se mostraram altos, principalmente
+
+para o dimetoato, o que compromete a reprodutibilidade do método.
+
+A diferença entre os limites de deteção e quantificação obtidos neste trabalho e  os
+
+resultados apresentados por outros autores, pode ser devida à utilização de diferentes
+
+metodologias e condições operatórias propostas por cada um. Além disso os autores
+
+terão  utilizado  alguma  metodologia  de  extração  antes  da  construção  e  linearização
+
+das curvas de calibração, podendo alcançar concentrações menores, atingindo assim
+
+limites de deteção e quantificação também menores. Por outro lado, não é possível
+
+fazer  uma  comparação  direta  com  os  demais  autores  e  suas  metodologias
+
+apresentadas, já que não foi possível realizar o estudo de linearidade na quantificação
+
+para todos os 11 pesticidas propostos nesse estudo.
+
+O  procedimento  proposto  nesse  estudo  mostrou-se  fácil  e  expedito  para  a
+
+identificação de diferentes pesticidas numa mesma amostra de matriz aquosa. Apesar
+
+de serem necessários mais estudos, a partir deste trabalho foi possível desenvolver
+
+uma metodologia eficiente de extração e quantificação para os pesticidas da mistura
+
+M1 em metanol. Sugere-se que se realize um estudo semelhante para os pesticidas
+
+presentes na mistura M2.
+
+6.2 Sugestões para trabalhos futuros
+
+Como  sugestões  para  trabalhos  futuros  é  indicado  o  estudo  mais  aprofundado  dos
+
+pesticidas  glifosato,  imidacloprida  e  MCPA,  tendo  em  vista  a  necessidade  por  um
+
+processo  de  derivatização  para  cada  um  desses  compostos,  de  modo  que  eles
+
+85
+
+possam ser analisados pelo método proposto neste trabalho, e possivelmente possam
+
+ser identificados e quantificados numa mesma amostra juntamente com os demais.
+
+Além deles, os pesticidas acetocloro, alacloro e metolacloro devem ser estudados de
+
+modo  a  avaliar  se  o  método  de  SPE  proposto  também  é  válido  para  extração  e
+
+concentração desses compostos.
+
+Sugere-se  também  a  validação  da  metodologia  proposta  (SPE/GC-MS)  através  da
+
+determinação  das  recuperações  do  processo  de  extração,  determinação  de
+
+parâmetros estatísticos  das novas  curvas de  calibração  e  a posterior  determinação
+
+dos  limites  de  deteção  e  quantificação  do  método,  alcançando  gamas  de
+
+concentrações menores após ensaios com padrões submetidos a SPE. Com esses
+
+estudos já é possível a aplicação de ensaios com amostras reais de matrizes aquosas
+
+para detetar e quantificar estes pesticidas em rios na região de Bragança.
+
+Além  disso,  os  mesmos  pesticidas  podem  ser  estudados  por  outras  metodologias,
+
+modificando por exemplo, o método de extração, como a microextração em fase sólida
+
+(SPME),  seguida  de  análise  por  GC-MS  ou  até  mesmo  por  algum  tipo  de
+
+cromatografia  líquida.  A  comparação  dos  resultados  obtidos  neste  trabalho,  com  o
+
+desenvolvimento  de  outras  metodologias  pode  ajudar  a  determinar  as  melhores
+
+condições operatórias que garantam uma melhor identificação e quantificação de cada
+
+pesticida, de forma ainda mais otimizada.
+
+86
+
+
+
+8. ANEXOS
+
+ANEXO A – Soluções mãe preparadas para cada pesticida e para o padrão interno.
+
+Tabela A.1 - Concentração das soluções mãe dos pesticidas e do padrão interno preparados em 5
+
+mL de metanol.
+
+Pesticida
+
+Massa (mg)  Concentração (ppm)
+
+Acetocloro
+
+Alacloro
+
+Dimetoato
+
+Epoxiconazol
+
+Glifosato
+
+Heptacloro
+
+Imidacloprida
+
+MCPA
+
+Metolacloro
+
+Tebuconazol
+
+Terbutilazina
+
+Trifenilmetano
+
+5,0
+
+5,0
+
+5,3
+
+5,1
+
+5,0
+
+5,1
+
+5,1
+
+4,9
+
+5,3
+
+5,3
+
+5,2
+
+5,1
+
+1000
+
+1000
+
+1060
+
+1020
+
+1000
+
+1020
+
+1020
+
+980
+
+1060
+
+1060
+
+1040
+
+1020
+
+ANEXO  B  -  Espetros  de  massa  referentes  ao  acetocloro,  alacloro,  dimetoato,
+
+heptacloro, metolacloro, terbutilazina pelo Método 1 em metanol.
+
+96
+
+Figura B.1 – Espectro de massas acetocloro.
+
+Figura B.2 – Espectro de massas alacloro.
+
+Figura B.3 – Espectro de massas dimetoato.
+
+97
+
+Figura B.4 – Espectro de massas heptacloro.
+
+Figura B.5 – Espectro de massas metolacloro.
+
+Figura B.6 – Espectro de massas terbutilazina.
+
+ANEXO  C  -  Espetros  de  massa  referentes  à  identificação  do  tebuconazol  e  do
+
+epoxiconazol pelo Método 2 em hexano.
+
+98
+
+Figura C.1 – Espectro de massas epoxiconazol.
+
+Figura C.2 – Espectro de massas tebuconazol.
+
+ANEXO D – Espetro de massas do padrão interno (Trifenilmetano) pelo Método 4 em
+
+metanol.
+
+99
+
+Figura D.1 – Espectro de massas trifenilmetano.
+
+100
+
+ANEXO E – Cálculos realizados para a preparação das gamas de concentrações dos
+
+5 pesticidas e do padrão interno.
+
+Cálculos realizados para a preparação das diferentes concentrações de padrão interno
+
+Tabela E.1 - Volume utilizado de PI para preparar uma solução de 100 ppm em um balão volumétrico
+
+de 20 mL.
+
+C. Solução (ppm)  V. Padrão interno (1020 ppm) mL
+
+100
+
+1,96
+
+Tabela E.2 - Volume utilizado de PI para preparar uma solução de 10 ppm em um balão volumétrico
+
+de 20 mL.
+
+C. Solução (ppm)  V. Padrão interno (100 ppm) mL
+
+10
+
+2,0
+
+Tabela E.3 - Volume utilizado de PI para preparar uma solução de 1 ppm em um balão volumétrico
+
+de 20 mL.
+
+C. Solução (ppm)  V. Padrão interno (10 ppm) mL
+
+1
+
+2,0
+
+Cálculos  realizados  para  a  preparação  das  diferentes  concentrações  de dimetoato
+
+Tabela E.10 - Volume utilizado de Pesticida para preparar uma solução de 100 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (1060 ppm) mL
+
+100
+
+0,47
+
+Tabela E.11 - Volume utilizado de Pesticida para preparar uma solução de 10 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (100 ppm) mL
+
+10
+
+0,5
+
+Tabela E.12 - Volume utilizado de Pesticida para preparar uma solução de 1 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (10 ppm) mL
+
+1
+
+0,5
+
+101
+
+Cálculos  realizados  para  a  preparação  das  diferentes  concentrações  de epoxiconazol
+
+Tabela E.13 - Volume utilizado de Pesticida para preparar uma solução de 100 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (1020 ppm) mL
+
+100
+
+0,49
+
+Tabela E.14 - Volume utilizado de Pesticida para preparar uma solução de 1 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (100 ppm) mL
+
+10
+
+0,5
+
+Tabela E.15 - Volume utilizado de Pesticida para preparar uma solução de 1 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (10 ppm) mL
+
+1
+
+0,5
+
+Cálculos  realizados  para  a  preparação  das  diferentes  concentrações  de heptacloro
+
+Tabela E.16 - Volume utilizado de Pesticida para preparar uma solução de 100 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (1020 ppm) mL
+
+100
+
+0,49
+
+Tabela E.17 - Volume utilizado de Pesticida para preparar uma solução de 10 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (100 ppm) mL
+
+10
+
+0,5
+
+Tabela E.18 - Volume utilizado de Pesticida para preparar uma solução de 1 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (10 ppm) mL
+
+1
+
+0,5
+
+Cálculos  realizados  para  a  preparação  das  diferentes  concentrações  de tebuconazol
+
+Tabela E.22 - Volume utilizado de Pesticida para preparar uma solução de 100 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (1060 ppm) mL
+
+100
+
+0,47
+
+Tabela E.23 - Volume utilizado de Pesticida para preparar uma solução de 10 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (100 ppm) mL
+
+10
+
+0,5
+
+102
+
+Tabela E.24 - Volume utilizado de Pesticida para preparar uma solução de 1 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (10 ppm) mL
+
+1
+
+0,5
+
+Cálculos  realizados  para  a  preparação  das  diferentes  concentrações  de terbutilazina
+
+Tabela E.25 - Volume utilizado de Pesticida para preparar uma solução de 100 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (1040 ppm) mL
+
+100
+
+0,48
+
+Tabela E.26 - Volume utilizado de Pesticida para preparar uma solução de 10 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (100 ppm) mL
+
+10
+
+0,5
+
+Tabela E.27 - Volume utilizado de Pesticida para preparar uma solução de 1 ppm em um balão
+
+volumétrico de 5 mL.
+
+C. Solução (ppm)  V. Pesticida (10 ppm) mL
+
+1
+
+0,5
+
+103
+
+ANEXO  F  –  Cálculos  realizados  para  a  preparação  das  diferentes  gamas  de
+
+concentração para as misturas de pesticidas M1 e M3.
+
+Para preparação da gama de 10 – 100 ppm:
+
+Tabela F.1 - Volumes utilizados de pesticida e PI para a gama de 10 – 100 ppm.
+
+C. Solução (ppm)  V. Pesticida (1000 ppm) µL  V. Padrão interno (1000 ppm) µL
+
+100  80  60  40  20 10
+
+500  400  300  200  100 50
+
+500  500  500  500  500 500
+
+Para preparação da gama de 1 – 10 ppm:
+
+Tabela F.2 - Volumes utilizados de pesticida e PI para a gama de 1 – 10 ppm.
+
+C. Solução (ppm)  V. Pesticida (100 ppm) µL  V. Padrão interno (100 ppm) µL
+
+10  8  6  4  2 1
+
+500  400  300  200  100 50
+
+500  500  500  500  500 500
+
+Para preparação da gama de 0.1 – 1 ppm:
+
+Tabela F.3 - Volumes utilizados de pesticida e PI para a gama de 0.1 – 1 ppm.
+
+C. Solução (ppm)  V. Pesticida (10 ppm) µL  V. Padrão interno (10 ppm) µL
+
+1  0,8  0,6  0,4  0,2 0,1
+
+500  400  300  200  100 50
+
+500  500  500  500  500 500
+
+Para preparação da gama de 0.01 – 0.1 ppm:
+
+Tabela F.4 - Volumes utilizados de pesticida e PI para a gama de 0.01 – 0.1 ppm.
+
+C. Solução (ppm)  V. Pesticida (1 ppm) µL  V. Padrão interno (1 ppm) µL
+
+0,1  0,08  0,06  0,04  0,02 0,01
+
+500  400  300  200  100 50
+
+500  500  500  500  500 500
+
+104
+
+ANEXO G – Dados e curvas de calibração obtidas para os pesticidas individuais da
+
+mistura M1, com e sem o método do padrão interno.
+
+Tabela G.1 – Concentrações e áreas obtidas para o estudo do dimetoato por GC-MS sem a extração
+
+por SPE e sem o método do padrão interno.
+
+Concentração (mg.L-¹)  6,00  8,00  10,0  20,0  40,0  60,0  80,0 100,0
+
+Área (TIC)  2135  11200  56243  201446  1876456  3552127  4468421 9101016
+
+Figura G.1 – Curva de calibração para o dimetoato nas gamas de concentração (a) 6-100 ppm, (b) 20-80 ppm e (c) 6-20 ppm.
+
+Tabela G.2 – Concentrações e áreas obtidas para o estudo da terbutilazina por GC-MS sem a
+
+extração por SPE e sem o método do padrão interno.
+
+105
+
+Concentração (mg.L-¹)  0,20  0,40  0,60  0,80  1,00  2,00  4,00  6,00  8,00  10,0  20,0  40,0  60,0  80,0 100,0
+
+Área (TIC)  893  4246  14305  25325  35467  91598  299466  371416  701455  768639  1766663  6931480  10352438  11231749 15409498
+
+Figura G.2 - Curva de calibração para a terbutilazina nas gamas de concentração (a) 0,2-100 ppm, (b) 20-100 ppm, (c) 2-20 ppm e (d) 0,4 – 2 ppm.
+
+Tabela G.3 – Concentrações e áreas obtidas para o estudo do heptacloro por GC-MS sem a extração
+
+por SPE e sem o método do padrão interno.
+
+106
+
+Concentração (mg.L-¹)  0,01  0,02  0,04  0,06  0,08  0,1  0,2  0,40  0,60  0,80  1,00  2,00  4,00  6,00  8,00  10,00  20,00  40,00  60,00  80,00 100,00
+
+Área (TIC)  667  614  621  793  949  998  3339  5303  10535  13957  14658  35728  86358  115990  158324  236251  543617  2088564  3116894  3937522 5397466
+
+Figura G.3 - Curva de calibração para o heptacloro nas gamas de concentração (a) 0,01-100 ppm, (b) 8-100 ppm, e (c) 0,01-8 ppm.
+
+107
+
+Figura G.3 (Continuação) - Curva de calibração para o heptacloro nas gamas de concentração (a) 0,01-100 ppm, (b) 8-100 ppm, e (c) 0,01-8 ppm.
+
+Tabela G.4 – Concentrações e áreas obtidas para o estudo do dimetoato por GC-MS sem a extração
+
+por SPE e com o método do padrão interno.
+
+Concentração Pesticida (mg.L-¹)  10,0  20,0  40,0  60,0  80,0 100,0
+
+Área média Pesticida/Área média PI (TIC)  0,0024  0,0119  0,0727  0,1303  0,2416 0,4604
+
+Figura G.4 - Curva de calibração para o dimetoato na gama de concentração de 10-100 ppm.
+
+Tabela G.5 – Concentrações e áreas obtidas para o estudo da terbutilazina por GC-MS sem a
+
+extração por SPE e com o método do padrão interno.
+
+108
+
+Concentração Pesticida (mg.L-¹)  0,20  0,40  0,60  0,80  1,00  2,00  4,00  6,00  8,00  10,0  20,0  40,0  60,0  80,0 100,0
+
+Área média Pesticida/Área média PI (TIC)
+
+0,0046  0,0261  0,0768  0,1253  0,0153  0,0465  0,1306  0,2102  0,3116  0,0327  0,1043  0,2684  0,3797  0,6073 0,7796
+
+Figura G.5 - Curva de calibração para a terbutilazina nas gamas de concentração (a) 10-100 ppm, (b) 1-8 ppm, e (c) 0,2-0,8 ppm.
+
+109
+
+Tabela G.6 – Concentrações e áreas obtidas para o estudo do heptacloro por GC-MS sem a extração
+
+por SPE e com o método do padrão interno.
+
+Concentração Pesticida (mg.L-¹)  0,02  0,04  0,06  0,08  0,1  0,2  0,40  0,60  0,80  1,00  2,00  4,00  6,00  8,00  10,00  20,00  40,00  60,00  80,00 100,00
+
+Área média Pesticida/Área média PI (TIC)  614  621  793  949  998  3339  5303  10535  13957  14658  35728  86358  115990  158324  236251  543617  2088564  3116894  3937522 5397466
+
+Figura G.6 - Curva de calibração para o heptacloro nas gamas de concentração (a) 10-100 ppm, (b) 1-8 ppm, (c) 0,1-0,8 ppm e (d) 0,02-0,08
+
+110
+
+Figura G.6 (continuação) - Curva de calibração para o terbutilazina nas gamas de concentração (a) 0,01-100 ppm, (b) 8-100 ppm, (c) 0,1-0,8 ppm e (d) 0,02-0,08.
+
+111
+
+ANEXO H – Concentrações e áreas obtidas para cada pesticida para construção das
+
+curvas de calibração sem e com a utilização do PI.
+
+Tabela H.1 - Áreas médias obtidas para cada pesticida e para o padrão interno separadamente.
+
+Concentração
+
+Área média
+
+Área média
+
+pesticidas (ppm)
+
+Dimetoato (SIM)
+
+Terbutilazina (SIM)
+
+100
+
+80
+
+60
+
+40
+
+20
+
+10
+
+9101016
+
+4468421
+
+3552127
+
+1876456
+
+201446 56243
+
+15409498
+
+11231749
+
+10352438
+
+6931480
+
+1766663
+
+768639
+
+Área média
+
+Área média
+
+Heptacloro
+
+Padrão interno
+
+(SIM)
+
+5397466
+
+3937522
+
+3116894
+
+2088564
+
+543617
+
+236251
+
+(SIM)
+
+19767153
+
+18493744
+
+26551153
+
+25820599
+
+16931712
+
+23502976
+
+Tabela H.2 – Razões entre as áreas médias obtidas para cada pesticida e para o padrão interno.
+
+Concentração
+
+Área
+
+Área
+
+Área
+
+pesticida/Concentração
+
+Dimetoato/Área
+
+Terbutilazina/Área
+
+Heptacloro/Área
+
+Padrão interno
+
+Padrão interno
+
+Padrão interno
+
+Padrão interno
+
+1
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,1
+
+0,4604
+
+0,2416
+
+0,1303
+
+0,0727
+
+0,0119
+
+0,0024
+
+0,7796
+
+0,6073
+
+0,3797
+
+0,2684
+
+0,1043
+
+0,0327
+
+0,2731
+
+0,2129
+
+0,1214
+
+0,0809
+
+0,0321
+
+0,0101
+
+ANEXO  I  –  Cromatogramas  da  análise  do  padrão  10  mg/L  da  mistura  M1  para  o
+
+estudo de reprodutibilidade e repetibilidade
+
+112
+
+Figura I.1 – Cromatograma mistura M1 1ª repetição para estudo de repetibilidade.
+
+Figura I.2 – Cromatograma mistura M1 2ª repetição para estudo de repetibilidade.
+
+113
+
+Figura I.3 – Cromatograma mistura M1 3ª repetição para estudo de repetibilidade.
+
+Figura I.4 – Cromatograma mistura M1 4ª repetição para estudo de repetibilidade.
+
+114
+
+Figura I.5 – Cromatograma mistura M1 5ª repetição para estudo de repetibilidade.
+
+Figura I.6 – Cromatograma mistura M1 6ª repetição para estudo de repetibilidade.
+
+115
+
+Figura I.7 – Cromatograma mistura M1 1ª repetição para estudo de reprodutibilidade.
+
+Figura I.8 – Cromatograma mistura M1 2ª repetição para estudo de reprodutibilidade.
+
+116
+
+Figura I.9 – Cromatograma mistura M1 3ª repetição para estudo de reprodutibilidade.
+
+Figura I.10 – Cromatograma mistura M1 4ª repetição para estudo de reprodutibilidade.
+
+117
+
+Figura I.11 – Cromatograma mistura M1 5ª repetição para estudo de reprodutibilidade.
+
+Figura I.12 – Cromatograma mistura M1 6ª repetição para estudo de reprodutibilidade.
+
+ANEXO  J  –  Cromatogramas  referentes  a  extração  de  um  padrão  de  heptacloro
+
+(10 mg/L) por SPE.
+
+118
+
+Figura J.1 – Cromatograma extração heptacloro (10 ppm) 1ª repetição.
+
+Figura J.2 – Cromatograma extração heptacloro (10 ppm) 2ª repetição.
+
+119
+
+ANEXO  K  –  Cálculos  realizados  para  preparação  dos  padrões  para  análise  de
+
+recuperação SPE.
+
+Tabela K.1 - Concentração das soluções mãe dos pesticidas e do padrão interno preparados em 10
+
+mL de metanol.
+
+Pesticida
+
+Massa (mg)  Concentração (mg.L-1)
+
+Dimetoato
+
+Heptacloro
+
+Terbutilazina
+
+Trifenilmetano
+
+10,1
+
+10,2
+
+10,5
+
+10,8
+
+1010
+
+1020
+
+1050
+
+1080
+
+Tabela K.2 - Concentração das soluções mãe dos pesticidas e do padrão interno preparados em 10
+
+mL de hexano.
+
+Pesticida
+
+Massa (mg)  Concentração (mg.L-1)
+
+Epoxiconazol
+
+Tebuconazol
+
+Trifenilmetano
+
+10,1
+
+10,1
+
+10,4
+
+1010
+
+1010
+
+1040
+
+Tabela K.3 - Volume utilizado de para preparar uma solução de 100 ppm em um balão volumétrico de
+
+5 mL.
+
+C. Solução (ppm)  V. Padrão (1000 ppm) mL
+
+100
+
+0,5
+
+Tabela K.4 - Volume utilizado de para preparar uma solução de 10 ppm em água ultrapura em um
+
+balão volumétrico de 10 mL.
+
+C. Solução (ppm)  V. Padrão (100 ppm) mL
+
+10
+
+1
+
+ANEXO L – Cromatogramas referentes aos padrões das misturas M1 e M3  após o
+
+ensaio por extração SPE.
+
+120
+
+Figura L.1 - Cromatograma M1 padrão 1 (1ª eluição).
+
+Figura L.2 - Cromatograma M1 padrão 1 (2ª eluição).
+
+121
+
+Figura L.3 - Cromatograma M1 padrão 2 (1ª eluição).
+
+Figura L.4 - Cromatograma M1 padrão 2 (2ª eluição).
+
+122
+
+Figura L.5 - Cromatograma M1 padrão 3 (1ª eluição).
+
+Figura L.6 - Cromatograma M1 padrão 3 (2ª eluição).
+
+123
+
+Figura L.7 - Cromatograma M3 padrão 1 (1ª eluição).
+
+Figura L.8 - Cromatograma M3 padrão 1 (2ª eluição).
+
+124
+
+Figura L.9 - Cromatograma M3 padrão 2 (1ª eluição).
+
+Figura L.10 - Cromatograma M3 padrão 2 (2ª eluição).
+
+125
+
+Figura L.11 - Cromatograma M3 padrão 3 (1ª eluição).
+
+Figura L.12 - Cromatograma M3 padrão 3 (2ª eluição).
+
+ANEXO M – Cromatogramas referentes ao estudo em duplicata do padrão 10 mg/L
+
+da mistura M1 em metanol.
+
+126
+
+Figura M.1 - Cromatograma M1 10 mg/L (1ª repetição).
+
+Figura M.2 - Cromatograma M1 10 mg/L (2ª repetição).
+

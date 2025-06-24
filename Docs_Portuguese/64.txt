@@ -1,0 +1,722 @@
+(CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+As possíveis consequências da exposição a agrotóxicos: uma revisão sistemática
+
+
+
+Rodrigo Santos Barbosa
+
+ORCID: https://orcid.org/0000-0002-9935-169X
+
+Universidade Federal de São Paulo, Brasil
+
+E-mail: rodrigoecc18@gmail.com
+
+Jaciara Pinheiro de Souza
+
+ORCID: https://orcid.org/0000-0002-4056-974X
+
+Centro Universitário UniAges, Brasil
+
+E-mail: jacipinheirosouza@hotmail.com
+
+David Jesus de Almeida
+
+ORCID: https://orcid.org/0000-0003-1438-1126
+
+Faculdade Independente do Nordeste, Brasil
+
+E-mail: davidalmeida14@hotmail.com
+
+Josevania Batista dos Santos
+
+ORCID: https://orcid.org/0000-0002-2096-3045
+
+Faculdade de Ciências Humanas e Sociais de Paripiranga, Brasil
+
+E-mail: Josyysantos.cris@gmail.com
+
+Walterney dos Santos Paiva
+
+ORCID: https://orcid.org/0000-0002-5524-8164
+
+Universidade Paulista, Brasil
+
+E-mail: walterney1401@gmail.com
+
+Murilo de Jesus Porto
+
+ORCID: https://orcid.org/0000-0003-2339-8173
+
+Universidade Paulista, Brasil
+
+E-mail: murilo.porto@hotmail.com
+
+Resumo
+
+Os  agrotóxicos  ou  agroquímicos  são  grupos  de  substâncias  que  agem  no  meio  ambiente
+
+agrícola, a fim de controlar distintos elementos que prejudiquem o cultivo das plantações.  O
+
+1
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+Brasil é um dos maiores consumidores de agrotóxicos do mundo, o que preocupa os distintos
+
+setores  de  vigilância  em  saúde.  O  presente  trabalho  tem  como  objetivo  geral  identificar  e
+
+conhecer  as  consequências  fisiopatológicas  da  exposição  humana  a  resíduos  agrotóxicos.
+
+Quanto a metodologia trata-se de uma revisão sistemática simples, que foi realizada no mês de
+
+agosto  do  ano  de  2020,  com  um  levantamento  bibliográfico  através  de  busca  eletrônica  de
+
+artigos  indexados  no  Scientific  Eletronic  Library  –  Scielo,  Biblioteca  Digital  de  Teses  e
+
+Dissertações da USP e Google Acadêmico, a partir de palavras–chaves: agrotóxicos; exposição
+
+a agrotóxicos; efeitos dos agrotóxicos nas alterações fisiológicas das células;  classificação dos
+
+agrotóxicos, sendo  encontrados trinta e dois trabalhos para a publicação. Os resultados obtidos
+
+mostraram que os agrotóxicos são substâncias químicas com características biocidas, as quais
+
+são  empregadas  para  o  controle  de  pragas  e  de  distintas  doenças;  ocasionam  inúmeras
+
+intoxicações    que  culminam    em  distintas  alterações  no  mecanismo  fisiológico  das  células,
+
+sendo  elas  por  via  digestiva,  respiratória,  dérmica  e/ou  por  contato  ocular,  acarretando  um
+
+conjuntos  de  sinais  e  sintomas  com  características  agudas,  subagudas  ou  crônicas.  A
+
+intoxicação  por  agrotóxicos  pode  ser  aguda  e  crônica,  sendo  que  a  aguda  se  manifesta,
+
+geralmente,  de  forma  mais  leve  ou  moderada,  podendo  chegar  a  casos  graves,  já  a  crônica
+
+ocasiona efeitos da mutagenicidade, carcinogenicidade e toxicidade reprodutiva humana e em
+
+animais.
+
+Palavras-chave: Uso de agrotóxicos; Consequências; Revisão sistemática.
+
+
+
+1. Introdução
+
+Os  agrotóxicos  são  substâncias  com  características  físicas,  químicas  ou  biológicas,
+
+anunciados ao uso nos domínios de cultivos agrícolas, como proteção de florestas, ou plantadas,
+
+havendo  o  intuito  de  livres  problemas  que  ocasione  qualquer  danos  aos  ecossistemas.  O
+
+3
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+território nacional brasileiro é rico em terras férteis para cultivo agropecuário, assim o Brasil é
+
+o dos maiores consumidores de agrotóxicos a nível mundial, gerando um alerta a saúde do meio
+
+ambiente, animal e humano (Alves, 2017 & Bocnher, 2015).
+
+O Brasil é um dos maiores consumidores de agrotóxico do planeta. Segundo a Fiocruz
+
+(2020) há uma estimativa de mais de 300 mil toneladas por ano em seu consumo, desta forma,
+
+em território nacional brasileiro, destaca-se no consumo as regiões: Sul, Centro-Oeste e Sudeste
+
+(Lopes, Albuquerque, 2018 & Fiocruz, 2020).
+
+O  uso  acentuado  de  agrotóxicos  em  campo  agrícola  ocasiona  uma  movimentação  de
+
+12,2 bilhões de dólares ao ano, acompanhando o crescimento desse mercado, tem-se também
+
+as indústrias de substâncias químicas no intuito de controle de praga em meio agrícola (Almeida
+
+et al., 2017). Entretanto um problema muito grave a ser considerado é a intoxicação exógena
+
+decorrente da exposição ocupacional dos trabalhadores rurais a esses produtos, só Brasil no ano
+
+de  2017  foram  registrados  179/100.000  habitantes  casos  notificados  pelo  SINAN  (Datasus,
+
+2020).
+
+Para  Murussi  e  colaboradores  (2014)  com  as  práticas  da  utilização  desses  produtos
+
+químicos denominado de agrotóxicos e/ou pesticidas no ramo da agricultura, muitas das vezes
+
+surgem efeitos adversos sobre o ambiente e principalmente para seres humanos, já que o seu
+
+uso indiscriminado pode fornecer uma série de episódios de intoxicações sendo classificadas
+
+de agudas ou crônicas alterando o processo fisiológico na corrente sanguínea.
+
+O uso indiscriminado de agrotóxicos, gerado pelo mercado em expansão, vem causando
+
+um aumento no número de intoxicações por essas substâncias. Dentre as intoxicações exógenas
+
+notificadas no ano de 2014 pelo Sistema de Informação de Agravos de Notificação (SINAN),
+
+as intoxicações agudas por agrotóxicos ocupam a segunda posição. Na região Sul do país, a
+
+maioria dos casos de intoxicação por essas substâncias ocorre na área rural, principalmente no
+
+contexto ocupacional, em trabalhadores que aplicam inseticidas na lavoura, ou pela ingestão
+
+desses produtos por acidente (Queiroz et al., 2019).
+
+Desta  forma,  o  presente  estudo  tem  como  objetivo  geral:  Identificar  e  conhecer  as
+
+consequências  fisiopatológicas  da  exposição  humana  a  resíduos  agrotóxicos.  Assim,  mesmo
+
+com essa mobilização de dados  estatísticos de efeitos colaterais voltados para a  exposição  a
+
+agrotóxicos, há evidências de poucos estudos a respeito do tema, principalmente em território
+
+brasileiro.  Além disso, um problema desfavorável no processo da intoxicação, é que, muitas
+
+das vezes, faltam equipes capacitadas para saber identificar o quadro diagnóstico e assim dar
+
+início a uma terapêutica adequada, antes que se tenha qualquer consequência irreversível.
+
+4
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+A justificativa da realização deste estudo enfatiza a precisão e a prática das normas e
+
+regras  voltadas  para  as  devidas  ações  de  vigilância  em  saúde  dos  trabalhadores  expostos  a
+
+agrotóxicos, de modo que se aborde os distintos enfoques de setores da saúde que lidam com
+
+esse artifício de cunho epidemiológico, ambiental, saúde do trabalhador e sanitário. O impacto
+
+esperado para a presente pesquisa será o de alertar os trabalhadores rurais e gestores da saúde
+
+sobre as possíveis ameaças à saúde quanto à utilização de agrotóxicos de forma inadvertida.
+
+2. Metodologia
+
+Trata-se de uma pesquisa exploratória de revisão sistemática simples, que foi realizada
+
+no mês de agosto do ano de 2020. Desta forma, foi analisado os presentes dados dos periódicos,
+
+agrupando o leque de propósitos: conceito sobre a temática discutida, análise de referenciais
+
+teóricos, e avaliação de problemas metodológicos. O estudo exploratório ajuda na identificação
+
+da  familiaridade  com  o  problema,  esse  tipo  de  pesquisa  tem  como  principal  objetivo  o
+
+aprimoramento de ideias ou a descoberta de intuições em novas ideias. A pesquisa exploratória
+
+é  de  extrema  relevância  já  que  apresenta  aspectos  de  flexibilidade,  voltando-se  aos
+
+conhecimentos  de  sua  importância.  Neste  caso,  a  exploração  está  voltada  na  procuração  de
+
+referencias por artigos e livros (Yin, 2015 & Gil, 2011).
+
+A metodologia adotada para a coleta de dados foi a realização de um estudo, através de
+
+um levantamento bibliográfico por meio da busca eletrônica de artigos indexados no Scientific
+
+Eletronic  Library  –  Scielo,  Biblioteca  Digital  de  Teses  e  Dissertações  da  USP  e  Google
+
+Acadêmico, a partir de palavras – chaves: exposição a agrotóxicos; efeitos dos agrotóxicos nas
+
+alterações  fisiológicas  das  células;  classificação  dos  agrotóxicos.  Foram  utilizados  como
+
+critérios de inclusão: veículo de publicação: artigos, dissertações, teses e manuais; idioma de
+
+publicação: português; estudos publicados a partir do ano de 2014. Utilizou-se como critério de
+
+exclusão: artigos de outra temática; revisão sistemática, metanálise, editoriais e relatos de casos;
+
+estudos realizados e publicados inferiormente ao ano de 2014.
+
+Após levantamento de coleta de dados, foram encontrados trinta e dois trabalhos que se
+
+encaixavam  nos  critérios  de  inclusão  estabelecidos  nesse  trabalho.  Esses  resultados  foram
+
+obtidos  a  partir  do  cruzamento  de  palavras-chaves:  exposição  a  agrotóxicos;  efeitos  dos
+
+agrotóxicos nas alterações fisiológicas das células; classificação dos agrotóxicos.
+
+A  pesquisa  bibliográfica  mostra  ao  investigador  o  conhecimento  disponível  na  área,
+
+identificando as teorias produzidas, analisando-as e avaliando sua contribuição para auxiliar a
+
+compreender ou explicar o problema tendo a análise da investigação do texto.
+
+5
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+Com relação à metodologia adotada nos trabalhos, percebe-se que houve uma prevalência
+
+de estudos que usaram o método qualitativo e transversal, já que a maioria dos estudos abordam
+
+distintas exposições a agrotóxicos onde ocasionam alterações em células do corpo humano. Os
+
+resultados  encontrados  foram  a  partir  de  uma  análise  quantitativa  de  documentos  como
+
+periódicos,  dissertações  e  manuais;  é  importante  ressaltar  que  para  o  embasamento  e
+
+enriquecimento dessas dimensões, buscou-se também por livros que abordam com o processo
+
+fisiológico do corpo humano.
+
+3. Resultados e Discussão
+
+Os resultados avaliados e analisados mostram maior viabilidade da pesquisa por meio
+
+de artigos, manuais e dissertações publicados, por meio da temática que envolve a exposição a
+
+agrotóxicos, sendo avaliados um total de trinta e dois trabalhos publicados. Assim, destacam-
+
+se em maior quantidade estudos do ano de 2014 a 2020, sendo também em maior prevalência
+
+artigos e dissertações com tipos de pesquisa qualitativa e transversal, havendo poucos estudos
+
+de  característica  bibliográfica.  Desde  modo,  a  revisão  sistemática  simples  construída  possui
+
+caráter discorrido em texto redação, tornando coerente a ligação de um parágrafo a outro, para
+
+assim ficar mais viável o entendimento das consequências da exposição a agrotóxicos.
+
+O conceito dos agrotóxicos está determinado pela Lei Federal n° 7.802, de 11 de junho
+
+de  1989,  regulamentada  pelo  decreto  n°  4.074,  de  04  de  janeiro  de  2002  como:  produtos  e
+
+agentes  de  processos  físicos,  químicos  ou  biológicos,  anunciados  ao  uso  nos  domínios  de
+
+cultivo,  relacionado  às  questões  de  produtos  agrícolas,  como  proteção  de  florestas,  ou
+
+plantadas, livres de problemas que gera danos aos ecossistemas (Alves, 2017).
+
+Os  agrotóxicos  são  substâncias  químicas,  com  características  biocidas,  os  quais  são
+
+empregados para adversar pragas e distintas doenças que agridem o ambiente agrícola. O Brasil
+
+é o maior consumidor de agrotóxicos a nível mundial (Bocnher, 2015).
+
+No Brasil, a amostra de produção agrícola está voltada historicamente, ao emprego de
+
+agrotóxicos, desde a década de 1940. O uso de combinados organoclorados, entre eles, o DDT
+
+(Dicloro-Difenil-Tricloroetano), principiou a acontecer também nesse mesmo momento. Sendo
+
+assim,  a fração  de  agroquímicos  do  negócio  interno  proporcionou  faturamento  em  elevação,
+
+quando  o  Brasil  demonstrou  a  maior  posição  no  consumo  mundial  de  substâncias  químicas
+
+agrícolas, que antes era ocupada pelos Estados Unidos (Linhares, 2014).
+
+Os primeiros processos sintomatológicos ocasionados por exposição a agrotóxicos no
+
+Brasil  foram  aproximadamente  por  volta  de  1950,  na  região  de  Presidente  Prudente,
+
+6
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+identificado pelo Instituto Biológico que lida com questões agrícolas, apontando reais casos de
+
+patologias em agricultores que manuseava algodão. Por volta de 1970 a 1980, o Paraná e o Rio
+
+Grande  do  Sul  reconheceram  problemas  a  nível  ambiental  e  saúde  humana  gerados  pela
+
+exposição aos pesticidas em meios agrícolas (Bellei, 2017 & Pignati et al, 2017).
+
+O  processo  de  intoxicação  por  uso  de  agrotóxicos  pode  acontecer  em  distintos
+
+mecanismos, sendo eles por via digestiva, respiratória, dérmica e/ou por contato ocular, o que
+
+acarreta um conjuntos de sinais e sintomas com características agudas, subagudas ou crônicas.
+
+Entre  os  grupos  mais  afetados  pelos  danos  gerados  pelas  substâncias  químicas  agrícolas,
+
+encontra-se  o  dos  trabalhadores  da  agricultura  e  da  pecuária,  que  são  vulneráveis  aos
+
+agrotóxicos  desde  o  preparo,  manipulação  até  o  armazenamento  nos  recipientes  após  o  uso
+
+(Taveira, Albuquerque, 2018).
+
+A  intoxicação  por  substâncias  químicas  utilizadas  na  agricultura  é  dividida  em
+
+intoxicação  aguda  e  crônica.  A  aguda  se  manifesta,  geralmente,  de  forma  mais  leve  ou
+
+moderada, podendo chegar a casos graves. A intoxicação aguda leve proporciona um quadro
+
+de sinais de irritação em região cutânea-mucosa, cefaleia, dermatite, tontura leve e, em alguns
+
+casos, náuseas. O processo de intoxicação aguda pode surgir também sintomatologia de êmese
+
+associado  a  náuseas,  cefaleia  muito  intensa,  cólicas  abdominais,  fraqueza  em  todo  o  corpo,
+
+dispneia,  parestesia  e  sudorese  intensa.  No  caso  de  intoxicação  aguda  grave,  pode  haver
+
+hipotensão arterial, alterações no ritmo cardíaco, miose, insuficiência respiratória, convulsões,
+
+edema de pulmão, podendo surgir casos de óbitos (Melo; Gonçalves, 2014).
+
+Já  na  intoxicação  subaguda,  as  características  sintomatológicas  são  mais  incertas  e
+
+variam  individualmente,  de  modo  que  podem  se  manifestar  após  horas  ou  dias  à  exclusiva
+
+exposição.  Quanto  à  intoxicação  crônica,  o  aparecimento  é  mais  tardio,  sendo  característico
+
+pela  exposição  prolongada  por  meses  ou  anos  aos  agroquímicos,  ocasionando  danos
+
+irreversíveis,  como  o  surgimento  de  paralisias  e  neoplasias  (Manual  de  intoxicação  por
+
+agrotóxicos, 2018).
+
+Segundo  o  Sinitox  (2019),  as  intoxicações  por  agrotóxicos  devem  ser  registradas  na
+
+ficha  de  notificação  do  Sistema  de  Informação  de  Notificação  e  Agravo  por  Intoxicação
+
+Exógena, sendo o mesmo uma característica de agravo de notificação compulsória. Segundo a
+
+Portaria 204 de 16 de fevereiro de 2017 do Gabinete do Ministério – Ministério da Saúde (GM-
+
+MS),  devem  ser  notificados  os  casos  suspeitos  e,  logo  após,  deve-se  confirmar  o  caso
+
+investigado  pelo  profissional  de  saúde,  informando  todos  os  dados  essenciais  para  a  devida
+
+notificação e agravo patológico.
+
+7
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+Conforme  Carneiro  (2015),  referindo  o  Dossiê  da  Associação  Brasileira  de  Saúde
+
+Coletiva (ABRASCO) em relação a dados quantitativos de exposição a agrotóxicos no Brasil,
+
+sobre investigação na população em geral, conta que 64% dos nutrientes na mesa dos brasileiros
+
+estão  contaminados  por  agentes  agroquímicos,  sendo  34147  notificações  de  intoxicação
+
+exógena por exposição no ano de 2007 a 2014 (conhecimento fornecido pelo departamento de
+
+informática do Sistema Único de Saúde do Brasil) (Bellei, 2017).
+
+Lima (2019, p.20), em sua pesquisa, relata que exposição aos agroquímicos pode ser um
+
+potencial  fator  de  Transtorno  do  espectro  autista  (Autismo),  analisado  como  substâncias
+
+química que afeta processo de sinalização celular a nível de sistema nervoso (Brasil, 2015).
+
+A maioria dos agrotóxicos possui determinada tendência quanto aos riscos crônicos à
+
+saúde  e  ao meio  ambiente,  além  de  apresentar  toxicidade  aguda.  Ao  se  avaliar  os  efeitos  da
+
+Mutagenicidade,  Carcinogenicidade  e  Toxicidade  reprodutiva,  verifica-se  que  o  primeiro
+
+apresenta a indução de agravos permanentes e transmissíveis ao material genético; já o segundo
+
+se  concentra  na  capacidade  que  uma  substância  tem  de  gerar  o  surgimento  de  câncer  ou  a
+
+elevação  de  sua  incidência;  enquanto  que  o  terceiro  está  voltado  para  a  causa  de
+
+efeitos adversos na reprodução sexual e fertilidade em pessoas (Brasil, 2019).
+
+Fernandino (2019), retrata que o contexto da toxicidade de exposição aos agroquímicos,
+
+podem ser agudos ou crônicos, avaliando o período de exposição, com manifestação de forma
+
+leve,  moderada  ou  grave  (variação  entre  uma  leve  cefaleia  à  óbito)  dependendo  também  da
+
+quantidade absorvida, e dos princípios ativos envolvidos. Quanto a toxicidade, os agroquímicos
+
+são categorizados pela Anvisa (2019) em quatro categorias (Quadro 1).
+
+Quadro 1 - Classificação toxicológica aguda dos agrotóxicos.
+
+CLASSES
+
+TOXICIDADE
+
+COLORAÇÃO INDICADA NA EMBALAGEM
+
+I  II  III IV
+
+Extremamente Tóxico  Altamente Tóxico  Moderadamente Tóxico Pouco Tóxico
+
+Faixa Vermelha  Faixa vermelha  Faixa Amarela Faixa Azul
+
+Fonte: Anvisa (2019); Fernandino (2019).
+
+O presente Quadro 1 mostra uma análise de identificação no diagnóstico e manejo de
+
+indivíduos
+
+intoxicados,  sendo  de  extrema
+
+importância  o  conhecimento  acerca  das
+
+classificações, classes químicas, características físico-químicas e toxicidade dos agrotóxicos.
+
+Há distintos padrões de classificação aceitos mundialmente, sendo alguns destes: quanto à praga
+
+que pretende controlar (herbicida, fungicida, inseticida, acaricida, etc.), à classe química a que
+
+8
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+pertence (organofosforados, carbamatos, piretróides, organoclorados, paraquat, sais de cobre,
+
+etc.), aos mecanismos de ação (anticolinesterásicos e outros) e ao grau de toxicidade (Credido,
+
+2020; Anvisa, 2019).
+
+Algumas  classes  de  agrotóxicos  constituintes  de  substância  com  princípio  ativo  de
+
+Diclorodifeniltricloroetano (DDT)  possuem ação direta na AChE (acetilcolinesterase), o que
+
+gera  neurotoxicidade  a  nível  de  sistema  nervoso  atingindo  órgãos  alvos  sistêmicos,  o  que
+
+impede  a  degradação  da  acetilcolina  e  ocasiona  estímulos  constantes  a  nível  de  receptores
+
+(Altenhofen et al., 2017 & Berne, Levy, 2018).
+
+A AChE é responsável por degradar o neurotransmissor ACh (acetilcolina) nas sinapses
+
+colinérgicas. A ACh comunica-se no processo de mensagem entre os neurônios, tanto a nível
+
+de SNC quanto a nível de SNP. Na ação enzimática da acetilcolinesterase, esta permite que o
+
+neurônio colinérgico retome à sua condição de repouso após ser ativado (Berne, Levy, 2018 &
+
+Araujo, Santos, Gonsalves, 2016).
+
+Neste contexto, a AChE capta a acetilcolina em excesso, o que permite o processo de
+
+equilíbrio de ação, já que, com a presença do neurotransmissor colinérgico, ocorrem estímulos
+
+em  receptores  característicos,  denominados  de  nicotínicos  e  muscarínicos.  Gera-se,  assim,  o
+
+ciclo vital de despolarização e de difusão do potencial de ação nas células pós-sináptica e pré-
+
+sinápticas (Berne, Levy, 2018 & Hall, Guyton, 2017).
+
+Devido ao processo de exposição a agrotóxicos, na região dos neurônios, desencadeia-
+
+se  uma  série  de  reações  fisiológicas  na  qual  ocorre  principalmente  a  diminuição  da  ação  da
+
+enzima acetilcolinesterase, pela ligação direta do princípio ativo do agrotóxico na AChE, o que
+
+impede a hidrólise da acetilcolina. Logo, a exposição a  agrotóxicos faz com que o neurônio
+
+continue liberando acetilcolina, gerando, assim, reações na fisiologia sistêmica no organismo.
+
+Tais reações dependendo dos receptores pelo qual o neurotransmissor é condicionado, surtindo
+
+um efeito final inibitório e/ou excitatório, Quadro 2 (Nerilo et al., 2014).
+
+9
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+Quadro 2 – Características sistêmicas do envenenamento por inseticida organofosforado.
+
+EFEITOS
+
+RECURSOS
+
+Muscarínico (receptores M1, M2, M3, M4, M5)
+
+Nicotínico (Subunidades α, β, γ e δ)
+
+Sistema Nervoso Central (região do campo e hipocampo)
+
+Tosse,  chiado  no  peito,  dispnéia,  broncorréia,  broncoconstrição,  edema  pulmonar,  cianose  Rinite,  rinorreia, aumento da salivação, lacrimação, sudorese  Incontinência  urinária  e  fecal,  Náusea,  vômito,  cólicas  abdominais,  diarréia,  tenesmo  Bradicardia,  hipotensão Visão turva, miose.  Fasciculação muscular, incluindo fraqueza muscular  do  diafragma  Taquicardia,  palidez  Midríase  Hiperglicemia.  Dores  de  cabeça,  ansiedade,  tontura,  inquietação,  insônia,  pesadelos,  sonolência,  confusão,  tremor,  ataxia,  disartria,  reações  distônicas  Hipotensão, depressão respiratória Convulsões, coma
+
+Fonte: Vale e Lotti, (2015, p.151), adaptado pelos autores.
+
+O  Quadro  2  representa  possíveis  alterações  nos  receptores  nicotínicos  onde  são
+
+caracterizados por quatro unidades α, β, γ e δ, sendo que a subunidade α é explanada em duas
+
+formas distintas. Havendo também possíveis alterações nos receptores muscarínicos que estão
+
+intrincados no processo de neuromodulação no qual ocorre a resposta nas proteínas G e há cinco
+
+tipos distintos de receptores representados por M1, M2, M3, M4 e M5, sendo responsáveis por
+
+ações  moleculares  e  funcionais.  Neste  contexto,  os  receptores  característicos  M1,  M3  e  M5
+
+estão interligados à proteína G e sua estimulação promove ação inositol trifostato e também
+
+diacilglicerol.  Já  os  receptores  M2  e  M4  possuem  atividade  inibitória  na  adenilato  ciclase,
+
+alterando as concentrações de AMPciclico, e assim, resultam em sinalizações celulares e obtêm
+
+distintas  respostas  em  células-alvo  (Sanabria-Castro,  Alvarado-Echeverría,  Monge-Bonilla,
+
+2017 & Berne, Levy, 2018 & Altenhofen et al., 2017).
+
+Para  Klein  (2018),  a  fisiopatologia  da  intoxicação  por  substâncias  químicas
+
+(organofosforados) utilizadas em meios agrícolas, se valida pela ligação do princípio ativo aos
+
+receptores  da  AChE,  no  qual  gera  alteração  por  mecanismos  de  sinalização  intracelular.  Os
+
+sinais clássicos de intoxicação podem acontecer por mecanismos de estimulação dos receptores
+
+muscarínicos do sistema nervoso parassimpático autônomo e por estimulação dos receptores
+
+nicotínicos. Além disso, o processo fisiopatológico está relacionado com a ativação constante
+
+da sinalização intracelular da proteína G com ativação de aberturas dos canais iônicos e com a
+
+ativação do monofostato de adenosina cíclico (AMPc) ou monofosfato der guanosina cíclica
+
+(GMPc) na célula neuronal (Hall, Guyton, 2017).
+
+10
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+Este estudo mostra alterações em parâmetros bioquímicos e hematológicos, em níveis
+
+médios  mais  baixos  de  hemoglobina,  concentrações  de  hematócrito  e  volumes  médios  de
+
+células, além de concentrações médias mais elevadas de hemoglobina corpuscular e volumes
+
+de  plaquetas,  enzimas  hepáticas,  como  fosfatase  alcalina,  soro  alanina  aminotransferase  e
+
+aspartato aminotransferase. A inibição da acetilcolinesterase resulta em possíveis sinalizações
+
+ocorridas pela acetilcolina em induzir alterações no tamanho dos eritrócitos. É notável que, com
+
+a  sinalização  induzida  por  ACh,  estimula-se  também  a  ação  enzimática  glutamato  piruvato
+
+transaminase no sangue (Manyilizu, 2016).
+
+As toxicidades de caráter agudo por determinadas classes de agrotóxicos são impostas,
+
+sobretudo, à capacidade das substâncias em inibir a atividade da AChE, acometendo o SNC,
+
+além da geração de radicais livres (RL) e estresse oxidativo (Lima, 2017).
+
+Os  radicais  livres  são  produzidos  naturalmente  pelo  organismo  humano  para
+
+desempenhar funções metabólicas como geração de energia na forma de adenosina trifosfato
+
+(radicais livres de origem endógeno), há também RL de caráter exógeno, que são originados de
+
+fatores externos ao organismo que podem desencadear aterosclerose, o diabetes, a obesidade,
+
+transtornos neurodegenerativos e câncer, que, por sua vez, ocasiona o estresse oxidativo celular,
+
+gerando alterações em marcadores biológicos por disfunções em tecidos e órgãos (Jacobsen-
+
+Pereira, 2017 & Cattelan, 2017).
+
+Silva (2015) afirma que agrotóxicos como os OP inibem a AChE ligando-se com alta
+
+afinidade  ao  seu  sítio  ativo.  Após  a  inibição  da  AChE,  a  acetilcolina  se  acumula  na  fenda
+
+sináptica, causando bradicardia, convulsões musculares e morte por asfixia. Com a inibição da
+
+acetilcolinesterase gera-se em percurso final fosforilação da serina do sítio ativo.
+
+Para Nerilo et al., (2014), os agrotóxicos das classes de organofosforados e carbamatos
+
+são  inibidores  primários  da  acetilcolinesterase  e  desencadeiam  uma  série  de  respostas  com
+
+processos sintomatológicos agudos. A persistência na utilização química gera sinais crônicos,
+
+podendo evoluir para óbito por intoxicação exógena.
+
+Algumas classes de  agrotóxicos mostram elevado teor de riscos e danos à população
+
+direta e indiretamente exposta. Contudo, as substâncias químicas utilizadas em áreas agrícolas,
+
+possuem  alta  lipossolubilidade  química  taxológica,  ou  seja,  facilitam  a  penetração  em
+
+membranas  biológicas  e  ocasionam  sua  absorção  através  das  mucosas,  da  via  inalatória,  do
+
+tecido tegumentar e do trato gastrointestinal, sendo metabolizado (Marques & Caixeta, 2016).
+
+Neste mesmo contexto, Marques e Caixeta (2016, p. 03) afirmam que, com a inativação
+
+da enzima AChE presente no plasma, no fígado, no pâncreas, nas paredes do tubo digestivo,
+
+nos  neurônios  e  nas  placas  motoras,  ocorre  a  elevação  nos  níveis  do  neurotransmissor
+
+11
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+
+acetilcolina. Assim ocasiona-se estímulos excitatórios e inibitórios a depender da localização
+
+dos  receptores.  Neste  contexto,  a  síndrome  colinérgica,  assim  denominada,  envolve
+
+principalmente o SNC, provocando descontrole na fisiologia dos órgãos sistêmicos.
+
+Jallouli  (2016)  mostra  que  os  agrotóxicos  podem  induzir  o  processo  de  estresse
+
+oxidativo,  variando  o  nível  de  espécie  reativa  de  oxigênio  e  das  atividades  das  enzimas  de
+
+defesa  antioxidante.  O  mesmo  autor  refere  que  há  estudos  cabíveis  nos  quais  as  espécies
+
+reativas de oxigênio estão diretamente envolvidas na infertilidade masculina, pois a produção
+
+em excesso daquele altera os mecanismos celulares de danos ao RNA mensageiro, peroxidação
+
+lipídica  e  oxidação  de  proteínas  com  ação  negativa  em  espermatogênese  e  esteroidogênese,
+
+conforme  estudos  realizados  em  ratos.  Pesquisas  comprovam  que,  com  a  indução  de
+
+agrotóxicos, ocorre alteração no hormônio estimulante da tireoide (TSH), apresentando baixas
+
+atividades enzimáticas glutationa S-transferase (GST).
+
+4. Considerações Finais
+
+Diante do contexto abordado, observa-se que com a exposição aos agrotóxicos, ocorre,
+
+principalmente,  o  processo  de  intoxicação  exógena.  As  descrições  embasadas  no  texto  dos
+
+resultados e discussões mostram o grande perigo da presença de resíduos de agrotóxicos com
+
+riscos casuais à saúde, ao meio ambiente, aos animais e aos indivíduos.
+
+Nesse contexto, com a exposição de indivíduos a agroquímicos, provoca problemas de
+
+neuro/hepatotoxicidade além de carcinogenicidade nos seres humanos. Determinadas classes
+
+de  agrotóxicos  possuem  o  mecanismo  de  ação  com  inibição  da  acetilcolinesterase,  o  que
+
+desencadeia  uma  série  de  alterações  em  marcadores  biológicos,  principalmente  a  níveis
+
+hepático, hormonal e genético. Estudos mostram que a intoxicação que inibe a enzima AChE,
+
+evolui  para  um  quadro  hiperestimulação  colinérgica  com  as  manifestações  clínicas  mais
+
+comuns como: salivação, miofasciculações, sudorese, miose, broncorreia, ansiedade, fraqueza
+
+e  outras  complicações  envolvendo  os  sistemas  nervoso  central,  periférico,  respiratórios  e
+
+gastrointestinais.
+
+Faz-se  necessária  a  realização  de  investimentos  nas  políticas  relacionadas  à  saúde  e
+
+segurança  do  trabalhador  no  meio  agrícola,  com  o  intuito  de  estabelecer  metas  para  ofertar
+
+condições  mais  adequadas  de  pessoas  que  lidam  com  agrotóxicos,  assim  como  melhor
+
+investigação  para  comprovação  das  alterações  fisiopatológicas  dos  agroquímicos  em
+
+indivíduos; faz-se necessário também uma investigação laboratorial, de preferência com coleta
+
+hematológica, após 30 dias de exposição aos devidos defensores químicos.
+
+12
+
+Research, Society and Development, v. 9, n. 11, e45191110219, 2020 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v9i11.10219
+

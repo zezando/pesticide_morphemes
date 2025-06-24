@@ -1,0 +1,162 @@
+MICROEXTRAÇÃO LÍQUIDO-LÍQUIDO DISPERSIVA ASSISTIDA POR VORTEX E ULTRASSOM APLICADA À DETERMINAÇÃO DE AGROTÓXICOS TRIAZINAS, TRIAZINONAS E O TRIAZOL FLUTRIAFOL EM ÁGUA
+
+
+
+INTRODUÇÃO As triazinas e as triazinonas estão dentre as classes de herbicidas mais utilizadas no mundo, principalmente no controle seletivo de ervas daninhas de folha larga e gramíneas em lavouras de milho, soja e algodão. A preocupação com a persistência, mobilidade e a toxicidade destes agrotóxicos tem sido crescente, devido à detecção dos mesmos em águas subterrâneas e em diferentes compartimentos ambientais.1,2 O triazol flutriafol possui uma ampla atividade fungicida e também é muito utilizado em culturas de cereais. Embora seja considerado de baixa toxicidade, o flutriafol é extremamente persistente no solo com um elevado potencial de mobilidade e, portanto, um potencial contaminante de águas subterráneas.3 A contaminação de recursos hídricos por agrotóxicos tem sido objeto de grande preocupação mundial e motivado o desenvolvimento de diversos métodos analíticos para a determinação destes compostos em água.4-6 A diversidade de princípios ativos bem como as diferentes características físico-químicas do material a ser analisado são alguns dos fatores que podem limitar a aplicabilidade de muitos destes métodos. Além disso, para determinadas finalidades são necessários métodos com baixos limites de detecção, da ordem de ng L-1, o que pode requerer etapas de extração e pré-concentração dos analitos. Estas etapas estão dentre as mais críticas do processo, pois delas dependem a exatidão, a precisão e o limite de detecção do método. A extração líquido-líquido (LLE - Liquid-Liquid Extraction) e extração em fase sólida (SPE - Solid Phase Extraction) são os métodos de preparo de amostra tradicionalmente utilizados na determinação de agrotóxicos em água.7 Apesar de proporcionarem resultados exatos e precisos, em geral, estes métodos são morosos, utilizam grandes quantidades de solventes orgânicos e possuem custos relativamente elevados.8 A microextração líquido-líquido dispersiva (DLLME Dispersive Liquid-Liquid Microextraction) tem sido proposta como
+
+
+
+uma alternativa a estes métodos devido à sua simplicidade, baixo custo, baixos limites de detecção e curto tempo de extração.9 Mais recentemente, também tem sido destacada a eficácia da microextração líquido-líquido com dispersão assistida por agitação em vortex e ultrassom (USVADLLME - ultrasound vortex assisted dispersive liquid–liquid microextraction) na determinação de diversos analitos em matrizes aquosas, como refrigerantes e bebidas alcoólicas por cromatografia em fase gasosa.10,11 A agitação em vortex e a radiação ultrassônica intensificam o processo de dispersão do solvente extrator e contribuem para aumentar a superfície de contato entre a fase orgânica (solvente extrator) e a fase aquosa, o que favorece a partição dos compostos de interesse entre as duas fases imiscíveis.13-15 Com isso, a USVADLLME pode suprimir a utilização do solvente dispersor e resolver um problema clássico da DLLME, que é a solubilização do solvente extrator na amostra devido a este solvente.16 A USVADLLME é uma técnica relativamente nova, com os primeiros trabalhos publicados em 2013,10 e sua aplicação na determinação de agrotóxicos em amostras ambientais ainda requer investigações. Com isso em vista, o presente trabalho teve como objetivo desenvolver e validar um método para a determinação simultânea de agrotóxicos pertencentes a três classes químicas (triazinas, triazinonas e triazol) em água por USVADLLME e cromatografia em fase gasosa acoplada a espectrometria de massas (CG-EM). Depois de validado o método foi aplicado em amostras obtidas de corpos d’água da região de Campo Novo dos Parecis-MT, um importante polo agrícola brasileiro onde os referidos analitos são comumente utilizados em culturas de milho, soja e algodão. PARTE EXPERIMENTAL Materiais Amostras Na validação do método foram utilizadas amostras de água
+
+
+
+coletadas no rio Cuiabá no município de Rosário Oeste-MT (14°50'9"S, 56 25'40"W) e no córrego Mãe Bonifácia no município de Cuiabá-MT (15°35'45"S, 56°5'49"W). Depois de validado, o método foi aplicado a oito amostras em duplicata, coletadas na profundidade de 30 cm, num ponto próximo às margens dos rios Verde e Sucuruína, ambos localizados na cidade de Campo Novo dos Parecis-MT (13°40'30"S, 57°53'31"W) e em dois poços artesianos localizados na zona urbana da referida cidade. As amostras foram coletadas em garrafas de vidro âmbar e acondicionadas a 4 ± 2 °C desde o momento da coleta até a realização das análises. Solventes, padrões e reagentes Os padrões de atrazina (ATZ), ametrina (AME), prometrina (PRO), terbutilazina (TER), metribuzina (MET), flutriafol (FLU) e hexazinona (HEX) foram adquiridos da Sigma-Aldrich (Alemanha), todos com pureza superior a 98,5%. Algumas propriedades físico-químicas destes compostos, relevantes ao trabalho, são apresentadas na Tabela 1. No preparo das soluções padrão estoque foram utilizados acetona e tolueno Tedia grau pesticida. Na extração dos analitos foram utilizados tolueno Tedia (Estados Unidos), hexano Vetec e ciclohexano Synth (Brasil), todos grau pesticida. Na limpeza de vidraria foram utilizados acetona PA Cromoline (Brasil), com pureza superior a 99% e detergente Extran Alcalino MA-01 Merck (Brasil). Cloreto de sódio Quemis (Brasil) com pureza superior a 99% foi utilizado no ajuste da força iônica das amostras. Como padrão interno (PI) foi utilizado fenantreno deuterado (D10) Sigma-Aldrich (Brasil) com pureza superior a 98%. A partir dos padrões primários foram preparadas soluções estoque em acetona a 100 μg mL-1 de cada analito, que foram utilizadas no preparo das soluções intermediárias mistas a 1,00 e 10,0 µg mL-1 dos analitos em acetona. Para a construção das curvas analíticas, pelo método da superposição de matriz, foram preparadas soluções padrão aquosas, a partir das soluções intermediárias em acetona, nos seguintes intervalos de trabalho: 1,00 a 25,00 µg L-1 para ATZ e TER; 5,00 a 75,00 µg L-1 para AME e PRO; 15,00 a 150,00 µg L-1 para MET, FLU e HEX. O PI foi utilizado a 1000 µg L-1 em tolueno.
+
+
+
+
+
+Estes intervalos de trabalho foram selecionados com base no limite de detecção instrumental (LDI) previamente determinado para cada analito. Instrumentação Todas as pesagens foram feitas em balança analítica Bel (Brasil) modelo Mark 210, com precisão de ± 0,0001 g. As medidas de volumes foram feitas em balões volumétricos Pyrex e micropipetas Pipetman Gilson (França) com volumes ajustáveis no intervalo de 100 - 1000 µL e de 20 - 200 µL e precisão de ± 0,60 µL e ± 0,20 µL, respectivamente. Nos ensaios com USVADLLME foi utilizado um agitador tipo vortex Labnet International (Estados Unidos), uma centrífuga Heittech Zentrifugan (Alemanha) modelo Universal 320 R, banho ultrassônico Thorton Inpec Eletrônica (Estados Unidos), com frequência de 25 kHz e potência de 240 W, tubos de ensaio de vidro Pyrex (15x100 mm) com tampa de polipropileno, microseringa Hamilton (Estados Unidos) de 25 µL, vials de 1500 µL e inserts de 100 µL Agilent (Estados Unidos). Água ultrapurificada (< 2 µS cm1 ) foi obtida por um sistema Millipore (França) Simplicity 185. As amostras de água coletadas em campo foram filtradas em membrana de fibra de vidro Sartorius (Alemanha) em um sistema de filtração à vácuo Merck Millipore (França). A quantificação dos analitos foi feita num sistema cromatográfico Agilent (Estados Unidos) modelo 6890 acoplado a um espectrômetro de massas modelo 5973. As separações foram feitas em coluna capilar HP-5MS de 30 m de comprimento, 0,25 mm de diâmetro e 0,25 µm de espessura de fase, com hélio (99,9999%) como gás de arraste. Aquisição e processamento dos dados foram feitos com software ChemStation®. Todas as amostras foram injetadas no modo splitless, com injetor operando a 280 °C e a linha de transferência do cromatógrafo para o espectrômetro de massas a 250 °C. A temperatura do forno foi inicialmente mantida a 100 °C por 2 min e depois elevada a 175 °C a uma taxa de 25 °C min-1, na qual permaneceu por 14 minutos, sendo novamente elevada até 240 °C a uma taxa de 25 °C min-1, na qual foi mantida por 6 minutos. No espectrômetro de massas a fonte de íons por impacto eletrônico
+
+Tabela 1. Fórmulas estruturais, classe, grupo químico, coeficiente de partição octanol/água (log Kow), solubilidade em água (SA) em mg L-1 a 20 oC e cologaritmo da constante de acidez (pKa) dos agrotóxicos estudados AME
+
+ATZ
+
+PRO
+
+TER
+
+Classe: Triazina Grupo químico: Herbicida log Kow: 2,63 SA: 200 pKa = 10,0
+
+Classe: Triazina Grupo químico: Herbicida log Kow: 2,70 SA: 35 pKa = 1,7
+
+Classe: Triazina Grupo químico: Herbicida log Kow: 3,34 SA: 33 pKa = 2,3
+
+Classe: Triazina Grupo químico: Herbicida log Kow: 3,40 SA: 6,6 pKa = 2,2
+
+MET
+
+HEX
+
+FLU
+
+Classe: Triazinona Grupo químico: Herbicida log Kow: 1,65 SA: 1165 pKa = 1,0
+
+Classe: Triazinona Grupo químico: Herbicida log Kow: 1,17 SA: 33000 pKa = 4,1
+
+Classe: Triazol Grupo químico: Fungicida log Kow: 2,30 SA: 95 pKa = 1,9
+
+
+
+
+
+operou a 70 eV e temperatura de 250 °C, a temperatura do quadrupolo foi ajustada a 150 °C. O método da padronização interna foi utilizado para a quantificação em modo de monitoramento de íon selecionado (SIM). As determinações de pH e condutividade elétrica (CE) das amostras de água foram feitas com uma sonda HACK (Espanha) HQ4d Multi. A determinação de carbono orgânico total (COT) foi feita em um analisador de carbono Analytical Aurora (Estados Unidos) modelo 1030 equipado com um amostrador automático da A.I. Analytical modelo 1088. Método Limpeza de vidrarias Todas as vidrarias foram previamente enxaguadas com água de torneira e pequenas porções de acetona. Em seguida, foram mantidas submersas por doze horas em solução aquosa a 2% (v/v) de Extran Alcalino MA-1. Após esse período, foram enxaguadas, sucessivamente, com água de torneira, água deionizada e deixadas por duas horas em banho ultrassônico. Após esse processo, foram novamente enxaguadas com água deionizada e pequenas porções de acetona para a retirada de possíveis resíduos ainda remanescentes. Por fim, foram secas em estufa com circulação de ar a 150 ± 5 °C por duas horas, com exceção das vidrarias volumétricas e materiais de polipropileno, cuja secagem se deu à temperatura ambiente (27 ± 3 °C). Extração e quantificação dos analitos O desenvolvimento do método consistiu basicamente na determinação do tipo e volume de solvente extrator (tolueno, cliclohexano e n-hexano), temperatura e tempo de sonicação e força iônica do meio para extração dos analitos em água por USVADLLME. Para isso, alíquotas de 5,00 mL da amostra foram colocadas separadamente em tubos de ensaio de vidro (15x100 mm) com diferentes quantidades de NaCl (0, 10, 20, e 30 % (m/v) e volumes de solvente extrator (100, 150 e 200 µL), que foram então fechados e submetidos à agitação vortex por 30 segundos. Imediatamente após a agitação, cada amostra foi levada a banho ultrassônico por diferentes intervalos de tempo (1, 2, 5, 10, 15 e 20 min.) e temperatura (30, 35, 40, 45, 50, 55 e 60 °C). Após a sonicação, as amostras foram centrifugadas por 5 min a 5000 rpm. Na sequência, com auxílio de uma micropipeta, foram retirados 50 µL do sobrenadante e transferidos para um redutor de volume (insert) de 100 μL contendo 25 μL de solução de fenantreno-D10 1000 μg L-1 (PI), que foi colocado em um frasco de amostragem (vial) de 2 mL. A solução foi homogeneizada e submetida à determinação dos compostos de interesse por cromatografia. Estes experimentos foram feitos em triplicata (n = 3) e acompanhados de um branco analítico. A quantificação dos analitos foi feita pelo método da superposição da matriz com padronização interna.13 Validação do método A validação do método foi feita em termos de seletividade, linearidade, exatidão, precisão e limites de detecção e quantificação.17,18 A seletividade foi avaliada por meio da comparação de cromatogramas de íons totais de extratos de amostras isentas e a 20,00 μg L-1 dos analitos. Também foram feitas comparações com cromatogramas de um padrão 667 μg L-1 dos analitos em tolueno. A linearidade foi avaliada por meio do coeficiente de correlação linear (r2) e inspeção visual de curvas analíticas construídas em triplicata pelo método da superposição de matriz com cinco padrões com concentração no intervalo de 1,00 a 150,00 µg L-1. A exatidão foi avaliada por meio de teste de adição e recuperação. Nestes ensaios as amostras de água fortificadas permaneceram em repouso por 24 horas antes de serem
+
+927
+
+submetidas ao método proposto. A precisão foi avaliada em termos de repetitividade e precisão intermediária, e expressa pelo coeficiente de variação (CV) da resposta instrumental para extratos obtidos em testes de adição e recuperação. Na avaliação da repetitividade, o método foi aplicado a amostras de água fortificadas em três níveis de concentração para cada analito: 1,00; 10,00 e 25,00 µg L-1 para ATZ, TER, 5,00; 25,00; e 50,00 µg L-1 para AME e PRO e 15,00; 50,00 e 150,00 µg L-1 para MET, FLU e HEX. Nesta avaliação foram feitas extrações em nonoplicata em cada nível num único dia. A precisão intermediária foi obtida de maneira semelhante, porém com extrações em nonoplicatas feitas em três dias consecutivos. Os limites de detecção (LDM) e quantificação (LQM) do método foram determinados com base na relação sinal/ruído (S/N) da linha de base obtida pela injeção de extratos de amostras de água fortificadas. Foi considerado como LDM e LQM a relação S/N de 3:1 e 10:1, respectivamente.17,19 Nos ensaios para avaliação de efeito de matriz, o método foi aplicado a amostras de água de rio e córrego fortificadas em três níveis de concentração para cada analito: 1,00; 10,00 e 25,00 µg L-1 para ATZ e TER, 5,00; 25,00; e 50,00 µg L-1 para AME e PRO e 15,00; 50,00 e 150,00 µg L-1 para MET, FLU e HEX, feitos em quintuplicata. RESULTADOS E DISCUSSÃO Avaliação dos parâmetros de extração Solvente extrator Dentre os principais requisitos para seleção de um solvente extrator para a DLLME destaca-se a baixa miscibilidade em água, alta capacidade em solubilizar os analitos de interesse e bom comportamento cromatográfico.15 Com isso em vista, foram selecionados para estudo: tolueno, ciclohexano e hexano. Dentre estes solventes, o tolueno apresentou os melhores resultados no teste de recuperação para todos os analitos avaliados (Figura 1).
+
+Figura 1. Recuperação dos analitos com diferentes solventes extratores. Condições de extração: 5,00 mL de água fortificada a 0,20 µg mL-1 de cada agrotóxico; 100 µL de solvente extrator; 30 s de agitação em vortex; 10 minutos de sonicação a 40 ± 2 °C e 240 W (n = 3)
+
+Dos solventes extratores avaliados o tolueno é o mais polar,20 o que pode justificar a maior eficiência de extração com este solvente. Alguns autores também têm destacado a contribuição da estrutura aromática do tolueno na extração de analitos insaturados.21-23 Também foi observado que os analitos com os menores valores de Kow (Tabela 1), ou seja, os mais solúveis em água, foram menos extraídos.
+
+
+
+
+
+Volume de solvente extrator Trabalhos que utilizam a microextração associada a ultrassom para determinação de agrotóxicos em água têm relatado a utilização de volumes de solvente extrator no intervalo de 14 a 225 µL.24 A utilização de volumes pequenos de solvente extrator (< 100 mL) contribui para a diminuição do LDM, porém, dificulta a automatização das injeções cromatográficas dos extratos. A utilização de volumes grandes do solvente extrator (> 150 mL) contribui para os processos de transferência de massa do analito entre a matriz e o solvente extrator, entretanto, colabora para a diluição do extrato e consequentemente para a elevação dos valores de LDM. No presente estudo foi observado que o aumento do volume do solvente extrator de 100 para 200 µL causou uma diminuição significativa (p = 0,05) na recuperação da ATZ, MET, AME e PRO (Figura 2). O aumento do volume de solvente extrator pode afetar a eficiência de dispersão e consequentemente a transferência de massa do analito. Alguns autores também atribuem a menor recuperação aos efeitos de diluição dos extratos.25,26
+
+
+
+
+
+Figura 3. Recuperação dos analitos a partir de amostras com diferentes forças iônicas. Condições de extração: 5,00 mL de água fortificada a 0,20 µg mL-1 com os analitos; 100 µL de solvente extrator (tolueno); 30 s de agitação em vortex; 1 minuto de sonicação a 40 ± 2 °C e 240 W (n = 3)
+
+bem como o aumento da força iônica do meio, os experimentos subsequentes foram feitos com as amostras a 30% (m/v) de NaCl.
+
+Figura 2. Recuperação dos analitos em ensaios com diferentes volumes de solvente extrator. Condições de extração: 5,00 mL de água fortificada a 0,20 µg mL-1 com os analitos; 30 s de agitação em vortex; 10 minutos de sonicação a 40 ± 2 °C e 240 W (n = 3)
+
+O volume do solvente extrator praticamente não teve efeito sobre a recuperação da TER e HEX e causou um pequeno aumento na recuperação do FLU. A utilização de 100 µL de solvente extrator proporcionou as maiores recuperações para a maioria dos analitos avaliados e permitiu a injeção automática dos extratos. Com isso em vista, optou-se pela utilização deste volume de solvente extrator em todos os ensaios subsequentes. Avaliação da força iônica do meio O aumento da força iônica do meio causou um aumento de 12, 17 e 86% na recuperação da MET, FLU e HEX, respectivamente (Figura 3). A adição de NaCl pode ter diminuído a solubilidade destes analitos em água e contribuído para suas transferências para a fase orgânica (efeito salting out). Dentre os analitos avaliados, a HEX apresenta a maior solubilidade em água (Tabela 1), o que pode justificar a maior contribuição do efeito salting out para este pesticida. Não foram observadas diferenças significativas (p = 0,05) entre as porcentagens de recuperação das triazinas com o aumento da força iônica do meio. Resultados semelhantes foram obtidos por Tolcha, Merdassa e Mergessa,21 que também avaliaram o efeito da força iônica na extração desta classe de agrotóxicos em água por DLLME. Tendo em vista o aumento de recuperação do MET, FLU e HEX,
+
+Avaliação da temperatura e tempo de sonicação O tempo e temperatura de sonicação podem influenciar a dispersão do solvente extrator e os processos de transferência de massa e, consequentemente, a eficiência dos métodos de microextração.27 No entanto, no presente trabalho estas variáveis não tiveram efeito significativo (p = 0,05) na recuperação dos analitos. A pré-agitação em vortex possui um papel essencial na dispersão inicial do solvente, que ocorre nos primeiros 20 a 30 segundos, e potencializa a dispersão do solvente extrator na etapa seguinte por agitação em ultrassom.11,12 Quando a mistura tolueno:água é submetida ao ultrassom ocorre a formação de micro gotículas de tolueno que se dispersam rapidamente na água. Este fenômeno pode ser percebido visualmente pela turvação da mistura formada durante os experimentos. A eficiência da USVADLLME parece estar relacionada com a eficiência desta dispersão e com o tamanho das gotículas de solvente dispersas. Quanto menor o tamanho das gotículas, maior a área interfacial entre a água e o solvente extrator e maior a eficiência de extração. Há evidências experimentais de que o tempo e a potência do ultrassom possuem grande influência neste processo. Com potência da ordem de 240-300 W, a dispersão do solvente orgânico pode atingir um máximo em poucos minutos e permanecer constante a partir de então.28 Formada a emulsão solvente/água, a transferência dos analitos para a fase orgânica tende a ocorrer muito rapidamente.29 No presente trabalho, foram obtidas recuperações superiores a 90% para a maioria dos analitos, com apenas um minuto de sonicação a 240 W. Em concordância com estes resultados, Burdel e colaboradores30 relatam a microextração de ácido pícrico, em matriz aquosa, com tolueno, no mesmo tempo e potência de ultrassom. Há evidências de que quando a eficiência de dispersão do solvente extrator é grande, a temperatura tem pouca influência sobre a transferência do analito entre a fase aquosa e orgânica.29 Saleh e colaboradores15 avaliaram o efeito da temperatura na determinação de hidrocarbonetos policíclicos aromáticos em água por microextração por emulsificação assistida por ultrassom e não observaram diferenças significativas na recuperação dos analitos em ensaios com temperatura de amostras no intervalo de 25 a 50 °C. Com base nestes resultados, experimentos subsequentes foram feitos com 1 minuto de sonicação a 240 W em temperatura na média
+
+
+
+de 45 ± 3 °C, que é a temperatura de trabalho do banho de ultrassom utilizado. Validação do método proposto A comparação entre o cromatograma do branco analítico (Figura 4 A) e do extrato de uma amostra de água ultrapura fortificada a 20,00 µg L-1 dos analitos (Figura 4 C) evidencia a ausência de interferentes nos tempos de retenção dos analitos avaliados. A semelhança entre os perfis cromatográficos de um padrão dos agrotóxicos a 667 μg L-1 em tolueno (Figura 4B) e de um extrato de uma amostra de água ultrapura (Figura 4C) indica que o procedimento de extração não influenciou as separações cromatográficas. Nos ensaios de adição e recuperação, com amostras de água ultrapura, as recuperações variaram entre 81e 109%, com repetitividade entre 1,4 e 9,0% e precisão intermediária entre 2,9 a 15%. Os valores de LDM e LQM variaram de 0,10 a 2,71 µg L-1 e 0,70 a 8,22 µg L-1 para a terbutilazina e o flutriafol, respectivamente (Tabela 2). Nenhum dos analitos foi detectado no branco analítico.
+
+Figura 4. Cromatograma (A) do branco analítico contendo PI a 333 μg L-1, (B) de um padrão em tolueno a 667 μg L-1 dos agrotóxicos e (C) de um extrato de uma amostra fortificada a 20,00 μg L-1 com os analitos. Acima, à direita, descrição e identificação dos picos e íons monitorados, com os íons principais em negrito
+
+Segundo Taverniers e colaboradores,19 para concentrações entre 100 a 1000 µg L-1 são aceitas recuperações no intervalo de 80 a 110%, enquanto que para concentrações inferiores a 100 µg L-1 podem ser aceitas recuperações no intervalo de 60 a 115%. Para estes intervalos são aceitos CV de até 21%. A exatidão e precisão dos resultados também evidenciam a eficácia da utilização do insert no frasco de amostragem para injeção automática dos extratos no sistema cromatográfico. Este dispositivo propiciou a injeção automática de quantidades inferiores a 100 mL de extrato e ajudou a contornar uma importante limitação das técnicas de microextração: a injeção manual de pequenos volumes de extratos.31,32 A avaliação do efeito de matriz foi feita com amostras de água de rio e de córrego, caracterizadas em termos de pH, CE e COT, que, de acordo com a literatura, podem influenciar o comportamento do analito na matriz e interferir no processo de extração dos mesmos.33,34 Nas amostras de água de rio e de córrego os valores de pH foram 7,3 e 6,9 e as concentrações de COT foram 2,7 e 20 mg L-1,
+
+929
+
+respectivamente. Em águas superficiais são comuns valores de pH no intervalo de 6 a 9 e concentração de COT entre 1 a 20 mg L-1.35 A CE inicial foi de 343 e 58 µS cm-1 nas amostras de água de córrego e de rio, respectivamente. Após a adição de NaCl (30 g L-1) houve um nivelamento da CE nas amostras em 250 mS cm-1. As recuperações dos analitos das amostras de água de rio e de córrego foram semelhantes às obtidas de amostras de água ultrapura (Tabela 2) e também estão no intervalo aceito por protocolos de validação.18,19 A DLLME tem passado por inúmeras adaptações que incluem a simplificação de etapas, a utilização de diferentes modos de agitação e de solventes extratores com diferentes propriedades físico-químicas, entre outros. Tolcha, Merdassa e Megersa,21 por exemplo, utilizaram acetona como desemulsificante de extratos, o que dispensou a etapa de centrifugação em extrações de triazinas em água com tolueno. Neste método foram obtidos valores de LDM de 1,2 e 2,2 µg L-1 para atrazina e prometrina, respectivamente. Chen e colaboradores31 avaliaram um sistema de agitação vertical que favorece a mistura do solvente extrator com a amostra na microextração de triazinas da água com hexanol. Com este método foram obtidos valores LDM de 0,02 µg L-1 para atrazina e prometrina. Nagaraju e Huang32 utilizaram a DLLME/CG-EM na determinação de triazinas em água com clorofórmio como solvente extrator e obtiveram LDM de 0,06 µg L-1 para atrazina. Pode ser observado que os dois últimos trabalhos supracitados relatam valores de LDM menores que os apresentados na Tabela 2. Isso provavelmente se deve ao menor volume de solvente extrator (< 12 µL) utilizado nos mesmos que, como dito anteriormente, proporciona extratos mais concentrados, no entanto, requer injeções cromatográficas manuais. Destaca-se também que os valores de LQM apresentados na Tabela 2 são compatíveis com valores orientadores para agrotóxicos em água propostos por agências ambientais de diferentes partes do mundo. A EPA, agência de proteção ambiental norte-americana, por exemplo, relata valores máximos aceitáveis para água potável de 3 µg L-1 para atrazina. No Canadá os valores de referência para a qualidade da água potável, baseados em critérios toxicológicos, expressos em termos de concentrações máximas aceitáveis para atrazina, metribuzina, ametrina e hexazinona, são 20, 50, 50 e 300 µg L-1, respectivamente. Na Nova Zelândia os valores máximos aceitáveis para atrazina, terbutilazina, metribuzina e hexazinona em água potável são 2, 8, 70, 400 µg L-1, respectivamente.36 No Brasil, a Portaria nº. 2914 de 2011, que dispõe sobre os procedimentos de controle e de vigilância da qualidade da água para consumo humano e seu padrão de potabilidade, dos analitos avaliados, contempla apenas a atrazina, para a qual o limite máximo aceitável é de 2 µg L-1.37 APLICAÇÃO DO MÉTODO PROPOSTO Depois de validado, o método proposto foi aplicado a amostras de água coletadas numa importante região agrícola de Mato Grosso, no município de Campo Novo dos Parecis. Nestas amostras, nenhum dos analitos estudados foi detectado. Apesar disso, é importante destacar que estes resultados não atestam a ausência de risco de contaminação por pesticida dos recursos hídricos na região de coleta das amostras. Para tanto, seria necessária uma avaliação mais detalhada envolvendo outros princípios ativos utilizados na região, coletas periódicas de amostras e estudos de outras matrizes ambientais como solo e sedimento. Na aplicação do método foram feitas 40 extrações e produzidos cerca de 4,0 mL de resíduo orgânico (solvente extrator). A título de comparação, estima-se que a utilização de um método clássico, como por extração em fase sólida para este mesmo número de amostras, produziria cerca de 1,0 L de resíduos orgânicos.
+
+
+
+
+
+Tabela 2. Repetitividade (Rep), precisão intermediária (PIn), recuperação (Rec %), LDM e LQM do método proposto Água de córrego n=5
+
+Água ultra puraa Analitos
+
+NF (µg L-1)
+
+Rep n=9
+
+PIn n=9 CV
+
+Rec n=3 %
+
+0 nd 1,00 1,39 2,86 109 ATZ 10,0 3,10 5,52 81,2 25,0 5,52 12,5 85,5 0 nd 1,00 2,77 4,50 90,1 TER 10,0 2,88 3,61 89,8 25,0 6,41 15,0 86,4 0 nd 5,00 9,00 12,0 108 AME 25,0 1,42 5,41 96,5 50,0 0,81 11,0 94,8 0 nd 5,00 3,30 13,0 104 PRO 25,0 3,27 9,39 97,9 50,0 6,60 13,0 96,2 0 nd 15,0 2,20 8,80 83,4 MET 50,0 1,41 7,71 81,2 150 3,02 11,0 86,4 0 nd 15,0 1,41 3,88 95,0 FLU 50,0 3,31 12,0 94,1 150 4,79 7,81 86,7 0 nd 15,0 4,36 7,00 77,2 HEX 50,0 6,03 15,0 88,0 150 1,00 4,71 81,6 nd - não detectado. apH 6,3; COT de 0 mg L-1; CE de 6,0 µS cm-1.
+
+LDM n=3
+
+LQM n=3 (µg L ) -1
+
+0,23
+
+0,70
+
+0,10
+
+0,30
+
+1,27
+
+3,86
+
+0,58
+
+1,77
+
+2,31
+
+7,11
+
+2,71
+
+8,22
+
+2,65
+
+8,04
+
+Rec % nd 97,2 97,8 98,3 nd 90,7 91,3 96,4 nd 82,3 85,2 80,5 nd 89,1 90,5 82,1 nd 74,4 82,4 89,1 nd 110 88,2 83,6 nd 74,0 97,8 76,7
+
+CV
+
+4,90 2,71 1,11 6,40 8,78 1,01 1,76 6,73 6,80 5,00 6,42 5,92 3,41 4,91 2,20 7,71 9,62 1,01 4,30 9,88 1,00
+
+Água de rio n=5 Rec % nd 98,7 84,0 90,6 nd 90,1 85,6 91,5 nd 84,0 81,2 90,1 nd 82,2 82,6 90,7 nd 77,0 72,9 84,4 nd 97,2 95,9 80,3 nd 76,9 78,1 81,0
+
+CV
+
+7,10 3,71 6,12 5,51 2,10 3,67 6,08 7,81 2,79 6,81 2,00 4,01 2,81 7,79 5,12 6,00 8,60 3,547 1,81 4,00 5,52
+
+CONCLUSÃO
+
+
+
+O caráter aromático do tolueno e sua maior polaridade, quando comparada aos demais solventes extratores avaliados, podem ter contribuido para a maior eficiência na extração dos analitos estudados. A força iônica do meio teve efeito significativo na extração dos compostos mais solúveis em água, principalmente da HEX, o que provavelmente está relacionado ao efeito salting out. O tempo e temperatura de sonicação não tiveram efeito siginificativo na extração dos analitos avaliados. A dispersão do solvente extrator por vortex e ultrassom minimizou a geração de resíduos, visto que dispensa utilização de solvente dispersor. A utilização do insert possibilitou a injeção automática dos extratos no sistema cromatográfico. Ensaios de adição e recuperação com diferentes amostras de água coletadas em campo sugerem que a composição da matriz não afetou a exatidão e precisão do método proposto. Os testes de adição e recuperação, bem como as demais figuras de mérito avaliadas, indicam que a USVADLLME possui exatidão e precisão suficientes para a determinação dos referidos analitos em água. Apesar de nenhum dos analitos ter sido detectado nas amostras coletadas em campo, os resultados obtidos não atestam a ausência de risco de contaminação por agrotóxicos nos corpos d’água mencionados, o que depende de estudos ambientais mais detalhados.
+

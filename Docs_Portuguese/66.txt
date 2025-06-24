@@ -1,0 +1,1322 @@
+EFEITO DO GLICONATO DE CÁLCIO E DO NIMODIPINO NO TRATAMENTO DE INTOXICAÇÕES AGUDAS POR TRI-ORTO-CRESIL FOSFATO EM GALINHAS.
+
+1. RESUMO
+
+O uso indiscriminado de agrotóxicos na tentativa de aumentar a produção agrícola propicia o aparecimento de intoxicações. Devido ao grande número de casos de intoxicações por compostos organofosforados, voluntários ou involuntários, há a necessidade de buscar uma estratégia terapêutica que evite o surgimento de graves efeitos tóxicos irreversíveis da neuropatia retardada induzida por organofosforados (NRIOP). Essa neuropatia é causada por alguns ésteres de organofosforados. Esses compostos são amplamente utilizados na indústria química e na agricultura, não só no Brasil, mas em todo o mundo. Um dos primeiros eventos que levou à NRIOP após a intoxicação aguda por organofosforado foi a inibição da esterase susceptível à neuropatia (ESNp). A administração de tri-orto-cresil fosfato (TOCP) em galinhas por via oral foi o modelo adequado para o estudo da NRIOP uma vez que o produto provocou seu aparecimento sem a ocorrência de efeitos colinérgicos agudos. Logo após a inibição da ESNp ocorreu o aumento do influxo do cálcio pela membrana e conseqüente redução do mesmo no plasma, nervo ciático e músculo gastrocnêmico. O aumento do cálcio citoplasmático promoveu a ativação da protease cálcio dependente (PCD) 24 horas após a intoxicação. Diante disto, houve a digestão de proteínas do citoesqueleto e conseqüente interrupção do impulso nervoso que levou aos sinais clínicos da NRIOP. Assim, este trabalho propôs uma estratégia terapêutica que consistiu na administração do nimodipino e 30 minutos depois a reposição do cálcio através da administração de gliconato de cálcio para restabelecer a homeostasia do cálcio e evitar o surgimento da NRIOP. Houve uma melhora significativa tanto nos parâmetros bioquímicos quanto na redução do efeito de paralisia das aves mostrando que esta estratégia terapêutica impediu o desenvolvimento do processo neurodegenerativo de maneira mais segura e eficaz.
+
+Palavras-chave: NRIOP, TOCP, ESNp, PCD, cálcio, nimodipino.
+
+
+
+3. INTRODUÇÃO O setor agroindustrial brasileiro vem, nos últimos anos, consolidando sua expressiva participação no mercado nacional e internacional, estabelecendo assim sua importância para a economia brasileira. Contudo, dada a ampla biodiversidade de um país tropical como o Brasil, principalmente com relação ao aparecimento de muitas espécies de insetos, para que o setor agroindustrial brasileiro continue em crescente produtividade, torna-se necessário o uso de agrotóxicos. Os gastos mundiais com agrotóxicos crescem continuamente e já passaram de 20 bilhões de dólares em 1983 para 34,1 bilhões de dólares ao longo dos anos 90. A América Latina é a região onde mais cresceram as vendas. No Brasil, foi observado importante aumento de vendas nos anos 90 passando de um bilhão de dólares em 1990, para 2,18 bilhões de dólares em 1997. Segundo o Sindicato Nacional da Indústria de Produtos para a Defesa Agrícola (SINDAG), em 2001, o Brasil foi o oitavo país consumidor destes produtos, com 3,2 kg de agrotóxicos por hectare. (SILVA et al., 2006). Os agrotóxicos estão entre os mais importantes fatores de risco para a saúde dos trabalhadores rurais e para o meio ambiente. Utilizados em grande escala por vários setores produtivos e mais intensamente pelo setor agropecuário, são ainda utilizados na construção e manutenção de estradas, tratamentos de madeiras para construção, indústria moveleira, armazenamento de grãos e sementes, combate às endemias e epidemias. Enfim, as utilidades desses produtos excedem em muito aquilo que comumente se conhece (SILVA et al., 2006). O uso indiscriminado de agrotóxicos propicia o aparecimento das intoxicações. Atualmente, segundo a Organização Mundial de Saúde (OMS), existem cerca de quinze mil formulações de agrotóxicos registradas para quatrocentas substâncias diferentes em todo o mundo. A OMS relata também que ocorrem anualmente, cerca de três milhões de intoxicações agudas por agrotóxicos, com 220 mil mortes, sendo que, 70% destes casos ocorrem nos países em desenvolvimento. Uma pesquisa da Organização Pan-Americana de Saúde (OPAS), realizada em 12 países da América Latina e Caribe, mostrou que o envenenamento por produtos químicos, principalmente chumbo e pesticidas, representa 15% de todas as doenças profissionais registradas (PIRES et al., 2005a).
+
+11
+
+O Sistema Nacional de Informações Tóxico-Farmacológicas (SINITOX), da Fundação Oswaldo Cruz, divulgou em 1999 que os agrotóxicos são causadores de 10% dos casos de intoxicações registradas, fazendo 6.710 vítimas naquele ano. Destes, 2.531 foram acidentais e 2.235 foram tentativas de suicídio. No ano de 2003, na estatística desse mesmo sistema, 5.945 casos de intoxicações foram notificados, sendo que grande parte destes casos ocorreu nos Estados de São Paulo, Rio Grande do Sul e Minas Gerais, com 394, 302 e 145, respectivamente. Destes 5.945 casos, houve 165 óbitos, sendo que 131 foram suicídios. Pires, et al. (2005a) relatam que em 2001, enquanto a taxa média de letalidade devido a todos os agentes causadores das intoxicações foi de 0,4%, a mortalidade devido a agrotóxicos foi de 3,4%. Do total de 8.697 casos de intoxicações atribuídas às tentativas de suicídio, 11,6% foram provenientes do uso de agrotóxicos. Estes números refletem apenas parcialmente a realidade do país, já que segundo estimativas do Ministério da Saúde, para cada evento de intoxicação por agrotóxico notificado, existem outros 50 não relatados. Valdez (1995) afirma que o uso indiscriminado desses produtos tem resultado em um sério problema de saúde pública e que a quantificação de seus efeitos (morbidade e mortalidade), sejam estes crônicos, agudos ou letais, é imprecisa devido ao grande número de subnotificações, à falta de especificidade dos efeitos clínicos e ao pouco conhecimento das equipes de saúde a respeito da ação desses produtos químicos e das suas conseqüências nos indivíduos contaminados. Esta questão foi reiterada por Pires, et al. (2005b) que evidenciaram que a falta de legislação e do controle de uso adequado desses produtos são as principais causas da ocorrência de casos de intoxicações por agrotóxicos. No Brasil, entre 1997 e 2001 houve 26.164 casos de intoxicação provocados por agrotóxicos no campo, o que corresponde a 7% do total de intoxicações notificadas neste período Um estudo realizado por Araújo, et al. (2007) em 102 trabalhadores rurais da região de Nova Friburgo-RJ apontou que o escasso conhecimento dos riscos potenciais destes produtos e a não utilização de equipamentos de proteção durante a aplicação aumentam os riscos de contaminação dos agricultores e de suas famílias, quase todos envolvidos no processo do trabalho agrícola. Estudos epidemiológicos desenvolvidos com trabalhadores rurais da serra gaúcha demonstraram que a intoxicação por agrotóxicos apresentou uma forte associação com transtornos psiquiátricos menores, denominados problemas de nervosismo e problemas de tristeza e desânimo. Os autores desenvolveram um mapeamento que definiu e comparou algumas variáveis relacionadas ao trabalho agrícola tais como, instrumento de trabalho, tipo 12
+
+de estabelecimento e divisão de trabalho, sazonalidade e fatores climáticos, apontando para um nexo associativo entre a exposição ocupacional aos agrotóxicos e as perturbações mentais dos agricultores. Nas intoxicações por agrotóxicos, observa-se diminuição das defesas imunológicas, anemia, cefaléia, insônia, alterações de humor e distúrbios de comportamento (surtos psicóticos) freqüentes entre agricultores, determinando por vezes, a proibição médica do trabalho na lavoura e a orientação para outro tipo de atividade profissional (AMORIN et al., 2003). Dentre organofosforados
+
+os
+
+inseticidas e
+
+responsáveis
+
+carbamatos,
+
+com
+
+pelas
+
+34,3%
+
+e
+
+intoxicações, 26,0%,
+
+destacam-se
+
+os
+
+respectivamente.
+
+Os
+
+organofosforados são os inseticidas mais utilizados nas tentativas de suicídio e levaram também ao maior número de mortes, seja por exposição voluntária ou involuntária. Os organofosforados monocrotofós e metamidofós foram responsáveis pela maioria dos registros das intoxicações e tentativas de suicídio, representando em média, 46% e 29% respectivamente, das ocorrências reportadas aos inseticidas (PIRES et al., 2005b). No Brasil há relatos de casos de neuropatia retardada causada por inseticidas organofosforados. Um estudo realizado na região de Nova Friburgo no Estado do Rio de Janeiro detectou uma prevalência de 12,8% de casos de neuropatia em relação a todos os sinais de intoxicações por agrotóxicos. Um dos fatores que contribuiu para esta alta prevalência foi o uso excessivo de compostos organofosforados para o combate aos insetos, dentre eles o mais citado foi o metamidofós. A maioria dos casos de neuropatia diagnosticados era homens e a faixa etária estava ao redor dos 33 anos (ARAÚJO et al., 2007).
+
+13
+
+3.1 Os inseticidas organofosforados e o TOCP: Os praguicidas, segundo a Organização para Agricultura e Alimentação das Nações Unidas (FAO), são produtos químicos ou quaisquer substâncias destinadas à prevenção, à destruição, ou ao controle de qualquer praga, incluindo os vetores de doenças humanas ou de animais, que causam prejuízo ou interferem de qualquer outra forma nos alimentos. Definição semelhante é usada na legislação brasileira, inciso IV do decreto 4074 de janeiro de 2002 para agrotóxicos e afins como sendo produtos e agentes de processos físicos, químicos ou biológicos, destinados ao uso nos setores de produção, no armazenamento e beneficiamento de produtos agrícolas, nas pastagens, na proteção de florestas, nativas ou plantadas, e de outros ecossistemas e de ambientes urbanos, hídricos e industriais, cuja finalidade seja alterar a composição da flora ou da fauna, a fim de preservá-las da ação danosa de seres vivos considerados nocivos. Após a segunda Guerra Mundial, visando aumentar a provisão de alimentos para atender uma explosão demográfica mundial que vinha se desenhando, houve a necessidade de se buscar produtos mais eficientes. Desta maneira, os inseticidas organofosforados foram vistos como uma alternativa ao uso de compostos organoclorados, que foram proibidos na década de 70 em vários países do mundo, uma vez que se acumulam nos ecossistemas além de se magnificarem na cadeia alimentar. O fato dos organofosforados terem uma baixa persistência no ambiente e de não se bioacumularem contribuiu enormemente para que o seu uso crescesse indiscriminadamente (PEYON; SARCINELLI, 2007). Os organofosforados passaram a ser os inseticidas mais usados no mundo a partir da década de 70. Desde então, o relato de casos de intoxicações por estes compostos tem aumentado drasticamente, o que leva a efeitos tóxicos agudos ou crônicos mesmo a baixas doses. Um estudo realizado com agricultores no estado do Rio de Janeiro mostrou que 90% dos agrotóxicos utilizados eram da classe dos organofosforados (ARAÚJO, et al., 2007). Organofosforados são compostos que possuem átomos de carbono e fósforo. São derivados do ácido fosfórico (H3PO4), fosfônico (H3PO3) e fosfínico (H3PO2). A ação biológica desta classe de compostos é devido à sua capacidade de fosforilação. Esta capacidade depende da eletrofilicidade (caráter positivo) do átomo de fósforo, o qual é determinado pelos seus radicais substituintes. Esses compostos apresentam também uma
+
+14
+
+excelente capacidade de atravessar membranas biológicas e a barreira hematoencefálica devido seu alto coeficiente de partição óleo/água (ABOU-DONIA, 2003). Os inseticidas organofosforados são absorvidos pela pele, pelo trato respiratório e pelo trato gastrointestinal, e muitas vezes sua absorção é favorecida pelos solventes presentes na formulação. Em casos de ingestão voluntária e involuntária o principal foco de absorção é o trato gastrointestinal. A absorção por esta via também ocorre em ambientes de trabalho com higiene precária e alimentos contaminados. Após absorvidos, estes compostos e seus produtos de biotransformação são rapidamente distribuídos por todos os tecidos. Várias enzimas atacam estas moléculas em diferentes pontos. Somente uma reação, a dessulfuração oxidativa, ou seja, oxidação de P=S para P=O, resulta em metabólitos com maior toxicidade para insetos e mamíferos. Porém, estes análogos oxidados podem ser rapidamente hidrolisados por hidrolases encontradas nos tecidos dos mamíferos. Os insetos são mais sensíveis a estes compostos, pois freqüentemente, não possuem estas enzimas (ALONZO; CORRÊA, 2003). Existe uma classificação toxicológica para os agrotóxicos da Agência Nacional de Vigilância Nacional (ANVISA) que foi descrita na portaria 03/1992. Esta classificação é dividida em quatro classes, são elas: Classe I (Extremamente Tóxicos – Faixa vermelha); Classe II (Altamente Tóxicos – Faixa Amarela); Classe III (Medianamente Tóxicos – Faixa azul); Classe IV (Pouco Tóxicos – Faixa verde). Alguns organofosforados dos mais usados em todo o Brasil fazem parte da classe I (metamidofós) e outros fazem parte da classe II (clorpirifós). Portanto esta classe de compostos é altamente tóxica e deve ser utilizada com muito cuidado pelos trabalhadores. Os compostos capazes de causar a neurotoxicidade retardada são os ésteres de organofosforados e podem-se destacar dois que são muito usados em todo o país como inseticidas, o Tamaron (metamidofós) e o Lorsban (clorpirifós). Um estudo realizado por Soares, et al. (2003) no estado de Minas Gerais, revela que o Tamaron e o Lorsban correspondem a 39,6% e 4,4% respectivamente, das marcas comerciais de agrotóxicos mais usados no estado. Clinicamente, os sintomas da intoxicação por compostos organofosforados são divididos em três tipos: síndrome aguda (colinérgica), síndrome intermediária e neuropatia retardada induzida por organofosforados. A síndrome aguda é devido à inibição da enzima acetilcolinesterase no sistema nervoso central e periférico, no plasma e nos eritrócitos. Esta esterase é uma enzima responsável pela degradação do neurotransmissor acetilcolina. A 15
+
+inibição desta enzima resulta em um acúmulo de acetilcolina nas sinapses nervosas. Como conseqüência disto, há um aumento da atividade do sistema nervoso autônomo parassimpático e sistema nervoso central (CAROD-ARTAL, 1999). Os sinais devido à estimulação do sistema nervoso autônomo parassimpático podem ser provenientes da ação em receptores muscarínicos ou nicotínicos. A estimulação dos receptores muscarínicos leva ao aumento de secreções, broncoconstrição, miose, cólicas gastrointestinais, diarréia, bradicardia e poliúria. Já os efeitos sobre os receptores nicotínicos levam à taquicardia e hipertensão. Os efeitos no sistema nervoso central são; confusão mental, cefaléias, convulsões e coma. Esses sintomas exigem atendimento emergencial e geralmente é administrada atropina que age como inibidor competitivo da ação da acetilcolina (ECOBICHON, 2001). A síndrome intermediária foi recentemente descrita e o seu mecanismo de ação ainda não é bem esclarecido. Essa síndrome consiste de uma seqüência de sinais neurológicos que aparecem de 24 a 96 horas após a crise colinérgica, mas antes dos efeitos da NRIOP. O principal efeito é a fraqueza muscular, primariamente afetando músculos inervados pelos nervos cranianos, tais como os flexores do pescoço e os músculos da respiração, afetando também os nervos dos membros inferiores e superiores. Dentre os compostos capazes de provocar a síndrome intermediária destacam-se o monocrotofós e fention (ECOBICHON, 2001). O TOCP é o isômero orto da mistura de isômeros do tri-cresil fosfato. Existem muitos relatos de promoção da NRIOP pelo TOCP e devido a isso e pelo fato deste composto não apresentar síndrome colinérgica é muito usado para se estudar o mecanismo de ação desta intoxicação.
+
+Figura 1: Estrutura química do TOCP.
+
+16
+
+O extrato glicólico de gengibre da Jamaica, conhecido como Jake, adulterado com TOCP durante o período da lei seca nos Estados Unidos levou a uma epidemia de neuropatia, registrando mais de 20.000 casos. Outros casos ocorreram no Marrocos, em 1959 mais de 10.000 pessoas que consumiram azeite comestível adulterado com óleo lubrificante foram acometidos pela neuropatia. Johnson (1970) constatou que administrando TOCP a galinhas, estas desenvolviam a neuropatia de forma muito semelhante ao que era observado em pessoas intoxicadas por inseticidas organofosforados neuropáticos. O TOCP e fosfatos relacionados possuem propriedades físicas adequadas para serem usados como fluidos hidráulicos, lubrificantes, plastificantes e retardantes de chamas. Vários estudos mostraram que apenas o isômero orto produz o efeito tóxico retardado. Atualmente, esse isômero foi proibido de compor estas misturas de fluidos hidráulicos organofosforados, devido ao grande número de casos de neuropatia reportados onde ele é utilizado.
+
+17
+
+3.2 A NRIOP e a esterase envolvida: A NRIOP é causada por uma simples dose de certos organofosforados incluindo fosfatos, fosfonatos e fosforoamidatos. Essa neuropatia degenerativa caracteriza-se por uma axonopatia distal que acomete o sistema nervoso central e periférico e se desenvolve após intoxicação
+
+por
+
+organofosforados
+
+neuropáticos
+
+(LOTTI,
+
+1992).
+
+Os
+
+eventos
+
+neuropatológicos da NRIOP apresentam-se como um dano axonal que começa na porção mais distal dos axônios, seguido de desmielinização secundária no sistema nervoso central e periférico. As fibras longas e de grande diâmetro são mais afetadas do que as de pequeno diâmetro, como ocorre na maior parte das neuropatias tóxicas. Os sintomas habituais no início são câimbras, dores musculares, sensação de formigamento, perda de sensibilidade, fraqueza distal progressiva e queimação maiores nos pés do que nas mãos. Depois segue por uma debilidade progressiva, de início nas pernas que evolui para uma atrofia distal dos músculos. Os casos mais graves podem progredir para uma paralisia completa, problemas respiratórios e morte (ECOBICHON, 2001). A esterase susceptível à neuropatia (ESNp) foi originalmente identificada por Johnson, (1969) como alvo dos ésteres organofosforados, pelos quais, causam a neuropatia retardada em humanos e outros vertebrados. É uma enzima ligada à membrana, pertencente ao grupo das esterases, com peso molecular de 155 kDa, de papel fisiológico ainda não esclarecido (GLYNN, 2007). O mecanismo de ação tóxica foi descrito por Johnson (1982) e envolve inicialmente a desalquilação fosfórica da ESNp. A simples inibição da ESNp não é suficiente para resultar em NRIOP. É necessária a geração de uma carga negativa na porção terminal do grupamento fosforado ligado à enzima. Isso ocorre como resultado de uma segunda reação, chamada de “envelhecimento”. Este composto negativo é extremamente estável e resiste à quebra hidrolítica ou reativação promovida por agentes tais como oximas. Já para produção dos efeitos derivados da inibição da acetilcolinesterase não é necessário que ocorra esta reação de envelhecimento (BATTERSHILL et al., 2004). O envelhecimento do complexo fosforil-esterase resultante da combinação do éster organofosforado com o sítio ativo da enzima é um fator determinante para o surgimento da NRIOP. Os acontecimentos entre a inibição enzimática e o aparecimento dos sintomas ainda necessita de estudos mais específicos (WU et al., 2003).
+
+18
+
+Provavelmente, a ESNp apresenta como substrato compostos carboxil ésteres e é inibida pelos ésteres organofosforados em um mecanismo de ação geral de uma esterase. O sítio ativo da enzima faz um ataque nucleofílico no acil-carbono do éster. A hidroxila alcoólica é rapidamente liberada e um composto covalente acil-enzima é produzido. Este composto é facilmente hidrolisado liberando o ácido carboxílico e a enzima. Já quando a ESNp reage com um organofosforado neuropático, apesar de reagir de maneira análoga, a taxa de hidrólise do organofosforilado-enzima é muito menor do que o acil-enzima o que torna esta inibição irreversível. A taxa de envelhecimento da enzima fosforilada depende da natureza do grupo R de saída do organofosforado, sendo mais lenta para grupos metil (GLYNN, 2000). Certos inibidores da ESNp tais como, fosfinatos, carbamatos, tiocarbamatos e sulfonil fluoretos apresentam ambos radicais “R” diretamente ligados ao átomo de fósforo. Estes compostos também reagem covalentemente com o centro ativo da esterase, mas não promovem a reação de envelhecimento, conseqüentemente, esterases inibidas por estes compostos não formam um grupo terminal com carga negativa e são reativados pelas oximas. Quando se administra esta classe de substâncias antes de organofosforados neuropáticos, ocorre uma proteção e pode evitar o surgimento da NRIOP (MORETTO, 2000). Para que se desenvolva a NRIOP, é necessário que ocorra uma inibição e envelhecimento de 70 a 80% da ESNp (JOHNSON, 1982). A atividade da enzima pode ser verificada nos linfócitos e plaquetas, bem como no sistema nervoso central e nervos periféricos
+
+(MARONI;
+
+BLEECKER,
+
+1986).
+
+Esta
+
+atividade
+
+é
+
+detectável
+
+em
+
+homogeneizados por doseamento colorimétrico, usando como substrato o fenil valerato (GLYNN, 2000). Várias espécies animais são sensíveis à NRIOP. Nesta lista incluem-se galinhas, gatos, cachorros, cavalos, bois, carneiros, porcos, macacos e o homem (JOHNSON; GLYNN, 1995). A galinha adulta é o animal de escolha para se estudar esta neuropatia, devido sua sensibilidade e sinais clínicos serem muito semelhantes àqueles vistos na espécie humana, além disso, é um animal doméstico e de fácil manuseio (JOHNSON, 1975; BARRET, et al., 1985). Esses animais quando administrado uma única dose oral, apresentam lentidão de movimentos, seguida de ataxia (dificuldade de locomoção dos membros inferiores), até impedimento total da locomoção (JOHNSON, 1974).
+
+19
+
+Os sintomas da axonopatia distal se desenvolvem em um período de 8 a 14 dias após exposição a esses organofosforados neuropáticos (LOTTI, 2002). Dentre os organofosforados que causam a NRIOP, tem-se o tri-o-cresil fosfato, clorpirifós, metamidofós, mipafox, diclorvós, leptofós e triclorfon. Nestes últimos anos, o metamidofós (O,S-dimetil fosforamidotioato) tem sido o inseticida com mais freqüência reportado, como causador da NRIOP em seres humanos (MCCONELL et al., 1999).
+
+20
+
+3.3 O papel do íon cálcio na NRIOP: O cálcio é um elemento essencial para o correto funcionamento do nosso organismo (cátion bivalente em maior presença no líquido extracelular). Ele está envolvido na excitabilidade neuronal, liberação de neurotransmissores, contração muscular, integridade da membrana e coagulação sanguínea. A grande maioria do cálcio do organismo está nos ossos (99%), do restante; 45% estão ligados às proteínas (principalmente albumina) e essa conjugação aumenta à medida que o pH se eleva e reduz à medida que o pH diminui; 10% estão complexados com tampões aniônicos (bicarbonatos, sulfatos, citratos e fosfatos, principalmente); e o cálcio (Ca++) sérico livre correspondente à 45% é quem realiza suas principais funções fisiológicas. A concentração intersticial desse íon nos seres humanos é cerca de 10-3 molar e a concentração intracelular livre é cerca de 10-7 molar (MARCUS, 2003). A célula em repouso se mantém muito ativamente no controle de seu estado interno, e para isso necessita de um contínuo suprimento energético. Três características são muito importantes para manutenção deste estado: potencial de membrana, permeabilidade da membrana a diferentes íons e as concentrações intracelulares de vários íons, especialmente a do Ca++. Neste estado de repouso o Ca++ é mantido em organelas, principalmente no retículo sarcoplasmático e nas mitocôndrias. Como a concentração extracelular é muito maior do que a intracelular, há um gradiente a favor da entrada do cálcio na célula. Essa baixa concentração desse íon no líquido intracelular é mantida pela atuação de mecanismos de transporte ativo que ejetam o cálcio através da membrana plasmática, e através da baixa permeabilidade das membranas plasmática e sarcoplasmática a esse íon (RANG et al., 2004). A regulação da concentração intracelular livre do cálcio envolve três mecanismos principais: controle da entrada do Ca++, controle da extrusão do Ca++, troca do Ca++ entre o citosol e as reservas intracelulares. Como a concentração de cálcio intracelular livre desempenha um papel chave na função celular, uma ampla variedade de efeitos farmacológicos resulta da interferência em um ou mais dos mecanismos de controle dessa concentração intracelular deste íon (RANG et al., 2004). A excitabilidade descreve a capacidade de uma célula demonstrar uma resposta elétrica regenerativa de “tudo ou nada” à despolarização de sua membrana, sendo esta resposta conhecida como potencial de ação. Essa é uma característica da maioria dos 21
+
+neurônios, células musculares e de muitas células endócrinas. No sistema nervoso, bem como no músculo estriado, a propagação do potencial de ação constitui o mecanismo responsável pela comunicação em alta velocidade à longa distância, indispensáveis para grandes animais de movimentos rápidos. Já no músculo cardíaco e no liso, bem como em alguns neurônios centrais, ocorre a atividade rítmica espontânea. Enfim, em cada tipo de tecido, as propriedades do processo de excitação refletem as características especiais dos canais iônicos responsáveis pelo processo. No caso de uma neuropatia há um desequilíbrio inicial na propagação através dos neurônios longos e músculo estriado (RANG et al., 2004). Em vários distúrbios neurodegenerativos provocados por agentes tóxicos, ocorre a degeneração Walleriana. O conceito de degeneração axonal foi inicialmente reportado por Augustus Waller há cerca de cem anos. De acordo com a seqüência de eventos que ocorrem na porção distal do axônio, esta degeneração é chamada de axonal tipo Walleriana. Ela é caracterizada pela ativação de proteases cálcio dependente (PCD) devido à entrada excessiva de cálcio na célula. A ativação da PCD promove a digestão da porção terminal do axônio, impedindo assim, a transmissão do impulso nervoso até a célula pós-sináptica. Quando a lesão por agentes químicos ocorre no corpo celular do neurônio, é chamada de degeneração neuronal. Mas quando a lesão ocorre no axônio, ela é chamada de degeneração axonal como é o caso da NRIOP (ANTHONY et al., 2001). As proteases intracelulares possuem várias funções na regulação dos diversos sistemas celulares. Dentre elas, as proteases cálcio dependentes que são ativadas pelo cálcio, o qual é um segundo mensageiro na regulação celular. Suas funções consistem principalmente na degradação de proteínas do citoesqueleto, modificação de receptores de esteróides e a ativação de proteínas quinases. Já é estabelecido que existam, no mínimo, dois tipos de PCD. Um tipo requer concentrações de cálcio na ordem de mM para sua atividade, enquanto que o outro tipo requer concentrações de cálcio na ordem de M (INOMATA et al., 1983). Somente os organofosforados capazes de gerar a NRIOP levam ao aumento da atividade dessas proteases (PCD) que promovem a fosforilação de proteínas do citoesqueleto. A elevação da atividade dessas enzimas pode ser o disparo da degeneração axonal (ABOU-DONIA et al., 1984). Choudhary e Gill (2001) propuseram que a inibição da ESNp pelos organofosforados está associada com um aumento da concentração intracelular do cálcio, o qual irá ativar essas proteases. Diante desses eventos, pode-se dizer
+
+22
+
+que após a inibição da ESNp ocorre uma alteração da homeostasia do cálcio, que está relacionada com o aparecimento dos sinais clínicos da NRIOP. Vários trabalhos vêm sendo implementados na tentativa de amenizar os sinais e sintomas da NRIOP, por alguns com reposição de cálcio (PIAO et al., 2003); por outros pela administração de bloqueadores de canais de cálcio, como El-Fawal, et al. (1990) que evidenciou um efeito protetor do nifedipino nos músculos e nervos periféricos de galinhas tratadas com organofosforados indutores da neuropatia. Wu e Leng (1997) também demonstraram o efeito protetor do Verapamil que reduziu a fosforilação de proteínas cerebrais de galinhas quando receberam dose oral de TOCP. Choudhary, et al. (2006) observaram o efeito do nimodipino na fosforilação de proteínas do citoesqueleto de ratos quando administrado diclorvós. Foi mostrado pelos autores que houve uma redução na fosforilação dessas proteínas. Os antagonistas de canais de cálcio são substâncias que bloqueiam a entrada de cálcio na célula através dos canais deste íon. Os antagonistas terapeuticamente importantes atuam sobre os canais tipo L e eles compreendem três classes quimicamente distintas: as fenilalquilaminas (verapamil), as diidropiridinas (nifedipino, nimodipino, anlodipino), e as benzotiazepinas (diltiazém). Todas as substâncias de cada uma das três classes mencionadas acima se ligam à subunidade 1 do canal de cálcio tipo L, porém em sítios distintos, cada um dos quais interagem de modo alostérico entre si e com a estrutura de “comporta” do canal, impedindo indiretamente a difusão do cálcio através do seu poro no canal aberto (RANG et al., 2004). O nimodipino possui alta lipossolubilidade e foi desenvolvido para relaxar a musculatura cerebral. Dessa maneira ele transpõe a barreira hematoencefálica mais facilmente, atuando como potente antagonista do influxo de cálcio nos neurônios podendo ser então mais eficaz para o tratamento da NRIOP (MICHEL, 2006).
+
+Figura 2: Estrutura química do nimodipino. 23
+
+Muzardo e Oliveira (2007) constataram que em galinhas intoxicadas com tri-ortocresil fosfato, a administração de gliconato de cálcio tende a impedir um desbalanceamento dos níveis de cálcio no plasma, fenômeno este que correlaciona com uma diminuição significante nos escores de neurotoxicidade quando comparados com um grupo controle. Entretanto, os autores não foram capazes de explicar para onde o cálcio estava migrando. Pode ser que um conhecimento melhor da transmigração do cálcio nos tecidos e órgãos e sua relação temporal com a inibição da ESNp traga luz ao mecanismo de intoxicação por organofosforados neuropáticos, permitindo um melhor e mais seguro tratamento para NRIOP.
+
+3.4 Justificativa:
+
+Tem sido relatado um grande número de casos de intoxicações, acidentais ou suicidas, por praguicidas e muitos destes são organofosforados neuropáticos. Isto implica em vários casos de neuropatia que podem ocorrer sem um real diagnóstico, o que indica a necessidade de buscar uma estratégia terapêutica que evite o surgimento de graves efeitos tóxicos e irreversíveis da NRIOP. A execução deste trabalho poderá contribuir de maneira significativa para um tratamento da NRIOP. O esquema proposto foi a administração de um bloqueador de canais de cálcio e posterior reposição dos níveis de cálcio com a administração de gliconato de cálcio antes da inibição de 70 a 80% da atividade da ESNp. Busca-se também um melhor esclarecimento do mecanismo de ação tóxica dos organofosforados, visando uma forma mais eficaz de se evitar o surgimento dos graves efeitos irreversíveis desta neuropatia que também ocorre com o ser humano.
+
+24
+
+4. OBJETIVO Este trabalho teve como objetivo investigar o mecanismo de ação tóxica de compostos organofosforados neuropáticos, utilizando como protótipo o TOCP, através da alteração da homeostasia do cálcio nas intoxicações, visando um tratamento mais seguro e eficaz para a NRIOP. Para alcançar tal objetivo, foi proposta a seguinte estratégia: a) Monitorar os níveis de cálcio no plasma, no músculo gastrocnêmico e no nervo ciático, após intoxicação aguda, via oral, por TOCP em galinhas. b) Monitorar a queda da atividade da ESNp nos linfócitos das galinhas intoxicadas por TOCP, bem como a atividade da PCD no músculo gastrocnêmico e no nervo ciático das aves. c) Administrar o nimodipino às galinhas intoxicadas, meia hora antes da administração do gliconato de cálcio em diferentes tempos após a administração do TOCP na tentativa de reduzir os efeitos da NRIOP. d) Monitorar os níveis de cálcio no plasma, no músculo gastrocnêmico e nervo ciático bem como medir a atividade das enzimas ESNp e PCD após a intoxicação aguda pelo TOCP e posterior administração do nimodipino e do gliconato de cálcio. e) Monitorar o desenvolvimento dos sinais clínicos das aves durante 28 dias após a administração do TOCP, com e sem a administração do nimodipino e do gliconato de cálcio.
+
+25
+
+5. MATERIAL E MÉTODOS 5.1 Material: 5.1.1 Animais: Foram utilizadas 48 aves da espécie Gallus gallus domesticus e da linhagem “Leghorn Isabrown” em fase de postura, com idade superior a 18 meses, pesando entre 1,5 e 2,4 kg. As aves foram adquiridas na granja do senhor Hayashi e esta pertence à cooperativa agropecuária de Guatapará-SP. Antes de iniciar qualquer experimento, os animais receberam tratamento para eliminação de ectoparasitos e endoparasitos. A água disponível para as aves no biotério do Laboratório de Toxicologia foi filtrada e a ração dada às galinhas foi a Purina® recomendada para aves de postura. A água e a comida foram dadas ad libitum. Todos os procedimentos com estes animais receberam parecer favorável do Comitê de Ética em Pesquisa da Faculdade de Ciências Farmacêuticas de Araraquara-SP, UNESP, e que atende pelo protocolo CEP/FCF/CAr. nº 04/2007 – Animais em Pesquisa, com Parecer nº 23/2007 de 26 de junho de 2007.
+
+5.1.1.1 Eliminação de ectoparasitos: x A água e a comida dos animais foram retiradas; x Foi retirada a maravalha junto com as bandejas; x As galinhas e todo galinheiro foram pulverizados com uma solução de 6 mL de kothrin® (deltametrina) dissolvidos em 10 litros de água; x A água e a comida foram retornadas para as gaiolas após uma hora (com o ambiente já seco).
+
+5.1.1.2 Eliminação de endoparasitos: x Foi utilizado o anti-helmíntico Proverme£ (citrato de piperazina tetraidratado, equivalente a 36% de piperazina base); x 28g de Proverme£ foram dissolvidos em 10 litros de água. Esse volume foi distribuído entre as quatro gaiolas contendo 12 galinhas cada. Essa solução substituiu a água de bebida das aves por 48 horas. 26
+
+Após os tratamentos, as galinhas foram trazidas para o biotério do laboratório de toxicologia e mantidas a 24°C ± 2°C e em um ciclo claro-escuro (12 horas claro e 12 horas escuro) que se inicia às 7 horas. Após uma semana de adaptação, as galinhas foram escolhidas ao acaso para os experimentos.
+
+5.1.2 Reagentes: Dodecil sulfato de sódio (SDS), tris hidroximetil amino metano (Tris), soro albumina bovina (BSA), dietil 4-nitrofenil fosfato (paraoxon 90%), Coomassie Brilhante Blue G-250%, Histopaque£ 1077 (Ficoll), nimodipino, caseína, DEAE celulose, 2mercaptoetanol d=1,115, Ácido de etileno glicol tetra acético (EGTA), Cloreto de cálcio, Ácido fosfórico 85% d = 1,685, Sigma£. 4-aminoantipirina, ferricianeto de potássio, citrato de sódio, sulfato de sódio anidro, bicarbonato de sódio, dimetilformamida, azida sódica,
+
+Dimetilsulfóxido
+
+(DMSO),
+
+Merck£.
+
+N,N-di-isopropilfosforamidofluridato
+
+(mipafox), Fenilvalerato, Oriza£. Triton X-100, Álcool etílico, Vetec£. Gliconato de cálcio injetável 100 mg/mL, Hypofarma®. Heparina sódica 25000UI/5mL Roche£. Triorto-cresil fosfato, Acros£. Cloreto de sódio, Ácido clorídrico, Fosfato bibásico de sódio, Hidróxido de sódio, Synth£. Etileno diamino tetra acetato de sódio (EDTA), Reagen£. Acetona, Qhemis£. Kit Liquiform para determinação do cálcio, Labtest®. 5.1.3 Aparelhagem: Balança analítica, peagômetro, banho termostatizado, centrífuga refrigerada, centrífuga comum, rotavapor, sonicador e espectrofotômetro UV/Visível.
+
+27
+
+5.2 Métodos: 5.2.1 Delineamento experimental: As aves foram divididas em diferentes grupos com n = 4: Grupo padrão (GP): Este grupo foi composto por 4 aves que não receberam tratamento algum, pois foi o tempo 0 hora do experimento. Foi feito a dosagem da ESNp nos linfócitos, a dosagem da PCD no nervo ciático e músculo gastrocnêmico e a dosagem do cálcio no plasma sanguíneo, nervo ciático e músculo gastrocnêmico. Foi necessária a determinação desses parâmetros bioquímicos para a comparação antes e após a administração do TOCP.
+
+Grupo controle positivo (GCP): Foi administrado 500 mg/kg de TOCP por via oral através de gavage. Foram coletadas as amostras de sangue, nervo ciático e músculo gastrocnêmico nos tempos de 6, 12, 24, 48 horas e 8, 14 e 28 dias para determinação dos mesmos parâmetros bioquímicos do grupo controle positivo para se avaliar o efeito tóxico do TOCP.
+
+Grupo tratado (GT): Foi administrado TOCP + nimodipino + gliconato de cálcio. Este grupo verificou a correspondência entre os valores dos parâmetros bioquímicos e clínicos com a administração do TOCP isolado e associado com tratamento. Este trabalho foi feito em três etapas:
+
+1ª. Etapa (Grupo padrão): Em um grupo composto por de 4 galinhas, analisaram-se os valores de cálcio no plasma, no músculo gastrocnêmico e no nervo ciático. Foi verificado também a atividade da ESNp nos linfócitos e a atividade da PCD no nervo ciático e no músculo gastrocnêmico.
+
+2ª. Etapa (Grupo controle positivo): Para 7 grupos de 4 galinhas foi administrado 500 mg/Kg de TOCP. As aves foram sacrificadas nos seguintes tempos após a administração do TOCP: 6, 12, 24, 48 horas e 8, 14 e 28 dias. Foram analisados os mesmos parâmetros bioquímicos da primeira etapa.
+
+28
+
+3ª. Etapa (Grupo tratado): Para 1 grupo de 8 aves e 2 grupos de 4 aves foram administrados 500 mg/kg via oral de TOCP. No primeiro grupo (Tratamento A1 e A2), foram utilizadas 8 aves, sendo metade (A1) sacrificada 24 horas após TOCP e a outra metade (A2) sacrificada 28 dias após TOCP. Os grupos A1 e A2 receberam tratamento 12 horas após TOCP de 1 mg/Kg de nimodipino por via intramuscular e 5 mg/kg de gliconato de cálcio via endovenoso 30 minutos após a administração do nimodipino. Para o segundo grupo (Tratamento B), utilizou-se 4 aves que foram sacrificadas 28 dias após TOCP. Este grupo recebeu o mesmo tratamento do grupo A2, porém 18 horas após TOCP. No terceiro grupo (Tratamento C) utilizaram-se 4 aves que foram sacrificadas 28 dias após TOCP. Este grupo recebeu o mesmo tratamento dos grupos A2 e B, porém 24 horas após TOCP.
+
+5.2.2 Preparo de soluções: Para iniciar a padronização das dosagens de proteínas nos linfócitos, nervo ciático e músculo gastrocnêmico; determinação da atividade da ESNp nos linfócitos, determinação do cálcio no plasma, nervo ciático e músculo gastrocnêmico; e dosagem da atividade da PCD no nervo ciático e músculo gastrocnêmico foi necessário o preparo das seguintes soluções:
+
+1) Tampão salina fosfato (PBS) pH 7,2 a 25°C: 8,767g de cloreto de sódio 21,294g de fosfato bibásico de sódio HCl (6N) qsp.........pH 7,2 a 25ºC Água destilada qsp.................1000,0 mL
+
+2) Tampão Tris 50mM–EDTA 0,2mM HCl pH 8,0 a 25°C: 6,0570g Tris 0,0750g EDTA HCl (6N) qsp..........pH 8,0 a 25ºC Água destilada qsp..........1000,0 mL
+
+29
+
+3) Tampão citrato-Tris 50mM pH 6,0 a 25°C: 1,4706g Citrato de sódio 0,6057g Tris HCl (6N) qsp..........pH 6,0 a 25°C Água destilada qsp...........100,0 mL
+
+4) Paraoxon: Antes de preparar a solução de paraoxon foi necessário realizar uma lavagem. A) A lavagem do paraoxon foi feita da seguinte maneira: x 1,0 mL de paraoxon 90% foi solubilizado em 3,0 mL de tricloroetileno. x Foram acrescentados 3,0 mL da solução de bicarbonato de sódio 2,0%, preparada na hora. Agitou-se bem a operação para misturar as duas fases. Descartou-se a fase aquosa e repetiuse a operação com o mesmo volume de bicarbonato de sódio. x Separaram-se as fases e evaporou-se a fase orgânica usando o rotavapor. B) Solução estoque (0,08M): 0,18 mL de paraoxon lavado foram diluídos em 10,0 mL de acetona*. *
+
+Secagem da acetona: A acetona foi passada por um funil de vidro com lã de vidro
+
+contendo pequena quantidade de sulfato de sódio anidro. C) Solução de trabalho (1600PM): foi obtida com a diluição 1:50, em tampão Tris-EDTA (pH 8,0), no momento de uso.
+
+5) Mipafox: A) Solução estoque (0,1M): 180,0 mg de mipafox foi diluído em 10,0 mL de Tampão Citrato (pH 6,0). B) Solução de trabalho (2000PM): foi obtida com a diluição 1:50 em tampão Tris-EDTA (pH 8,0), no momento de uso. Obs: As soluções estoques de mipafox e paraoxon, se conservadas em geladeira (4°C), duram no mínimo 6 meses.
+
+6) Fenilvalerato Dispersante: A) Fenilvalerato (d=1,04 g/mL; PM=178,22; PE=101°C). 150,0 mg de fenilvalerato foi diluído com 10,0 mL de dimetilformamida (DMF). 30
+
+B) Triton X-100: 0,3 mL de triton X-100 foi diluído com água até o volume de 1000 mL. Misturou-se A e B na proporção de 1:30 no momento de uso.
+
+7) 4-aminoantipirina (4-AAP) 0,02% e Dodecilsulfato de sódio (SDS) 5%: 0,02g de 4-AAP 5,0g de SDS Tampão Tris-EDTA pH 8,0 qsp.......100,0 mL
+
+8) Ferricianeto de Potássio (K3Fe(CN)3) 0,40%: 0,40g de K3Fe(CN)3 foi dissolvido em 100 mL de água destilada. 9) Solução reagente de Brilhante Blue para determinação de proteínas: 100,0 mg de Coomassie Brilhante Blue G-250 foi dissolvido em 50,0 mL de álcool etílico 95%. 100,0 mL de ácido fosfórico 85% foi acrescentado e diluiu para 1000,0 mL com água destilada.
+
+10) Solução padrão de BSA (500Pg/mL): 5,0 mg de soro albumina bovina (BSA) foi dissolvido em 10,0 mL de água destilada já contendo 0,05 mg de azida sódica.
+
+11) Solução salina 0,9%: 4,5 g de NaCl foi dissolvido em 500 mL de água deionizada.
+
+12) Tampão PCD: 2,42 g de Tris 1,86 g de EDTA 0,70 mL de 2-mercaptoetanol, (d = 1,115) HCl (6N) qsp............pH 7,5 Água deionizada qsp........1000,0 mL.
+
+31
+
+13) Tampão Caseína: 0,4 g Caseína 1,21 g Tris 0,140 mL 2-mercaptoetanol, (d = 1,115) HCl (6N) qsp............pH 7,5 Água deionizada qsp.........200,0 mL.
+
+14) Solução G-250: 0,05 g de Coomassie Brilhante Blue G-250 23,5 mL de etanol 25,22 mL de ácido fosfórico, d = 1,685 Água deionizada qsp.........100 mL.
+
+15) Gradientes de NaCl em tampão PCD: a) 0,150 M: Pesou-se 0,44g de NaCl Misturou-se com 50 mL de tampão PCD b) 0,200 M: Pesou-se 0,584g de NaCl Misturou-se com 50 mL de tampão PCD c) 0,250 M: Pesou-se 0,73g de NaCl Misturou-se com 50 mL de tampão PCD
+
+16) Cloreto de Cálcio (CaCl2) 13.000 μM: Pesou-se 0,0722g de CaCl2 Água deionizada qsp ...........50 mL.
+
+17) EGTA 2.000 μM: Pesou-se 0,038g de EGTA Água deionizada qsp ............. 50 mL.
+
+32
+
+OBSERVAÇÕES: Toda água utilizada no preparo das soluções foi destilada e todas as soluções, exceto a de Triton X-100 e a de 4-AAP-SDS, foram acondicionadas entre 4 e 8ºC. Para a determinação do cálcio e da PCD foi usada água deionizada, evitando assim variações de concentração do íon devido às variações da água utilizada nas amostras.
+
+5.2.3 Administração de Substâncias: Foi administrado nas galinhas o TOCP no estado líquido e a dose administrada foi de 500 mg/kg por via oral através de gavagem após jejum de 12 horas. Após 2 horas da administração do TOCP a ração era retornada às aves. A dose de nimodipino administrada foi de 1 mg/kg por via intramuscular (músculo peitoral, Baumel 1986) nos tempos de 12, 18 e 24 horas após o TOCP e foi diluído em DMSO líquido 99%. O volume de solução do nimodipino em DMSO administrado sempre foi inferior a 0,5 mL. A dose de gliconato de cálcio foi de 5 mg/kg por via endovenosa (veia axilar, Baumel 1986) e este foi administrado 30 minutos após o nimodipino. O gliconato de cálcio foi diluído em água estéril apropriada para injetáveis e o volume administrado foi inferior a 0,5 mL. A escolha das doses do TOCP e do gliconato de cálcio foi baseada no trabalho de Muzardo, et al. (2008) e a escolha da dose do nimodipino foi baseada na adaptação de acordo com a dose terapêutica de bloqueadores de canais de cálcio feita por El-fawal, et al. (1990).
+
+33
+
+5.2.4 Coleta de Material: Para a padronização das técnicas, as galinhas foram sacrificadas em jejum por torção cervical, arrancaram-se as penas da região do pescoço e em seguida, após um pequeno corte, foram colhidos 20 mL de sangue da veia jugular em um tubo cônico de 50 mL contendo heparina. Após coleta do sangue foi realizada a decapitação. Para dissecação do nervo ciático e músculo gastrocnêmico, a pele do animal foi retirada cuidadosamente na região pélvica e após rebater o músculo tibial, o nervo ciático que se encontra na superfície lateral da pelve da galinha foi exposto (BAUMEL, 1981). O nervo foi cuidadosamente dissecado, lavado com salina, e cortado em fragmentos milimétricos para melhor homogeneização através de sonicação. O músculo gastrocnêmico se encontra na região caudo-lateral da perna da ave (BERGE, 1981). Após a retirada das aponeuroses, o músculo foi cortado em fragmentos milimétricos para melhor homogeneização através de sonicação em salina. A proporção foi de 1 parte de tecido para 20 partes de salina.
+
+5.2.5 Escala de neurotoxicidade: Para observações dos sinais clínicos foi utilizada a escala de Oliveira, et al. (2002) para os escores de neurotoxicidade das galinhas em observações com o TOCP (500 mg/kg, via oral): 0 = Normal, caminha sem problemas, desenvolve suas funções motoras normalmente. 1 = Apresenta alguma fraqueza nas pernas. Manca, mas ainda é capaz de manter-se de pé e andar (ANEXO I). 2 = Fraqueza nas duas pernas, ela já não consegue levantar-se (ANEXO II). 3 = Paralisia – As pernas ficam esticadas na frente da galinha, mas ela ainda consegue apoiar-se nas asas para ficar sentada (ANEXO III). 4 = A galinha permanece em decúbito lateral. A ave não consegue manter-se na posição ereta. Na maioria das vezes quando a ave atinge este nível, ocorre o óbito (ANEXO IV).
+
+34
+
+5.2.6 Separação de Linfócitos: Foram coletados 20,0 mL de sangue em tubos cônicos de vidro já contendo o anticoagulante, 0,4 mL de heparina (25.000 UI / 5 mL) diluída 1:5 com salina, homogeneizando-o cuidadosamente. A separação dos linfócitos foi feita em duplicata como mostrado no esquema a seguir:
+
+5 mL de sangue + 1 mL de PBS Homogeneizar cuidadosamente 6 mL do homogeneizado sobre 4 mL de Ficoll Centrifugar 30 min, 18ºC, 700g (1700 rpm) Separar a camada de linfócitos Linfócitos + 2 mL de PBS + 2 mL de Ficoll Centrifugar 15 min, 18ºC, 700g (1700 rpm) Separar a camada de linfócitos Linfócitos
+
+Lavar a camada de linfócitos 2x com 5 mL de PBS Centrifugar 10 min, 18ºC, 250g (1000 rpm) Ressuspender os linfócitos em 1 mL de tampão Tris-EDTA Linfócitos Sonicar os linfócitos Programa 1 do sonicador
+
+Dosagem de proteínas dos linfócitos pelo método Bradford (1976). Dosagem da ESNp pelo método de Correll e Ehrich (1991).
+
+ Programa 1 do sonicador: Temp. 20°C, amplitude 20%, tempo 8seg., pulso 3,0 seg. com pausas de 0,5 seg.
+
+35
+
+5.2.7 Dosagem de proteínas: Foi feita uma curva padrão com a solução de albumina bovina (BSA), a partir de uma solução estoque (500Pg/mL), para posterior comparação com os resultados obtidos com as amostras. Para a preparação da curva para dosagem de proteínas, procedeu-se como descrito por Bradford (1976). A Tabela 1 mostra a composição de cada ponto da curva.
+
+Tabela 1. Esquema para preparação de padrões de proteína. Ponto da curva 1 2 3 4
+
+BSA (500 μg/mL) 10 μL (5 μg) 20 μL (10 μg) 50 μL (25 μg) 100 μL (50 μg)
+
+Tampão Tris-EDTA Corante de Proteínas 90 μL 4,9 mL 80 μL 4,9 mL 4,9 mL 50 μL 4,9 mL 0
+
+A leitura foi feita no espectrofotômetro a 595 nanômetros (nm), após 5 min de reação. A determinação dos níveis de proteínas no músculo gastrocnêmico e no nervo ciático de galinhas foi feita com o tampão A (usado para homogeneizar os tecidos avaliados) no lugar do tampão Tris-EDTA. A curva padrão de proteína para determinação de proteínas nos linfócitos foi construída a partir dos dados obtidos, expressos na Tabela 2.
+
+36
+
+Tabela 2. Dados para construção da curva padrão de proteínas nos linfócitos. Absorbância Média
+
+Albumina bovina (Pg) 5 10 25 50
+
+0,046 r 0,011 0,095 r 0,006 0,238 r 0,020 0,482 r 0,008
+
+n = 3, média ± desvio padrão. Os dados expressos na Tabela 2 geraram a curva padrão de proteína ilustrada pela Figura 3.
+
+0,6 Absorbância (595 nm)
+
+y = 0,0097x - 0,0027 R2 = 1
+
+0,4
+
+0,2
+
+0 0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Quantidade de Proteína µg
+
+Figura 3. Curva padrão de proteína, feita a partir de uma solução estoque de 500 Pg/mL de albumina bovina. Deste modo as amostras foram diluídas e doseou-se a quantidade de proteínas nos linfócitos de acordo com o esquema mostrado na Tabela 3. Tabela 3. Esquema para doseamento de proteína nos linfócitos de galinhas a partir de uma solução padrão de proteínas: Padrão Amostra
+
+BSA (500 g/mL) 40 L ----------
+
+Linfócitos -------40 L
+
+Tampão Tris-EDTA 60 L 60 L
+
+Corante de Proteínas 4,9 mL 4,9 mL
+
+Após homogeneização, aguardou-se 5 min para fazer a leitura no espectrofotômetro a 595 nm. 37
+
+5.2.8 Dosagem da Atividade da ESNp em linfócitos: Como a técnica de separação de linfócitos é demorada e foi necessário realizar as dissecações do nervo e do músculo logo após a morte dos animais, foi necessário verificar qual era a estabilidade da ESNp para proceder-se a dosagem da atividade dessa enzima no dia seguinte ao da morte dos animais. Após separar os linfócitos e ressuspendê-los com 1 mL de tampão tris-EDTA, foi feita a dosagem da ESNp no dia da coleta, 24 e 48 horas após a morte dos animais. A solução de linfócitos ressuspendidos em tris-EDTA foi acondicionada entre 4 e 8ºC. Foi notado então, um aumento na atividade da enzima em dias posteriores ao da morte das aves. Com isso a dosagem da ESNp foi feita no mesmo dia da morte das galinhas e a dosagem da PCD foi feita 24 horas após a morte das aves, pois também foi feita uma comparação entre os valores da PCD no dia do sacrifício dos animais e 24 horas após e não foi notado diferença entre os valores. A partir dos resultados obtidos na dosagem de proteínas dos linfócitos ressuspendidos e sonicados, foi feita uma diluição com tampão Tris-EDTA para a obtenção de uma solução de 500 Pg/mL. Assim, todas as dosagens da ESNp foram realizadas com uma quantidade fixa de 500Pg de proteína. Desta solução, foi tomado 1 mL para proceder como Correll e Ehrich (1991), mostrado a seguir: Tubo A
+
+Tubo B
+
+1 mL de linfócitos 50 PL de paraoxon -----------------950 PL de Tris-EDTA
+
+1 mL de linfócitos 50 PL de paraoxon 50 PL de mipafox 900 PL de Tris-EDTA
+
+Banho 37°C 20 min
+
+Banho 37°C 20 min
+
+2 mL de fenilvalerato
+
+2 mL de fenilvalerato
+
+Banho 37°C 30 min
+
+Banho 37°C 30 min
+
+2 mL de SDS-4AAP 1 mL de K3Fe(CN)6
+
+2 mL de SDS-4AAP 1 mL de K3Fe(CN)6 15 min Leitura a 510 nm
+
+38
+
+5.2.9 Cálculo da atividade da ESNp : Para o cálculo da atividade da ESNp, segundo Jonhson (1977) e Kayayali, et al. (1991), o coeficiente de extinção molar da reação de fenol mais 4-aminoantipirina e ferricianeto de potássio é 13900. Este valor foi utilizado na fórmula geral de Kaplan e Pesce (1989) para o cálculo da atividade dessa enzima, obtendo assim a atividade média da ESNp em (UI/L) para cada ave, através da equação: UI/L = A x 1 x VTR x 106 x 1 H x Va x T
+
+onde:
+
+(1)
+
+A = absorbância H = coeficiente de extinção molar VTR = volume total da reação (mL) Va = volume de amostra (mL) T = Tempo de reação (minuto) 106 = fator de transformação de mol para Pmol Exemplo de cálculo da atividade da ESNp: Quantidade de proteína nos linfócitos: 500Pg/mL Medidas de Absorbância a 490 nm: A1: 0,78560
+
+1 : 0,17521 A2: 0,76281
+
+B1: 0,61039
+
+B2: 0,60116
+
+2 : 0,16165
+
+MÉDIA (1 e 2) = 0,16843 UI/L = 0,16843 x 7 x 106 = 2,83 Pmol/min/litro = 0,00283 Pmol/min/500 Pg de proteína. 13900 x 1 x 30 0,00283 Pmol/min _____________ 500Pg de proteína X _____________ 106 Pg de proteína (1g). X = 5,65 Pmol/min/g de proteína = atividade da ESNp em g de proteína. 5.2.10 Atividade da PCD: A purificação da PCD foi feita como descrito por Ballard, et al. (1988) e a dosagem da atividade da PCD foi feita como descrito por Buroker-Kilgore e Wang (1993). Os
+
+39
+
+tecidos utilizados foram coletados no dia anterior e congelados até o momento do procedimento mostrado a seguir:
+
+1,0g de tecido (músculo ou nervo) Homogeneizar 10x vol. Tampão PCD Programa 5 do sonicador* Centrifugar a 16.000 rpm** a 4°C, 15 min Sobrenadante Filtrar em lã de vidro. Extrato Suspender com 1,5g de DEAE celulose Manter por 15 min com agitação a cada 5 min Suspensão Eluir com gradientes de 0; 0,15; 0,2; 0,25M de NaCl em tampão PCD ( vol. 5mL/gradiente) Colher frações de 0,2 M para nervo e 0,25 M para músculo. Eluato Dosar proteínas (BRADFORD, 1976) Eluato (25 μg de proteína) Tampão Caseína 100 μM EGTA
+
+Vol. Total 0,5 mL
+
+30 min; 25ºC Alíquota 25 μL
+
+Tampão Caseína 650 μM CaCl2
+
+Vol. Total 0,5 mL
+
+30 min; 25ºC Alíquota 25 μL
+
+H20 q.s.p. 0,8 mL 200 μL G-250 10 min.
+
+H20 q.s.p. 0,8 mL 200 μL G-250 10 min.
+
+Leitura 595 nm *
+
+Programa 5: Amplitude 80%; Tempo 30s pulso 1,0s com pausas de 0,2s; Temperatura 4ºC. Centrífuga MLW modelo K 26D.
+
+**
+
+40
+
+O cálculo da PCD foi feito como sendo a diferença entre as absorbâncias em presença de EGTA e em presença de cloreto de cálcio. A unidade adotada para expressar os valores desta enzima foi unidades de absorbância/minuto/g de proteína. 5.2.11 Determinação de proteínas em músculo ou nervo de galinhas:
+
+Para a determinação de proteínas no músculo gastrocnêmio e no nervo ciático foi feita uma curva de padrão de proteínas utilizando os mesmos pontos da curva feita para determinação nos linfócitos. Porém o tampão utilizado foi o tampão A. Os padrões foram feitos com o soro de albumina bovina na concentração de 500 μg/mL.
+
+Tabela 4: Dados para construção da curva padrão de proteínas no músculo gastrocnêmico e nervo ciático. Quantidade de Proteína Absorbância Média 5 μg 0,061 ± 0,005 10 μg 0,105 ± 0,002 25 μg 0,237 ± 0,008 50 μg 0,433 ± 0,007 n = 3, valores expressos como média ± desvio padrão.
+
+Os dados expressos na Tabela 4 geraram a curva padrão de proteína ilustrada pela Figura 4.
+
+Absorbância (595 nm)
+
+0,5
+
+y=0,0083x+0,0229 2
+
+R =0,9991
+
+0,4 0,3 0,2 0,1 0,0 0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Quantidade de proteína (µg)
+
+Figura 4: Curva padrão de proteína, feita a partir de uma solução estoque de 500 Pg/mL de albumina bovina.
+
+41
+
+Deste modo doseou-se a quantidade de proteínas no músculo gastrocnêmico e no nervo ciático de acordo com o esquema mostrado na Tabela 5 para determinar a atividade da PCD por grama de proteína. Tabela 5. Esquema para doseamento de proteína no nervo e músculo de galinhas a partir de uma solução padrão de proteínas: BSA (500 g/mL) Eluato Tampão A Corante de Proteínas Padrão 40 L -------60 L 4,9 mL Amostra ---------40 L 60 L 4,9 mL
+
+A leitura foi feita no espectrofotômetro a 595 nm após 10 minutos de reação. 5.2.12 Dosagem de cálcio: Para dosagem do cálcio foi utilizado o kit Liquiform Labtest® que se baseia no método de Baginski, et al. (1982). As amostras utilizadas para verificar a concentração de cálcio foram: plasma heparinizado, músculo gastrocnêmico e nervo ciático (O músculo e o nervo foram homogeneizados no programa 4 do sonicador; temperatura: 25°C; amplitude: 80%; tempo: 15s; pulso: 1,5s com pausas de 0,5s). Após sonicar os tecidos, os mesmos foram centrifugados (centrífuga Excelsa Baby, posição 3, por 10 minutos), para que o líquido se tornasse límpido.
+
+Tubo A (Padrão) 20 PL da solução de cálcio
+
+Tubo B (Amostra) 20 PL da amostra
+
+Tubo C (Branco) 20 PL de água deionizada
+
+Para um tubo de 2 mL
+
+Para um tubo de 2 mL
+
+1 mL de reagente de trabalho*
+
+Para um tubo de 2 mL
+
+1 mL de reagente de trabalho* Agitar
+
+Agitar
+
+1 mL de reagente de trabalho* Agitar
+
+Leitura a 570 nm *
+
+O reagente de trabalho é composto por três volumes do reagente 1 (Contém tampão 920 mmol/L, pH 12;
+
+azida sódica 19 mmol/L) e um volume do reagente 2 (Contém o-cresolftaleína complexona 320 mmolL; 8hidroxiquinoleína 13 mmol/L; ácido clorídrico 130 mmol/L). Este reagente de trabalho deve ser preparado no momento do uso e pode ser usado até 8 horas após o preparo.
+
+42
+
+5.2.13 Análise Estatística dos Resultados:
+
+Alterações nos parâmetros quantitativos entre os diferentes grupos foram examinadas para significância estatística usando ANOVA (Analysis Of Variance) seguido pelo teste de Tukey. Para a realização deste teste foi utilizado o programa Microsoft Office Excel 2007 for Windows. Diferenças nos dados não paramétricos (escores de neurotoxicidade) foram examinadas para significância estatística usando o teste de KruskalWallis seguido pelo teste de Wilcoxon-Mann-Whitney. Para a realização dos testes não paramétricos foi utilizado o programa Bioestat 5.0. Valores de probabilidade de 5%, ou menos, foram considerados significantes (ARANGO, 2001).
+
+43
+
+6. RESULTADOS 6.1 Grupo Padrão (0 hora): Neste grupo, foram feitas as dosagens das atividades da ESNp e PCD e as dosagens do cálcio no nervo ciático, plasma e músculo gastrocnêmico antes da administração de qualquer substância. Após um jejum de doze horas as aves foram sacrificadas e coletadas as amostras. Para a análise de cada parâmetro foram coletados quatro amostras e os resultados foram apresentados nas Tabelas 6, 7 e 8 e Figuras 5 e 6.
+
+Tabela 6. Variação individual da atividade da ESNp (Pmol/min/g de proteína) em linfócitos de galinhas do grupo controle: Amostras 1 2 3 4 Média ± Dp Dp = desvio padrão
+
+Atividade da ESNp 8,3 8,8 7,6 7,2 8,0 ± 0,7
+
+Atividade da ESNp
+
+10 8 6 4 2 0
+
+1
+
+2
+
+Amostras
+
+3
+
+4
+
+Figura 5. Variação individual da atividade da ESNp em μmol/min/g de proteína em linfócitos de galinhas.
+
+44
+
+Tabela 7. Variação individual para os valores de cálcio no nervo ciático (Pg/g), músculo gastrocnêmico (Pg/g) e plasma (mg/dL) de galinhas: 
+
+
+
+Amostras 1 2 3 4 Média Desvio padrão
+
+Nervo 307 331 410 256 326 64
+
+Músculo 84 107 89 90 92,5 10
+
+Plasma 14,1 14,1 14,1 14,4 14,2 0,11
+
+Tabela 8. Variação individual da atividade da PCD (absorbância/min/g de proteína) em nervo ciático e músculo gastrocnêmico de galinhas. 
+
+
+
+Amostras 1 2 3 4 Média Desvio Padrão
+
+Nervo 84,0 89,0 90,0 64,0 81,8 12,1
+
+Músculo 214,9 160,3 113 178,4 166,6 42,4
+
+Atividade da PCD (Abs/min/g de proteína)
+
+240
+
+180
+
+120
+
+60
+
+0
+
+Nervo
+
+Músculo
+
+Figura 6. Variação individual da atividade da PCD no nervo ciático e músculo gastrocnêmico de galinhas. Média ± desvio padrão.
+
+Foi verificado, pelo método escolhido, que a atividade da PCD no músculo gastrocnêmico é aproximadamente quatro vezes maior do que no nervo ciático de galinhas. 45
+
+6.2 Grupo Controle Positivo (CP): As aves deste grupo receberam 500 mg/kg de TOCP, via oral, após um jejum de 12 horas. A Tabela 9 e a Figura 7 evidenciam os resultados para a atividade da ESNp nos linfócitos de galinhas.
+
+Tabela 9. Atividade da ESNp (Pmol/min/g de proteína) em linfócitos de galinhas após administração de 500 mg/kg de TOCP: **
+
+Tempo após TOCP
+
+Atividade da ESNp
+
+0 hora 6 horas
+
+8,0 ± 0,7 4,3 ± 0,4*
+
+0 46,4
+
+12 horas
+
+2,3 ± 0,3*
+
+71,8
+
+24 horas
+
+*
+
+85,3
+
+48 horas
+
+*
+
+4,4 ± 0,4
+
+45,5
+
+8 dias 14 dias
+
+7,3 ±0,4 7,0 ± 0,3
+
+8,5 12,9
+
+1,2 ± 0,3
+
+% de inibição
+
+28 dias 7,5 ± 0,4 6,3 * n = 4; Valores expressos como média ± desvio padrão. Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). **Inibição em relação ao tempo 0 (grupo controle). 10.0
+
+Atividade da ESNp
+
+8.0
+
+6.0
+
+*
+
+* 4.0
+
+* *
+
+2.0
+
+0.0 0h
+
+6h
+
+12 h
+
+24 h
+
+48 h
+
+8d
+
+14 d
+
+28 d
+
+Tempo
+
+Figura 7: Atividade da ESNp em Pmol/min/g de proteína em linfócitos de galinhas após a administração de 500 mg/kg de TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). h = hora; d = dia.
+
+46
+
+A dose de 500 mg/kg de TOCP foi suficiente para que houvesse uma inibição acima de 80 % da enzima esterase susceptível à neuropatia. Desse modo, este nível de inibição foi superior à inibição necessária para o aparecimento dos sinais clínicos da NRIOP. A Tabela 10 e a Figura 8 apresentam os valores para a atividade da PCD no nervo ciático de galinhas.
+
+Tabela 10: Atividade da PCD (absorbância/min/g de proteína) no nervo ciático de galinhas após 500 mg/kg de TOCP. Amostra 0 hora 12 horas 24 horas 48 horas 8 dias 1 84,0 164,1 115,3 215,7 206,1 2 89,0 127,2 172,0 111,2 292,3 3 90,0 146,7 138,7 149,3 ------4 64,0 110,4 151,2 125,6 231,9 Média 81,8 137,1 144,3* 150,5* 243,4* Desvio padrão 12,1 23,3 23,7 46,3 44,2 * Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+28 dias 93,6 135,6 138,3 119,3 121,7 20,5
+
+*
+
+300
+
+Atividade da PCD (Absrbância/min/g)
+
+14 dias 258,5 257,0 230,8 264,7 252,8* 15,0
+
+* 250
+
+* 200
+
+*
+
+150 100 50 0 0 hora
+
+12 horas
+
+24 horas
+
+48 horas
+
+8 dias
+
+14 dias
+
+28 dias
+
+Tempo
+
+Figura 8: Atividade da PCD (absorbância/min/g de proteína) no nervo ciático de galinhas após 500 mg/kg de TOCP. N = 4, média ± desvio padrão. * Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+A Figura 8 (Tabela 10) evidencia que 24 horas após a administração do TOCP houve um aumento significativo na atividade da PCD no nervo ciático. Este aumento foi máximo 14 dias após a intoxicação, e retornou aos níveis normais no 28º dia.
+
+47
+
+A Figura 9 e a Tabela 11 ilustram a atividade da PCD no músculo gastrocnêmico de galinhas.
+
+Tabela 11. Atividade da PCD (absorbância/min/g de proteína) no músculo gastrocnêmico de galinhas após 500 mg/kg de TOCP. 
+
+
+
+
+
+Atividade da PCD (Absorbância/min/g)
+
+Amostra 0 hora 12 horas 24 horas 48 horas 8 dias 1 214,9 99,5 77,3 27,9 73,9 2 160,3 128,7 33,9 88,8 83,6 3 113,0 133,6 57,2 90,0 123,3 4 178,4 84,7 46,9 113,9 61,9 Média 166,6 111,6 53,8* 80,1* 85,7* Desvio padrão 42,4 23,4 18,3 36,7 26,6 * Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+14 dias 146,0 131,7 110,0 151,5 134,8 18,5
+
+28 dias 229,9 180,3 180,0 152,1 185,6 32,3
+
+240 200 160
+
+*
+
+*
+
+48horas
+
+8dias
+
+120
+
+*
+
+80 40 0 0hora
+
+12horas
+
+24horas
+
+14dias
+
+28dias
+
+Tempo
+
+Figura 9. Atividade da PCD (absorbância/min/g de proteína) no músculo gastrocnêmico de galinhas após 500 mg/kg de TOCP. N = 4, média ± desvio padrão. * Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+A Figura 9 (Tabela 11) comprova que ao contrário do que ocorreu com a atividade da PCD no nervo, no músculo a atividade da PCD começou a cair no tempo de 24 horas e se manteve reduzida até o tempo de 14 dias. Em seguida ela começou a subir até atingir o nível normal em 28 dias. 48
+
+A Tabela 12 e a Figura 10 mostram a concentração plasmática de cálcio em mg/dL.
+
+Tabela 12. Níveis de cálcio no plasma (mg/dL) de galinhas, após a administração de 500 mg/kg de TOCP: 
+
+
+
+
+
+
+
+Amostras 0 hora 6 horas 12 horas 24 horas 48 horas 1 14,10 13,97 10,60 8,70 13,63 2 14,30 14,52 12,90 12,80 14,60 3 14,12 15,36 12,10 12,40 13,23 4 14,36 15,50 12,03 9,70 -----Média 14,22 14,84 11,91* 10,90* 13,82 Desvio Padrão 0,13 0,72 0,96 2,01 0,70 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+8 dias 14,60 13,80 13,90 13,60 13,98 0,43
+
+14 dias 13,80 14,00 14,10 12,00 13,48 0,99
+
+20
+
+Cálcio (mg/dL)
+
+16
+
+*
+
+*
+
+12 h
+
+24 h
+
+*
+
+12 8 4 0 0h
+
+6h
+
+48 h
+
+8d
+
+14 d
+
+28 d
+
+Tempo
+
+Figura 10. Concentração do íon cálcio no plasma de galinhas após a administração de 500 mg/kg de TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). h = hora; d = dia
+
+A Figura 10 (Tabela 12) evidencia o desequilíbrio que ocorreu com o cálcio no plasma de galinhas após a administração do TOCP. Houve uma queda brusca do cálcio plasmático 12 e 24 horas após 500 mg/kg de TOCP via oral, e em seguida houve uma tendência em restabelecer as condições normais, porém houve uma nova queda do cálcio plasmático no 28º dia após o TOCP. A Figura 11 e a Tabela 13 evidenciam a concentração de cálcio no músculo gastrocnêmico de galinhas.
+
+49
+
+28 dias 10,50 11,20 12,50 11,90 11,53* 0,87
+
+Tabela 13. Níveis de cálcio no músculo gastrocnêmico (g/g de tecido) de galinhas, após administração de 500 mg/kg de TOCP: 
+
+
+
+
+
+
+
+
+
+Amostras 0 hora 6 horas 12 horas 24 horas 48 horas 1 84,0 95,0 101,0 89,0 37,0 2 107,0 75,0 -----63,0 43,0 3 89,0 130,0 185,0 26,0 49,0 4 90,0 115,0 96,0 93,0 18,0 Média 92,5 103,8 127,3 67,8 36,8* Desvio Padrão 10,0 23,9 50,0 30,8 13,4 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+8 dias 46,0 53,0 ----34,0 44,3* 9,6
+
+14 dias 15,7 7,6 21,0 18,0 15,6* 5,7
+
+28 dias 124 100 110 118 113 10
+
+210
+
+Concentração (µg/g)
+
+180 150 120 90
+
+*
+
+60
+
+* *
+
+30 0 0 hora
+
+6 horas 12 horas 24 horas 48 horas
+
+8 dias
+
+14 dias
+
+28 dias
+
+Tempo
+
+Figura 11. Concentração do íon cálcio no músculo gastrocnêmico (μg/g de tecido) de galinhas após a administração de 500 mg/kg de TOCP. N=4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+A Tabela 13 evidencia que após a administração de 500 mg/kg de TOCP houve uma elevação gradativa dos níveis de cálcio no músculo gastrocnêmico até 12 após a intoxicação, porém sem significância estatística. Em seguida houve um declínio nestes níveis até o 14º dia após a intoxicação. Deste modo fica evidente que após a administração de um organofosforado neuropático também ocorreu um desequilíbrio deste íon no músculo gastrocnêmico. A Tabela 14 e a Figura 12 ilustram a concentração de cálcio no nervo ciático de galinhas.
+
+50
+
+Tabela 14. Níveis de cálcio no nervo ciático (Pg/g de tecido) de galinhas, após administração de 500 mg/kg de TOCP: 
+
+
+
+
+
+
+
+
+
+Amostras 0 hora 6 horas 12 horas 24 horas 48 horas 1 307 209 274 212 288 2 331 217 338 180 365 3 410 178 164 233 358 4 256 154 250 110 293 Média 326 190* 257 184* 326 Desvio Padrão 64 29 72 54 41 *Médias estatisticamente diferentes do tempo 0 hora (p  0,05).
+
+8 dias 171 72 168 127 135* 46
+
+14 dias 95 141 175 119 132,5* 34
+
+28 dias 76 115 124 102 104* 21
+
+400
+
+Cálcio (µg/g)
+
+320
+
+*
+
+*
+
+240
+
+*
+
+* *
+
+160 80 0 0h
+
+6h
+
+12 h
+
+24 h
+
+48 h
+
+8d
+
+14 d
+
+28 d
+
+Tempo
+
+Figura 12. Concentração do íon cálcio no nervo ciático de galinhas (μg/g de tecido) após a administração de 500 mg/kg de TOCP. N= 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05); h = hora; d = dia
+
+A Tabela 14 indica que ocorreu no nervo ciático a exemplo do que ocorreu no plasma de galinhas, um desbalanceamento dos níveis de cálcio após a administração de TOCP. Inicialmente houve uma queda brusca dos níveis de cálcio no nervo e em seguida começa a elevar até 48 horas após o TOCP. Porém, ocorreu uma nova queda nos níveis de cálcio do nervo oito dias após a intoxicação, que se manteve até o 28º dia de experimento.
+
+A Tabela 15 evidencia a evolução dos escores de neurotoxicidade durante 28 dias de observações após 500 mg/kg de TOCP.
+
+51
+
+Tabela 15: Escores de neurotoxicidade de galinhas após a administração de 500 mg/kg de TOCP (Grupo controle positivo).  Amostra 1 2 3 4 Soma
+
+ 10 dias 1 0 0 1 2
+
+ 12 dias 1 1 1 1 4
+
+ 14 dias 2 1 1 2 +6
+
+ 16 dias 2 2 1 2 +7
+
+18 dias 2 2 1 2 +7
+
+20 dias 2 2 2 2 +8
+
+22 dias 2 2 2 3 +9
+
+24 dias 2 2 2 3 +9
+
+26 dias 3 2 2 3 +10
+
+28 dias 3 2 2 4 ++11
+
+n= 4. + Dados considerados significantes, em relação ao escore 0 (p < 0,05). ++ Dados significantes em relação ao 14º dia.
+
+6.3 Grupo Tratado: As aves deste grupo receberam 500 mg/kg de TOCP, via oral, associado com a estratégia terapêutica que variou apenas com o tempo de administração após o agente tóxico. Estas estratégias foram classificadas da seguinte maneira: Tratamento A1: 4 aves receberam, 12 horas após TOCP, 1 mg/kg de nimodipino via intramuscular e 30 minutos depois receberam 5 mg/kg de gliconato de cálcio via endovenosa. Estas aves foram sacrificadas 24 horas após a administração do TOCP. Tratamento A2: 4 aves receberam, 12 horas após TOCP, 1 mg/kg de nimodipino via intramuscular e 30 minutos depois receberam 5 mg/kg de gliconato de cálcio via endovenosa. Estas aves foram sacrificadas 28 dias após a administração do TOCP para avaliação dos escores de neurotoxicidade. Tratamento B: 4 aves receberam, 18 horas após TOCP, 1 mg/kg de nimodipino via intramuscular e 30 minutos depois receberam 5 mg/kg de gliconato de cálcio via endovenosa. Estas aves foram mantidas por 28 dias para avaliação dos escores de neurotoxicidade. Tratamento C: 4 aves receberam, 24 horas após TOCP, 1 mg/kg de nimodipino via intramuscular e 30 minutos depois receberam 5 mg/kg de gliconato de cálcio via endovenosa. Estas aves foram mantidas por 28 dias para avaliação dos escores de neurotoxicidade.
+
+52
+
+6.3.1 Atividade da ESNp: As Tabelas 16 e 17 e as Figuras 13 e 14 mostram a comparação entre o tempo 0 hora, grupo controle positivo e o grupo tratado para a atividade da ESNp nos linfócitos.
+
+Tabela 16. Comparação de valores para atividade da ESNp (μmol/min/g de proteína) nos linfócitos entre o tempo 0 hora, controle positivo e o tratamento com sacrifício 24 horas após TOCP. 
+
+
+
+
+
+
+
+Amostras 0 hora Controle positivo Trat. A 1 8,3 0,8 1,2 2 8,8 1,1 1,0 3 7,6 1,3 1,7 4 7,2 1,5 1,2 Média 8,0 1,2* 1,3* Desvio padrão 0,7 0,3 0,3 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A: 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Estas aves foram sacrificadas 24 horas após TOCP. 10.0
+
+Atividade da ESNp
+
+8.0
+
+6.0
+
+4.0
+
+2.0
+
+*
+
+*
+
+CP
+
+Trat.A24h
+
+0.0
+
+0h
+
+Figura 13. Comparação de valores para atividade da ESNp (μmol/min/g de proteína) nos linfócitos. Trat. A 24 horas = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP, com sacrifício das aves 24 horas após TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). CP = controle positivo; h = horas.
+
+53
+
+Os resultados apresentados na Figura 13 mostram que não houve diferença significante entre os valores de atividade da ESNp entre os grupos controle positivo e o tratamento A. Tabela 17. Comparação de valores para atividade da ESNp (μmol/min/g de proteína) nos linfócitos entre o tempo 0 hora, controle positivo (CP) e o tratamento com sacrifício em 28 dias após TOCP. 
+
+
+
+
+
+Amostras 0 hora CP Trat. A Trat. B Trat. C 1 8,3 7,9 8,5 6,9 6,2 2 8,8 7,7 7,0 4,8 4,7 3 7,6 7,3 5,1 4,8 7,2 4 7,2 7,0 ----7,9 6,0 Média 8,0 7,5 6,9 6,1 6,0 Desvio padrão 0,7 0,4 1,7 1,6 1,0 Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. Estas aves foram sacrificadas 28 dias após TOCP.
+
+Atividade da ESNp
+
+10.0
+
+8.0
+
+6.0
+
+4.0
+
+2.0
+
+0.0 0h
+
+CP
+
+Trat. A 12 h
+
+Trat.B 18 h
+
+Trat.C 24 h
+
+Figura 14. Comparação de valores para atividade da ESNp (μmol/min/g de proteína) nos linfócitos entre o tempo 0 hora (0h), controle positivo (CP) e os tratamentos com sacrifício em 28 dias após TOCP. N = 4, média ± desvio padrão. Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP.Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP.
+
+54
+
+A Figura 14 indica que, como havia ocorrido com o grupo controle positivo, o grupo experimental também não apresentou diferença significativa em relação ao grupo controle no tempo de 28 dias.
+
+55
+
+6.3.2 Atividade da PCD: As Tabelas 18 e 19 e as Figuras 15 e 16 evidenciam a comparação entre o tempo 0 hora, grupo controle positivo e o grupo tratado para a atividade da PCD no nervo ciático.
+
+Tabela 18. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no nervo ciático entre o tempo 0 hora, controle positivo e o tratamento A com sacrifício 24 horas após TOCP. 
+
+
+
+Amostras 1 2 3 4 Média Desvio Padrão
+
+0 hora 84,0 89,0 90,0 64,0 81,8 12,1
+
+Controle Positivo 164,1 127,2 146,7 110,4 137,1** 23,3
+
+Trat. A 96,1 73,5 80,0 60,3 77,5 14,9
+
+** Médias estatisticamente diferentes do tempo 0 hora e do Trat. A (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Estas aves foram sacrificadas 24 horas após TOCP. 180
+
+**
+
+Atividade da PCD
+
+150 120 90 60 30 0 0h
+
+CP
+
+Trat.A24h
+
+Figura 15. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no nervo ciático entre o tempo 0 hora (0h), controle positivo (CP) e o tratamento A (1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP) com sacrifício 24 horas após TOCP. **Média estatisticamente diferente do tempo 0 hora e do tratamento A (p< 0,05). A Figura 15 mostra que apenas o grupo controle positivo apresentou diferença significante em relação ao tempo 0 hora. 56
+
+Tabela 19. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no nervo ciático entre o tempo 0 hora, controle positivo e o tratamento com morte em 28 dias após TOCP. 
+
+
+
+
+
+Amostras 0 hora Controle Positivo Trat. A Trat. B Trat. C 1 84,0 93,6 65,4 45,6 43,3 2 89,0 135,6 72,9 65,7 52,9 3 90,0 138,3 54,3 58,9 77,3 4 64,0 119,3 91,2 ----96,0 Média 81,8 121,7*** 71,0 56,7 67,4 Desvio padrão 12,1 20,5 15,5 10,2 23,9 ***Média estatisticamente diferente dos Tratamentos A, B e C (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. Estas aves foram sacrificadas 28 dias após TOCP. ***
+
+150
+
+Atividade da PCD
+
+120
+
+90
+
+60
+
+30
+
+0
+
+0h
+
+CP
+
+Trat.A12h
+
+Trat.B18h
+
+Trat.C24h
+
+Figura 16. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no nervo ciático entre o tempo 0 hora (0h), controle positivo (CP) e os tratamentos com sacrifício 28 dias após TOCP. Trat. A = 1 mg/kg de nimodipino + 5 mg/kg gliconato de cálcio 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + 5 mg/kg gliconato de cálcio 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + 5 mg/kg gliconato de cálcio 24 horas após TOCP. ***Média estatisticamente diferente dos Tratamentos A, B e C (p < 0,05). N= 4, média ± desvio padrão.
+
+57
+
+A Figura 16 confirma o fato de que o grupo experimental não apresentou diferença significativa em relação ao tempo 0 hora. As três estratégias de tratamento apresentaram resultados estatisticamente iguais ao tempo 0 hora e diferentes do grupo controle positivo. As Tabelas 20 e 21 e as Figuras 17 e 18 trazem a comparação entre o tempo 0 hora, o controle positivo e o grupo tratado para a atividade da PCD no músculo gastrocnêmico.
+
+Tabela 20. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no músculo gastrocnêmico entre o tempo 0 hora, controle positivo e o tratamento A com sacrifício 24 horas após TOCP. 
+
+
+
+Amostras 0 hora Controle positivo Trat. A 1 214,9 77,3 234,4 2 160,3 33,9 236,4 3 113,0 57,2 271,1 4 178,4 46,9 213,3 Média 166,7 53,8* 238,8** Desvio padrão 42,4 18,3 23,9 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). ** Média estatisticamente diferente do tempo zero hora e do controle positivo (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. 300.0
+
+** Atividade da PCD
+
+250.0 200.0 150.0
+
+*
+
+100.0 50.0 0.0
+
+0h
+
+CP
+
+Trat.A24h
+
+Figura 17. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no músculo gastrocnêmico entre o tempo 0 hora (0h), controle positivo (CP) e o tratamento A (1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP) com sacrifício 24 horas após TOCP. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). N= 4, média ± desvio padrão. ** Média estatisticamente diferente do tempo zero hora e do controle positivo (p < 0,05)
+
+58
+
+Tabela 21. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no músculo gastrocnêmico entre o tempo 0 hora, controle positivo e os tratamentos com sacrifício 28 dias após TOCP. 
+
+
+
+
+
+Amostras 0 hora Controle positivo Trat. A Trat. B Trat. C 1 214,9 229,9 98,3 138,6 122,3 2 160,3 180,3 120,4 171,6 112,1 3 113,0 180,0 136,4 147,1 96,4 4 178,4 152,1 ----------197,1 Média 166,7 185,6 118,4 152,4 132,0 Desvio padrão 42,4 32,4 19,1 17,1 44,7 Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. Estas aves foram sacrificadas 28 dias após TOCP. 240.0
+
+Atividade da PCD
+
+200.0 160.0 120.0 80.0 40.0 0.0
+
+0h
+
+CP
+
+Trat.A12h
+
+Trat.B18h
+
+Trat.C24h
+
+Figura 18. Comparação de valores para atividade da PCD (Absorbância/min/g de proteína) no músculo gastrocnêmico entre o tempo 0 hora (0h), controle positivo (CP) e os tratamentos com sacrifício 28 dias após TOCP. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). N= 4, média ± desvio padrão. Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP.
+
+A Figura 18 ilustra que 28 dias após TOCP, não houve queda significativa na atividade da PCD no músculo gastrocnêmico. 59
+
+6.3.3 Nível de cálcio no nervo ciático: As Tabelas 22 e 23 e as Figuras 19 e 20 mostram a comparação entre o tempo 0 hora, o controle positivo e o grupo tratado para a concentração de cálcio no nervo ciático.
+
+Tabela 22. Comparação dos níveis de cálcio no nervo ciático (μg/g) entre o tempo 0 hora, controle positivo e o tratamento A com sacrifício 24 horas após TOCP. 
+
+
+
+
+
+
+
+Amostras 0 hora Controle positivo Trat. A 1 307 212 290 2 331 180 390 3 410 233 212 4 256 110 274 Média 326,0 183,8* 291,5 Desvio padrão 64,1 53,8 73,8 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Estas aves foram sacrificadas 24 horas após TOCP.
+
+Concentração de Cálcio (µg/g)
+
+450
+
+360
+
+*
+
+270
+
+180
+
+90
+
+0
+
+0h
+
+CP
+
+Trat.A24h
+
+Figura 19. Comparação dos níveis de cálcio no nervo ciático (μg/g) entre o tempo 0 hora (0h), controle positivo (CP) e o tratamento A (1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP) com sacrifício 24 horas após TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). A Figura 19 mostra que apenas o grupo controle positivo apresentou uma queda significativa nos níveis de cálcio no nervo ciático, 24 horas após TOCP. 60
+
+Tabela 23. Comparação dos níveis de cálcio no nervo ciático (μg/g) entre o tempo 0 hora, controle positivo e os tratamentos A, B, C com sacrifício 28 dias após TOCP. 
+
+
+
+
+
+Amostras 0 hora Controle Positivo Trat. A Trat. B Trat. C 1 307 76 136 215 196 2 331 115 -----306 256 3 410 124 120 157 195 4 256 102 154 152 Média 326 104,3* 136,7* 207,5 215,7 Desvio padrão 64,1 20,9 17,0 71,6 34,9 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. Estas aves foram sacrificadas 28 dias após TOCP.
+
+Concentração de Cálcio (µg/g)
+
+400
+
+320
+
+240
+
+*
+
+160
+
+*
+
+80
+
+0 0h
+
+CP
+
+Trat.A12h
+
+Trat.B18h
+
+Trat.C24h
+
+Figura20. Comparação dos níveis de cálcio no nervo ciático (μg/g) entre o tempo 0 hora (0h), controle positivo (CP) e os tratamentos A, B, C com sacrifício 28 dias após TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. A Figura 20 evidencia que apenas o tratamento A apresentou uma queda significativa em relação ao tempo 0 hora no 28º dia após TOCP.
+
+61
+
+6.3.4 Nível de cálcio no músculo gastrocnêmico: As Tabelas 24 e 25 e as Figuras 21 e 22 mostram a comparação entre o tempo 0 hora, o controle positivo e o grupo tratado para a concentração de cálcio no músculo gastrocnêmico.
+
+Tabela 24. Comparação dos níveis de cálcio no músculo gastrocnêmico (μg/g) entre o tempo 0 hora, controle positivo e o tratamento A com sacrifício 24 horas após TOCP. 
+
+
+
+
+
+
+
+Amostras 0 hora Controle Positivo Trat. A 1 84 89 69 2 107 63 18 3 89 26 45 4 90 93 36 Média 93 68 42* Desvio padrão 10 31 21 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP.
+
+Concentração de Cálcio (µg/g)
+
+120 100 80
+
+*
+
+60 40 20 0 0h
+
+CP
+
+Trat.A24h
+
+
+
+
+
+Figura 21. Comparação dos níveis de cálcio no músculo gastrocnêmico (μg/g) entre o tempo 0 hora (0h), controle positivo (CP) e o tratamento A (1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio 12 horas após TOCP) com sacrifício 24 horas após TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05).
+
+62
+
+Tabela 25. Comparação dos níveis de cálcio no músculo gastrocnêmico (μg/g) entre o tempo 0 hora, controle positivo (CP) e os tratamentos A, B, C com sacrifício 28 dias após TOCP. 
+
+
+
+
+
+Amostras 0 hora CP 1 84 124 2 107 100 3 89 110 4 90 118 Média 93 113 Desvio padrão 10 10 Trat. A = 1 mg/kg de nimodipino + meia hora
+
+Trat. A Trat. B Trat. C 96 75 79 35 25 45 110 94 59 112 101 96 88,3 73,8 69,8 36,2 34,3 22,4 depois 5 mg/kg gliconato de cálcio, 12 horas
+
+após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. Estas aves foram sacrificadas 28 dias após TOCP.
+
+Concentração de Cálcio (µg/g)
+
+140 120 100 80 60 40 20 0 0h
+
+CP
+
+Trat.A12h
+
+Trat.B18h
+
+Trat.C24h
+
+Figura 22. Comparação dos níveis de cálcio no músculo gastrocnêmico (μg/g) entre o tempo 0 hora (0h), controle positivo (CP) e os tratamentos A, B, C com sacrifício 28 dias após TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP.
+
+63
+
+6.3.5 Nível de cálcio no plasma: As Tabelas 26 e 27 e as Figuras 23 e 24 ilustram a comparação entre o tempo 0 hora, o controle positivo e o grupo tratado para a concentração de cálcio no plasma.
+
+Tabela 26. Comparação dos níveis de cálcio no plasma (mg/dL) entre o tempo 0 hora, controle positivo e o tratamento A com sacrifício 24 horas após TOCP. 
+
+
+
+Amostras 0 hora Controle positivo Trat. A 1 14,1 8,7 11,6 2 14,3 12,8 11,8 3 14,1 12,4 14,7 4 14,4 9,7 13,1 Média 14,2 10,9* 12,8 Desvio padrão 0,13 2,01 1,4 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP.
+
+Concentração de Cálcio (mg/dL)
+
+20
+
+16
+
+* 12
+
+8
+
+4
+
+0
+
+0h
+
+CP
+
+Tra t. A 24 h
+
+Figura 23. Comparação dos níveis de cálcio no plasma (mg/dL) entre o tempo 0 hora (0h), controle positivo (CP) e o tratamento A (1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP) com sacrifício 24 horas após TOCP. N = 4, média ± desvio padrão. *Média estatisticamente diferente do tempo 0 hora (p < 0,05).
+
+A Figura 23 (Tabela 26) evidencia que apenas o grupo controle positivo apresentou diferença significativa em relação ao tempo zero hora. 64
+
+Tabela 27. Comparação dos níveis de cálcio no plasma (mg/dL) entre o tempo 0 hora, controle positivo e os tratamentos A, B, C com sacrifício 28 dias após TOCP. 
+
+
+
+
+
+Amostras 0 hora Controle positivo Trat. A Trat. B Trat. C 1 14,1 10,5 13,1 16,1 -----2 14,3 11,2 20,0 12,1 22,6 3 14,1 12,5 11,3 23,1 13,2 4 14,4 11,9 20,0 23,2 12,5 Média 14,2 11,5* 16,1 18,6 16,1 Desvio padrão 0,13 0,87 4,6 5,5 5,6 *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP. Estas aves foram sacrificadas 28 dias após TOCP. 28
+
+Concentração de Cálcio (mg/dL)
+
+24 20 16
+
+*
+
+12 8 4 0 0h
+
+CP
+
+Trat. A 12h
+
+Trat. B 18h
+
+Trat. C 24h
+
+Figura 24. Comparação dos níveis de cálcio no plasma (mg/dL) entre o tempo 0 hora (0h), controle positivo (CP) e os tratamentos A, B, C com sacrifício 28 dias após TOCP. N = 4, média ± desvio padrão. *Médias estatisticamente diferentes do tempo 0 hora (p < 0,05). Trat. A = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio 12 horas após TOCP. Trat. B = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 18 horas após TOCP. Trat. C = 1 mg/kg de nimodipino + meia hora depois 5 mg/kg gliconato de cálcio, 24 horas após TOCP.
+
+A Figura 24 e a Tabela 27 comprovam que apenas o grupo controle positivo apresentou diferença significativa em relação ao tempo zero hora.
+
+65
+
+6.3.6 Escores de neurotoxicidade: As Tabelas 28, 29 e 30 refletem para as aves do grupo tratado, a evolução dos escores de neurotoxicidade durante 28 dias.
+
+Tabela 28. Escores de neurotoxicidade de galinhas intoxicadas com TOCP (trat. A = 1 mg/kg de nimodipino e após 30 minutos, 5 mg/kg gliconato de cálcio 12 horas após TOCP). 
+
+
+
+
+
+Amostra 14 dias 16 dias 18 dias 20 dias 22 dias 24 dias 26 dias 1 1 1 1 1 1 2 2 2 0 0 0 0 0 0 0 3 0 1 1 1 1 1 1 4 0 0 0 0 0 0 0 soma 1 2 2 2 2 3 3 n= 4. + Dados considerados significantes (p < 0,05), em relação ao escore 0.
+
+28 dias 2 0 1 0 3
+
+Tabela 29. Escores de neurotoxicidade de galinhas intoxicadas com TOCP (trat. B = 1 mg/kg de nimodipino e após 30 minutos, 5 mg/kg gliconato de cálcio 18 horas após TOCP). 
+
+
+
+
+
+Amostra 14 dias 16 dias 18 dias 20 dias 22 dias 24 dias 26 dias 1 0 0 0 1 1 1 1 2 0 0 1 1 1 1 1 3 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 soma 0 0 1 2 2 2 2 n= 4. + Dados considerados significantes (p < 0,05), em relação ao escore 0.
+
+28 dias 1 1 0 0 2
+
+66
+
+Tabela 30. Escores de neurotoxicidade de galinhas intoxicadas com TOCP (trat. C = 1 mg/kg de nimodipino e após 30 minutos, 5 mg/kg gliconato de cálcio 24 horas após TOCP).
+
+
+
+
+
+
+
+Amostra 14 dias 16 dias 18 dias 20 dias 22 dias 24 dias 26 dias 1 0 0 1 1 1 1 1 2 0 0 0 0 1 1 1 3 0 1 1 1 1 1 1 4 0 1 1 1 1 1 1 soma 0 2 3 3 4 4 4 n= 4. + Dados considerados significantes (p < 0,05), em relação ao escore 0.
+
+28 dias 1 1 1 1 4
+
+As Tabelas 28, 29, 30 comprovam que não houve diferença significativa, em relação ao escore zero, nos escores de neurotoxicidade para as aves do grupo tratado em 28 dias de experimento para as estratégias terapêuticas A, B e C.
+
+67
+
+7. DISCUSSÃO: A grande maioria dos casos de neuropatia retardada induzida por organofosforados está associada com a ingestão oral de praguicidas organofosforados (ARAÚJO et al., 2007). Diante desta constatação, é importante discutir a intoxicação aguda via oral destes compostos para evitar o surgimento de graves efeitos irreversíveis após altas doses de organofosforados neuropáticos. A absorção por via oral ocorre em ambientes de trabalho com higiene precária, alimentos contaminados e nas tentativas de suicídio. Após absorvidos, estes compostos e seus produtos de biotransformação são rapidamente distribuídos por todos os tecidos. Estes compostos apresentam alta capacidade para atravessar as membranas biológicas, devido seu alto coeficiente de partição óleo/água. Grandes quantidades de fluidos e de seus constituintes dissolvidos difundem-se em ambas as direções, sangue e espaço intersticial. Poucas células estão situadas a mais de 50 micrômetros de um capilar, o que assegura a difusão de qualquer substância dos capilares para as células em poucos segundos. Assim, o fluido extracelular em toda parte do corpo está continuamente sendo misturado, mantendo quase completa homogeneidade do fluido extracelular no corpo (GUYTON; HALL, 2006). Assim, os organofosforados através da circulação se distribuem rapidamente pelos mais variados fluidos extracelulares chegando aos órgãos alvos e exercendo suas atividades. Alvo dos organofosforados neuropáticos, a ESNp foi originalmente identificada por Johnson (1969) como evento inicial para o aparecimento da neuropatia retardada em humanos e outros vertebrados. Ela é uma enzima ligada à membrana, pertencente ao grupo das esterases, com peso molecular de 155 kDa e de papel fisiológico ainda não esclarecido (GLYNN, 2007). Para que se desenvolva a NRIOP, é necessário que ocorra uma inibição e envelhecimento acima de 70 a 80% da ESNp (JOHNSON, 1982). A atividade da enzima pode ser verificada nos linfócitos e plaquetas, bem como no sistema nervoso central e nervos periféricos (MARONI; BLEECKER, 1986). Oliveira, et al. (2002) avaliaram a atividade da ESNp no sistema nervoso central de galinhas após administração de TOCP via oral e constataram que houve inibição acima de 80% da atividade desta enzima 24 horas após a administração do TOCP. No presente trabalho foi notada uma inibição acima de 80% 24 horas após a administração de TOCP, como demonstra a Tabela 9. A Figura 7 ilustra que a atividade da
+
+68
+
+ESNp caiu de 8,0 para 1,2 em 24 horas e após esta queda brusca houve uma tendência em restabelecer os níveis normais de atividade enzimática. No 28º dia de experimento não houve diferença significativa em relação ao tempo zero hora (grupo padrão). A determinação da atividade da ESNp nos linfócitos se mostrou eficaz como um indicador biológico de efeito para a NRIOP além de ser de fácil coleta em animais e seres humanos. O cálcio no plasma está presente em três formas; cerca de 40% (1 mmol.L-1) encontram-se ligado à proteínas plasmáticas e, nesse arranjo, mostram-se não-difusíveis através da membrana; aproximadamente 10% (0,2 mmol.L-1) estão combinados com substâncias aniônicas do plasma e líquidos intersticiais (citrato e fosfato), e desse modo não apresentam-se disponíveis para realizar suas funções; os 50% restantes do cálcio presente no plasma apresentam-se na forma ionizada e difusível através da membrana. Dessa forma, os líquidos plasmáticos e intersticiais exibem uma concentração normal de cálcio iônico de aproximadamente 1,2 mmol. L-1. Esse cálcio iônico é a forma relevante para a maior parte das funções fisiológicas do cálcio no corpo, incluindo seu efeito sobre o coração e sistema nervoso (GUYTON; HALL, 2006). A regulação da concentração intracelular livre do cálcio envolve três mecanismos principais: controle da entrada do Ca++, controle da extrusão do Ca++ e troca do Ca++ entre o citoplasma e as reservas intracelulares. Como a concentração de cálcio intracelular livre desempenha um papel chave na função celular, uma ampla variedade de efeitos farmacológicos resulta da interferência em um ou mais dos mecanismos de controle dessa concentração intracelular. (RANG, et al., 2004). No presente trabalho constatou-se que o nível de cálcio plasmático para galinhas adultas normais girou na faixa de 14,2 mg/dL. O grupo controle positivo apresentou um desequilíbrio no nível plasmático do cálcio durante os 28 dias de observação após a intoxicação pelo TOCP. Doze horas após a administração do toxicante este nível caiu para 11,9 mg/dL e 24 horas após a administração do TOCP houve a queda máxima para 10,9 mg/dL, porém em 48 horas após a intoxicação o nível de cálcio já não apresentava diferença significativa em relação ao tempo zero hora. Entretanto, houve uma nova queda no nível de cálcio plasmático no 28º dia. Assim, o que realmente se observou foi um desbalanceamento no nível de cálcio plasmático, contudo sem apresentar elevação dos níveis em relação ao tempo de zero hora, o que pode ser comprovado pela Figura 10. O conceito de degeneração axonal foi inicialmente reportado por Augustus Waller há cerca de cem anos. De acordo com a seqüência de eventos que ocorrem na porção distal 69
+
+do axônio após intoxicação por organofosforados neuropáticos, esta degeneração é chamada de degeneração axonal tipo Walleriana. Essa degeneração é caracterizada pela ativação de proteases cálcio dependente (PCD) devido à passagem excessiva de cálcio para o interior da célula. A ativação da PCD promove a digestão da porção terminal do axônio, impedindo assim, a transmissão do impulso nervoso até a célula pós-sináptica (ANTHONY et al., 2001). No presente trabalho, a queda nos níveis de cálcio plasmático ocorreu 12 horas após a administração do TOCP, contudo, a inibição da ESNp já ocorrera seis horas após esta intoxicação. Estes eventos sugerem que a ESNp pode estar envolvida no mecanismo de regulação da passagem de cálcio do interstício para o meio intracelular, uma vez que a ESNp estava inibida, desta maneira impossibilitada de exercer sua função normal que pode ser a de controlar a entrada excessiva deste cátion através da membrana celular. Aliás, sendo a PCD uma protease cálcio dependente intracelular que é ativada pelo íon cálcio e suas funções consistem principalmente na degradação de proteínas do citoesqueleto, (INOMATA et al., 1983), corrobora a sugestão acima de que houve aumento na concentração intracelular de cálcio após a inibição da ESNp, pois observando a Figura 8 percebe-se um aumento da atividade da PCD 24 horas após a administração do TOCP. Diante do exposto, foi proposta uma estratégia terapêutica que pudesse evitar a entrada de cálcio para o meio intracelular e a reposição deste íon em locais que já acusassem sua carência, pois a concentração normal deste íon nos diversos tecidos é fundamental para o correto funcionamento de todos os componentes corporais. Desta maneira, no presente trabalho os grupos tratados não apresentaram queda significante para os níveis de cálcio plasmático, o que pode ser visto nas Figuras 23 e 24. Atuando sobre os canais tipo L, o nimodipino bloqueia a entrada de cálcio na célula. Wu e Leng (1997) demonstraram o efeito protetor do Verapamil, um bloqueador de canais de cálcio, na redução da fosforilação de proteínas de células do sistema nervoso de galinhas quando receberam dose oral de TOCP. Choudhary, et al. (2006) observaram o efeito protetor do nimodipino na fosforilação de proteínas do citoesqueleto de ratos quando administraram diclorvós, um organofosforado neuropático. Piao, et al. (2003) administraram calcicol®, para reposição de íons cálcio, em galinhas após a intoxicação por TOCP e leptofós, e também verificaram a redução dos efeitos da NRIOP. Muzardo, et al. (2008) constataram que a administração do gliconato de cálcio após TOCP evitou o desbalanceamento do íon cálcio no plasma de galinhas. Porém, até o presente momento, não foi encontrada na 70
+
+literatura alguma estratégia terapêutica que unisse um bloqueador de canais de cálcio aliado com a reposição deste íon para atenuar os graves efeitos da NRIOP. Apesar de parecer um paradoxo a administração de um bloqueador da entrada de cálcio na célula e posterior administração de gliconato de cálcio; vale lembrar que o organismo necessita de uma concentração extracelular deste íon maior do que a concentração intracelular do mesmo, assim, a administração do gliconato de cálcio serviu para a manutenção do nível extracelular de cálcio após a perda excessiva do mesmo para dentro da célula. Isto pode ser visto nas Figuras 23 e 24 onde somente o grupo controle positivo apresentou queda significante no nível de cálcio plasmático. O Sistema Nervoso Periférico é constituído pelos nervos e gânglios nervosos e sua função é conectar o sistema nervoso central às diversas partes do corpo humano. Nervos são feixes de fibras nervosas envoltas por uma capa de tecido conjuntivo. As fibras presentes nos nervos podem ser tanto dendritos como axônios que conduzem, impulsos nervosos das diversas regiões do corpo ao sistema nervoso central e vice-versa. Nervos sensitivos são os que contêm somente fibras sensitivas, que conduzem impulsos dos órgãos para o sistema nervoso central. Nervos motores são os que contêm somente fibras motoras, que conduzem impulsos do sistema nervoso central até os órgãos efetores (músculos ou glândulas) e nervos mistos contêm tanto fibras sensitivas quanto motoras. O sistema nervoso periférico pode ser voluntário ou autônomo de acordo com suas ações. As ações voluntárias resultam da contração de músculos estriados esqueléticos. Já as ações involuntárias resultam da contração das musculaturas lisa e cardíaca. O nervo ciático se origina nas regiões lombares e sacrais da medula espinhal (entre L4 e S3) e fornece inervação motora e sensitiva para a extremidade inferior do corpo. Ele é a principal continuação do plexo sacral e o maior nervo do corpo. Apresenta dois ramos principais, o nervo tibial e o nervo peroneal. Segundo Singi (2007) o nervo ciático é o principal nervo dos membros inferiores e de acordo com Baumel (1981) este nervo se encontra na superfície lateral da pelve na galinha. Enfim, a escolha do nervo ciático para o presente trabalho foi devido ao fato de possuir axônios longos e de inervar toda a porção dos membros inferiores da galinha sendo então um dos nervos mais afetados pela degeneração axonodistal. A membrana de quase todas as células contém uma bomba de cálcio semelhante à bomba de sódio, e o cálcio em algumas células causa a maior parte do potencial de ação. A 71
+
+bomba de cálcio transfere este íon para o exterior da célula ou para o retículo endoplasmático, criando um gradiente iônico de cerca de 10.000 vezes. Isso deixa a concentração celular de cálcio em torno de 10-7 molar, em contraste com a concentração externa de cerca de 10-3 molar (GUYTON; HALL, 2006). No presente trabalho, após a administração do TOCP ocorreu uma redução do nível de cálcio no nervo ciático como ocorrera com o cálcio plasmático. Seis horas após a administração do TOCP a concentração de cálcio passou de 326 para 189,5 μg/g de tecido, como ilustrado na Figura 12. Somente 12 e 48 horas após o TOCP não houve queda significante na concentração do cálcio no tecido nervoso. Após 28 dias de experimento a concentração de cálcio ainda permanecia reduzida (104,3 μg/g de tecido). Como ocorrera no plasma, após a administração do TOCP houve um aumento na passagem deste íon para o interior da célula. Luttrell, et al. (1993) também verificaram que após a administração do TOCP ocorria uma queda significante da concentração de cálcio no nervo ciático de galinhas. Este resultado corrobora com a idéia de que somente após a inibição da ESNp é que ocorreu aumento do influxo de cálcio que proporcionou a elevação da atividade da PCD. As proteases cálcio dependentes são ativadas pela presença do íon cálcio no citoplasma das células. A atividade da PCD esteve aumentada de 24 horas até o 14º dia após a administração do TOCP, como está ilustrado pela Figura 8. Ela passou de 81,8 absorbância/min/g de proteína no tempo zero hora e atingiu um valor máximo de 252,8 absorbância/min/g de proteína 14 dias após a administração do TOCP, em seguida começa a cair e no 28º dia já não houve mais diferença. El-fawal, et al. (1990) também constataram que a atividade desta protease no nervo ciático aumentava após a administração de organofosforados neuropáticos em galinhas. Portanto, após a administração de TOCP houve uma alteração na homeostasia do cálcio em diversos tecidos do organismo. Este íon que se encontra em maior quantidade fora do que dentro da célula, começa a entrar pelos canais de cálcio que estão com permeabilidade aumentada e desencadeia a ativação da PCD que leva ao processo degenerativo tipo Walleriana. Neste contexto seria necessário o bloqueio dos canais de cálcio para impedir o influxo do mesmo para o citoplasma evitando a ativação da PCD. Antes de começar os experimentos do grupo tratado foi feito um grupo piloto. Administrando 12 horas após o TOCP, 1 mg/kg de nimodipino concomitante com 5 mg/kg de gliconato de cálcio. Notou-se então que não houve melhora nos escores de neurotoxicidade das aves. De acordo com a 72
+
+farmacocinética do nimodipino (TARTARA et al., 1991), o pico de concentração plasmática após administração oral varia de 30 a 60 minutos. Então seria necessário esperar um tempo para maior distribuição do nimodipino pelos diversos tecidos para proceder a administração do gliconato de cálcio. Desta forma, a estratégia escolhida foi a administração do nimodipino e 30 minutos depois a administração do gliconato de cálcio. Deste modo, houve tempo para a ação de bloqueio dos canais de cálcio feita pelo nimodipino antes da ação do gliconato de cálcio. Portanto, para o grupo tratado, foi administrado o nimodipino com o intuito de bloquear a passagem do cálcio pelos canais de membrana tipo L. De fato, somente o grupo controle positivo apresentou diferença em relação ao grupo padrão, tanto para a concentração de cálcio como para a atividade da PCD no nervo ciático como pode ser observado nas Figuras 15, 16 e 19. Alguns dos princípios básicos da contração se aplicam a todos os tipos de músculos. Uma das características especiais do retículo sarcoplasmático é que no seu interior há uma reserva de íons cálcio e parte destes íons são liberados quando um potencial de ação ocorre em um túbulo T adjacente. Depois da contração, a bomba de cálcio localizada na parede da membrana do retículo sarcoplasmático remove os íons do líquido miofibrilar para o retículo, reduzindo assim a quantidade de cálcio livre no citosol (GUYTON; HALL, 2006). Na galinha, o músculo gastrocnêmico se situa na região caudo-lateral da perna da ave (BERGE, 1981). A escolha de análise do músculo gastrocnêmico para este trabalho foi devido ao fato de ser um músculo situado no membro inferior e que recebe ramificações do nervo ciático. O nível de cálcio no líquido intersticial do tecido muscular é inferior ao do nervo ciático, pois o músculo necessita de grande quantidade intracelular para ser utilizado na contração. O nível de cálcio encontrado no músculo gastrocnêmico para as aves do grupo padrão foi de 92,5 μg/g de tecido (Tabela 7). Após a administração do TOCP (grupo controle positivo) ocorreu uma queda no nível de cálcio no músculo 48 horas após a intoxicação que se manteve até o 14° dia (15,6 μg/g de tecido), como pode ser comprovado pela Tabela 13. Entretanto, no 28° dia a concentração de cálcio no tecido muscular não apresentou diferença significante em relação ao grupo padrão como havia ocorrido com o cálcio plasmático e no nervo ciático. Estes resultados comprovam o fato de que o TOCP causa no organismo uma neuropatia e não uma miopatia. 73
+
+Como pode ser observado nas Figuras 13 e 14, a administração do nimodipino e do gliconato de cálcio não influenciaram na atividade da ESNp 24 horas após a administração do TOCP, e em 28 dias de experimento não houve diferença significativa entre os grupos controle positivo e os grupos tratados para a atividade da ESNp, ou seja, as estratégias terapêuticas não interferiram na inibição da ESNp após a administração deste organofosforado neuropático. Há certos inibidores da ESNp tais como, fosfinatos, carbamatos, tiocarbamatos e sulfonil fluoretos que apresentam ambos radicais “R” diretamente ligados ao átomo de fósforo. Estes compostos também reagem covalentemente com o centro ativo da esterase, mas não promovem a reação de envelhecimento, conseqüentemente, esterases inibidas por estes compostos não formam um grupo terminal com carga negativa e são reativados pelas oximas. Quando se administra inibidores da ESNp não-neuropáticos antes de organofosforados neuropáticos, ocorre uma proteção e pode evitar o surgimento da NRIOP evitando o envelhecimento do complexo enzima organofosforado (MORETTO, 2000). Contudo, quando administrados posteriormente a um organofosforado neuropático normalmente potencializam o efeito neuropático (MORETTO et al., 1992; MUZARDO et al., 2008). Choudhary, et al. (2006) constataram que o nimodipino reduziu o efeito de paralisia em ratos de maneira significativa, contudo ainda houve diferença em relação a um grupo padrão. Muzardo et al (2008), constataram que somente a administração do gliconato de cálcio reduziu o efeito da NRIOP, mas não conseguiu impedir o aparecimento de sinais de paralisia. Com base nestes resultados, no presente trabalho procurou-se investigar os efeitos do tratamento com nimodipino associado com o gliconato de cálcio. Delineou-se três tratamentos, utilizando nimodipino e gliconato de cálcio, que não apresentaram diferenças significantes em relação ao grupo padrão para o cálcio plasmático, como pode ser observado nas Figuras 23 e 24; e também não apresentaram diferenças entre si, o que indica que não houve redução dos níveis plasmáticos de cálcio 24 horas e 28 dias após a intoxicação, como havia ocorrido com o grupo controle positivo. Portanto os três tratamentos mostraram-se eficazes quanto à queda do nível de cálcio plasmático após a administração do TOCP. As três estratégias terapêuticas mostraram-se eficientes também, quanto ao impedimento do desbalanceamento do cálcio e conseqüentemente da atividade da PCD no nervo ciático como pode ser visto nas Figuras 15 e 16. Segundo o mecanismo de 74
+
+degeneração Walleriana, é o influxo de cálcio através da membrana plasmática que inicia o processo neurodegenerativo. Com a administração do nimodipino, este processo pode ter sido interrompido, pois não houve diferença significativa do nível de cálcio do tecido nervoso em relação ao grupo padrão. Além do mais, a atividade da PCD no nervo ciático se manteve normal embora a melhor maneira de constatar a degeneração da porção distal do axônio seria a visualização histopatológica do tecido em questão. Para as aves do grupo tratado, houve uma queda significativa no nível de cálcio muscular no tratamento A1 (1 mg/kg de nimodipino e 30 minutos depois 5 mg/kg gliconato de cálcio 12 horas após TOCP) 24 horas após a intoxicação. Como a atividade da PCD no músculo neste mesmo experimento se apresentou aumentada em relação ao grupo padrão corrobora a hipótese de que o nimodipino não apresenta boa disponibilidade neste tecido conforme Figura 17 e 21. Porém em 28 dias após a intoxicação não houve mudança significativa na concentração de cálcio no músculo nos três tratamentos nem alteração na atividade da PCD demonstrando a lentidão da disponibilidade do nimodipino neste tecido conforme Figura 18 e 22. Estes resultados sugerem que a degeneração é no tecido nervoso e não no tecido muscular. A fraqueza muscular pode ser devido à interrupção do impulso nervoso provocada pelo descontrole da entrada de cálcio e conseqüentemente a ativação da PCD, o que causou a digestão de proteínas do citoesqueleto do axônio provocando a degeneração do mesmo. Para a avaliação dos sinais de neurotoxicidade foi utilizada a escala descrita por Oliveira, et al. (2002). Segundo o protocolo do EPA (Environmental Protection Agency) para neurotoxicidade retardada de organofosforados é necessário que haja observação do comportamento motor dos animais por 28 dias. Desta maneira as aves foram avaliadas durante um período de 28 dias e classificadas numa escala de zero a 4, de acordo com a severidade da ataxia. A soma dos escores obtida com as quatro aves do grupo controle positivo foi de 11, o que é significativamente diferente do escore zero. Como havia ocorrido com os parâmetros anteriores, somente o grupo controle positivo apresentou significância em relação ao grupo padrão. As três estratégias de tratamento não apresentaram significância em relação ao grupo padrão, conforme evidencia as Tabelas 28, 29 e 30. O resultado foi bastante satisfatório, pois as aves não apresentaram os sérios sinais de ataxia da NRIOP nem mesmo quando o tratamento teve início 24 horas após a administração do TOCP. 75
+
+Finalmente, é importante salientar que a concentração de cálcio intracelular livre desempenha um papel chave na função celular e uma ampla variedade de efeitos farmacológicos resulta da interferência em um ou mais dos mecanismos de controle da concentração intracelular deste íon. O primeiro evento notado em nossos estudos após a administração do TOCP foi a inibição da ESNp. Após esta inibição ocorreu o aumento do influxo do cálcio pela membrana celular e conseqüente redução do mesmo no plasma, tecido nervoso e muscular. Como a PCD é sensível ao aumento da concentração intracelular do cálcio, houve um aumento significante em sua atividade 24 horas após a administração do TOCP. Diante disto, houve uma digestão de proteínas do citoesqueleto provocando a degeneração axonal e conseqüente interrupção da transmissão do impulso nervoso, o que levou aos sinais de ataxia. Porém com o bloqueio dos canais de cálcio pelo nimodipino e pela reposição do cálcio pelo gliconato de cálcio, o processo de entrada do mesmo pela membrana celular foi interrompido e a atividade da PCD não se elevou. Desta forma não ocorreu o processo neurodegenerativo e os animais não apresentaram elevados escores de neurotoxicidade. Tanto os resultados bioquímicos quanto os resultados clínicos do presente trabalho foram bastante satisfatórios. Entretanto, ainda é importante testar esta estratégia terapêutica por um tempo além das 24 horas para verificar até onde o nimodipino e o gliconato de cálcio são eficazes a fim de evitar os sinais da NRIOP. É importante destacar também que toda estratégia terapêutica apresenta efeito terapêutico benéfico e efeito tóxico indesejado. Normalmente o nimodipino é indicado para casos de hemorragia subaracnóidea decorrente de aneurisma, hemorragia subaracnóidea de origem traumática e alterações cerebrais decorrentes do envelhecimento. Em alguns casos são notados efeitos adversos, tais como: náusea, desconforto gastrintestinal, cefaléia e bradicardia. Este fármaco é contra-indicado para pacientes com insuficiência hepática grave ou pacientes que fazem uso de alguns medicamentos que possam aumentar sua biodisponibilidade. Sendo assim, deve-se avaliar a relação risco benefício antes de receitar qualquer estratégia terapêutica.
+
+76
+
+8. CONCLUSÃO: 1- A intoxicação aguda por TOCP pode inibir a ESNp acima de 80% que logo a seguir desencadeia um desbalanceamento do nível de cálcio no tecido nervoso levando a um aumento desse íon no meio intracelular. Este aumento de cálcio intracelular provoca um aumento de atividade da PCD que sabidamente provoca digestão de proteínas do citoesqueleto que pode levar ao processo de degeneração axonodistal tipo Walleriana.
+
+2- O nimodipino mostrou-se eficiente no bloqueio do influxo de cálcio para o tecido nervoso e juntamente com o gliconato de cálcio evitou o desbalanceamento do íon nos vários compartimentos dos tecidos nas aves impedindo assim o aparecimento dos graves sinais clínicos da NRIOP nas aves.
+
+3- Finalmente, considerando os ótimos resultados e o fato de não se conhecer na literatura algum tratamento para esta neuropatia, sugere-se então este esquema de tratamento (nimodipino + meia hora depois, gliconato de cálcio) para o ser humano em caso de grave intoxicação por organofosforados neuropáticos. Porém pode ser necessário um ajuste de dose para o ser humano, uma vez que a dose eficaz na galinha pode ser diferente da dose eficaz para a espécie humana.
+
+
+

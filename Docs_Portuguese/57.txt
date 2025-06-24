@@ -1,0 +1,824 @@
+
+
+Uma Revisão de Literatura
+
+Nidisley Gomes1
+
+Aline Cristina Teixeira Mallet2
+
+Adriana Lau da Silva Martins3
+
+Resumo
+
+O  Brasil  é  considerado  um  dos  maiores  produtores  de  alimentos  do  mundo  e  também um líder mundial no uso de agrotóxicos, expondo o meio ambiente a tais  substâncias que são consideradas perigosas. O Brasil lidera o ranking do consumo  do herbicida glifosato nas culturas de soja transgênicas, arroz, feijão, milho e outros  alimentos.  Logo,  níveis  elevados  de  glifosato  têm  sido  encontrados  nos  produtos  alimentícios produzidos nas lavouras, com isso é eminente o risco de contaminação  ambiental e humana que são encontradas em várias regiões do País. Além disso, é  comum  o  uso  de  diferentes  formulações  simultaneamente  e  em  diversas  combinações  levando  a  ocorrência  de  exposições  complexas  e  ultrapassando  os  limites  máximos  de  resíduos  (LMR)  permitidos  pela  legislação.  Vários  estudos  evidenciaram intoxicações e o desenvolvimento de diversas patologias associadas  ao consumo do herbicida glifosato. Este trabalho propõe-se a apresentação de uma  revisão  da  literatura  referente  a  utilização  do  glifosato  no  Brasil  com  enfoque  na contaminação de produtos alimentícios.
+
+Palavras-chave: Glifosato. Agrotóxico. Alimento. Contaminação.
+
+GLYPHOSATE IN FOOD:
+
+A Literature Review
+
+Abstract
+
+Brazil is considered one of the largest food producers in the world and also a world  leader in the use of pesticides, exposing the environment to such substances that  are considered dangerous. Brazil leads the ranking of consumption of the herbicide  glyphosate  in  transgenic  soybean  crops,  rice,  beans,  corn  and  other  foods.  Therefore, high levels of glyphosate have been found in food products produced in  crops,  with  the  risk  of  environmental  and  human  contamination  that  are  found  in  various  regions  of  the  country  being  imminent.  In  addition,  it  is  common  to  use  different  formulations  simultaneously  and  in  several  combinations  leading  to  the occurrence of complex exposures and exceeding the maximum residue limits (MRL)
+
+1Graduado em Nutrição pelo UGB/FERP.   2Doutora em Ciência dos Alimentos pela UFLA.  3Doutora em Tecnologia de Processos Químicos e Bioquímios pela UFRJ.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+permitted  by  legislation.  Several  studies  have  shown  intoxications  and  the  development  of  several  pathologies  associated  with  the  consumption  of  the  herbicide  glyphosate.  This  paper  proposes  a  presentation  of  a  literature  review  regarding  the  use  of  glyphosate  in  Brazil  with  a  focus  on  contamination  of  food products.
+
+Keywords: Glyphosate. Pesticide. Food. Contamination.
+
+Introdução
+
+O aumento da população acarretou uma crescente demanda pela produção
+
+de alimentos, consequentemente a necessidade de áreas de cultivos maiores e o
+
+uso  de  tecnologias  cada  vez  mais  avançadas  associadas  aos  agrotóxicos  se  fez
+
+necessário  para  atender  as  demandas  dos  alimentos.  O  termo  denominado
+
+“agrotóxico”  refere-se  a  diferentes  praguicidas  que,  em  geral  são  utilizados  na
+
+agricultura.
+
+O  Brasil,  como  um  dos  maiores  produtores  de  alimento  mundial,  lidera  o
+
+ranking dos países com maior utilização de agrotóxicos, de acordo com dados da
+
+Organização das Nações Unidas para a Agricultura e a Alimentação (FAO, 2016).
+
+Cada brasileiro consome em média cerca de 5,2 litros de venenos durante o período
+
+de  um  ano,  o  que  pode  a  equivaler  cerca  de  2  garrafas  e  meia  de  refrigerantes.
+
+Devido  ao  seu  alto  risco  alguns  diferentes  tipos  de  venenos  já  foram  banidos  da
+
+utilização  em  diversos  países  a  partir  de  sua  comprovação  dos  efeitos  nocivos  à
+
+saúde (BURIGO, 2016).
+
+Tais  produtos  químicos  são  denominados  (conforme  o  micro-organismo,
+
+inseto  ou  erva  daninha  alvo)  em  fungicidas,  herbicidas,  inseticidas,  acaricidas,
+
+bactericidas,  entre  outros,  e  classificados  de  acordo  com  o  potencial  de
+
+periculosidade ambiental (PPA) nas classes I, II, III e IV.
+
+Um  dos  herbicidas  mais  populares  e  utilizados  no  mundo  é  o  glifosato,
+
+sintetizado pela primeira vez em 1970 pela Monsanto. (AULING, 2009; FERRARO,
+
+2009). No Brasil, as regiões do Centro Sul e Oeste  predominam a concentração do
+
+uso de agrotóxico. Considera-se a gama de princípios ativos registrados no Brasil,
+
+o ingrediente ativo glifosato se destaca no mercado de herbicidas, que ultrapassa
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+83
+
+90 mil toneladas comercializadas em 2009 representando cerca de 76% do total de
+
+herbicidas (FARIA, 2013) e em 2017 esse valor subiu para 173 mil toneladas.
+
+O  uso  de  herbicidas  é  destacado  visando  a  redução  do  florescimento  de
+
+ervas  daninhas  no  campo  uma  vez  que  as  mudanças  não  reduzem  esse
+
+crescimento  e  por  fim  o  advento  das  culturas  transgênicas  (DE  AMARANTE
+
+JUNIOR  ET  AL.  2002).  Apesar  de  uma  variedade  de  agrotóxicos,  atualmente,  o
+
+herbicida glifosato (N-(fosfonometilglicina) esse ingrediente é o mais usado no Brasil
+
+(ANVISA, 2018).
+
+O  glifosato  é  um  dos  principais  componentes  do  Roundup  e  encontra  se
+
+presente em outros 109 herbicidas que estão disponíveis no mercado para o uso
+
+agrícola.  Devido  à  grande  eficácia,  é  alta  a  utilização  deste  pesticida  porque  tem
+
+uma alta atuação na eliminação das enzimas que as pragas geralmente produzem
+
+em lavouras no momento da fotossíntese e por dois diferentes fatores tais como a
+
+suposta incapacidade de causar malefícios aos animais do campo e considera se a
+
+soja geneticamente modificada que se desenvolve mesmo com uso de agrotóxicos,
+
+pois  são  resistentes  aos  efeitos  de  pesticidas  (DE  AMARANTE  JUNIOR  ET  AL.
+
+2002).
+
+Diante  desse  contexto  essa  pesquisa  visa  apresentar  uma  revisão  da
+
+literatura sobre a utilização do glifosato no Brasil com enfoque contaminação dos
+
+alimentos.
+
+Metodologia
+
+Para  a  produção  desse  artigo  foi  realizada  uma  pesquisa  bibliográfica
+
+quantitativa e qualitativa de caráter exploratório/explicativo acerca do tema Glifosato
+
+nos  Alimentos,  com  ênfase  na  contaminação  dos  alimentos  por  este  agrotóxico.
+
+Para  a  realização  deste  artigo  foram  dispostas  publicações  de  conclusões  de
+
+cursos,  artigos  científicos,  dissertações,  livros,  entre  outros.  As  publicações
+
+utilizadas foram encontradas em sites relacionados, tais como: Google Acadêmico,
+
+Scielo, Science, Cell, PubMed, Nature, entre outros. Utilizando as plataformas de
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+84
+
+pesquisas  foram  encontrados  aproximadamente  49.400  trabalhos  com  base  nas
+
+palavras-chave:  glifosato,  agrotóxico,  herbicida,  alimentos  contaminados.  Na
+
+pesquisa foram utilizadas 46 referências, dentre livros e artigos científicos, sendo
+
+realizada  entre  o  período  de  janeiro  de  2020  a  agosto  de  2020.  Os  critérios  de
+
+inclusão  foram:  artigos  científicos  e  livros,  nos  idiomas  português  e  inglês
+
+preferencialmente publicados nos últimos dez anos, trabalhos que remetem ao tema
+
+em  geral.  Já  os  de  exclusão  foram:  trabalhos  que  não  se  referem    ao  tema,
+
+publicações em outros idiomas ou de caráter não científico, trabalhos com mais de
+
+20 anos.
+
+Desenvolvimento
+
+Propriedades físico-química do glifosato e a presença do glifosato no meio ambiente
+
+(solo, água e ar)
+
+O  glifosato  [N-(fosfonometil)  glicina]  possui  fórmula  molecular  C3H8NO5P
+
+(massa molar=169,1g/mol), densidade aparente de 0,5g/m3, temperatura de fusão
+
+de 200°C e ótima estabilidade na presença de luz e em temperaturas superiores a
+
+60°C.  Além  disso,  o  herbicida  possui  alta  solubilidade  em  água  (12g/L,  25°C)  e
+
+pouco  solúvel  em  solventes  orgânicos,  como  a  acetona  e  etanol,  seus  sais  se
+
+encontram na forma de sólidos cristalinos em temperatura ambiente. O glifosato é
+
+um  organofosforado  pertencente  ao  grupo  dos  aminoácidos
+
+fosfonados.
+
+(POSSIDÔNIO et. al 2002).
+
+Sendo  um  herbicida  pós-emergente,  não-seletivo,  de  ação  sistémica,  o
+
+glifosato  é  absorvido  rapidamente  através  da  superfície  da  planta.  As  suas
+
+propriedades  físico-químicas  permitem  que  este  seja  translocado  da  folha,  via
+
+floema, até  aos  mesmos tecidos  de  destino da  glucose. Assim, o  glifosato atinge
+
+níveis fitotóxicos ao nível de meristemas, raízes jovens e folhas, órgãos de reserva
+
+e de qualquer outro tecido ou órgão em crescimento ativo (Williams et al 2000). Na
+
+realidade, inibe o crescimento da planta ao interferir na produção de aminoácidos
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+85
+
+aromáticos  essenciais,  pela  inibição  da  enzima  5-enolpiruvilchiquimato-3-fosfato
+
+sintase (EPSPS), responsável pela biossíntese de corismato, um intermediário na
+
+formação de fenilalanina, tirosina e triptofano (Duke e Powles 2008).
+
+A  degradação  do  glifosato  no  solo  é  muito  rápida  e  realizada  por  grande
+
+variedade  de  microrganismos,  produzindo  o  AMPA  (ácido  aminometilfosfônico)
+
+como  o  principal  metabólito,  e  sarcosina  como  metabólito  intermediário  na  rota
+
+alternativa (DICK & QUINN, 1995).
+
+Para detectar a presença de glifosato e do metabólito AMPA nas águas dos
+
+canais  de  irrigação,  um  estudo  foi  realizado  por  Mattos  et  al.  (2002),  onde
+
+verificaram  que  em  até  120  dias  após  aplicação,  havia  a  presença  do  herbicida,
+
+concluindo que determinado nível de segurança só será alcançado 120 dias após a
+
+aplicação da formulação de glifosato. Estruturas químicas do glifosato e do AMPA
+
+podem ser observados na Figura 1.
+
+Figura 1. Estrutura química do glifosato e de seu principal metabólito (AMPA).
+
+Fonte: BATTAGLIN et al., 2005.
+
+A presença de glifosato no ar é pouco provável, já que, os diferentes sais de
+
+glifosato não têm pressão de vapor significativa e perdas na superfície tratada para
+
+atmosfera são pequenas (BATTAGLIN et al., 2005).
+
+Segurança Alimentar no Brasil
+
+A  efetivação  da  segurança  alimentar  é  objetivo  nacional  que  se  presta  à
+
+garantia  da  dignidade  da  pessoa  humana.  Para  sua  realização
+
+torna-se
+
+imprescindível assegurar a fruição do direito fundamental à alimentação adequada,
+
+o  qual  está  previsto  no  artigo  6º  da  CRFB/88  e  no  artigo  2º  da  Lei  11.346/06.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+86
+
+Segundo  a  Política  Nacional  de  Alimentação  e  Nutrição  (PNAN),  o  conteúdo  do
+
+referido direito envolve tanto aspectos quantitativos quanto qualitativos:
+
+Alimentação  adequada  e  saudável:  prática  alimentar  apropriada aos aspectos biológicos e socioculturais dos indivíduos,  bem  como  ao  uso  sustentável  do  meio  ambiente.  Deve  estar  de  acordo com as necessidades de cada fase do curso da vida e com  as  necessidades  alimentares  especiais;  ser  referenciada  pela  cultura  alimentar  e  pelas  dimensões  de  gênero,  raça  e  etnia;  ser  acessível  do  ponto  de  vista  físico  e  financeiro;  harmônica  em  quantidade  e  qualidade;  baseada  em  práticas  produtivas  adequadas  e  sustentáveis;  com  quantidades  mínimas  de contaminantes físicos, químicos e biológicos. (BRASIL, 2013, p. 68)
+
+Pode-se  afirmar, portanto, que o direito à alimentação adequada consiste
+
+na garantia de acesso a alimentos em quantidade e qualidade condizentes com as
+
+características biológicas e culturais de cada indivíduo, não se limitando à oferta de
+
+valores  nutricionais  mínimos,  abrangendo  também  a  necessidade  de  se  reduzir
+
+continuamente  os  riscos  proporcionados  por  contaminantes  físicos,  químicos  e
+
+biológicos.
+
+Nesse  contexto,  fator  relevante  a  ser  analisado  é  o  nível  de  resíduos
+
+químicos  presentes  nos  alimentos  ingeridos  pelos  consumidores.  De  acordo  com
+
+relatório  publicado  pela  ONU  em  2017,  concernente  à  segurança  alimentar,  os
+
+agrotóxicos  representam  um  grande  risco  à  saúde  dos  consumidores,  que  são
+
+diariamente expostos a múltiplos resíduos. (Ribeiro, Gusmão e Custódio, 2018).
+
+Presença de Glifosato nos Alimentos
+
+Níveis elevados de glifosato têm sido encontrados nos produtos alimentícios
+
+produzidos  nas  lavouras,  alguns  fatores  desencadeiam  esse  ocorrido  como:  a
+
+ampla utilização, infringir as normas de segurança e a livre comercialização (FARIA
+
+et al., 2004).
+
+Os  alimentos  com  os  maiores  índices  de  glifosato  temos  o  pimentão  com
+
+91,8%  das  amostras  inadequadas  para  consumo,  temos  também  o  morango  em
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+87
+
+segundo lugar com 63,4%; 57,4% pepinos; 54,2% das amostras de alface, 49,6%
+
+cenoura, essas relações e de outros alimentos podem ser observados na Figura 2.
+
+Sendo  o único alimento que saiu ileso das análises, foi a batata que ficou com o
+
+satisfatório resultado de 100% livre de agrotóxicos (ANVISA, 2016).
+
+Figura 2. Ranking de Alimentos de Acordo com Percentual  Inadequado para Consumo.
+
+Fonte: ANVISA (2011).
+
+Ingestão Diária Aceitável (IDA) estipulada para o glifosato é de 0,042 mg/kg
+
+de peso corporal. Isso significa que esse valor é a quantidade máxima de glifosato
+
+que, ingerida diariamente durante toda a vida, parece não oferecer risco apreciável
+
+à  saúde,  à  luz  dos  conhecimentos  atuais  (ANVISA,  2013b).  As  formulações  dos
+
+agrotóxicos são misturas complexas que incluem, além do(s) ingrediente(s) ativo(s),
+
+vários outros componentes como solventes, agentes umidificantes, emulsificantes
+
+e  aditivos.  No  entanto,  sabe-se  que  os  surfactantes  usados  nas  preparações
+
+técnicas podem ser mais tóxicos que o princípio ativo, além de que nos alimentos
+
+ainda podem ser encontrados  mais de um princípio ativo, sendo esse sinergismo
+
+desconhecido.
+
+Além disso, é comum o uso de diferentes formulações simultaneamente e em
+
+diversas combinações levando a ocorrência de exposições complexas tornando o
+
+biomonitoramento muito difícil. Devido às suas propriedades físico-químicas como
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+88
+
+alta polaridade, baixo peso molecular e ausência de grupos cromóforos, o glifosato
+
+não pode ser analisado pelos métodos de multirresíduos. Assim, o monitoramento
+
+de  resíduos  de  glifosato  em  alimentos  demanda  a  realização  de  análises  por
+
+métodos  de  molécula  única,  não  sendo,  por  isso,  priorizados  pelos  principais
+
+programas nacionais de controle de resíduos de agrotóxicos em alimentos como o
+
+Programa  de  Análise  de  Resíduos  de  Agrotóxicos  em  Alimentos  (PARA)
+
+coordenado pela Agência Nacional de Vigilância Sanitária (ANVISA).
+
+Os possíveis efeitos tóxicos da exposição a múltiplos compostos ainda são
+
+desconhecidos e as informações da toxicidade relacionada apenas aos ingredientes
+
+ativos  isolados  não  são  suficientes  para  avaliar  o  risco  dos  efeitos  adversos  dos
+
+agrotóxicos  à  saúde.  Assim,  a  informação  isolada  relativa  à  toxicidade  de  um
+
+ingrediente  ativo  ou  produto  formulado  não  é  suficiente  para  avaliar  o  risco  de
+
+efeitos adversos relacionados à exposição a agrotóxicos (FALCK et al., 1999).
+
+No Brasil, o glifosato é utilizado principalmente nas culturas de soja, milho,
+
+arroz, café, cacau e cana-de-açúcar, além do uso no controle de plantas aquáticas
+
+com seu uso regulamentado pela ANVISA. A Tabela 1, apresenta as culturas, nas
+
+quais o glifosato pode ser utilizado, bem como o Limite Máximo de Resíduo (LMR)
+
+para cada uma.
+
+Tabela 1. Limite Máximo de Resíduo (LMR) de glifosato nas culturas.
+
+Cultura
+
+Ameixa, Uva  Arroz  Aveia Preta  Banana  Cacau   Café  Citrus, Nectarina, Pêssego  Coco  Feijão, Trigo  Maçã, Pêra  Mamão  Milho Soja
+
+de
+
+LMR  (mg/Kg)  0,20  0,20  20  0,02  0,1  1,0  0,20  0,10  0,05  0,20  0,10  1,0  10  (Fonte: ANVISA, 2013b).
+
+Intervalo  segurança (dias)  17  (1)  4  30  30  15  30  15  (1)  15  3  (1) 7
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+89
+
+(1)  Não  determinado  quando  o  agrotóxico  for  aplicado  em  pós-emergência  das
+
+plantas infestantes e pré-emergência da cultura.
+
+A  análise  de  glifosato  e  AMPA  feita  em  soja  transgênica  (GMRR  BRS  244
+
+RR®)  mostrou  que  os  resíduos  dessas  moléculas  nos  grãos  ultrapassam  o  LMR
+
+pela legislação brasileira, mesmo seguindo o manejo correto e o tempo de carência
+
+recomendado. Isso enfatiza a necessidade de monitorização desses resíduos nos
+
+alimentos consumidos, principalmente na soja (BOHM et al., 2008).
+
+O  Programa  de  monitoramento  nacional  PARA  /  ANVISA  (Programa  de
+
+Análise  de  Resíduos  de  Agrotóxicos  em  Alimentos),  constatou  através  de
+
+levantamentos de dados das vendas brasileiras de produtos agrícolas que só vem
+
+aumentando com o passar dos anos, que o maior problema brasileiro, em relação
+
+aos níveis de agrotóxicos no alimento in natura, não está na forma de aplicação do
+
+produto  em  alimento,  mas  sim  no  uso  indiscriminado  e  não  recomendado  para
+
+determinados  alimentos,  resultando,  em  sua  grande  maioria,  em  irregularidades
+
+(KUSSUMI, 2007; ANVISA, 2013a).
+
+Nos  países  da  União  Europeia  os  LMR  são  inferiores  aos  que  são
+
+estabelecidos  no  Brasil  para  as  culturas,  como,  no  Brasil  a  soja  tem  o  LMR  200
+
+vezes maior, cana-de-açúcar 20 vezes e café 10 vezes maior (Bombardi, 2017). E
+
+decorrência  ao  uso  além  dos  limites  toleráveis  pela  legislação,  diversas  doenças
+
+estão associadas a essa prática e que será abordada no próximo tópico.
+
+Patologias associadas ao Glifosato
+
+Agência Internacional de Pesquisa sobre o Câncer da Organização Mundial da
+
+Saúde  (OMS),  aponta  o  glifosato  como  provável  agente  carcinogênico  (Van
+
+Straalen;  Legler,  2018).  O  risco  de  desenvolver  doença  celíaca  e  intolerância  ao
+
+glúten, apontado pelos autores, pode ser explicado pelo fato de que este herbicida
+
+possui  a  capacidade  de  inibir  as  enzimas  do  citocromo  P450.  Além  disso,  as
+
+deficiências em ferro, cobalto, cobre, molibdênio e outros metais raros associadas
+
+à  doença  celíaca  podem  ser  atribuídas  à  forte  habilidade  do  glifosato  de  quelar
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+90
+
+esses  elementos  (Samsel;  Seneff,  2013)  e  Nascimento  et.al  (2019).  A  doença
+
+celíaca é uma reação imunológica à ingestão de glúten, uma proteína encontrada
+
+no trigo, na cevada e no centeio. Ao longo do tempo a reação imunológica à ingestão
+
+do  glúten  cria  uma  inflamação  que  danifica  o  revestimento  do  intestino  delgado,
+
+impedindo a absorção de alguns nutrientes.
+
+Os pacientes com doença celíaca têm maior risco de desenvolver linfoma não-
+
+Hodgkin (Samsel; Seneff, 2013), outro agravo crônico apontado por Oliveira et al.
+
+(2018).  Outra  doença  associada  ao  uso  do  glifosato  é  o  Transtorno  do  Déficit  de
+
+Atenção e Hiperatividade (TDHA) (Fluegge, 2017). Sendo um derivado da glicina, o
+
+glifosato pode substituir o aminoácido nativo em proteínas, sendo um fator para o
+
+desenvolvimento de diversas outras doenças, incluindo hipotireoidismo, doença de
+
+Parkinson, glaucoma, osteoporose, esclerose lateral amiotrófica, lúpus, desordens
+
+gastrointestinais, obesidade, diabetes, doenças cardíacas, depressão, infertilidade
+
+e  Mal  de  Alzheimer.  (Mesnage;  Antoniou,  2017;  Samsel;  Seneff,  2016)  e
+
+Nascimento et.al (2019).
+
+Diante  das  incertezas  no  que  diz  respeito  à  intoxicação  crônica  –  cujos
+
+efeitos  se  manifestam  meses  ou  anos  depois  –,  revela-se  útil  trazer  à  tona  o
+
+conteúdo  do  direito  fundamental  à  saúde,  elaborado  por  Paulo  Affonso  Leme
+
+Machado:
+
+A  saúde  dos  seres  humanos  não  existe  somente  numa  contraposição a não ter doenças diagnosticadas no presente. Leva- se em conta o estado dos elementos da Natureza – águas, solo, ar,  flora,  fauna  e  paisagem  –  para  se  aquilatar  se  esses  elementos  estão  em  estado  de  sanidade  e  de  seu  uso  advenham  saúde  ou  doenças e incômodos para os seres humanos. (MACHADO, 2016, p. 70)
+
+Desta  forma,  existe  a  necessidade  do  apelo  aos  governos  e  agências
+
+reguladoras para que reconsiderem políticas relativas à segurança da utilização de
+
+glifosato  nos  alimentos  e  seu  real  impacto  nos  ecossistemas  (Fahrenkamp-
+
+Uppenbrink, 2018) e Nascimento et.al (2019).
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+91
+
+Enquanto não há intervenção política para a redução do uso dos agrotóxicos nas
+
+culturas de alimentos, pesquisadoras investigam técnicas de como amenizar ou até
+
+mesmo remover os resíduos dos agrotóxicos presentes nos alimentos.
+
+Técnicas de remoção de Agrotóxicos dos Alimentos
+
+Diante  do  cenário  que  esse  trabalho  vem  abordando  cerca  do  uso  e  das
+
+consequências  da  ingestão  de  alimentos  contaminados  por  agrotóxicos,  alguns
+
+autores têm buscado alternativas para minimizar a exposição humana aos resíduos
+
+de agrotóxicos através de pesquisas de diferentes métodos na tentativa de remoção
+
+desses resíduos dos alimentos, como pode ser observado no Quadro 1.
+
+Quadro 1. Avaliação de diferentes técnicas de remoção  dos agrotóxicos nos alimentos.
+
+Alimento
+
+Agrotóxicos
+
+Tomate (Índia)
+
+Dimetoato, clorpirifós,  quinófos, fosalone, malationa, triazofos.
+
+Morango,  melão, maçã,  cereja, pera,  ameixa,  damasco,  uva, caqui,  tomate,  laranja,  nectarina/ China
+
+Abamectina, acefato,  acetamiprid, azoxistrobina,  benalaxil, bitertanol,  carbendazim,  chlorothalonil, chlorpyrifos,  cypermetrina, cyromazine,  deltametrina, diazinon,  dimetoato, endosulfan,  fenarimol, fenhexamid, fenitrothion,
+
+solução
+
+Técnica de remoção  de Agrotóxico e  resultado obtido  Lavagem  em  solução  por 10 minutos de:  -  Água  de  torneira,  solução  de  Tamarino  de  (2%),  ácido  acético  (4%),  solução salina (2%) e  cozimento  em  panela  de  pressão,  sendo  os  melhores  que  foram  a  resultados  solução  e  cozimento  atingindo  até  de  83,2%  remoção.  Lavagem em água de  torneira,  retirada  da  casca,  cozimento,  secagem  (assar)  em  forno, secagem sob o  sol, lavagem, suco.   que  os  métodos  os  obtiveram  melhores  resultados foram  descascar  e  o
+
+salina
+
+Autor
+
+Harinathareddy et al. (2014)
+
+Liang et al. (2014)
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+92
+
+fenpropatrina, imidacloprid,  iprodione, kresoxim-metilo,  lambda-cialotrina, malationa,  mancozeb, metalaxil,  methidathion,myclobutanil,  metil paration,  phosalone, pirimicarbe,  prochloraz, procymidone,  propargite, pyridaben,  pyrimethanil, quinalphos,  spirotetramat, thiram,  tolilfluanida, triclorofon, vinclozolin
+
+Batata e  preparações  de batata/ Egito
+
+Organoclorados:  Hexaclorobenzeno (HCB),  lindano, aldrin, dieldrin,  heptacloro, heptacloro  epóxido, clordano, endrin,  DDT, DDE, DDD.  Organofosforados: malatião, paratião, paratião-metil,
+
+Azeitonas/ Espanha
+
+As análises para  concentração de pesticidas  foram realizadas antes e  após lavagens com água,  que aconteceram 1, 6, 15,  22, 29, 36, 43, 50, 57 e 64 dias após a contaminação.
+
+Maçã/  Estados Unidos
+
+Tiabendazol e fosmete (inseticida organofosfatado)
+
+suco (com redução de  mais de 85%);   de  método  O  secagem  (assar)  em  forno  aumentou  os  resíduos  de pesticidas.
+
+Lavagem  em  água,  com  ácido  acético  e  bicarbonato de sódio.   O  uso  da  solução  forma  de  reduziu  significante  o  teor  de  pesticidas  da  casca,  embora  em  menor  o  grau  branqueamento,  tratamento  térmico  em imersão e o ato de descascar.
+
+que
+
+dia
+
+após
+
+A  lavagem  realizada  um  o  tratamento  foi  a  mais  efetiva na redução de  resíduos  de  agrotóxicos  do  que nos outros dias.
+
+análises
+
+de  As  de  concentração  pesticidas  foram  feitas  antes  e  após  a  lavagem  em  água  e  imersão  em  solução  de  bicarbonato  de  sódio a  10mg/mL por 12 e 15  minutos   removeu  completamente resíduos
+
+os presentes
+
+Soliman (2001)
+
+Guardia-Rubio et al. (2007)
+
+Yang et al. (2017).
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+93
+
+nas  partes  mais  externas  da  casca  já  nas  das  maçãs,  internas,  o  partes  método  foi eficiente.
+
+não
+
+solução
+
+Lavagem  com  água  ou  de  solução  bicarbonato  de  sódio  (5%),  de  ácido  acético  (5%)  e  retirada  das  cascas.  resultados  Melhores  foram  com  a  solução  de  bicarbonato  de  sódio  e  retirada  das cascas.
+
+Lavagem  em:  água  potável;  solução  de  detergente  (10%v/v);  solução  de  bicarbonato  de  sódio  (1%  p/v);  solução  de  v/v);  vinagre  solução  água  sanitária  (200ppm  de  cloro  ativo).  Porém  nenhuma  apresentou  resultado  significativo  de remoção, variando de 12 a 30%.
+
+(6% de
+
+Rodrigues et al. (2017).
+
+Rocha et al. (2010)
+
+Tomate / Brasil
+
+Azoxistrobina, difenoconazol, clorotalonil
+
+Maçã / Brasil
+
+Organofosforado parationa-metílica
+
+Fonte: Pesquisa dos Autores
+
+Considerações Finais
+
+Diante do cenário exposto, pode-se concluir que o Poder Público Federal está
+
+sendo omisso em relação à gestão dos riscos associados ao glifosato, optando por
+
+permanecer inerte quanto à aplicação do princípio da precaução, de modo a inserir
+
+o consumidor num cenário de insegurança alimentar.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+94
+
+Ao invés do Brasil desacelerar o uso de agrotóxicos, o presidente Jair Bolsonaro
+
+aprovou o registro de 474 agrotóxicos em 2019, sendo 26 inéditos e 448 baseados em
+
+princípios ativos ou produtos já existentes, maior número documentado pelo Ministério
+
+da Agricultura, que divulga esses dados desde 2005. Com tal situação, surgirá uma gama
+
+ainda maior de combinações de agrotóxicos ao glifosato gerando reações e efeitos não
+
+conhecidos aos alimentos, ao ser humano e ao meio ambiente.
+
+Diante do crescente uso do glifosato e outros agrotóxicos para a produção
+
+agrícola, nas últimas décadas, é preciso que haja iniciativas urgentes em que o ser
+
+humano  possa  tomar  consciência  que  está  colocando  a  sustentabilidade  do
+
+ambiente  em  risco.  Por  isso  a  importância  do  princípio  da  precaução.  É  uma
+
+realidade, pois, se constata o aumento gradual no uso de produtos tóxicos e no seu
+
+potencial toxicológico com o decorrer dos anos. Certamente, se estes ingredientes
+
+ativos  são  cumulativos,  em  um  futuro  próximo,  obrigatoriamente  teremos  que
+
+viabilizar  alternativas  para  contornar  os  altos  índices  maléficos  com  a  saúde
+
+humana  e  o  ambiente.  A  produção  agrícola  no  Brasil,  na  atualidade,
+
+sistematicamente é dependente do uso intensivo de agrotóxicos.
+
+Muitos dos estudos nesse trabalho de conclusão, que aborda uma revisão
+
+bibliográfica  sobre  o  assunto,  demonstraram  com  propriedade  a  relação  do
+
+surgimento  de  diversas  doenças  com  o  uso  de  venenos  nos  diferentes  sistemas
+
+produtivos.
+
+Não  existem  espécies  de  trigo  geneticamente  modificado,  mas  a  soja  e  o
+
+milho,  por  exemplo,  foram  modificados  geneticamente  com  o  efeito  de  serem
+
+resistentes  a  determinados  herbicidas  possibilitando  que  estes  estejam  aptos  a
+
+receber maior carga de glifosato. Em relação ao trigo, são aplicados o glifosato de
+
+7 a 10 dias antes da colheita, para que as hastes de trigo fiquem secas e permita a
+
+colheita mais cedo e como as hastes de trigo são mortas, esse fato possibilita menos
+
+desgastes para a máquina, colheita mais fácil e por liberarem mais sementes, com
+
+maior  rendimento  (MENOS  RÓTULOS,  2015,  n.p.),  logo  a  preocupação  é  a
+
+obtenção de maior lucro em menos tempo e com menor desgaste das máquinas,
+
+porém, com a saúde humana não há preocupação e nem respeito.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+95
+
+Técnicas  de  remediar  a  presença  dos  agrotóxicos  também  vem  sendo
+
+pesquisadas  por  alguns  autores  que  sugeriram  a  lavagem  dos  alimentos  com
+
+diversas  soluções,  retirada  das  cascas  e  outras  intervenções  que  vem  sendo
+
+pesquisadas,  porém,  o  que  se  verificou  com  tais  procedimentos  foram  apenas
+
+remoção dos agrotóxicos presentes nas cascas e não foi constatado até o momento
+
+soluções para eliminá-los das polpas dos alimentos, fato que muito nos preocupa.
+
+Então a solução será a mudança de hábito da população para alimentos mais
+
+saudáveis  através  de  produtos  orgânicos,  a  valorização  da  agricultura  familiar  e
+
+pequenos cultivos locais para a maior preservação da saúde. E também o incentivo
+
+a cobrar mais dos governantes sobre a redução do uso do glifosato nas lavouras.
+
+Referências
+
+AGÊNCIA  NACIONAL  DE  VIGILÂNCIA  SANITÁRIA  (ANVISA).  Monografia  de  Produtos  Agrotóxicos.  Disponível  em:  <http://portal.anvisa.gov.br>.  Acesso  em: 08 jan. 2013b.
+
+ANVISA. Relatório das análises de mostras monitoradas no período de 2013 a 2015.  Programa  De  Análise  De  Resíduos  De  Agrotóxicos  Em  Alimentos  -  Para,  p. 246, 2016.
+
+AULING,  R.  Development  of  LC-MS  method  for  determination  of  glyphosate  residues  in  wheat.  2009.  32  p.  [dissertation]  -  University  Of  Tartu,  Faculty  of Science and Technology Institute of Chemistry, Tartu, Estônia, 2009.
+
+BARJA,  B.  C.;  AFONSO,  M.  S.  Aminomethylphosphonic  acid  and  glyphosate  adsorption  onto  goethite:  a  comparative  study.  Enviromental  Science  & Technology, Iowa, v.39, n.2, p.585-592, 2005.
+
+BATTAGLIN,  W.  A.;  KOLPIN,  D.  W.;  SCRIBNER,  E.  A.;  KUIVILA,  K.  M.;  SANDSTROM, M. W. Glyphosate, other herbicides, and transformation products in  Midwestern  streams,  2002.  Journal  of  the  American  Water  Resources Association, v.41, n.2, p.323-332, 2005.
+
+BOHM, G. B. et al. Resíduos de glifosato e ácido aminometilfosfônico e teores de  isoflavonas em soja BRS 244 RR e BRS 154. Ciência e Tecnologia de Alimentos, Campinas, v. 28(Supl.), p. 192-197, dez. 2008.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+96
+
+BOMBARDI, L.M. Geografia do Uso de Agrotóxicos no Brasil e Conexões com a União Europeia. São Paulo: FFLCH - USP, 2017.
+
+BURIGO,  André.  Impacto  dos  Agrotóxicos  na  alimentação,  saúde  e  meio ambiente. 2016.
+
+De Amarante Junior, Ozelito Possidônio et al. Glifosato: Propriedades, toxicidade,  usos  e  legislação.  Quimica  Nova,  v.  25,  n.  4,  p.  589-593,  2002.  Disponível  em: <http://hdl.handle.net/11449/66920>.
+
+DICK,  R.  E.;  QUINN,  J.  P.  Glyphosate-degrading  isolates  from  environmental  samples:  occurrence  and  pathways  of  degradation.  Applied  Microbiology Biotechnology, Berlin, v.43, n.3, p.545-550, 1995.
+
+Duke SO & Powles SB (2008) Glyphosate:  A once in a century herbicide. Pest Manag Sci 64:319–325.
+
+FAHRENKAMP-UPPENBRINK,  J.  Glyphosate:  menace  or  savior?  Science, Washington, DC, v. 360, n. 6392, p. 978-978, 2018.
+
+FALCK, G. M. et al. Micronuclei in blood lymphocytes and genetic polymorphism for  GSTM1,  GSTT1  and  NAT2  in  pesticide-exposed  greenhouse  workers.  Mutation Research, v. 441, p. 225–237, 1999.
+
+FARIA, N. M. X. et al. Trabalho rural e intoxicações por agrotóxicos. Cadernos de Saúde Pública, v. 20, n. 5, p. 1298–1308, out. 2004.
+
+FARIA,  N.  X.;  FASSA,  A.  G.;  FACCHINI,  L.  A.  Intoxicação  por  agrotóxicos  no  Brasil:  os  sistemas  oficias  de  informação  e  desafios  para  realização  de estudos epidemiológicos. Ciência e Saúde Coletiva, v. 12 (1), p. 25-38, 2013.
+
+FERRARO, M. V. M. Avaliação de Três Espécies de Peixes – Rhamdia quelen,  Cyprinus carpio e Astyanax bimaculatus, como potenciais bioindicadores em  sistemas hídricos através dos ensaios: Cometa e dos Micronúcleos. 2009. 176  f.  Tese  (Doutorado  em  Ciências  Biológicas)  -  Universidade  Federal  do  Paraná, Curitiba, 2009.
+
+FLUEGGE,  K.  Autism  in  2016:  additional  discovery.  Jornal  de  Pediatria,  Porto Alegre, v. 93, n. 3, p. 308-309, 2017.
+
+GALLI, A. B.; MONTEZUMA, M. B. Alguns aspectos da utilização do herbicida glifosato na agricultura. Monsanto do Brasil: ACADCOM, 2005. 66 p.
+
+GIESY,  J.P.,  DOBSON,  S.;  SOLOMON,  K.R.  2000.  Avaliação  de  risco  ecotoxicológico  para  o  herbicida  Roundup®.  Reviews  of  Environmental Contamination and Toxicology. v.167, p.35-120, 2000.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+97
+
+GUARDIA-RUBIO,  M.;  AYORA-CAÑADA,  M.J.;  RUIZ-MEDINA,  A.  Effect  of Washing on Pesticide Residues in Olives. J Food Sci; 72(2):C139-43, 2007.
+
+HARINATHAREDDY, A.; PRASAD, N.B.L.; LAKSHMI DEVI, K. Effect of household  processing  methods  on  the  removal  of  pesticide  residues  in  tomato  vegetable.  J Environ Res Develop; 9(1), 50-57, 2014.
+
+LIANG,  Y.;  LIU,  Y.;  DING,  Y.  et  al.  Meta-analysis  of  food  processing  on  pesticide  residues  in  fruits.  Food  Addit  Contam  Part  A  Chem  Anal  Control  Expo  Risk Assess; 31(9):1568-73, 2014.
+
+MARQUES, A. F. Estudos de degradação do glifosato. 2008. 113 f. Dissertação  (Mestre em Química Analítica e Controle de Qualidade) - Universidade de Aveiro, Aveiro, Portugal, 2008.
+
+MATTOS, M. L. T.; PERALBA, M. C. R.; DIAS, S. L. P. PRATA, F.; CAMARGO, L.  (ácido  Monitoramento  ambiental  do  glyphosate  e  do  seu  metabólito  aminometilfosfônico)  na  água  de  lavoura  de  arroz  irrigado.  Pesticidas:  Revista Ecotoxicologia e Meio Ambiente, Curitiba, v.12, n. 1, p.145-154, 2002.
+
+MACHADO,  Maria  Olandina.  Glifosato:  A  Emergência  de  uma  Controvérsia  Científica Global. 2016. 315 f. Tese (Doutorado). Universidade Federal de Santa Catarina, Florianópolis, 2016.
+
+MESNAGE,  R.;  ANTONIOU,  M.  N.  Facts  and  fallacies  in  the  debate  on glyphosate toxicity. Frontiers in Public Health, Lausanne, v. 5, p. 1-7, 2017
+
+RIBEIRO, J.C.J.; GUSMÃO, L.C.; CUSTÓDIO, M.M. SEGURANÇA ALIMENTAR E  AGROTÓXICOS:  A  situação  do  glifosato  perante  o  princípio  da  precaução.  Veredas do Direito, Belo Horizonte, v.15, n.31, p.95-125, 2018.
+
+ROCHA,T.M.;  GONÇALVES,E.C.B.;  FARIA,  M.V.C.  Lavagem  e  sanitização  em  maçã  (Malus  domestica  Borkh.)  cultivar  Royal  Gala:  avaliação  na  redução  de  pesticidas  organofosforados.  Alimentos  e  Nutrição  Araraquara;  21(4):  659-665, 2010.
+
+RODRIGUES,  H.  G.  et  al.  Efeitos  de  pesticidas  sobre  a  fragilidade  osmótica  de eritrócitos – Uma breve revisão. Biotemas, v. 22(1), p. 7-16, 2009.
+
+RODRIGUES, A.A.Z.; DE QUEIROZ, M.E.L.R.; DE OLIVEIRA, A.F. et al. Pesticide  residue removal in classic domestic processing of tomato and its effects on product quality. J Environ Sci Health B; 52(12):850-857, 2017.
+
+RUEPPEL, M. L.; BRIGHTWELL, B. B.; SCHAEFER, J.; MARVEL, T. T. Metabolism  and degradation of glyphosate in soil and water. Journal of Agricultural and Food Chemistry, California, v.25, n. 3, p.517-528, 1977.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+98
+
+SAMSEL, A.; SENEFF, S. Glyphosate pathways to modern diseases V: amino acid  analogue of glycine in diverse proteins. Journal of Biological Physics and Chemistry, Basileia, v. 16, n. 1, p. 9-46, 2016.
+
+SAMSEL, A.; SENEFF, S. Glyphosate, pathways to modern diseases II: celiac  sprue and gluten intolerance. Interdisciplinary Toxicology, Varsóvia, v. 6, n. 4, p. 159-84, 2013.
+
+SIIMES, K.; RÄMÖ, S.; WELLING, L.; NIKUNEN, U.; LAITINEN, P. Comparison of  the behaviour of three herbicides in  a field  experiment under bare soil conditions. Agricultural Water Management, Ohio, v.84, n.1-2, p.53-64, 2006.
+
+SOLIMAN,  KM.  Changes  in  concentration  of  pesticide  residuesin  potatoes  during washingan home preparation. Food Chem Toxicol; 39(8):887-91, 2001.
+
+TONI, L. R. M.; SANTANA, H.; ZAIA, D. A. M. Adsorção de glyphosate sobre solos e minerais. Química Nova, São Paulo, v.29, n.4, p.829-833, 2006.
+
+VAN  STRAALEN,  N.  M.;  LEGLER,  J.  Decision-making  in  a  storm  of  discontent. Science, Washington, DC, v. 360, n. 6392, p. 958-960, 2018.
+
+VEIGA, F.; ZAPATTA, J. M.; MARCOS, F.; ALVAREZ, E. Dynamics of glyphosate  and aminomethylphosphonic acid in a forest soil in Galicia, north-west Spain. The Science of the Total Environment, v. 271, n.1-3, p.135-144, 2001.
+
+WAUCHOPE,  R.  D.;  BUTLER,  T.  M.;  HORNSBY,  A.G.;  AUGUSTIJN-BECKERS,  P.W.M.;  BURT,  J.P.  The  SCS/ARS/CES  pesticide  properties  database:  select  values  for  environmental  decision  making.  Reviews  of  environmental contamination & toxicology, New York, v.123, n.1, p.1-164, 1992.
+
+WILLIAMS, G.M.; R. KROES E MUNRO, I.C. 2000. Avaliação de segurança e de  risco  do  herbicida  Roundup  e  seu  componente  ativo,  glifosato,  para  humanos. Regulatory Toxicology and Pharmacology, v.31, p.117-165, 2000.
+
+UNITED STATES DEPARTMENT OF ENERGY - Bonneville Power Administration  (USDOE-BPA). Glyphosate Herbicide Fact Sheet. Washington, DC. 12 p. March 2000.
+
+YANG,  T.;  DOHERTY,  J.;  ZHAO,  B.  et  al.  Effectiveness  of  Commercial  and  Homemade Washing Agents in Removing Pesticide Residues on and in Apples. J Agric Food Chem; 65(44):9744-9752, 2017.
+
+Rev. Episteme Transversalis, Volta Redonda-RJ, v.11, n.3, p.82-99, 2020.
+
+99
+

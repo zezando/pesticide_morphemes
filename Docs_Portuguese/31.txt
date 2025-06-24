@@ -1,0 +1,156 @@
+
+
+Inseticidas domésticos: padrão de uso segundo a renda per capita
+
+Descritores Poluentes ambientais do ar. Inseticidas. Habitação. Aerossóis. Questionários.
+
+Resumo
+
+Baseado em dissertação de mestrado apresentada a Universidade Federal de Pelotas, RS, 2001. Recebido em 30/11/2001. Aprovado em 22/8/2002
+
+Objetivo Os inseticidas são poluentes largamente utilizados em muitos países, no entanto são poucos os estudos existentes sobre o uso desses produtos em ambiente doméstico. Assim, realizou-se estudo com o objetivo de caracterizar o padrão de uso de inseticidas domésticos e sua relação com a renda per capita. Métodos Entre outubro de 1999 e janeiro de 2000, foram aplicados questionários sobre o uso de inseticidas domésticos em 2.039 domicílios da área urbana de Pelotas, RS. Coletaram-se informações sobre o uso de inseticidas no último ano, forma de apresentação e grupo químico dos produtos disponíveis no momento da entrevista, proteção mecânica utilizada para o controle de insetos e nível socioeconômico. Utilizouse o teste Qui-quadrado de tendência linear para verificar as associações, bem como a razão de prevalências e os intervalos de confiança. Resultados Em 89% dos domicílios visitados foram utilizados inseticidas domésticos, pelo menos uma vez, nos 12 meses que antecederam a entrevista e em 79% dos domicílios havia um ou mais produtos disponíveis no momento da entrevista. As formas de apresentação mais prevalentes foram os aerossóis e as pastilhas para aparelho elétrico do grupo químico piretróide. A proteção mecânica contra os insetos foi pouco utilizada. Conclusões As famílias de melhor nível de renda dispunham com maior freqüência de inseticidas em aerossol do grupo químico piretróide, enquanto que as soluções pulverizadoras compostas por organofosforados estiveram mais presentes em domicílios de menor renda.
+
+
+
+INTRODUÇÃO O uso de inseticidas domésticos tornou-se tão comum nos domicílios urbanos que a proteção mecânica, como por exemplo, mosquiteiros e telas em aberturas, ficou esquecida. Várias marcas comerciais de inseticidas e formas de apresentação diferentes com princípios ativos similares aparecem nas prateleiras dos supermercados e outros locais. Estima-se que se utilizam pesticidas em 90% dos domicílios dos Estados Unidos9 e entre 50 a 80% das moradias no Canadá.7 O consumidor, que na maioria das vezes, desconhece as propriedades tóxicas dos componentes dessas formulações (princípios ativos e adjuvantes como, solventes, propelentes e sinergistas), é atraído pela mídia, que oferece esses produtos como se fossem inócuos.10 A comercialização de inseticidas sem cheiro ou com odores agradáveis como limoleno, eucaliptol e óleo de citronela faz com que o consumidor exponha-se a esses produtos de forma mais freqüente, pois ele tende a permanecer no local, após a aplicação do inseticida. Além disto, o surgimento de cepas resistentes aos inseticidas faz com que o consumidor insista no uso, aumentando o risco de intoxicação. A resistência a pesticidas tem sido documentada em mais de 100 espécies de mosquitos e em muitas espécies de outros artrópodes importantes na área da saúde, tais como, moscas, piolhos, percevejos, pulgas, baratas e carrapatos.14 Contrastando com essa realidade, há uma grande escassez de estudos sobre o uso de inseticidas domésticos. A literatura existente relaciona-se predominantemente ao uso ocupacional dos inseticidas. Esses estudos têm mostrado graves danos à saúde decorrentes do uso intensivo e continuado desses produtos, muitas vezes sem os necessários recursos de proteção.1,11,13 Considerando a similaridade entre vários inseticidas agropecuários e domésticos, estima-se que seu uso disseminado e indiscriminado nos
+
+domicílios urbanos também cause danos ou agravos à saúde humana, constituindo-se em um potencial problema de Saúde Pública. O uso de proteção mecânica contra insetos seria uma alternativa aos inseticidas. Quase não existem estudos sobre esses recursos, e os existentes são para verificar a eficácia desses produtos, aplicados em mosquiteiros.8 Pelotas é um município de porte médio (320 mil habitantes – Censo 2000 IBGE) situado no extremo sul do Rio Grande do Sul.15 O clima é subtropical, a umidade relativa do ar média é de 80%,4 o relevo é de planície, o solo é de pouca permeabilidade15 e o sistema de esgotos e lixões é deficitário. Esses fatores são favoráveis à proliferação de insetos, o que provavelmente provoca o uso intenso de inseticidas. Considerando a realidade local e as lacunas identificadas na revisão da literatura, realizou-se um estudo sobre o padrão de uso de inseticidas domésticos e de proteção mecânica contra insetos, nas diferentes categorias de renda. MÉTODOS Avaliou-se o uso de inseticidas domésticos, identificando a forma de apresentação e o grupo químico e a associação da utilização a fatores socioeconômicos. Também foi avaliado o uso de proteção mecânica contra insetos do tipo telas e mosquiteiros. A investigação foi um estudo transversal de base populacional, na área urbana do município de Pelotas, no Rio Grande do Sul. A unidade de observação foi o domicílio. O tamanho da amostra foi calculado pelo programa Epi-Info 6.02 com os seguintes parâmetros: nível de significância de 95%; poder estatístico de 90% e risco relativo 1,6 para detectar também pequenas diferenças no consumo do tipo de inseticida em diferen-
+
+
+
+
+
+tes níveis socioeconômicos. A relação entre não-expostos e expostos foi de 1:3, sendo os primeiros os de alto nível socioeconômico (31% correspondem a burguesia, nova pequena burguesia e pequena burguesia tradicional)3 e os últimos, os de baixo nível socioeconômico (proletariado não-típico, proletariado, subproletariado).3 A prevalência de uso de inseticidas para os entrevistados de alto nível socioeconômico foi estimada em 15%, a partir de estudos prépiloto e piloto, uma vez que não foi encontrado estudo semelhante na literatura. Acrescentou-se 40% ao total de domicílios desta amostra para controlar o efeito de delineamento, pois o processo de amostragem iniciou-se pelo sorteio de conglomerados, onde a renda per capita da população tende a ser semelhante; e 10% para cobrir possíveis perdas. Este cálculo aponta uma amostra de 1.779 domicílios. No entanto, esta pesquisa integra um consórcio de estudos do Programa de Pós-graduação em Epidemiologia da Universidade Federal de Pelotas, que finalmente incluiu 2.112 domicílios. Para obter o número de domicílios necessários, sorteou-se de forma sistemática 48 setores censitários. A seguir, sorteou-se a quadra, a esquina e a residência inicial para a realização das entrevistas. A partir da residência inicial escolheram-se, sistematicamente, as 44 casas a serem visitadas, em cada setor. O termo inseticida doméstico foi utilizado para denominar os produtos domissanitários destinados a eliminar ou repelir moscas, mosquitos e baratas. Foi solicitado à entrevistada que mostrasse as embalagens de inseticidas disponíveis no domicílio durante a entrevista, momento em que a entrevistadora coletou o nome comercial e a forma de apresentação do produto. A partir destas informações, a coordenadora do estudo identificou o grupo químico no rótulo dos produtos no comércio. As formas de apresentação encontradas foram aerossol, pastilha para aparelho elétrico, solução pulverizadora, isca, espiral, solução para aparelho elétrico, repelente para pele, fumigador e aparelhos de eletrocução. O uso de inseticidas domésticos, pelo menos uma vez nos últimos 12 meses, também foi investigado. Perguntou-se, ainda, sobre a existência de telas em aberturas e mosquiteiros para as camas para o controle de insetos no domicílio. O nível socioeconômico foi aferido a partir da escolaridade do chefe da família e da renda (familiar e per capita) obtida no mês anterior à entrevista. O trabalho de campo ocorreu entre meados de outubro de 1999 e janeiro de 2000, contando com a participação de 30 entrevistadoras que possuíam, no mínimo, o segundo grau completo. Elas realizaram um treinamento teórico-prático de 40 horas com leitura do
+
+questionário e manual e simulação de entrevistas. O questionário foi testado em um estudo piloto abrangendo 43 domicílios. As informações foram coletadas aplicando-se um questionário à dona-de-casa ou responsável pelas tarefas domésticas. As entrevistadoras portavam uma carta de apresentação e solicitavam permissão verbal para a realização da entrevista. O controle de qualidade da coleta de dados consistiu na revisita de 7,3% (n=150) domicílios pela coordenadora da pesquisa. A consistência da pergunta referente à presença de inseticidas no momento da entrevista foi analisada, obtendo-se um índice Kappa de 0,8. Os resultados apresentados foram obtidos por meio de análises realizadas com os programas Epi-Info 6.0,2 SPSS/PC 8.0 e STATA 6.0. O teste Qui-quadrado de tendência linear foi utilizado para detectar possíveis associações entre as variáveis na análise bivariável e foram calculadas as razões de prevalência e seus respectivos intervalos de confiança. O grupo químico esteve relacionado com a forma de apresentação do inseticida, isto é, a grande maioria dos aerossóis encontrada nos domicílios era piretróide e as soluções para pulverizador manual eram organofosforados. As pastilhas para aparelho elétrico e os espirais eram todos piretróides. Assim, foi possível agregar a forma de apresentação ao grupo químico para a análise da associação destes com a renda. Foram compostas as seguintes variáveis: aerossol/piretróide, pastilha para aparelho elétrico/ piretróide, espiral/piretróide e solução pulverizadora/ organofosforado. Para a análise de associação, utilizou-se apenas a renda familiar per capita como variável independente, porque a escolaridade apresentou resultados muito semelhantes, não revelando novas informações ao estudo. Uma vez que a amostra foi distribuída por conglomerados (setores censitários) e considerando-se que a população mantém níveis de vida semelhantes, utilizou-se um incremento de 40% na amostra e a análise de associação foi controlada para efeito de delineamento. RESULTADOS O estudo incluiu 2.039 domicílios da área urbana de Pelotas. O percentual de perdas foi de 3,4%. A renda média mensal do chefe da família (pessoa de maior renda) foi de R$ 793,50 e a mediana de R$
+
+400,00 (n=2.002). A renda mensal per capita mediana foi de R$ 200,00 (n=2.001). Dois terços das famílias receberam até dois salários mínimos per capita mensais (um salário mínimo =R$ 136,00). Encontrouse uma média de três pessoas por domicílio. Um terço dos chefes de família possuíam quatro ou menos anos
+
+de escolaridade (n=2.012).
+
+Tabela 1 - Quantidade, forma de apresentação e grupo químico dos inseticidas disponíveis nos domicílios. Pelotas, RS, 2000.
+
+As formas de apresentação mais prevalentes foram aerossóis, pastilhas para aparelho elétrico e soluções pulverizadoras. Os grupos químicos mais utilizados foram piretróides e organofosforados. A Tabela 1 apresenta o número de domicílios que possuíam pelo menos um dos produtos identificados. Em 1.031 domicílios existia pelo menos um produto em aerossol. Os piretróides estavam presentes em 83% das moradias (n=1.340). Em 111 domicílios (7%) não foi possível identificar o grupo químico do inseticida utilizado, pois não constava no rótulo.
+
+Variáveis
+
+Domicílios (N) %
+
+Número de Inseticidas presentes no domicílio1.619 100,0 Um inseticida 969 59,8 Dois inseticidas 493 30,5 Três ou mais inseticidas 157 9,7 Formas de apresentação presentes no domicílio Aerossol 1.031 63,7 Pastilha para aparelho elétrico 565 34,9 Solução pulverizadora 412 25,4 Isca 92 5,7 Espiral 87 5,4 Solução para aparelho elétrico 68 4,2 Repelente para pele 31 1,9 Fumigador 4 0,2 Aparelhos de eletrocução 3 0,2 Grupos químicos presentes no domicílio Piretróides 1.340 82,8 Organofosforados 324 20,0 Não constava no rótulo 111 6,9 Ignorado* 38 2,5 Amida 30 1,9 Atóxico 19 1,2 Dois grupos químicos no mesmo produto 18 1,1 Carbamatos 9 0,3 Ácido Bórico 5 0,3 Outros 4 0,6 *O entrevistado não mostrou o produto ou este não foi encontrado no comércio.
+
+Os inseticidas foram utilizados em 89% dos domicílios visitados (n=1.812), pelo menos uma vez nos 12 meses que antecederam a entrevista. Os inseticidas estavam presentes, no momento da entrevista, em 79% dos domicílios (n=1.619).
+
+Metade dos domicílios que dispunham de um inseticida no momento da entrevista possuíam um aerossol do grupo químico piretróide (n=491). Em 40% das residências foram encontrados dois inseticidas disponíveis no momento da entrevista, um era em forma de aerossol e outro em forma de pastilha para aparelho elétrico, ambos do grupo químico piretróide (n=199); em 157 residências foram encontrados três ou mais inseticidas domésticos. Nestas residências, a forma de apresentação e o grupo químico que mais apareceram foram, novamente, os aerossóis
+
+Tabela 2 - Padrão de uso de inseticidas domésticos de acordo com a renda familiar per capita. Pelotas, RS, 2000. Forma de apresentação Aerossol/Piretróide Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Pastilha para aparelho elétrico/Piretróide Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Solução pulverizadora/ Organofosforado Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Espiral/Piretróide Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais *Qui-quadrado de Tendência Linear. SM = Salário-mínimo R$ 136,00. RP = Razão de Prevalência.
+
+Domicílios (N)
+
+RP (IC 95%)
+
+p - valor* <0,001
+
+75 171 248 235 251
+
+1,52 1,97 2,50 2,60
+
+1,00 (1,21-1,91) (1,59-2,45) (2,03-3,09) (2,11-3,21)
+
+37 99 164 123 124
+
+1,78 2,65 2,66 2,61
+
+1,00 (1,26-2,53) (1,91-3,67) (1,90-3,71) (1,87-3,64)
+
+58 84 58 39 18
+
+0,97 0,60 0,42 0,24
+
+1,00 (0,71-1,30) (0,43-0,83) (0,29-0,61) (0,15-0,40)
+
+24 26 14 9 13
+
+0,72 0,35 0,30 0,42
+
+1,00 (0,42-1,23) (0,18-0,66) (0,14-0,63) (0,22-0,81)
+
+<0,001
+
+<0,001
+
+0,001
+
+
+
+e as pastilhas do grupo piretróide acrescentados de soluções pulverizadoras contendo organofosforados. Nas famílias com renda superior a quatro salários mínimos per capita, a disponibilidade de inseticidas no momento da entrevista foi 28% maior do que nas famílias com renda de até meio salário mínimo per capita (RP=1,28, IC95% de 1,17 a 1,40 e p<0,001). Não houve diferenças significativas entre o uso de inseticidas nos últimos 12 meses nas diferentes categorias de renda. A disponibilidade de inseticidas em aerossol e pastilha para aparelho elétrico contendo piretróides cresceu linearmente em função da renda familiar per Tabela 3 - Uso de proteção mecânica contra insetos nos domicílios urbanos. Pelotas, RS, 2000. Proteção mecânica Telas nas janelas Em nenhuma Em parte Em todas Telas nas portas externas Em nenhuma Em parte Em todas Mosquiteiros sobre as camas Em nenhuma Em parte Em todas
+
+Domicílios (N)
+
+%
+
+2.037 1.339 442 256 2.037 1.750 195 92 2.037 1.649 241 147
+
+100,0 65,7 21,7 12,6 100,0 85,9 9,6 4,5 100,0 81,0 11,8 7,2
+
+capita, sendo duas vezes e meia mais freqüente em famílias de níveis de renda mais elevados. Por outro lado, quanto menor a renda familiar per capita maior a disponibilidade de pesticidas organofosforados em solução pulverizadora e piretróides em forma de espirais (Tabela 2). Soluções para aparelho elétrico (piretróides) e repelentes para pele (amidas), embora tenham aparecido em um menor número de domicílios (n=66 e 30, respectivamente), foram significativamente mais prevalentes em famílias com renda superior a quatro salários mínimos per capita (p<0,001). Inseticidas em forma de solução pulverizadora que não possuíam o grupo químico em seu rótulo estiveram 12 vezes mais presentes em famílias com renda de até meio salário mínimo per capita, quando comparadas com famílias que recebiam mais de quatro salários mínimos per capita (RP 0,08 e IC95% 0,01-0,62). Observou-se que a proteção mecânica contra os insetos não é muito utilizada. Metade dos domicílios não apresentavam qualquer tipo de proteção mecânica (n=1.033). As telas nas janelas estiveram presentes em 34%, os mosquiteiros, em 19% e as telas nas portas, em 14% dos domicílios (Tabela 3).
+
+Tabela 4 - Renda familiar per capita e proteção mecânica utilizada no controle de insetos. Pelotas, RS, 2000. Proteção mecânica Telas em todas janelas Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Telas em parte das janelas Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Telas nas portas Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Mosquiteiros em todas as camas Renda familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais Mosquiteiros em parte das camas Renda Familiar per capita (SM) Até 0,5 0,51-1 1,01-2 2,01-4 4,01 ou mais *Qui-quadrado de Tendência Linear.
+
+Domicílios (N)
+
+RP (IC95%)
+
+p-valor* <0,001
+
+18 28 60 56 82
+
+1,05 2,15 2,80 4,14
+
+1,00 (0,59-1,86) (1,30-3,55) (1,69-4,63) (2,56-6,70)
+
+47 77 111 95 108
+
+1,09 1,50 1,78 2,13
+
+1,00 (0,78-1,52) (1,10-2,04) (1,30-2,43) (1,58-2,88)
+
+31 51 70 53 75
+
+1,09 1,34 1,36 1,88
+
+1,00 (0,72-1,67) (0,90-2,00) (0,90-2,06) (1,27-2,77)
+
+26 45 38 17 16
+
+1,11 0,81 0,49 0,42
+
+1,00 (0,70-1,75) (0,51-1,31) (0,27-0,88) (0,23-0,77)
+
+51 64 57 42 26
+
+1,00 0,85 (0,61-1,18) 0,66 (0,46-0,93) 0,63 (0,43-0,91) 0,38 (0,24-0,59)
+
+<0,001
+
+<0,001
+
+<0,001
+
+<0,001
+
+87
+
+
+
+
+
+A utilização de telas em todas ou em parte das janelas aumentou linearmente com o incremento da renda familiar per capita. Nas famílias com renda superior a quatro salários mínimos per capita, a presença de telas em todas as janelas foi quatro vezes mais freqüente do que nas famílias com renda de até meio salário mínimo per capita. Ao se observar a presença de telas em parte das janelas percebeu-se que esta diferença diminui pela metade (Tabela 4). Ao ser associado com a renda, o uso de telas em parte ou em todas as portas, apresentou a mesma tendência que o uso de telas nas janelas, embora de modo menos marcante (Tabela 4). Já a utilização de mosquiteiros em todas as camas do domicílio foi significativamente maior em famílias com menor renda per capita. A mesma tendência foi observada para o uso de mosquiteiros em algumas das camas (Tabela 4).
+
+Rev Saúde Pública 2003;37(1):83-90 www.fsp.usp.br/rsp
+
+mesmo tempo, a veiculação de informações em relação à toxicidade dos produtos utilizados no controle químico de insetos e outras pragas poderá trazer maior cuidado durante a utilização e, ao mesmo tempo, a busca de meios não tóxicos de controle. Ao serem consideradas as formas de apresentação dos inseticidas presentes nos domicílios, destacaramse os aerossóis, talvez pela praticidade e facilidade de aplicação. Os inseticidas líquidos são facilmente absorvidos pela pele e, tratando-se de substâncias geralmente voláteis, podem também ser absorvidas pela via respiratória.10 Seus resíduos permanecem no ambiente, contaminando paredes, chão, teto, tapetes, utensílios, brinquedos, etc. Crianças que engatinham e/ou levam as mãos ou objetos à boca estão em freqüente contato com estes resíduos.5 Conforme dados do Sistema Nacional de Informações Tóxicofarmacológicas, em 1998, os pesticidas domésticos e os raticidas foram as maiores fontes de intoxicações de crianças de 0 a 4 anos de idade.2
+
+DISCUSSÃO O estudo apresentou um baixo índice de perdas, talvez porque a unidade observacional do estudo tenha sido o domicílio, havendo maior chance de encontrar o informante. A utilização de inseticidas domésticos no último ano foi extremamente elevada, alcançado cerca de 90% dos domicílios estudados. No entanto, a forma pela qual foi coletada esta informação dizia respeito a qualquer freqüência ou quantidade de uso, desde que houvesse sido usado pelo menos uma vez em um período de 12 meses. Em Recife, um estudo recente revela que em 67% dos domicílios estudados utilizavam-se pesticidas para combater insetos e roedores e dos produtos utilizados, 51% eram inseticidas.2 O início da coleta dos dados ocorreu em uma época do ano em que a multiplicação dos insetos não estava em plenas condições de desenvolvimento. Mesmo assim, em 79% dos domicílios encontrou-se pelo menos um produto químico disponível para controlar insetos. A alta prevalência de uso de inseticidas deve estar correlacionada com fatores como o clima, o relevo, o solo e condições de saneamento básico da cidade e, de certa forma, ao desconhecimento das propriedades tóxicas desses produtos. A implementação de ações de saneamento básico influencia diretamente na redução da proliferação dos insetos e, conseqüentemente, na redução do uso de inseticidas. Esta é a forma mais barata e eficaz de controle das pragas domésticas e/ou vetores para os órgãos públicos.2 Ao
+
+Os piretróides e organofosforados foram os grupos químicos encontrados com maior freqüência. Uma intoxicação por piretróides pode ocasionar problemas respiratórios como chiado persistente e asma, dor de cabeça, imunossupressão, formigamento, irritações na pele, excitação do sistema nervoso, convulsões e até a morte, dependendo da intensidade da exposição. Os organofosforados são compostos absorvidos com facilidade por todas as vias: dérmica, gastrointestinal e respiratória. A absorção cutânea é a principal via de penetração deste inseticida em indivíduos que os aplicam na forma de pulverização. Os organofosforados interferem no sistema de transmissão neural, por meio da inibição da acetilcolinesterase produzindo efeitos, como aumento da secreção brônquica, vômitos, dificuldade de acomodação visual, cefaléia, tonturas, depressão, ansiedade e outros.12 Das 26 marcas comerciais dos inseticidas sabidamente compostos por organofosforados encontradas nos domicílios, pelo menos 13 incluíam o Diclorvos (um organoclorofosforado) em sua composição. Este princípio ativo é considerado um possível carcinogênico humano,6 é permitido pela legislação2 e vem sendo oferecido em forma de aerossol e de solução pulverizadora. Alguns produtos comercializados principalmente em pequenos armazéns dos bairros da cidade, apresentam um rótulo totalmente irregular, sem constar sequer a sua composição. Desta forma, o consumidor, se intoxicado, corre o risco de não ser medicado corretamente. Conforme esperado, o padrão de uso de inseticidas domésticos revelou-se diferenciado em suas características de acordo com o nível socioeconômico. No presente estudo, a solução pulverizadora e os espirais, bem como os organofosforados, que são economicamente mais acessíveis, foram encontrados com maior freqüência em domicílios de baixa renda; enquanto o contrário ocorreu com os aerossóis e as pastilhas compostas por piretróides, observando-se nitidamente a influência da renda na escolha da forma de apresentação e do grupo químico desses produtos. As telas foram mais freqüentes em domicílios de melhor nível de renda, enquanto que o contrário ocorreu com os mosquiteiros. Supõe-se que esta diferença tenha ocorrido porque as telas, além de serem economicamente menos acessíveis, não seriam efetivas em casas que apresentem frestas, por exemplo. A baixa prevalência de telas e mosquiteiros para controlar os insetos nos domicílios pode ser devido à praticidade de uso dos produtos químicos e da desinformação com referência à toxicidade destes. Por outro lado, a proteção mecânica além de tornarse mais barata por ter maior durabilidade, é um recurso que não causa danos à saúde do usuário. A presença de inseticidas e seu uso em larga escala torna-se algo preocupante do ponto de vista de saúde pública, uma vez que exposições freqüentes podem trazer agravos à saúde humana e danos em nível ambiental. A população precisa ser mais bem orientada sobre a toxicidade dos inseticidas domésticos, como forma de tentar conscientizá-la a evitar, o máximo possível, o uso de substâncias tóxicas no controle de insetos. Os órgãos públicos deveriam encarregar-se desta função, além de dar condições adequadas de saneamento básico. Sabe-se das dificuldades que existem para medir a exposição a este tipo de produto. Para tanto, sugerese que futuros estudos meçam a exposição a partir da forma de aplicação do produto e a quantidade gasta por um período determinado. Estudos de intervenção fazem-se necessários para verificar se a divulgação de informações referentes às implicações do uso desses produtos pode modificar os hábitos da população. Ainda, pode ser investigada a ocorrência de sintomas de intoxicação aguda na população durante o uso de inseticidas domésticos.
+

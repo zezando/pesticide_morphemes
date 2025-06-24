@@ -1,0 +1,180 @@
+RESÍDUOS DE AGROTÓXICOS EM FRUTOS DE TOMATE
+
+RESUMO - O uso intensivo de agrotóxicos em culturas de tomates tem causado preocupações quanto à provável contaminação do produto final. Este trabalho teve como objetivo monitorar, por dois anos consecutivos, em quatro propriedades de uma área altamente tecnificada, o uso de agrotóxicos em tomate irrigado durante seu desenvolvimento, quantificar os resíduos dos principais princípios ativos utilizados, e avaliar o grau de contaminação dos frutos colhidos. Foram analisados metamidofós, clorpirifós, captan, clorotalonil, endosulfan, λ-cialotrina, e cobre. Para avaliar o grau de contaminação dos frutos foi validado um método de análise de resíduos múltiplos capaz de quantificar esses compostos. Os resíduos encontrados foram de fungicidas e inseticidas aplicados nas fases de frutificação e maturação: captan, 0,35 mg/kg, na Fazenda 2; clorotalonil, 0,16 mg/kg e 0,95 mg/kg, nas Fazendas 1 e 2, respectivamente; λ-cialotrina, 0,03 mg/kg, na Fazenda 2; cobre, 2,03 mg/kg, 3,75 mg/kg e 1,44 mg/kg, nas Fazendas 1, 2 e 3, respectivamente, e 0,95 mg/kg, 1,70 mg/kg e 2,31 mg/kg, na Fazenda 4. Não ocorreram resíduos dos inseticidas organofosforados, aplicados principalmente durante o desenvolvimento vegetativo da cultura. Não houve contaminação dos tomates pelos agrotóxicos analisados. Os resíduos que devem ser monitorados são os dos agrotóxicos aplicados na fase de maturação da cultura. Termos para indexação: inseticidas, fungicidas, organofosforados, organoclorados, clorotalonil, captan, clorpirifós, metamidofós, endosulfan, λ-cialotrina, oxicloreto de cobre.
+
+INTRODUÇÃO Nas duas últimas décadas, as mudanças que acompanharam a modernização da agricultura destacam-se na irrigação, na mecanização, na aplicação de fertilizantes e no uso de agrotóxicos destinados a combater pragas, doenças e ervas daninhas. A
+
+nocividade destes últimos é muito grande, pois há estimativas de que 20 a 30% da produção agrícola brasileira é consumida por pragas (Alves, 1986). A falta de técnicas alternativas que sejam seguras para a produtividade da maioria das culturas, e a necessidade de expansão da produção agrícola, permitem concluir que haverá uma dependência do uso de agrotóxicos por longo tempo. No Brasil, o consumo de agrotóxicos aumentou de 27.728 toneladas em 1970 para 80.968 toneladas em 1980, atingindo uma estabilização a partir de 1987 (Futino & Silveira, 1991). De acordo com esses mesmos autores, no ano de 1991, 60.188 toneladas de agrotóxicos foram consumidas no Brasil, das quais 25.714 t pertenceram ao grupo dos herbicidas, 19.425 t aos inseticidas e 15.049 t aos fungicidas. As culturas com maior participação no mercado de agrotóxicos foram: soja, cana-de-açúcar e arroz, que consumiram 73,9% dos herbicidas; trigo, cereais de inverno, hortaliças, 67% dos fungicidas; algodão, citros e soja, 60% do mercado de inseticidas. Como resultado dessas cifras, os agrotóxicos podem estar atualmente presentes em todos os compartimentos do ambiente, o que explica o grande interesse em monitorá-los em diferentes sistemas. Nos estudos de ocorrência de resíduos de agrotóxicos até o momento, predominam os trabalhos sobre produtos organoclorados, relacionados principalmente à exposição de trabalhadores (Gonzalez et al., 1983; Lorand et al., 1984; Ferraz et al., 1988; SantAna et al., 1989; Carvalho, 1991; Carvalho et al., 1991), a resíduos no ambiente (Berbert & Cruz, 1986; Celeste & Caceres, 1988; Tanamati et al., 1991) e ao monitoramento em leite materno (Matuo et al., 1992; Vannuchi et al., 1992). Análises de organoclorados e organofosforados têm sido feitas em alguns tipos de alimentos, mais especificamente laticínios, gorduras vegetais e hortaliças (Yokomizo et al., 1984; Lavorenti & Giannotti, 1990; Barretto et al., 1991; Tiboni, 1991). Determinações de compostos específicos têm sido feitas em ensaios de campo controlados (Rigitano et al., 1989; Rigitano & Souza, 1994; Raetano & Batista, 1995). As determinações de resíduos de agrotóxicos em alimentos para fins de verificação de grau de contaminação são escassas (Ungaro et al., 1987).
+
+O desconhecimento dos agrotóxicos empregados e a incerteza de que sua utilização tenha sido correta resultam na necessidade de analisar grande número de princípios ativos, quando se visa aos estudos de monitoramento para fins de saúde pública. Neste contexto, esbarra-se no problema de falta de uma metodologia capaz de analisar todos os princípios ativos, pois alguns requerem métodos analíticos específicos. Dados de resíduos de agrotóxicos em produtos obtidos diretamente das áreas de cultivo, correlacionados com as práticas de manejo da cultura e utilização de agrotóxicos, são importantes, porém inexistentes. Assim, foi selecionada como modelo de estudo uma área de 13.000 ha, no município de Guaíra, ao norte do estado de São Paulo, onde a agricultura é intensivamente praticada. Os dados de 1992, obtidos junto à Casa da Agricultura daquele município, demonstram que as culturas de feijão (3.600 ha), milho (2.100 ha), soja (798 ha) e tomate (645 ha) estão entre as principais culturas irrigadas da região, e as culturas que mais utilizam agrotóxicos são as de feijão e de tomate. Este trabalho teve como objetivo monitorar por dois anos consecutivos, em quatro propriedades altamente tecnificadas, o uso de agrotóxicos em tomate irrigado nos diferentes estágios da cultura, quantificar os resíduos dos principais princípios ativos utilizados e avaliar o grau de contaminação dos frutos colhidos. MATERIAL E MÉTODOS Foi feito um monitoramento do uso de agrotóxicos em quatro propriedades, três em Guaíra e uma em Miguelópolis, durante 1994 e 1995. De acordo com as informações obtidas nesse monitoramento (Tabela 1), foram selecionados para análise os seguintes princípios ativos: captan, clorotalonil, oxicloreto de cobre, clorpirifós, metamidofós, endosulfan e λ-cialotrina. As coletas de amostras (10 kg) foram realizadas no período de julho a outubro de 1995, de acordo com a época de colheita de cada propriedade, segundo o método descrito por Abakerli (1991). Em uma das propriedades foram coletadas três amostras, uma de cada variedade, de tomate cultivado. As amostras foram acondicionadas em sacos de plástico e transportadas para o laboratório em caixas de isopor contendo gelo.
+
+RESÍDUOS DE AGROTÓXICOS Aproximadamente 2 kg de cada amostra foram homogeneizados em liquidificador semi-industrial, acondicionando-se os macerados em frascos de vidro âmbar e mantidos em freezer a -20oC até o momento da análise. Para validação do método e como testemunha, foram utilizadas amostras de tomate, variedade Débora, cultivado na Embrapa-Centro Nacional de Pesquisa de Monitoramento e Avaliação de Impacto Ambiental (CNPMA), utilizando-se como medida fitossanitária apenas a aplicação de calda bordalesa. Os aparelhos utilizados foram: liquidificador semi-industrial Skymsem LSP 8; evaporador rotatório Büchi 461; ultraturrax Junke & Kunkel; coluna cromatográfica de vidro 20 x 300 mm para clean up; erlenmeyer de 250 e 500 mL; balão de fundo redondo de 250 mL; funil de vidro de 80 mm de diâmetro externo; balões volumétricos de 5, 10 e 100 mL. Os seguintes reagentes foram utilizados: n-hexano, isooctano, acetona, diclorometano e metanol, grau resíduo; acetona e metanol, grau analítico; Na2SO4 , anidro, grau analítico, Nuclear, aquecido a 450ºC, por quatro horas; sílica gel 60 (70-230 mesh ASTM), grau analítico, Merck, aquecida a 450ºC, por três horas, e desativada com 10% de água (p/v), para utilização no clean up; NaCl, grau analítico, Merck; lã de vidro Art Lab, conservada em solução aquosa de Extran neutro, Merck, 5% por doze horas, lavada com bastante água, secada na estufa, lavada com acetona grau analítico, metanol grau analítico e metanol grau resíduo. As purezas e procedências dos padrões analíticos dos agrotóxicos utilizados neste trabalho foram: λ-cialotrina, 95,0% de pureza; captan, 98,4%; clorpirifós, 99,7%; metamidofós, 98,9%; α-endosulfan, 98,5%; β-endosulfan, 98,8%; endosulfan-sulfato, 97,6%, provenientes do Lab. Dr. Ehrenstorfer GmbH, Augsburg/Alemanha, e clorotalonil, 99,2%, cedido pela Shell Brasil S/A.
+
+475
+
+A determinação do cobre foi feita pelo método de Tedesco et al. (1985). O método analítico, usado para a determinação dos demais compostos, foi o método de Steinwandter (1985), modificado: 50 g da amostra de tomate foram transferidos para erlenmeyer de 500 mL, aos quais foram adicionados 15 g de NaCl e 100 mL de acetona grau resíduo, e homogeneizados com turrax, em alta velocidade, por três minutos; a seguir, foram adicionados 75 mL de diclorometano, e homogeneizados novamente por dois minutos, em alta velocidade; após decantação, a fase superior foi transferida através de funil contendo lã de vidro e Na2SO4 anidro, para outro erlenmeyer de 250 mL; uma alíquota de 100 mL foi concentrada até 3-5 mL; as juntas foram lavadas com 5 mL de diclorometano e reconcentrado até 3-5 mL; o extrato concentrado foi transferido, quantitativamente, para balão volumétrico de 10 mL, e completado o volume com acetona grau resíduo. Nesta amostra foram analisados os compostos organofosforados. Para análise dos outros compostos, foi feito um clean up, colocando-se 5 mL do extrato obtido anteriormente em coluna cromatográfica contendo 15 g de sílica gel, desativada com 10% de água (p/v), empacotada com um volume de solução de n-hexano:diclorometano 4:1, o suficiente para um bom empacotamento, e à qual foi adicionado, no topo, com uma espátula, Na 2SO4 anidro, até aproximadamente 1 cm de altura; os compostos foram eluídos com 60 mL de n-hexano: diclorometano 4:1 e com 80 mL de n-hexano: diclorometano 1:1; os solventes foram evaporados até 2-3 mL; as juntas foram lavadas com 5 mL de iso-octano, o solvente foi evaporado até 1-2 mL e transferido quantitativamente para balão volumétrico de 10 mL, e o volume foi completado com iso-octano. As análises gás-cromatográficas foram feitas em cromatógrafo a gás Varian 3400, equipado com detetor de captura eletrônica, detetor de fotometria de chama, e com
+
+TABELA 1. Limites de tolerância de pesticidas em tomate. Composto
+
+Classe química
+
+Utilização
+
+Clorotalonil Clorpirifós Captan Endosulfan Metamidofós l-cialotrina Oxicloreto de cobre
+
+Derivado ftalonitrila Organofosforado Ftalimida Organoclorado Organofosforado Piretróide Inorgânico
+
+Fungicida Inseticida Fungicida Não autorizado Inseticida/acaricida Inseticida Fungicida
+
+Tolerância (mg/kg)
+
+Intervalo de segurança (dias)
+
+1,00 0,50 15,00 0,30 0,09 15,00
+
+7 21 1 21 7 1
+
+Fonte: Brasil (1995).
+
+
+
+
+
+integrador Shimadzu C-R4A. Foi usada uma coluna de vidro de 2 mm x 2 m empacotada com 2,5 % de Carbowax 20M sobre Chromosorb W-HP (80-100 mesh), e as seguintes condições: temperatura do injetor em 180 oC, temperatura do detetor em 220 oC e temperatura do forno em 180oC; fluxo de nitrogênio a 30 mL/min., de ar1 a 76 mL/min., de ar2 a 171 mL/min., de H2 a 140 mL/min., e volume de injeção de 1µL para análise dos organofosforados. Para os demais compostos foi utilizada coluna de vidro de 6,3 mm x 2 m empacotada com 6% de SE-30 sobre Chromosorb W-HP (80-100 mesh), fluxo de nitrogênio a 33 mL/min., temperatura do injetor em 220oC e do detetor em 300oC, temperatura programada do forno: 210oC por 13 minutos, incremento de 20oC/min. até 230oC e mantida por 10 minutos; volume de injeção de 1µL. Os dados dos resíduos das amostras foram calculados por interpolação em curvas de regressão linear das concentrações de soluções de padrões analíticos versus as respostas (altura ou área dos picos) obtidas no cromatograma. Dos vários métodos existentes, foi escolhido o de Steinwandter por sua simplicidade. Considerando os princípios ativos a serem determinados nas amostras de tomate, houve necessidade de proceder à validação do método citado. As amostras de tomates cultivados sem agrotóxicos foram fortificadas próximo aos limites de tolerância (Tabela 1), determinando-se, a seguir, as porcentagens de recuperação dos princípios ativos. Clorotalonil, na faixa de 0,16 a 4,00 mg/kg, 107 ±14% de recuperação; captan, na faixa de 0,20 a 14,00 mg/kg, 96 ±15 %; λ-cialotrina, a 0,03 e 0,48 mg/kg, 111 ± 7%; clorpirifós, a 0,50 mg/kg, 121 ± 3% no detetor de captura eletrônica, e 99 ± 3% no detetor de fotometria de chama; metamidofós, a 0,30 mg/kg, 79 ± 10%; α-endosulfan, a 0,50 mg/kg e 1,00 mg/kg, 115 ± 9%; β-endosulfan, a 0,50 mg/kg, 121 ± 3% e para endosulfan-sulfato, a 0,50 mg/kg, 121 ± 3%. Não foram observados interferentes na quantificação dos compostos citados nas amostras teste-munhas, com exceção de clorotalonil, em fortificação muito abaixo do limite de tolerância, de 0,02 mg/kg. Métodos rápidos são necessários quando se deseja determinar compostos instáveis na matriz triturada. Segundo dados de um trabalho realizado pela Chevron Chemical Company (1983), o captan é um composto instável em matrizes maceradas. As recuperações do captan nas amostras fortificadas são indicativas de que o método utilizado é apropriado para a sua análise.
+
+
+
+RESULTADOS E DISCUSSÃO Os resultados do monitoramento do uso de agrotóxicos nas propriedades selecionadas para estudo (Tabela 2) demonstram uma similaridade entre os agricultores quanto ao uso de agrotóxicos na produção de tomates. Antes do plantio houve um tratamento do solo com trifluralina, e após semeadura ou transplantio de mudas, tratamento com metribuzin. Observou-se que houve uma grande utilização de inseticidas organofosforados e piretróides em aplicações sucessivas durante o desenvolvimento vegetativo. Quanto à seleção dos inseticidas, notou-se também que houve uma padronização seguida pelos agricultores. Os fungicidas são utilizados a partir do desenvolvimento dos frutos até sua maturação. A escolha dos princípios ativos monitorados neste trabalho baseou-se nesse padrão de uso seguido pelos agricultores. Trifluralina e metribuzin são herbicidas pré-emergentes aplicados ao solo, não tendo sido considerados importantes para o estudo de contaminação dos frutos. O inseticida λ-cialotrina foi escolhido para análise, dentre os piretróides aplicados, por sua utilização na maioria das propriedades; os fungicidas captan, clorotalonil e oxicloreto de cobre foram selecionados para o trabalho, por terem sido utilizados em grandes quantidades até o estádio de maturação da cultura; metamidofós e clorpirifós, por terem sido aplicados na maioria das propriedades na fase de desenvolvimento vegetativo; endosulfan, por ter sido utilizado em algumas propriedades, apesar de ser proibido o seu uso em tomates. O ingrediente ativo etileno-bis-ditiocarbamato, de grande utilização pelos produtores, requer metodologia específica de análise; não objeto de avaliação neste trabalho. Os resultados obtidos nas determinações analíticas encontram-se descritos na Tabela 3. Os fatores capazes de afetar os níveis de resíduos terminais dos agrotóxicos podem ser resumidos em três categorias: uma, relacionada às técnicas de aplicação, tais como número de aplicações, tipos de equipamentos utilizados na pulverização e períodos de carência; a segunda, a fatores ambientais, e a terceira, às características moleculares dos princípios ativos.
+
+RESÍDUOS DE AGROTÓXICOS
+
+De modo geral, os resíduos dos agrotóxicos foram observados quando estes foram usados na fase de maturação dos tomates. No entanto, todos os valores encontram-se abaixo dos limites de tolerância. O estádio de desenvolvimento da cultura onde foram aplicados os produtos, o grau de persistência dos princípios ativos usados, bem como o número de aplicações, não parecem ser os principais fatores para que haja ocorrência de contaminação. Com uma única exceção, na Fazenda 2, todos os intervalos são superiores aos legalmente estabelecidos. Como exemplo, nota-se que não foram detectados resíduos de endosulfan, um composto relativamente estável, usado em quatro aplicações sucessivas na Fazenda 1,
+
+
+
+
+
+provavelmente porque o intervalo entre a aplicação e a colheita foi relativamente longo (41 dias). Não foram encontrados resíduos de metamidofós e clorpirifós, que têm persistência curta no ambiente, aplicados no início da cultura. Quanto à questão de características moleculares, nota-se que o clorotalonil, molécula de maior estabilidade que o captan, foi encontrado em níveis mais próximos, porém inferiores aos valores de tolerância, respeitando-se o período de carência estabelecido para seu uso. Os resultados são indicativos de que o respeito aos períodos de carência, estabelecidos pela legislação, é o fator de maior importância para prevenir contaminação.
+
+TABELA 2. Utilização de agrotóxicos.
+
+Ingrediente ativo
+
+Quantidade aplicada (kg i.a./ha) Fazenda 1 (15 ha)1
+
+Benomyl Captan Cartap l-cialotrin b-ciflutrin Carbofuran Clorotalonil Clorpirifós Cobre Etileno-bis-ditiocarbamato Endosulfan Fentin acetato de estanho Iprodiona Metamidofós Metribuzin Permetrina Procimidona Tebuconazole Tiofanato metílico Trifluralina Vinclozolin 1 2
+
+3,90 0,24 2,00 13,30 13,32 5,20 1,68 0,72 0,38 0,25 0,53 -
+
+Fazenda 2 (24 ha) 6,25 1,80 0,08 10,96 0,48 8,80 12,48 0,08 1,56 0,36 0,46 0,50 0,50 0,50
+
+Fazenda 3 (15 ha) 0,11 7,40 10,16 10,48 0,46 0,08 1,68 0,38 0,98 -
+
+Fazenda 4 Fazenda 4 (Petomech)2 (Sta. Adélia) (8 ha) (21 ha) 0,26 0,74 0,07 2,91 1,14 14,28 0,50 1,92 0,28 0,14 0,36 0,45 -
+
+0,48 0,74 0,07 2,91 1,14 12,78 0,50 1,92 0,28 0,14 0,36 0,45 -
+
+Fazenda 4 (Zenith) (13 ha) 0,71 0,43 0,07 2,91 1,14 9,63 0,50 0,84 0,28 0,08 0,36 0,45 -
+
+Área amostrada. Cultivar.
+
+
+
+L.M.S. ZAVATTI e R.B. ABAKERLI
+
+TABELA 3. Resíduos de pesticidas, em frutos de tomate, em 4 propriedades, no município de Guaíra, SP.
+
+Fazenda Tratamento da cultura (variedade do Ingrediente ativo Dose média Número de tomate) aplicada aplicações (kg i.a./ha)
+
+2 3 4 5
+
+Estágio da cultura (última aplicação)
+
+Resíduos1 (mg/kg)
+
+1 Metamidofós (Petomech) Clorpirifós Endosulfan Clorotalonil Captan l-cialotrina Cobre
+
+0,36 não aplicado 0,42 1,47 1,30 0,04 1,11
+
+2 4 8 3 6 12
+
+89 41 27 19 10 10
+
+Des. vegetativo Frutificação Frutificação Maturação Maturação Maturação
+
+nd2 nd nd 0,163 nd nd 2,03
+
+2 Metamidofós (Petomech) Clorpirifós Endosulfan Clorotalonil Captan l-cialotrina Cobre
+
+0,39 0,48 não aplicado 1,37 1,25 0,02 0,80
+
+4 1 8 5 4 11
+
+96 82 12 5 5 5
+
+Des. vegetativo Des. vegetativo Maturação Maturação Maturação Maturação
+
+nd nd nd 0,953 0,353 0,03 3,75
+
+3 Metamidofós (Petomech) Clorpirifós Endosulfan Clorotalonil Captan l-cialotrina Cobre
+
+0,42 não aplicado 0,46 1,48 não aplicado 0,01 1,27
+
+4 1 5 8 8
+
+90 48 39 30 16
+
+Des. vegetativo Floresc./frutific. Frutificação Maturação Maturação
+
+nd nd nd nd nd nd 1,44
+
+4 Metamidofós (Petomech) Clorpirifós Endosulfan Clorotalonil Captan l-cialotrina Cobre
+
+0,32 0,57 não aplicado 0,97 não aplicado não aplicado 1,19
+
+6 2 3 12
+
+81 46 32 11
+
+Des. vegetativo Frutificação Frutificação Maturação
+
+nd nd nd nd nd nd 0,95
+
+44 Metamidofós (Stª Adélia) Clorpirifós Endosulfan Clorotalonil Captan l-cialotrina Cobre
+
+0,32 0,57 não aplicado 0,97 não aplicado não aplicado 1,16
+
+6 2 3 11
+
+89 54 40 26
+
+Des. veg./floresc. Frutificação Frutificação Maturação
+
+nd nd nd nd nd nd 1,70
+
+0,28 0,57 não aplicado 0,97 não aplicado não aplicado 1,20
+
+3 2 3 8
+
+93 58 44 30
+
+Des. veg./floresc. Frutificação Frutificação Maturação
+
+nd nd nd nd nd nd 2,31
+
+45 (Zenith)
+
+1
+
+Intervalo da última aplicação até a colheita (dias)
+
+Metamidofós Clorpirifós Endosulfan Clorotalonil Captan l-cialotrina Cobre
+
+Número de repetições analíticas igual a 2. Não detectado. Média de resíduos pela análise em 2 subamostras. Coleta da amostra cinco dias antes da colheita. Coleta da amostra oito dias antes da colheita.
+
+
+
+
+
+CONCLUSÕES 1. Há similaridade de práticas de uso de agrotóxicos pelos agricultores da área agrícola selecionada para este trabalho. 2. O método de análise de Steinwandter, modificado, é rápido, simples e eficaz para a quantificação de clorotalonil, captan, clorpirifós, endosulfan, λ-cialotrina e metamidofós em frutos de tomate. 3. Devem ser monitorados os resíduos dos produtos aplicados na fase de maturação da cultura. 4. Não há contaminação dos frutos pelos agrotóxicos analisados.
+

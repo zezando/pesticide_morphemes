@@ -1,0 +1,1158 @@
+PRINCIPAIS TÉCNICAS DE PREPARO DE AMOSTRA PARA A DETERMINAÇÃO DE RESÍDUOS DE AGROTÓXICOS EM ÁGUA POR CROMATOGRAFIA LÍQUIDA COM DETECÇÃO POR ARRANJO DE DIODOS E POR ESPECTROMETRIA DE MASSAS
+
+INTRODUÇÃO Uma grande diversidade de compostos químicos é utilizada na agricultura com o objetivo de aumentar a produtividade e melhorar a qualidade dos produtos. Os primeiros compostos utilizados como agrotóxicos eram substâncias tóxicas de origem natural, tais como o piretro e a nicotina, além de espécies inorgânicas contendo mercúrio, enxofre ou cobre.1 Entre os mais usados atualmente existem diversas classes como, por exemplo, os organofosforados e organoclorados, compreendendo uma grande variedade de substâncias químicas com diferentes grupos funcionais e, consequentemente, com diferentes modos de ação, biotransformação e eliminação.2 Os agrotóxicos geralmente são tóxicos e causam problemas de poluição ambiental e de saúde.3 Uma parcela considerável do total aplicado para fins agrícolas atinge rios, lagos, aquíferos e oceanos por meio do transporte por correntes atmosféricas, eliminação incorreta de restos de formulações, limpeza de acessórios e recipientes empregados na aplicação desses produtos e também pelo carreamento do material aplicado no solo pela ação erosiva da chuva. Devido aos mecanismos de transporte característicos dos meios aquáticos, alguns desses compostos têm sido detectados até na região Antártica.4 Análises de resíduos de agrotóxicos em água são difíceis de serem executadas, uma vez que esses compostos possuem diferentes propriedades físico-químicas e ocorrem em concentrações extremamente baixas na presença de altas concentrações de compostos interferentes.3 De acordo com Biziuk e Przyjazny,5 os passos envolvidos na análise de agrotóxicos são: amostragem, pré-tratamento das amostras, medida e tratamento dos dados. A determinação de resíduos de agrotóxicos, nas mais diferentes matrizes, é tradicionalmente realizada utilizando-se técnicas cromatográficas, em função de sua capacidade de separação, identificação e quantificação dos compostos através de detectores apropriados.2 A determinação de agrotóxicos em água geralmente requer um pré-tratamento da amostra,6 pois caso as interferências não sejam removidas poderão afetar a identificação e a quantificação.7 O prétratamento inclui o isolamento e a pré-concentração dos analitos. Métodos tradicionais de preparo da amostra, tal como a extração líquido-líquido (LLE - Liquid-Liquid Extraction), requerem grandes volumes de solventes orgânicos, apresentam custo elevado, são de difícil automação e trabalhosos.8 Nesse sentido, novas técnicas que consomem menos tempo são efetivas e requerem uma menor quantidade de solventes vêm sendo desenvolvidas e aplicadas para extração de agrotóxicos em amostras aquosas. Dentre estas técnicas, destacam-se a extração em fase sólida (SPE - Solid Phase Extraction), a microextração em fase sólida (SPME - Solid Phase Microextraction), a extração sortiva em barra magnética (SBSE - Stir Bar Sorptive Extraction) e a microextração líquido-líquido dispersiva (DLLME - Dispersive Liquid-Liquid Microextraction). Na SPE, introduzida em meados de 1970,7 os analitos contidos na matriz aquosa são retidos após passarem por um cartucho contendo sorvente e, posteriormente, um solvente orgânico é utilizado para eluir os analitos.9 É uma técnica muito empregada para pré-concentração de agrotóxicos. Segundo Picó et al.,10 entre 2003 e 2006, mais de 100 publicações utilizaram a SPE em análises de resíduos de agrotóxicos em matrizes aquosas. A SPME foi introduzida por Arthur e Pawliszyn em 199011 como uma técnica rápida, simples, com boa capacidade de concentração, sem a necessidade de solvente orgânico e com a conveniência da automação.12 Nessa técnica, uma fibra de sílica fundida é coberta com a fase estacionária, geralmente polidimetilsiloxano (PDMS), que é exposta na amostra aquosa ou gasosa por um tempo necessário
+
+
+
+
+
+para que o equilíbrio seja atingido e depois o analito é dessorvido pela fase móvel ou por aquecimento diretamente no injetor do cromatógrafo a gás.13 A técnica SBSE foi introduzida em 1999 por Baltussen et al.14 e se baseia no mesmo princípio da SPME, porém possui um volume de fase extratora entre 25 e 125 µL, que é 50 a 250 vezes maior que o volume da fibra de SPME, permitindo a melhor capacidade de extração e, consequentemente, recuperações maiores.15 A técnica SBSE é baseada na extração sortiva sobre uma camada polimérica, geralmente de PDMS, que reveste uma barra de agitação magnética. A extração é controlada pelo coeficiente de partição dos analitos entre o revestimento polimérico e a matriz e pela relação entre os volumes do material polimérico e da amostra.16 Estudos recentes correlacionam o coeficiente de partição com o coeficiente de distribuição octanol/ água (Kow).17 A DLLME foi desenvolvida em 2006 por Rezaee et al.18 como um avanço das técnicas de microextração em fase líquida. O método baseado no sistema ternário de solventes é uma miniaturização da LLE e usa microlitros de solvente extrator.19 A técnica SPE é um exemplo de técnica de preparo de amostra que visa a extração exaustiva dos analitos, ao passo que a SPME e a SBSE são técnicas sortivas baseadas no equilíbrio entre a matriz da amostra e o revestimento polimérico.15 Ferramentas analíticas para detecção de agrotóxicos em amostras ambientais têm sido desenvolvidas significativamente, tornando possível determinar resíduos de agrotóxicos em níveis de partes por bilhão e muitas vezes em partes por trilhão. A cromatografia líquida com detecção por arranjo de diodos (LC-DAD - Liquid Chromatography with Diode Array Detection) acoplada à espectrometria de massas (LC-MS - Liquid Chromatography with Mass Spectrometry) tem permitido atingir sensibilidade e seletividade adequadas para análises de resíduos de agrotóxicos em matrizes ambientais e em alimentos.20 No que diz respeito às determinações de agrotóxicos em matrizes aquosas, as técnicas cromatográficas de separação destacam-se no âmbito analítico. Diante disto, a presente revisão teve como objetivos apresentar as principais etapas envolvidas no preparo de amostra por SPE, SPME, SBSE e DLLME, bem como na quantificação por LCDAD e/ou LC-MS, destacando suas aplicações na determinação de resíduos de agrotóxicos em água. EXTRAÇÃO EM FASE SÓLIDA (SPE) A SPE foi introduzida no início dos anos 70 e passou a estar disponível comercialmente em 1978, na forma de cartuchos descartáveis.21,22 É uma técnica de separação líquido-sólido baseada nos mecanismos de separação da cromatografia líquida de baixa pressão e é usualmente empregada com o propósito de isolar analitos presentes em uma matriz complexa.7 Para o isolamento e pré-concentração de agrotóxicos a amostra aquosa é percolada por um cartucho contendo o sorvente, onde os analitos são retidos para posterior eluição com uma pequena quantidade de solvente orgânico adequado.23,24 Como alternativa, discos impregnados com sorventes podem ser empregados.24 As etapas envolvidas na SPE estão ilustradas na Figura 1. A instrumentação básica empregada em SPE é extremamente simples, podendo, porém, ser sofisticada, dependendo do problema a ser resolvido e do grau de automação desejado.7 As etapas da extração resumem-se na ativação do sorvente, percolação da amostra/sorção dos analitos no sorvente, eliminação dos interferentes da matriz (clean up), eluição dos analitos e posterior concentração do composto de interesse.25 A escolha do tipo e quantidade de sorvente, volume de amostra e de solvente para ativação dos cartuchos e para a eluição dos analitos são alguns parâmetros que devem ser considerados.25
+
+1605
+
+Figura 1. Etapas envolvidas na SPE: condicionamento do sorvente, adição da amostra, remoção dos interferentes e eluição do analito
+
+Na escolha do sorvente deve-se levar em conta as informações a respeito dos analitos de interesse, a natureza da matriz e das impurezas a serem eliminadas.7 Fases sólidas como C8, C18, carbono grafitizado, resina trocadora iônica e materiais poliméricos, tal como estireno divinilbenzeno, comercializados em cartuchos e discos, são os sorventes mais usados em SPE.26 Em análises ambientais, particularmente no isolamento e pré-concentração de agrotóxicos em águas, o uso de sorventes hidrofóbicos não seletivos, como C18 e estireno divinilbenzeno são os mais empregados. Essas fases podem diferenciar e isolar o analito de interesse de compostos interferentes presentes nas amostras, sendo comum a remoção de compostos interferentes na matriz antes das análises cromatográficas.27 Segundo Carvalho et al.,28 os sorventes mais usados na SPE para extração de agrotóxicos em matrizes aquosas são: C18, usado na extração de herbicidas,6,29 inseticidas organoclorados30,31 e em métodos com diferentes classes químicas32,33 e os sorventes poliméricos, que têm sido usados para diversas classes de agrotóxicos,34,35 entre eles o grupo das sulfunilureias.36 Em trabalho realizado por Chavez et al.,37 sorventes poliméricos foram usados para pré-concentrar o fungicida clorotalonil e seus metabólitos em água, com recuperações entre 70 e 110%, demonstrando a adequabilidade deste sorvente para esses compostos. A escolha de um ou outro sorvente depende da polaridade do analito e da possível coextração de interferentes. Para a extração de compostos como fenóis, cloroanilinas e agrotóxicos organoclorados, o uso de carbono grafitizado é uma boa opção quando se tem baixas recuperações com materiais como C8 e C18.38 Existem estudos realizados com o objetivo de se utilizar novos sorventes que proporcionem menor custo e boa precisão, como no trabalho realizado por Faria et al.,39 onde um novo material adsorvente baseado no poli(metiltetradecilsiloxano) (PMTDS) termicamente imobilizado num suporte de sílica apresentou bons resultados para imazetapir, imazaquim, metsulfurom-metílico, bentazona, clorimurom etílico e tebuconazol em água. El-Sheikh et al.40 otimizaram um método por SPE para extração de agrotóxicos comparando três diferentes sorventes: C18, carvão ativado e nanotubos de carbono. Os três sorventes foram comparados em termos de desempenho analítico, aplicação em matrizes aquosas, possível reuso do cartucho, capacidade de adsorção e o custo. A adsorção em cartucho de nanotubos de carbono foi maior que os contendo carvão ativado e C18, que também apresentaram recuperações satisfatórias. Os autores destacaram que, na escolha do sorvente, o carvão ativado pode ser uma alternativa com melhor relação custo-benefício. Trabalhos recentes têm utilizado a SPE combinada com técnicas de pré-concentração e/ou purificação adicional. Sharma et al.41
+
+
+
+
+
+propuseram um método para análise de clorofenóis em amostras de água utilizando a SPE com posterior derivação e nova extração dos ésteres metílicos por microextração em gota única (SDME - Single Drop Microextraction) no modo headspace, sendo o extrato final analisado por HPLC-DAD. A combinação das técnicas SPE e HS-SPME permitiu a obtenção de LDs entre 0,04 e 0,08 μg L-1, bem abaixo dos valores obtidos empregando somente SPE (LDs entre 1,5 e 3,9 μg L-1). A etapa de condicionamento do cartucho destina-se a ativar o sorvente, e o solvente a ser utilizado nessa etapa dependerá principalmente do material a ser ativado (C8, C18, ciano, sílica, amino, entre outros). O condicionamento pode servir também para eluir alguma impureza presente no cartucho.7,23 A concentração dos analitos tem como objetivo principal reter o analito no sorvente através da passagem de grande volume de amostra, deixando passar os interferentes. O pH da amostra pode ser crítico para obtenção de uma retenção adequada dos agrotóxicos no sorvente. Por isso, em alguns casos, o ajuste do pH da amostra é necessário para estabilizar os agrotóxicos e aumentar sua retenção na fase sólida.27,33,42,43 A velocidade de aplicação da amostra é importante e pode ser ajustada, controlando-se o vácuo ou a pressão aplicada no processo. Para pequenos volumes de amostra, esta etapa pode ser realizada somente com o auxílio da gravidade.23 A etapa de limpeza (clean up) é fundamental para eliminar compostos provenientes da matriz, que podem interferir no método analítico. Podem-se utilizar solventes com força de eluição intermediária para eluição de impurezas antes do analito de interesse ser eluído. Esses solventes são denominados “solventes de lavagem” (wash solvent) e são utilizados solventes que não possuam força suficiente para remover do sorvente o analito de interesse. Diversos solventes de lavagem podem ser usados, mas quando se trata da extração de agrotóxicos em amostras aquosas, usa-se principalmente água ultrapura42,44,45 ou uma mistura de uma pequena porcentagem de metanol com água ultrapura.26 Uma vez que os agrotóxicos são retidos nos cartuchos são, então, eluídos com um pequeno volume de solvente adequado para a análise.23 É importante a escolha do eluente, pois ele deve eluir os analitos e minimizar a eluição de interferentes que não tenham sido eliminados na etapa anterior, por estarem muito retidos no sorvente.7 A escolha do solvente de eluição é um parâmetro importante e está diretamente relacionada com a polaridade do agrotóxico e o sorvente usado na SPE. Entre os solventes usados estão acetonitrila,36,46 metanol,29,44,47 acetona,6 acetato de etila,48 hexano31 e as misturas de metanol-acetonitrila,26,35 acetato de etila-diclorometano,30 metanolacetona,34 e metanol-metil terbutil éter.42 A técnica de SPE também é empregada para análise de amostras que se encontram em local distante do laboratório, procedendo-se à
+
+
+
+
+
+extração e/ou pré-concentração no local. Após essa etapa o cartucho é armazenado a baixas temperaturas e transportado até o laboratório.23 Os cartuchos de SPE são oferecidos em diversos volumes e empacotados com diferentes quantidades de sorvente e a escolha depende de vários fatores, entre os quais o volume de amostra a ser usado, as concentrações e propriedades físico-químicas dos compostos de interesse presentes na amostra, o grau de contaminação (interferentes) e a complexidade da matriz. Entre os mais usados estão cartuchos contendo 20042,43,48,49 e 500 mg de sorvente.30,31 SPE ON-LINE O sistema de extração em fase sólida pode ser acoplado a uma técnica analítica a ser empregada após a etapa de eluição dos analitos como, por exemplo, LC-DAD e LC-MS. Desta forma, as etapas de extração, enriquecimento, clean-up e a análise dos compostos de interesse podem ser efetuadas em linha (on-line), ou seja, sem que o extrato necessite ser transferido manualmente do cartucho de SPE para o cromatógrafo.7 Na configuração on-line, o sistema de extração em fase sólida faz parte de um sistema cromatográfico e é, frequentemente, inserido na alça de amostragem, sendo, após a coleta, conectado diretamente na linha de alta pressão da fase móvel que atua como eluente. Faz parte da extração on-line uma técnica chamada de comutação de colunas, que inclui todos os métodos no qual a direção da vazão da fase móvel é alterada por meio de uma válvula rotatória, onde o efluente de uma coluna é desviado para outra coluna após certo intervalo de tempo. A primeira coluna é frequentemente de baixa eficiência e faz um enriquecimento ou pré-concentração da amostra. A fração contendo o analito é transferida para uma segunda coluna que possui alta eficiência.50 A automatização do preparo da amostra evita problemas comuns como contaminação da amostra, leva a um menor número de pessoas envolvidas na extração e minimiza a exposição a materiais perigosos, como solventes.51 O tempo necessário para processar uma amostra individual por SPE manual ou on-line é semelhante, no entanto o sistema on-line pode trabalhar continuamente e realizar a extração simultânea de 4 ou 8 amostras.51 Na Tabela 1 são apresentadas as características da SPE on-line comparada com a off-line. O uso da automação na extração em SPE está aumentando. Em 1989, existiam poucas publicações de artigos utilizando a SPE automatizada.51 Hoje é comum encontrar publicações utilizando SPE automatizada em várias aplicações da Química Analítica, especialmente na análise de agrotóxicos.53-55 Mais recentemente, um método baseado na SPE foi desenvolvido por Singer et al.56 para determinação simultânea dos compostos
+
+Tabela 1. Características comparativas entre SPE on-line e off-line52 SPE on-line
+
+SPE off-line
+
+Análise de todo o extrato; Pequenos volumes de amostra são suficientes para obter boa sensibilidade; Efeitos de matriz; supressão iônica em espectrometria de massas; Cartuchos reutilizáveis; Menor flexibilidade (a maioria dos sistemas não permite o uso combinado de cartuchos diferentes); Automatização e o mínimo de amostra, resultados com melhor precisão e exatidão; Rápida eluição da amostra depois da pré-concentração, degradação mínima; Consumo mínimo de solventes orgânicos (eluição com a fase móvel); Nenhuma perda de analito por evaporação; Ausência de extratos para verificação ou análise adicional; Tempo de análise reduzido; Alto processamento (extração e análise de amostras em uma sucessão); Sistema de custo elevado.
+
+Análise de uma alíquota do extrato; São necessários volumes elevados de amostra; Menor efeito matriz em espectrometria de massas; Cartuchos descartáveis; Extração em sequência e a possibilidade de usar combinações de diferentes cartuchos em série; Manipulação da amostra, possibilidade de contaminação, e menor precisão e exatidão; Risco de degradação de alguns compostos (tempo de análise maior); Consumo mais elevado de solventes orgânicos para eluição; Possível perda de analitos por evaporação; Podem ser executadas várias medidas com o mesmo extrato; Tempo de análise mais longo; Disponibilidade de sistemas SPE portáteis para uso no local da coleta; Sistema de baixo custo.
+
+
+
+1,2-benzoisotiazolina-3-ona, 3-Iodo-2-propenilbutil-carbamato, irgarol 1051, 2-N-octil-4-isotiazolinona, carbendazim, diazinona, diuron, isoproturon, mecoprop, terbutrin e terbutilazina e dos fármacos diclofenaco e sulfametoxazol em efluentes e água de superfície. O método proposto consistiu no acoplamento direto da SPE com o sistema LC-MS/MS atingindo LQs de 5 a 200 ng L-1. Postigo et al.57 utilizaram a SPE acoplada à LC-MS/MS para determinação de 22 agrotóxicos altamente polares em água subterrânea, obtendo LQs entre 0,07 e 13,3 ng L-1. SPE EM DISCOS A SPE pode variar, utilizando o formato de cartuchos ou de discos, e as vantagens e desvantagens de cada forma estão relacionadas ao número de amostras a serem processadas, e à natureza e volume das amostras. Depois do cartucho, o disco (ou membrana carregada de partícula) é o formato de SPE mais utilizado e o seu uso na SPE foi introduzido em meados dos anos 1990, originalmente para a extração de compostos orgânicos de matrizes aquosas.50,58 Os discos possuem partículas de sorvente com tamanho entre 5 e 10 µm e 6 nm de diâmetro do poro, que são entrelaçadas com politetrafluoretileno (PTFE) ou vidro, resultando em um disco de aproximadamente 0,5 mm de espessura e diâmetros que variam entre 47 e 90 mm contendo cerca de 500 mg de sorvente.50 Os discos são colocados em um sistema típico para filtração de solventes, onde é aplicado um vácuo para forçar a amostra a percolar pelo sistema. Sistemas manifolds estão disponíveis comercialmente para extração de múltiplas amostras utilizando discos de SPE. A grande área e a pequena espessura dos discos permitem um aumento na velocidade de extração, sem prejuízo da eficiência.7 As principais vantagens dos discos em relação aos cartuchos são devido ao seu formato, como leito mais homogêneo, pressões menores durante a aplicação da amostra e capacidade de reparar um volume maior de amostra.50 Recentemente foi demonstrado que discos de SPE com sorventes de polímeros de estireno divinilbenzeno podem ser usados para a extração de compostos orgânicos em amostras de água utilizando um volume de amostra de até 10 L.52 A utilização de vazões mais altas e menores volumes de solventes para a eluição, devido à pequena espessura de sorvente e grande área superficial, permite vazões da amostra mais rápidas, com pressões menores durante a aplicação da amostra e na eluição.50,59 O pequeno volume de eluição (30 a 100 μL) permite fazer a injeção direta no sistema cromatográfico.7 O pequeno tamanho das partículas melhora também o desempenho, proporcionando uma rápida transferência de massa. Porém, vazões elevadas podem resultar em baixas recuperações dos analitos de interesse.60 Outra vantagem desses sistemas que empregam fases impregnadas é a ausência de canais formados pelo material de empacotamento, o que usualmente ocorre nos cartuchos de SPE. A existência de canais em leitos empacotados provoca a formação de fluxos não uniformes, reduz a capacidade de sorção da fase estacionária e reduz a precisão e exatidão dos resultados.7 Entretanto, existem algumas desvantagens que devem ser consideradas, como a variação do desempenho entre produtos oferecidos por diferentes fabricantes, a variação entre lotes e, em alguns casos, a impossibilidade de tratamento de grandes volumes de amostra, características da SPE em todas as suas formas.24 Da mesma forma que os cartuchos, os poros dos discos podem ser obstruídos quando se extraem amostras contendo uma concentração relativamente alta de macromoléculas ou de material particulado. Assim, é aconselhável filtrar as amostras aquosas antes da extração ou usar pré-filtros inertes.50 Para aumentar a seletividade ou a capacidade dos discos, pode-se utilizar a técnica de empilhamento, na qual vários discos com diferentes ou mesmo sorventes são empilhados.50
+
+1607
+
+Tran et al.27 compararam diferentes métodos de extração e os discos SDB-XC® proporcionaram rapidez, eficiência e reprodutibilidade para determinação simultânea de herbicidas polares, ácidos e não ácidos em águas naturais, especialmente águas provenientes da agricultura, as quais contêm alta concentração de material particulado suspenso. As recuperações ficaram acima de 70% para a maioria dos compostos. No trabalho realizado por Santos Neto e Siqueira,61 a SPE com o uso de discos de C18 foi otimizada e validada para extração de agrotóxicos organofosforados em água. O preparo de amostra mostrou-se simples, rápido, eficiente, reprodutível, além de consumir pequeno volume de solvente em comparação com a LLE. A estabilidade dos agrotóxicos armazenados em discos de SPE foi estudada por Senseman et al..62 No estudo, amostras de água foram percoladas através dos discos com sorvente C18. Os ensaios mostraram que as amostras aquosas contendo agrotóxicos podem ser estocadas, em discos, por até 90 dias, evidenciando que há uma proteção com relação à hidrólise e à decomposição microbiana quando armazenados. MICROEXTRAÇÃO EM FASE SÓLIDA (SPME) A SPME foi proposta em 1989 por Arthur e Pawliszyn11 e é uma técnica de extração na qual uma fibra de sílica fundida envolvida com um filme polimérico é imersa na amostra, como ilustrado na Figura 2A.
+
+Figura 2. Esquema (A) da microextração em fase sólida (SPME) e (B) da extração sortiva em barra magnética (SBSE)
+
+Os analitos são sorvidos na fase estacionária e depois dessorvidos no injetor do cromatógrafo a gás ou na fase móvel do cromatógrafo a líquido.24 O procedimento mais comum é a dessorção térmica no injetor do cromatógrafo a gás, que elimina completamente o uso de solventes orgânicos.63,64 Os analitos também podem ser dessorvidos usando um solvente orgânico como, por exemplo, acetonitrila,65 combinado com cromatografia líquida ou eletroforese capilar.10 Nesse procedimento, a dessorção pode acontecer pelos modos dinâmico ou estático. No primeiro, os analitos estão fracamente adsorvidos na fibra e a dessorção ocorre pela passagem da fase móvel. No modo estático, utilizado quando os analitos estão fortemente adsorvidos, a fibra é mergulhada na fase móvel ou em outro solvente, por um período de tempo.65 A SPME elimina alguns problemas apresentados pela SPE e possui as vantagens de eliminar o uso de solventes, reduzir o tempo de extração, proporcionar bons resultados para uma ampla faixa de concentração e permitir facilmente a automatização.13,24 A SPME é utilizada na análise de agrotóxicos de diversas classes em matrizes aquosas, entre eles, na extração de organoclorados e organofosforados em águas.66-68
+
+
+
+A composição da fibra é determinante no procedimento de SPME, fibras baseadas em adsorventes sólidos estão sendo utilizadas e avaliadas, entre elas, polidimetilsiloxano (PDMS), poliacrilato (PA), polidimetil siloxano-divinilbenzeno (PDMS-DVB), Carbowax/DVB (CW/DVB), Carboxen/PDMS (CAR/PDMS), e DVB/Carboxen/ PDMS.10 Algumas dessas fibras possuem características mistas, sendo usadas para análises simultâneas de agrotóxicos, aumentando o espectro de aplicações da SPME. A fibra mais utilizada na extração de agrotóxicos em águas é a PDMS-DVB.63,69-71 Entretanto, outros tipos de fibras têm sido usados, como no trabalho desenvolvido por Padrón et al.,68 onde a eficiência de extração de organoclorados com dois tipos de fibras, PDMS-DVB e Carbowax/TPR-100 (CW/TPR), foram testadas. Diversos parâmetros envolvidos na extração e na dessorção foram estudados e otimizados. Os resultados indicaram que ambas as fibras são adequadas para extração dos compostos, demonstrando bons coeficientes de correlação com desvios padrões baixos. Capobiango e Cardeal72 utilizaram PDMS na extração de agrotóxicos organofosforados em amostras de água. O procedimento utilizando fibra de 100 µm foi descrito como simples, de fácil manuseio, econômico e livre de solvente. Com as condições de extração otimizadas obtiveram valores de limite de detecção (LD) entre 0,05 e 8,37 µg L-1. O desempenho analítico obtido para vários materiais pode ser diferente, como demonstrado por Beceiro-González et al.,63 que investigaram a eficiência de diferentes fibras, PDMS, PA e PDMS/DVB, na extração de agrotóxicos em águas. Os agrotóxicos estudados possuem uma ampla faixa de polaridade com diferentes características físicoquímicas. Os agrotóxicos organofosforados apresentaram melhor recuperação com a fibra PDMS/DVB, enquanto os organoclorados apresentaram comportamento diferente, variando a eficiência de extração com a fibra de PA e PDMS/DVB. No geral, a fibra PDMS/ DVB demonstrou boa aplicabilidade para análise de multiclasse de agrotóxicos com uma ampla faixa de polaridade. Diferentes recobrimentos poliméricos (PDMS, CAR/PDMS, CW/ DVB e PA) foram testados por Komatsu e Vaz73 para uma mistura com diferentes classes de agrotóxicos: dinitroanilinas, triazinas, organoclorados e piretróides. A fibra que apresentou melhor desempenho foi a de PA, 85 μm. O método analítico desenvolvido mostrou-se simples, rápido e sensível. Dentre suas principais vantagens pode-se destacar a pequena quantidade de amostra, cerca de 4 mL, necessária para as determinações, interessante para amostras de volume limitado. O método proposto apresentou boa recuperação e precisão. Para a determinação de herbicidas triazínicos, Djozan e Ebrahimi74 produziram uma nova fibra para SPME, pela copolimerização de ácido metacrílico-etileno glicol dimetacrilato moldado com atrazina. A fibra produzida é firme, de baixo custo, durável e termicamente estável até 280 °C. Os parâmetros de extração foram otimizados e a seletividade da fibra para compostos triazínicos em relação a outros agrotóxicos foi investigada. A fibra apresentou boa eficiência de extração para atrazina, simazina, propazina, cianazina, ametrina, terbutrina e prometrina, com LDs variando entre 20,0 e 68,0 ng mL-1. Basheer et al.67 estudaram a influência do pH da amostra na extração de agrotóxicos organofosforados por SPME e constataram que o pH também é um parâmetro importante que deve ser ajustado. O grau de ionização dos analitos afeta sua solubilidade em água e, portanto, sua adsorção na fibra. Foi testado o pH na faixa de 2 a 12, mas devido à neutralidade dos analitos, a eficiência de extração para a maioria dos organofosforados não foi afetada pelo pH da amostra, sendo escolhido como ideal o pH 8. De forma a aumentar a eficiência de extração, Yang e Lee75 utilizaram a eletroquímica combinada com a SPME para extração e determinação de paration por LC-MS/MS. Como fibra de extração e como cátodo foi utilizado um tubo de grafite. Esta estratégia permitiu um tempo de equilíbrio de 60 s e resultados satisfatórios para as figuras de mérito determinadas na validação do método, com uma faixa linear entre 10 e 1000 µg L-1 e LD de 0,3 µg L-1. Uma alternativa ao SPME na forma apresentada usualmente é a SPME em tubo, onde o material adsorvente recobre internamente um tubo muito fino, por onde é percolada a amostra e, posteriormente, os analitos retidos são dessorvidos para a análise. Esta técnica foi aplicada por Campíns-Falcó et al.76 para a determinação de agrotóxicos em água utilizando uma coluna capilar para GC (5% fenil 95% metilpolisiloxano; 80 cm x 0,32 μm de diâmetro interno e 0,3 μm de espessura de filme). A quantificação dos analitos foi por LC-DAD com LDs entre 0,008 e 0,2 μg L-1. Não foram observados efeitos da matriz e as recuperações obtidas ficaram entre 70 e 116%, com precisão entre 2 e 30%. EXTRAÇÃO SORTIVA EM BARRA MAGNÉTICA (SBSE) A técnica SBSE foi proposta por Baltussen et al.14 para o preparo de amostra sem solvente visando extrair e pré-concentrar compostos orgânicos de amostras aquosas. A SBSE é baseada na extração sortiva dos analitos sobre uma camada polimérica que reveste uma barra magnética envolta em uma camada de vidro, como ilustrado na Figura 2B. Para um revestimento de polidimetilsiloxano e amostras aquosas, o coeficiente de partição assemelha-se ao coeficiente de partição octanol-água, permitindo uma previsão do comportamento dos compostos. Inicialmente SBSE foi empregada principalmente para a extração de analitos em matrizes aquosas. A técnica tem sido aplicada também no modo headspace para amostras líquidas e sólidas e no modo passivo para a amostras de ar.16 As principais vantagens da sorção sobre PDMS estão relacionadas com o fato de o PDMS ser bastante inerte, permitindo boas recuperações de compostos lábeis, polares ou reativos; apresentar mecanismo de retenção bem conhecido e linearidade das isotermas de sorção, fundamentais para a quantificação dos compostos. Em contraste à extração com adsorventes, no qual os analitos são ligados nos sítios ativos da superfície do material, na extração sortiva além da área superficial o volume total de fase extratora também é importante. Após exposição na amostra, a qual pode ser direta ou no headspace, a barra de SBSE é removida e os compostos sorvidos são dessorvidos termicamente diretamente no sistema de cromatografia gasosa (GC - Gas Chromatography) ou dessorvidos por meio de um líquido para análise por LC.17 Lanças et al.77 publicaram, em 2009, uma ampla revisão sobre os recentes desenvolvimentos e aplicações da SBSE, destacando os fatores mais importantes que devem ser observados no desenvolvimento do método por SBSE, tais como, tempo de extração, pH e força iônica da matriz, efeito da adição de solvente orgânico, aditivos, temperatura, agitação, derivação antes da extração, influência da matriz e condições de dessorção dos analitos. A otimização em SBSE é efetuada normalmente avaliando-se a recuperação dos analitos em função do tempo de extração. As condições ótimas são obtidas quando o aumento do tempo não proporciona melhoria na recuperação. A recuperação de compostos com alta polaridade é mais eficiente com a adição de NaCl na amostra. A adição de um solvente orgânico, tal como metanol, permite a supressão da adsorção de compostos de baixa polaridade nas superfícies de vidro e na matriz da amostra. Após a extração, a barra magnética SBSE é removida e as gotas de água são removidas gentilmente com um papel absorvente adequado.78 Sánchez-Rojas et al.17 publicaram uma revisão sobre a técnica SBSE, destacando aspetos técnicos, tais como, procedimentos de extração, dessorção, uso de diferentes sorventes e aplicações para a
+
+
+
+Principais técnicas de preparo de amostra para a determinação de resíduos
+
+determinação de vários compostos, inclusive agrotóxicos, em matrizes ambientais, farmacêuticas e de alimentos. Embora a SBSE tenha sido mais amplamente utilizada em análises por GC, a dessorção com um solvente torna a técnica muito mais ampla, permitindo a extração sortiva de solutos não voláteis, viabilizando a análise por LC. Os novos métodos empregados em SBSE para análises de matrizes ambientais e biomédicas foram apresentados por Kawaguchi et al.,78 com destaque para os métodos SBSE envolvendo derivação in situ, desconjugação in situ, dessorção térmica (TD) e TD com derivação em tubo. Giordano et al.15 descreveram um método empregando SBSE e LC-MS/MS para a determinação de 16 agrotóxicos em águas de superfície por sorção em um filme de 1 mm de PDMS recobrindo uma barra magnética de 10 mm de comprimento. Após dessorção em 1 mL de metanol, a detecção foi efetuada em um sistema LC-MS/ MS triploquadrupolo e ionização por eletronebulização. Parâmetros que afetam a operação SBSE, incluindo o volume de amostra, adição de sal, tempo de extração, velocidade de agitação e as condições de dessorção foram avaliados. O método otimizado requer duas alíquotas de 50 mL de amostra. Em uma amostra são adicionados 30% de NaCl e agitada a 900 rpm por 1 h para avaliar 5 agrotóxicos com log Kow < 3, na outra alíquota é efetuada a extração direta para os agrotóxicos com log Kow > 3. O método permite a obtenção de valores de limite de quantificação (LQ) entre 0,03 μg L−1 para diazinona e 3 μg L−1 para simazina. O método foi aplicado no monitoramento de água de lagos e canais, apresentando ótimo desempenho. Um novo procedimento de extração denominado SBSE sequencial foi comparado à técnica SBSE convencional por Ochiai et al.,79 para a determinação de poluentes orgânicos em água. A SBSE sequencial proporcionou enriquecimento mais uniforme sobre toda a faixa de polaridade/volatilidade de poluentes orgânicos em nível de ultratraço em água. Na SBSE sequencial, 5 mL de amostra são extraídos primeiro sem modificador usando uma barra SBSE para extrair principalmente analitos com log Kow > 4,0, depois, na mesma amostra, após adição de 30% de NaCl é feita a extração com uma segunda barra para extrair compostos com log Kow < 4,0. O procedimento sequencial permitiu boa recuperação (82 a 113%) para mais de 80 agrotóxicos e recuperações abaixo de 80% para somente 5 compostos com log Kow < 2,5. O procedimento convencional com e sem adição de sal apresentou recuperações abaixo de 80% para 23 e 41 compostos, respectivamente. O método sequencial apresentou LD < 10 ng L−1 para a maioria dos compostos e foi aplicado com sucesso para a determinação de agrotóxicos em água de rio. A técnica SBSE com espuma poliuretana recobrindo a barra magnética foi aplicada por Portugal et al.,80 para a determinação por HPLC-DAD de metabólitos da atrazina em amostras de água com LDs entre 0,4 e 1,3 μg L-1. O tempo de extração otimizado foi de 5 h a 1000 rpm, com adição de 5% de metanol e 15% de NaCl. Para a dessorção foi utilizado acetonitrila e ultrassom por 60 min, atingindo recuperações de até 26,3% e RSD <2,4%, consideradas adequadas por ser uma técnica de extração por equilíbrio. As recuperações obtidas com espuma de poliuretana foram 10 vezes maiores em comparação com os revestimentos comerciais. MICROEXTRAÇÃO LÍQUIDO-LÍQUIDO DISPERSIVA (DLLME) O princípio básico da técnica DLLME, desenvolvida em 2006 por Rezaee et al.,18 é a dispersão de um solvente extrator (imiscível com água) e um solvente dispersor (miscível em água e no solvente extrator) em uma solução aquosa, o que proporciona uma grande área de contato entre a fase aquosa e o solvente extrator. As etapas do procedimento estão ilustradas na Figura 3. Uma mistura apropriada do
+
+1609
+
+solvente dispersor e do solvente extrator é injetada rapidamente, com auxílio de uma seringa, na solução aquosa. Após leve agitação, uma solução turva com microgotas é formada. As microgotas consistem no solvente extrator mais o analito já extraído. Após centrifugação, ocorre a sedimentação das microgotas formando uma fase sedimentada, que é retirada com o auxílio de uma seringa e é efetuada a quantificação dos analitos pela técnica mais apropriada.
+
+Figura 3. Etapas envolvidas na técnica DLLME
+
+Do ponto de vista comercial, econômico e ambiental, as vantagens da DLLME em relação aos métodos convencionais de extração com solvente são simplicidade de operação, rapidez, baixo custo, fácil manipulação, baixo consumo de solventes orgânicos, alta recuperação, alto fator de enriquecimento e compatibilidade com os métodos analíticos com análise por GC81,82 e por LC.83,84 A DLLME tem sido aplicada na extração de compostos orgânicos como plastificantes,85 fármacos,86 agrotóxicos87-89 e compostos inorgânicos.90 O processo de extração por DLLME é influenciado por alguns parâmetros, entre os quais volume e tipo de solvente extrator e de solvente dispersor, tempo de extração, força iônica e pH. A seleção de um solvente extrator apropriado é o parâmetro mais importante na DLLME. O solvente extrator deve ser selecionado dentre os que apresentarem maior densidade que a água, capacidade de extração dos compostos de interesse e bom comportamento cromatográfico. Na extração de agrotóxicos em águas por DLLME, os solventes extratores mais utilizados são os clorados, entre eles se destacam clorobenzeno,81 tetracloreto de carbono91 e tetracloroetileno.18 Líquidos iônicos como o hexafluorfosfato de 1-butil3-metilimidazólio também tem sido utilizados,92-94 dando origem à IL-DLLME - Ionic Liquid, procedimento proposto em 2009 por Liu et al.,95 que combina a extração e concentração dos analitos em uma só etapa, evitando etapas de aquecimento e resfriamento. Em DLLME, o volume do solvente extrator deve ser suficiente para extrair o analito e é escolhido o menor volume possível obtendose um alto fator de enriquecimento com menor uso de solventes tóxicos. Os volumes utilizados para extração de agrotóxicos variam, em geral, entre 15 e 116 µL. Para a escolha do solvente dispersor, a principal característica a ser considerada é a sua miscibilidade na fase orgânica (solvente extrator) e na fase aquosa.18 A necessidade destas características limita, geralmente, ao uso de metanol, acetonitrila, acetona e tetra-hidrofurano (THF). A variação no volume de solvente dispersor influencia no volume de fase sedimentada, então, é possível considerar a influência do solvente dispersor na eficiência da extração.18 Os solventes mais utilizados nos estudos com agrotóxicos são a acetonitrila e o metanol, e os volumes variam entre 500 e 2000 µL. O líquido iônico tetrafluorborato de 1-butil-3-metilimidazólio também foi utilizado como dispersor, empregando-se um volume de 300 µL.94 A injeção, com o auxílio de uma seringa, da mistura dos solventes extrator e dispersor na amostra é recomendada por Rezzae et al.,18 pois quando o dispersor e o extrator são adicionados separadamente na amostra aquosa, não se observa a formação de uma fase sedimentada. Para verificar se havia diferença com o uso de uma micropipeta ao invés de uma seringa, García-López et al.96 realizaram experimentos com ambas. Dados experimentais mostraram que não há diferença entre os experimentos. O que deve ser feito é a agitação do tubo de extração, após a adição da mistura de solventes e antes da centrifugação, para que ocorra o contato íntimo e prolongado entre a fase aquosa e a orgânica. A influência da força iônica também deve ser considerada, uma vez que influencia na separação das fases. O aumento na concentração de NaCl aumenta o volume de fase sedimentada, devido à diminuição da solubilidade do solvente extrator na presença de um sal.85 Esta influência será de acordo com as características de cada analito. Observa-se nos trabalhos uma grande variação da adição de NaCl, desde a não utilização até a adição de 0,5 a 10%. Outro parâmetro que deve ser levado em consideração é o pH, que é otimizado em função da acidez ou basicidade dos compostos. Compostos ácidos normalmente requerem uma acidificação da amostra para permanecerem na forma molecular e facilitar a partição dos analitos nas microgotas do solvente extrator. A acidificação é empregada, por exemplo, quando se trabalha com compostos da classe dos clorofenoxiacéticos. O tempo de extração na DLLME, que é definido como o intervalo
+
+
+
+entre a injeção da mistura dos solventes extrator e dispersor na fase aquosa e a centrifugação, também deve ser otimizado e é um dos parâmetros mais importante em técnicas de microextração. Rezzae et al.18 examinaram o tempo de extração entre 0 e 60 min para a extração de hidrocarbonetos policíclicos aromáticos (HPAs) em amostras de águas e concluíram que o tempo de extração é muito rápido. Isso pode ser explicado devido à elevada área superficial entre o solvente extrator e a amostra, como foi confirmado por microscopia ótica. Isso comprova que a transferência dos analitos para a fase orgânica é rápida, sendo o estado de equilíbrio atingido quase que instantaneamente, resultando em um tempo de extração muito curto. Isto foi comprovado em outros estudos, como no realizado por Nagaraju e Huang.81 Pode-se concluir que, nessa técnica, o equilíbrio é atingido imediatamente e a etapa que consome mais tempo é a centrifugação. A centrifugação na DLLME é essencial para que se obtenham duas fases distinguíveis nos tubos de extração.96 Depois da retirada da fase sedimentada, esta pode ser injetada diretamente no equipamento ou evaporada e redissolvida em um solvente apropriado. Normalmente em trabalhos com LC em fase reversa, quando são utilizados solventes extratores, como tetracloreto de carbono, é necessária a mudança de solvente. Este procedimento foi adotado por Farajzadeh et al.,97 pois o tetracloreto de carbono não apresentou um bom comportamento cromatográfico, causando alargamento dos picos e aumento do ruído. A fase sedimentada foi evaporada em banho-maria e redissolvido em 50 µL de metanol. Na Tabela 2 podem-se observar as principais características dos trabalhos que utilizaram a DLLME para extração de agrotóxicos em águas com determinação por LC.
+
+Tabela 2. Trabalhos publicados empregando DLLME para extração de agrotóxicos em amostras de água e os principais parâmetros de extração para posterior determinação por cromatografia líquida Solvente Dispersor (Volume)
+
+Solvente Extrator (Volume)
+
+R%
+
+DPR%
+
+LD do método (µg L-1)
+
+Quantificação
+
+Ref.
+
+Carbamatos
+
+Metanol (500 µL)
+
+C2H2Cl4 (20 µL)
+
+2 min (4000 rpm)
+
+8 µL
+
+-
+
+-
+
+2,6
+
+1,0
+
+LC-DAD
+
+83
+
+Clorofenóxiacéticos
+
+THF (1920 µL)
+
+C2Cl4 (80 µL)
+
+10 min (4000 rpm)
+
+270 µL
+
+0,2 mol L-1 HCl/3% NaCl
+
+-
+
+2,8 – 3,5
+
+2,3 – 3,3
+
+LC-UV
+
+84
+
+Carbamatos
+
+Metanol (565 µL)
+
+CH2Cl2 (116 µL)
+
+10 min (4000 rpm)
+
+-
+
+-
+
+99,1
+
+5,7
+
+1,0
+
+LC-UV
+
+88
+
+Acetonitrila (1000 µL)
+
+C2H2Cl4 (15 µL)
+
+3 min (3500 rpm)
+
+5 µL
+
+-
+
+0,01 – 0,02
+
+LC-FLD
+
+89
+
+Pirazóis, Tiadiazinona Tiazolidinacarboxamida
+
+Metanol (500 µL)
+
+[C6MIM][PF6] 0,052 g
+
+10 min (4000 rpm)
+
+19 µL
+
+-
+
+79,0-110,0
+
+4,5 -10,7
+
+0,53-1,28
+
+L C-DAD
+
+92
+
+Organofosforados
+
+Metanol (500 µL)
+
+[BBim][PF6] 0,062 g
+
+5 min (4000 rpm)
+
+-
+
+-
+
+92,7 – 109,1
+
+1,3 – 2,7
+
+0,01 – 0,05
+
+LC-UV
+
+93
+
+Piretroides
+
+[C4MIM][BF4] (300 µL)
+
+[C8MIM][PF6] (50 µL)
+
+6 min (5000 rpm)
+
+-
+
+-
+
+84,1 – 113,5
+
+0,9 – 14,2
+
+0,28 – 0,83
+
+LC-UV
+
+94
+
+Carbamatos
+
+Acetonitrila (1000 µL)
+
+CHCl3 (40 µL)
+
+5 min (4000 rpm)
+
+20 µL
+
+86,0 - 97,6
+
+3,5 -8,7
+
+0,1 - 0,5
+
+LC-DAD
+
+95
+
+Carbamatos
+
+THF (750 µL)
+
+CHCl3 (80 µL)
+
+3 min (3500 rpm)
+
+-
+
+0,5 g NaCl
+
+50,8 – 70,9
+
+3,5 -6,8
+
+0,5 – 1,0
+
+LC-FLD
+
+98
+
+Fenil uréias
+
+THF (1000 µL)
+
+Diclorometano (60 µL)
+
+5 min (4000 rpm)
+
+75 µL
+
+0,5 % NaCl
+
+91,2 – 104,1
+
+0,9 – 5,9
+
+0,1 – 0,28
+
+LC-DAD
+
+99
+
+Organoclorados
+
+Acetonitrilla (600 µL)
+
+CCl4 (50 µL)
+
+6 min (5000 rpm)
+
+-
+
+-
+
+85,6 – 119,6
+
+2,8 – 7,5
+
+0,32 – 0,51
+
+LC-UV
+
+100
+
+Carbamatos
+
+acetonitrila (1000 µL)
+
+Clorobenzeno (35 µL)
+
+5 min (4000 rpm)
+
+20 µL
+
+-
+
+74,2 – 94,4
+
+1,8 – 4,6
+
+100 – 500
+
+LC-UV
+
+101
+
+Carbamato, cloro-fenóxiacético e triazol
+
+Acetonitrila (2000 µL)
+
+CCl4 (60 µL)
+
+2 min (5000 rpm)
+
+50 µL
+
+pH 2,0
+
+62,7-120
+
+1,9-9,1
+
+0,02
+
+LC-MS/MS
+
+102
+
+Clorofenóxiacéticos
+
+Acetona (1000 µL)
+
+C6H5Cl (25 µL)
+
+5 min (5000 rpm)
+
+-
+
+pH 1,5 / 10% NaCl
+
+94,0 – 102,9 4,96 – 7,08
+
+0,16
+
+LC-DAD
+
+103
+
+Organoclorados
+
+Acetona (1000 µL)
+
+Tetracloroetileno (15 µL)
+
+5 min (5000 rpm)
+
+-
+
+pH 3 / 1% NaCl
+
+90,0 – 94,4
+
+30,0
+
+LC-DAD
+
+104
+
+Classe de Agrotóxico
+
+Carbamatos e organofosforados
+
+Tempo de Volume Acidificação centrifugação de fase / Força Iônica (Velocidade) sedimentada
+
+80,4 – 114,2 1,12 – 6,05
+
+3,9 – 4,3
+
+Volume de amostra utilizado: 5 mL; R= recuperação; DPR=desvio padrão relativo; LD= limite de detecção; LC= Cromatografia Líquida; DAD= Detecção por Arranjo de Diodos; UV= Ultravioleta; FLD= Detecção por Fluorescência; MS/MS= Detecção Espectrométrica de Massas Sequencial; [BBim][PF6] =1,3-dibutilimidazólio hexafluorfosfato; [C6MIM] [PF6] = hexafluorfosfato de 1-butil-3-metilimidazólio; [C8MIM][PF6] = hexafluorfosfato de 1-octil-3-metilimidazólio; [C4MIM][BF4] = tetrafluoborato de 1-butil-3-metilmidazólio
+
+Trabalhos com modificações da DLLME têm sido publicados, mas nenhum com determinação por LC. Leong e Huang105 desenvolveram um método rápido e simples para determinação de agrotóxicos organoclorados em amostras de águas. O método foi baseado na DLLME com solidificação da gota orgânica flutuante (DLLME-SFO - Solidification of a Floating Organic Drop) combinado com GC. A técnica utiliza apenas 200,0 µL de acetonitrila como dispersor e 10,0 µL de hexadecano como extrator. O procedimento é o mesmo da DLLME, envolvendo a injeção rápida da mistura dos solventes em um volume de 5 mL de amostra de água. Após centrifugação, a gota formada, aproximadamente 6,0 µL, flutua na solução e o tubo é colocado em banho de gelo para resfriar. O solvente extrator solidifica e, após 5 min, é retirado com auxílio de uma espátula e colocado em um frasco para a análise. Nas melhores condições de extração, o método apresentou recuperações que variaram entre 82,9 e 102,5%, com desvio padrão relativo (DPR) entre 5,8 e 8,8%. Os valores de LD ficaram entre 0,011 e 0,11 µg L−1. A mesma técnica foi empregada na extração de piretroides em água, por Liu et al.106 Esta modificação permitiu o emprego de solventes menos densos que a água como hexadecano, 1-dodecanol e 1-nonanol. Chang et al.107 empregaram 1-nonanol como solvente extrator, sem utilizar o banho de gelo, na técnica DLLME-ISCS, Improved Solvent Collection System, que consiste em retirar a gota flutuante com um pouco da fase aquosa com auxílio de uma seringa e colocar em um microtubo, no qual a separação ocorre imediatamente. O método apresentou recuperações entre 73 e 119%, com precisão entre 1,0 e 10,8% e LDs entre 0,7 e 9,4 ng L-1. O emprego da DLLME com pouco consumo de solvente (DLLME-LSC - Little Solvent Consumption) foi proposto por Tsai e Huang,108 onde foram utilizados 13 µL da combinação do dispersor e do extrator, na proporção de 6:4 (v/v) em um tempo de extração de 90 s. O método foi desenvolvido para extração de agrotóxicos organoclorados de amostras de águas em combinação com a determinação por GC. A formação de gotas minúsculas de alta área superficial facilita a transferência de massa e produz altas recuperações em pouco tempo de extração. A repetitividade do método ficou entre 5,6 e 8,9% para águas de rio com LD entre 0,4 e 1,3 ng L-1. Outra modificação recente é o uso de um solvente para separação da solução turva formada (água-extrator-dispersor), dispensando a etapa de centrifugação. SD-DLLME, Solvent-based De-emulsification, e ST-DLLME, Solvent Terminated, utilizando acetonitrila para a separação das fases, foram empregadas por Zacharis et al.109 e Chen et al.110, respectivamente. LC-DAD Generalidades A cromatografia líquida complementa a cromatografia gasosa, pois para alguns agrotóxicos a determinação por GC não é adequada devido à instabilidade térmica e/ou insuficiente volatilidade dos compostos.68 A maioria das análises atuais por LC são realizadas empregando detecção por espectrofotometria, condutividade elétrica, fluorescência e espectrometria de massas.26,36,65,89 Entre os detectores espectrofotométricos mais adequados estão os equipamentos com detecção por arranjo de diodos (DAD) que permitem obter um espectro de absorção a cada segundo, gerando informações que possibilitam a confirmação dos compostos.111 O detector DAD possui alta resolução espectral e em adição a informações qualitativas, a qualidade da análise é aumentada, permitindo checar a identidade do composto e a pureza do pico.112 Assim, dados espectrais para cada pico cromatográfico podem ser coletados e armazenados à medida que os compostos eluem da coluna, fornecendo
+
+1611
+
+informações adicionais para confirmar a identidade do pico.113 A pureza do pico cromatográfico é examinada comparando os espectros em diversos pontos do pico como, por exemplo, no início, no ápice e no fim. Se eles se sobrepõem, o pico é puro. Isto fornece um dado extra para o analista que assim saberá se há ou não interferentes eluindo no mesmo tempo de retenção que o analito. Para tal comparação é necessária alta resolução espectral para que estruturas moleculares similares, que podem absorver de maneira semelhante, possam ser diferenciadas. A resolução espectral aconselhada para se garantir alta resolução é tipicamente menor que 1 nm. Com este detector é possível obter espectros tridimensionais, mostrando absorbância, comprimento de onda e tempo de retenção.112 O detector por arranjo de diodos é bastante usado para análises de agrotóxicos, devido a sua versatilidade, alta seletividade e resolução espectral dos compostos.24 A verificação da pureza dos picos em análises de rotina aumenta a qualidade da informação dos resultados das análises. A identidade dos compostos pode ser confirmada em comparação com a biblioteca de espectros.112 Aplicações Diversos trabalhos têm sido publicados utilizando LC-DAD para determinação de resíduos de agrotóxicos em diversas matrizes aquosas (Tabela 3). Fica evidente que a maioria das aplicações descritas na Tabela 3 empregou a SPE no preparo de amostra de água, fornecendo bons resultados para a maioria dos agrotóxicos de diversas classes avaliados. LC-MS Generalidades No passado, os métodos que utilizavam a LC eram pouco utilizados na análise de resíduos de agrotóxicos, devido a uma menor seletividade e sensibilidade dos detectores utilizados como, por exemplo, o espectrofotométrico, quando comparados com os métodos de GC disponíveis na época.20,123 O desenvolvimento de agrotóxicos polares, que, em geral, apresentam menor persistência e toxicidade quando comparados com os compostos apolares, exigiu a adequação dos métodos de análise existentes, uma vez que a maioria destes novos compostos não apresenta uma boa resposta quando analisados por GC.123 A versatilidade do acoplamento entre a LC e a espectrometria de massas já havia sido reconhecida há várias décadas, porém incompatibilidades relacionadas com a vazão da fase móvel, a eficiência do sistema de vácuo e o desempenho da fonte de ionização do espectrômetro de massas fizeram com que a utilização desta técnica em análises de rotina ocorresse mais recentemente.20 Nos últimos 10 anos, a aplicação da técnica de LC-MS tornou-se uma importante ferramenta analítica na determinação de resíduos e contaminantes, em função da combinação entre a aplicabilidade da LC aliada à grande capacidade de detecção dos analisadores MS. Desta forma, este acoplamento possibilitou o desenvolvimento de métodos que possuem como características maior seletividade, sensibilidade e especificidade.123 Em MS, a sensibilidade da resposta é dependente do tipo de fonte de ionização utilizada. No passado, a interface termospray (TS) era frequentemente empregada na determinaçao de resíduos e contaminantes. Atualmente, a utilizaçao desta fonte é raramente relatada, devido ao desenvolvimento de novas fontes de ionização que proporcionam melhor performance de ionizaçao.124 A interface TS foi susbstituída pelas interfaces que promovem a ionização à pressão atmosférica (API - atmospheric pressure ionization) como, por exem-
+
+
+
+Tabela 3. Trabalhos publicados empregando LC-DAD para a determinação de agrotóxicos em amostras de água e os principais parâmetros cromatográficos Tipo de água
+
+Agrotóxicos
+
+Coluna
+
+Fase Móvel
+
+LD, µg L-1
+
+l, nm
+
+Técnica de Extração
+
+R, %
+
+Ref.
+
+subterrâneas
+
+2,4-D, aldicarbe, atrazina, carbofurano, desetilatrazina, desisopropilatrazina, metalaxil, simazina, metazacloro, dicloran, fenmedifam, linurom, Iprodiona, fenitrotiona, procimidona, vinclozolina
+
+C18 25 cm
+
+acetonitrila e água 0,1% H3PO4
+
+0,003 - 0,04
+
+máximo de absorção
+
+SPE
+
+>70, exceto para fenmedifam
+
+26
+
+superfície
+
+atrazina, bentazona, carbutamida, clorprofam, clorotalonil, clorotolurom, desetilatrazina, desiso-propilatrazina, diurom, linurom, etofumesato, flusilazol, isoproturom, metabenzotiazurom, neburom, simazina, fenmedifam, prometrina, propizamida, terbutilazina, terbutrina, dinoterb
+
+polimérica 25 cm
+
+acetonitrila e água
+
+0,02 - 0,09
+
+máximo de absorção
+
+SPE
+
+43 - 93
+
+35
+
+rio
+
+1-(3-cloro-4-metilfenil) uréia, clorosulfurom, clorotolurom, diurom, fenurom, fluometurom, isoproturom, linurom, metobromurom, triasulfurom
+
+C18 15 cm
+
+acetonitrila e água 0,021 - 0,042 tampão fosfato 0,005 mol L-1
+
+SPE
+
+70 - 90
+
+36
+
+mar
+
+diurom irgarol
+
+C18 15 cm
+
+acetonitrila e água
+
+0,005 -0,026
+
+224 244
+
+SPE
+
+>82, exceto DCA 30,5
+
+44
+
+superfície
+
+2,4-D, carbendazim, hexazinona, picloram, simazina
+
+acetonitrila e acetato de amônio 1 mmol L-1 e acetonitrila e ácido acético 17 mmol L-1
+
+0,1
+
+220 230
+
+SPE
+
+>80
+
+46
+
+subterrânea
+
+2,4-D, carbofurano, clomazona, tebuconazol
+
+C18 25 cm
+
+acetonitrila água
+
+0,2
+
+220,3
+
+SPE
+
+87,9 - 96,9
+
+47
+
+subterrâneas
+
+terbutilazina e metabólitos, atrazina e metabólitos, linurom e metabólitos, alacloro, metolacloro
+
+C18 e polimérica
+
+acetonitrila e água e dihidrogeno-fosfato de potássio e acetonitrila
+
+0,01 - 0,05
+
+mar, esgoto e subterrânea
+
+organoclorados
+
+C18 15 cm
+
+metanol e água
+
+0,3 - 1,5
+
+238 220
+
+SPME
+
+88 - 115
+
+68
+
+chuva, superfície e subterrânea
+
+carbamatos
+
+C18 25 cm
+
+metanol e água
+
+0,1 - 0,5
+
+máximo de absorção
+
+DLLME
+
+86 - 97,2
+
+92
+
+torneira, lago e fontes
+
+Buprofezina, clorofenapir, fipronil, hexitiazoxi
+
+metanol e água
+
+0,53 - 1,28
+
+215
+
+IL-DLLME
+
+79 - 110
+
+95
+
+lago e torneira
+
+foxim
+
+C8 15 cm
+
+acetonitrila e água
+
+10
+
+210
+
+SPE
+
+92,3 - 96,7
+
+114
+
+superfície
+
+clorimurom-etílico, diurom, imazetapir, linurom, nicosulfurom
+
+C18 15 cm
+
+acetonitrila e água pH 3,0
+
+0,15 - 0,45
+
+220
+
+SPE
+
+72 - 111
+
+115
+
+223
+
+SPE
+
+58 – 103,7
+
+116
+
+SPE
+
+64 - 97
+
+117
+
+rio, reservatório, Atrazina, simazina torneira e efluente
+
+C18 25 cm
+
+C 18
+
+C18
+
+acetonitrila e água 0,009 - 0,033
+
+210 245
+
+SPE
+
+48
+
+superfície
+
+Carbendazim, clorotalonil, folpete, quinometionato, tetradifona
+
+C18 25 cm
+
+acetonitrila e água 0,005 - 0,025 0,6% amônia
+
+subterrânea
+
+acetamiprido, aldicarbe, azoxistrobina, carbendazim, carbofurano, diurom, imidacloprido, metomil, tiacloprido, teflubenzurom, tiametoxam, triflumurom
+
+C18 25 cm
+
+acetonitrila e água
+
+0,06 -0,57
+
+230
+
+SPE
+
+73 - 113
+
+118
+
+lago
+
+Atrazina, clofentezina, clorofenvinfós, hexaflumurom, terbutilazina, lenacil, neburom, bitertanol, metamitrom
+
+C18 15 cm
+
+acetonitrila e água
+
+20 - 450
+
+240 244 254 300
+
+SPE
+
+76 - 107
+
+119
+
+potável e de irrigação
+
+bensulfurom-metílico, bentazona, bispiribaquesódico, cialofope-butílico, metsulfurommetílico, pirazosulfurom-etílico
+
+C18 15 cm
+
+acetonitrila e água
+
+0,03 - 0,04
+
+máximo de absorção
+
+SPE
+
+70 - 119,6
+
+120
+
+rio e superfície
+
+bispiribaque-sódico
+
+C18 25 cm
+
+acetonitrila e água pH 2,0
+
+0,1
+
+247
+
+SPE
+
+93,3 - 99,7
+
+121
+
+Rio e consumo
+
+2,4-D, carbofurano, clomazona, tebuconazol
+
+C18 25 cm
+
+acetonitrila e água
+
+0,03-0,04
+
+máximo de absorção
+
+SPE
+
+85-107,7
+
+122
+
+LC-DAD= Cromatografia Líquida com Detecção por Arranjo de Diodos; LD= limite de detecção; λ = comprimento de onda; R= recuperação; SPE= Extração em Fase Sólida; SPME= Microextração em Fase Sólida; DLLME= Microextração Líquido-Líquido Dispersiva; IL= líquido iônico; DCA= dicloroanilina.
+
+plo, a ionização por eletronebulização (ESI - electrospray ionization) e a ionizaçao química à pressão atmosférica (APCI - atmospheric pressure chemical ionization). Estas interfaces proporcionam um incremento de cerca de duas ordens de magnitude na sensibilidade, quando comparadas com a fonte de ionização TS.124,125 Na literatura estão descritos diversos métodos de análise de resíduos de agrotóxicos, empregando ESI ou APCI como fonte de
+
+ionização. A partir destas informações, observa-se que durante o desenvolvimento de um novo método para a determinação de resíduos de agrotóxicos, não há protocolo definido a ser seguido para a escolha da fonte de ionização.125 Esta característica deve-se à complexidade das moléculas de agrotóxicos, uma vez que é díficil prever o processo de fragmentação, de acordo com a teoria da ionização. As móleculas de agrotóxicos, normalmente, possuem sítios básicos que podem
+
+Principais técnicas de preparo de amostra para a determinação de resíduos
+
+ser facilmente protonados, assim como átomos eletronegativos que possuem a tendência em atrair elétrons. Por outro lado, a ionização não depende somente dos parâmetros da interface, mas também da composição e do pH da fase móvel utilizada.123 Em geral, agrotóxicos de caráter ácido (analisados no modo de ionização negativo) apresentam um melhor sinal analítico em LC-MS quando analisados com uma fase móvel alcalina. Por outro lado, uma fase móvel ácida porporciona o aumento de sinal para agrotóxicos com caráter alcalino (analisados no modo de ionização positivo). Ou seja, as melhores condições para determinados grupos de compostos muitas vezes não são adequadas para outros. Assim, a seleção da composição da fase móvel e da fonte de ionização é normalmente realizada experimentalmente. Desta forma, é particularmente difícil realizar esta seleção quando uma grande variedade de agrotóxicos deve ser analisada. A complexidade da matriz é outro fator que deve ser considerado ao selecionar a fase móvel. Os coextrativos presentes na amostra podem competir com os analitos no processo de ionização. Em amostras de água, a presença de espécies iônicas, como os ácidos húmicos, pode ocasionar a redução do sinal analítico, quando analisadas sob condições alcalinas. Apesar dos vários esforços realizados para estudar o fenômeno do efeito matriz em LC-MS, estes mecanismos não estão totalmente elucidados. Assim, o efeito matriz continua sendo a maior limitação desta técnica. De forma geral, este problema apresenta a seguinte ordem de magnitude: alimentos > sedimentos > solo > águas residuais > água de superfície. A ocorrência deste efeito pode ser observada através da supressão ou do aumento do sinal analítico.126 Atualmente, a configuração mais utilizada em LC-MS é a que resulta do acoplamento do sistema de cromatografia líquida com um analisador do tipo triplo quadrupolo (QqQ). Estes analisadores operam através de interfaces do tipo API e permitem o monitoramento de uma determinada reação (selected reaction monitoring, SRM). As principais vantagens da utilização destes detectores, na análise de resíduos de agrotóxicos, são a alta sensibilidade e seletividade. Os analisadores do tipo QqQ tornaram-se os mais utilizados devido à facilidade de manuseio, tamanho reduzido e custo relativamente baixo.123
+
+1613
+
+Nos instrumentos do tipo QqQ, o íon de interesse é pré-selecionado no primeiro quadrupolo (Q1), após, o íon é ativado com energias de até 300 eV na câmara de colisão (Q2), previamente pressurizada com argônio. Os fragmentos desta colisão são analisados no terceiro quadrupolo (Q3). Este processo, caracterizado pela baixa energia, é conhecido como dissociação induzida por colisão (collision-induced dissociation, CID) tem como vantagem a certeza sobre a origem dos fragmentos, uma vez que o íon precursor é selecionado antes da colisão.123 A versatilidade deste analisador permite a utilização de várias estratégias para a seleção dos íons de interesse (como, por exemplo, full-scan, perda de neutrons, íon precursor, íon produto). O QqQ pode operar tanto no modo de varredura (screening), como no MS/ MS (tandem mass spectrometry) utilizando o monitoramento de reações selecionadas (selected reaction monitoring, SRM) ou múltiplas (multiple reaction monitoring, MRM). O monitoramento das reações simples ou múltiplas aumenta o limite de detecção nas determinações analíticas empregando LC-MS. Os quadrupolos (Q1 e Q3) são fixados em uma única massa cada, permitindo que a grande maioria dos íons de interesse seja detectada.123 A SPE é um dos principais métodos de preparo de amostra utilizado para a extração de agrotóxicos em amostras de água. Este método quando combinado com a LC-MS permite a determinação de resíduos de agrotóxicos, devido à etapa de pré-concentração. Desta forma, a combinação entre SPE e LC-MS tornou-se uma alternativa atrativa para atender os limites de resíduos requeridos. Além disso, a versatilidade, relacionada ao escopo de compostos que podem ser analisados por SPE, a quantidade reduzida de solventes e a possibilidade de preparo de várias amostras em paralelo são outras vantagens deste método.127-129 Aplicações A Tabela 4 apresenta detalhes de aplicações de LC-MS para determinação de resíduos de agrotóxicos em água. Fica evidente que na determinação de resíduos de agrotóxicos em águas há uma tendência em utilizar LC-MS em conjunto com SPE.
+
+Tabela 4. Aplicações de LC-MS para determinação de resíduos de agrotóxicos em água Preparo da amostra
+
+Técnica de análise
+
+LD
+
+LQ
+
+R% (DPR%)
+
+Ref.
+
+12 agrotóxicos organoclorados
+
+1 L amostra  SPE AccuBond II (C18 – 500 mg)  eluição: 4 mL DCM  evaporação com N2  reconstituição com 200 µL de THF  injeção 60 nL
+
+LC-MS EI, SIM
+
+0,044 – 0,081 µg L-1
+
+-
+
+66 -113 (≤ 32)
+
+130
+
+95 agrotóxicos multiclasse
+
+5 mL amostra  SPE Strata® (C18 ) + Strata X® (polimérico)  eluição: ACN/água (80:20 v/v)  injeção 100 µL
+
+LC-MS/MS ESI (+/-), MRM
+
+1 – 50 ng L-1
+
+2 – 500 ng L-1
+
+70 -120 (≤ 30)
+
+131
+
+22 agrotóxicos multiclasse
+
+5 mL amostra  SPE PRLP´s® (polimérico ) + HySphere GP® (polimérico )  eluição: fase móvel  injeção 5 µL
+
+LC-MS/MS ESI (+/-), MRM
+
+0,02 – 3,91 ng L-1
+
+0,07 – 13,31 ng L-1
+
+75 -178 (≤ 16,4)
+
+132
+
+11 agrotóxicos triazínicos e metabólitos
+
+100 mL amostra  SPE Oasis HLB® (polimérico: 200 mg)  eluição: 5 mL acetona  evaporação com N2 / 40 °C  reconstituição com 1 mL ACN/água (10:90 v/v) injeção 15 µL
+
+LC-MS/MS ESI (+), MRM
+
+0,03 – 2,6 pg L-1
+
+0,9 – 20 ng L-1
+
+99 -121 (≤ 9)
+
+133
+
+44 compostos orgânicos polares
+
+400 mL amostra  SPE Oasis HLB® (polimérico: 200 mg)  eluição: 6 mL metanol  evaporação até 500 µL  injeção
+
+LC-MS/MS ESI (+/-), MRM
+
+1 – 50 ng L-1
+
+-
+
+47 – 89 (≤ 14)
+
+134
+
+19 agrotóxicos organoclorados
+
+2 L amostra  SPE Carbograph 4® (carvão grafitizado: 500 mg)  eluição: 1,5 mL metanol + 8 mL DCM/ metanol (80:20 v/v) + 3 mL DCM  evaporação 30 °C com N2  reconstituição com 100 µL água/THF (50:50 v/v)  injeção
+
+LC-MS EI, MRM
+
+0,002 - 0,052 µg L-1
+
+-
+
+56 – 119 (≤ 25)
+
+135
+
+10 agrotóxicos sulfoniluréias
+
+400 mL amostra  SPE Oasis HLB® (polimérico: 200 mg)  eluição: 3 mL ACN  evaporação  reconstituição com 500 µL ACN  injeção
+
+LC-MS ESI (+), MRM
+
+6 – 34,8 ng L-1
+
+-
+
+76,6 – 109,1 (≤ 14,5)
+
+136
+
+glifosato, AMPA e glifosinato
+
+80 mL amostra  derivatização  SPE Strata-X® (polimérico: 200 mg)  eluição: 9 mL metanol  evaporação com N2 / 50 ºC até 50 μL  reconstituição com 250 µL de acetato de amônio 5 mmol L-1 (pH:9) injeção 20 µL
+
+LC-MS ESI (+), MRM
+
+0,2 – 0,9 ng L-1
+
+0,1 – 3,4 ng L-1
+
+91 – 107 (≤ 12)
+
+137
+
+Agrotóxicos
+
+
+
+
+
+
+
+
+
+Tabela 4. continuação Preparo da amostra
+
+Técnica de análise
+
+LD
+
+LQ
+
+R% (DPR%)
+
+Ref.
+
+28 agrotóxicos multiclasse
+
+500 mL amostra  SPE Oasis HLB® (polimérico: 225 mg)  eluição: 6 mL metanol  evaporação com N2  reconstituição com 500 µL acetato de amônio 5 mmol L-1/metanol (90:10 v/v) injeção 50 µL
+
+LC-MS ESI (+/-), MRM
+
+0,0041 – 0,0161 µg L-1
+
+0,025 – 0,050 µg L-1
+
+56 – 97 (≤ 23)
+
+138
+
+5 agrotóxicos benzoiluréias
+
+400 mL amostra + 100 µL metanol  SPE Plus® (C18: 360 mg)  eluição: 5 mL ACN + 5 mL DCM  injeção 20 µL
+
+LC-MS ESI (-), MRM
+
+0,0026 – 0,075 µg L-1
+
+0,0068 – 0,0213 µg L-1
+
+73,1 – 110,4 (≤ 10)
+
+139
+
+13 agrotóxicos organoclorados
+
+495 mL amostra + 5 mL ACN  SPE Strata® (C18: 500 mg)  eluição: 3 mL acetato de etila  evaporação com N2  reconstituição 250 μL 2,4-diclorofenol/ACN  injeção 20 µL
+
+LC-MS APCI (-), MRM
+
+0,0008 – 0,083 µg L-1
+
+-
+
+73 – 114 (≤ 20)
+
+140
+
+6 agrotóxicos fenóxiácidos
+
+500 mL amostra (pH:2)  SPE ISOLUTE ENV® (polimérico: 200 mg)  eluição: (2x) 2 mL acetona/acetato de etila (50:50 v/v)  evaporação com N2  reconstituição com 1 mL ACN/água (50:50 v/v)  injeção 50 µL
+
+LC-MS ESI (-), MRM
+
+-
+
+0,01 – 0,05 µg L-1
+
+76,5-108,3 (≤ 13,6)
+
+141
+
+12 agrotóxicos multiclasse
+
+500 mL amostra  SPE ISOLUTE ENV® (polimérico: 200 mg)  eluição: (2x) 2 mL acetona/acetato de etila (50:50 v/v)  evaporação com N2  reconstituição com 1 mL ACN/água (50:50 v/v)  injeção 50 µL
+
+LC-MS ESI (+), SIM
+
+0,5 – 0,3 ng L-1
+
+-
+
+65 – 97,8 (≤ 12,6)
+
+142
+
+30 agrotóxicos multiclasse
+
+25 mL amostra  SPE PPL® (polimérico: 200 mg)  eluição: (2x) 0,9 mL 0,4% ácido trifluoracético/ ACN + 80 μL amônia/metanol  evaporação com N2  reconstituição com 2,5% metanol/(ácido fórmico:água; 0,05% v/v)  injeção 100 µL
+
+LC-MS ESI (+/-), MRM
+
+0,04 – 0,28 µg L-1
+
+0,1 – 0,7 µg L-1
+
+36,5 – 122,6 (≤ 43,8)
+
+143
+
+2,6-dicloro-benzamida + 5 produtos de degradação
+
+500 mL amostra  SPE Oasis HLB® (polimérico: 200 mg)  evaporação com N2  reconstituição com 450 µL ACN/água (1:1, v/v)  injeção 10 µL
+
+LC-MS 0,007 – 0,253 µg L-10,023 – 0,565 µg L-1 ESI (+/-), MRM
+
+51 – 110 (≤ 26,5)
+
+144
+
+20 agrotóxicos + 13 poluentes orgânicos
+
+300 mL amostra  SPE Oasis HLB® (polimérico: 200 mg)  eluição: 8 mL ACN  evaporação 35 °C com N2  reconstituição com 450 µL ACN/água (1:1, v/v)  injeção 10 µL
+
+LC-MS ESI (+/-), MRM
+
+0,2 – 220 ng L-1
+
+0,7 – 734 ng L-1
+
+50 – 116 (≤ 12)
+
+145
+
+7 agrotóxicos multiclasse
+
+500 mL amostra  SPE Oasis HLB® (polimérico: 500 mg)  eluição: (2x) 2 mL metanol  evaporação com N2  reconstituição com 500 µL ACN  injeção 20 µL
+
+LC-MS ESI, SRM
+
+-
+
+-
+
+63,5 – 108,6
+
+146
+
+20 agrotóxicos multiclasse
+
+20 mL amostra  SPE para ESI+: PLRP’s® (polimérico: 12,5 mg); ESI-: Hysphere GP® (polimérico: 13,8 mg)  eluição com a fase móvel  injeção 20 µL
+
+LC-MS ESI (+/-), MRM
+
+0,004 – 2,8 ng L-1
+
+0,011 – 7,4 ng L-1
+
+21-111
+
+147
+
+7 agrotóxicos + 13 poluentes orgânicos
+
+750 mL amostra  SPE Strata X® (polimérico: 200 mg)  eluição: 4 mL metanol/isopropanol/ ACN (1:1:1, v/v)  injeção 20 µL
+
+LC-MS ESI (+/-), MRM
+
+0,01 – 5 ng L-1
+
+0,2 – 30 ng L-1
+
+59-105 (≤ 10)
+
+148
+
+8 agrotóxicos organofosforados
+
+5 mL amostra  congelamento (-100 ºC)  liofilização (-109 ºC)  extração (2x): 3 mL ACN  vortex  centrifugação  evaporação 20 ºC  reconstituição com 1 mL ACN  injeção 10 µL
+
+LC-MS ESI (+), MRM
+
+4,9-51 ng L−1
+
+17-171 ng L−1
+
+96-103 (≤ 10)
+
+149
+
+11 agrotóxicos multiclasse
+
+10 mL amostra  SPE C18 (500 mg)  eluição com 5 mL metanol evaporação TurboVap®  reconstituição com 10 mL água/metanol (90:10)  injeção 1 µL
+
+LC-MS ESI (+), MRM
+
+15-210 ng L−1
+
+50-630 ng L−1
+
+80-95 (≤ 8,6)
+
+150
+
+70 agrotóxicos multiclasse
+
+Amostra  ajuste pH 3  Filtração 0,7 µm  injeção direta 5 µL
+
+LC-MS ESI (+), SRM
+
+0,4-80 ng L−1
+
+2-150 ng L−1
+
+-
+
+151
+
+4 agrotóxicos fenoxiácidos
+
+10 mL amostra  SPE: Carbograph 4 (500 mg) eluição com1,5 mL metanol + 8 mL DCM/metanol (80:20 v/v) + 3 mL DCM  evaporação com N2reconstituição com 500 µL água/metanol (60:40 v/v)  injeção 5 µL
+
+LC-MS ESI (-), SRM
+
+1-10 ng L−1
+
+≤ 10 ng L−1
+
+70 -120 (≤ 30)
+
+152
+
+39 agrotóxicos multiclasse
+
+Organofosforados: 200 mL amostra  SPE: HLB® (polimérico: 200 mg) eluição 2 mL ACN + 6 mL metil-terbutil-éter/metanol (90:10 v/v)  evaporação com N2 reconstituição  injeção 15 µL. Carbamatos e fenil-uréias: 50 mL amostra  SPE: 3M EMPORE UR® (polimérico: 12 mg) eluição 1 mL ACN  injeção 15 µL
+
+LC-MS ESI (-), SRM
+
+0,01-0,09 µg L−1
+
+-
+
+64 -101 (≤ 18)
+
+153
+
+Agrotóxicos
+
+®
+
+LC-MS= Cromatografia Líquida acoplada à Espectrometria de Massas; LD= limite de detecção; LQ= limite de quantificação; R= recuperação; DPR= desvio padrão relativo; Ref.= referências; THF= tetrahidrofurano; DCM= diclorometano; ACN= acetonitrila; EI= impacto de elétrons; SIM= monitoramento do íom selecionado; ESI= ionização por eletronebulização; MRM= monitoramento de reações múltiplas; APCI= ionizaçao química à pressão atmosférica.
+
+Como pode ser avaliado, a maior parte destas aplicações utiliza sorventes poliméricos na etapa de preparo da amostra. A aceitabilidade destes sorventes deve-se ao fato destes materiais proporcionarem uma melhor performance de extração dos agrotóxicos em uma ampla faixa de polaridade. Por outro lado, devido ao desenvolvimento de sistemas de LCMS cada vez mais sensíveis, há a possibilidade da determinação
+
+de resíduos de agrotóxicos em água utilizando injeção direta da amostra, chegando a LQs na faixa de ng L-1.154 Greulich e Alder155 desenvolveram um método para a determinação de 300 agrotóxicos em água mineral em níveis de 0,1 a 1,0 μg L-1. O sistema LC-MS/MS (ESI +/-) utilizou coluna C18 de 5 cm e eluição por gradiente de metanol, água e solução aquosa 5 mmol L-1 de formiato de amônio com injeção direta da amostra (100 µL), sem qualquer tipo de pré-concentração ou clean-up. Para 80% dos analitos foi observada boa linearidade. Os valores de precisão ficaram abaixo de 20% para 87% dos compostos. CONCLUSÃO Esta revisão apresentou os principais métodos desenvolvidos para a determinação de resíduos de agrotóxicos em amostras de água de diferentes tipos, destacando a utilização de técnicas modernas e eficientes de preparo de amostra associadas com a cromatografia líquida empregando detecção por DAD e/ou MS/MS. Técnicas de extração em fase sólida, como a SPE e SPME, têm sido amplamente empregadas nas análises de resíduos de agrotóxicos em águas, apresentando desempenhos satisfatórios e, uma vez, estabelecidos e otimizados os parâmetros, apresentam excelentes recuperações, além de permitirem a possível eliminação de interferentes e a pré-concentração dos analitos. O desenvolvimento de novas técnicas de preparo de amostra, que apresentam as vantagens de utilizar menor volume de solventes orgânicos, rapidez, simplicidade e altos fatores de recuperação, tem se destacado na determinação de agrotóxicos. A identificação e quantificação de agrotóxicos em matrizes aquosas por LC-DAD e/ou LC-MS garante bons resultados, com LDs baixos e boa precisão. Um número considerável de trabalhos nesses últimos anos tem utilizado o espectrômetro de massas como detector para análises de agrotóxicos em água, pois este detector, além de permitir a obtenção de LQs menores, permite a confirmação dos compostos presentes na amostra ao gerar os respectivos espectros de massas. Além disso, possui maior seletividade e reduz a necessidade de se obterem separações cromatográficas com grande resolução, uma vez que esta técnica permite identificar e quantificar compostos que coeluem. Por outro lado, o alto custo e a necessidade de um analista altamente especializado muitas vezes tornam sua utilização inviável em muitos laboratórios. Portanto, detectores como o DAD ainda são uma importante ferramenta analítica, que possibilita resultados confiáveis sobre a qualificação e quantificação de resíduos de agrotóxicos. A escolha entre as técnicas vai depender da instrumentação disponível de cada laboratório. Os trabalhos reportados mostram que existe um consenso na busca de técnicas de preparo de amostra rápidas de baixo custo, que utilizem pequenos volumes de solventes e permitam valores de recuperação na faixa aceitável, associadas às técnicas para a determinação dos compostos, que possuam ferramentas que nos permitam identificar e confirmar a presença dos compostos na matriz.
+

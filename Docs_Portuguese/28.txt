@@ -1,0 +1,96 @@
+
+
+Miotoxicidade por organofosforados
+
+Resumo Os organofosforados são um grupo de compostos químicos amplamente utilizados em agropecuária como inseticidas, ocasionando intoxicações acidentais em animais e humanos, e mesmo sendo utilizados em tentativas de suicídio. A toxicidade desses produtos decorre sobretudo de insuficiência cárdio-respiratória por compromentimento do sistema nervoso autônomo. Sabe-se que alguns destes compostos induzem em animais de experimentação e em humanos, uma miopatia caracterizada por degeneração de células musculares, comprometendo sobretudo a musculatura respiratória. Baseado no fato de que este comprometimento contribui para a piora da função respiratória, propõe-se um protocolo de avaliação rotineira de miotoxicidade por compostos organofosforados, através de uma bateria mínima e suficiente de colorações e reações histoquímicas para quantificação da necrose muscular. Utilizaram-se como modelo experimental, grupos de ratos albinos (Wistar) intoxicados com o organofosforado paraoxon, com e sem antídotos (atropina ou pralidoxima). Verificou-se nos grupos tratados com paraoxon e paraoxon mais atropina, necrose de fibras musculares no diafragma, que atingia em determinadas áreas até 15% das fibras. No grupo tratado com paraoxon mais pralidoxima, a necrose foi mínima, evidenciando o papel mioprotetor deste último antídoto. Inseticidas organofosforados, toxicidade. Fibras musculares, patologia.
+
+
+
+
+
+INTRODUÇÃO Os pesticidas organofosforados atuam inibindo as colinesterases, principalmente a acetilcolinesterase (AchE; EC3.1.1.7), aumentando o nível de acetilcolina nas sinapses. Em mamíferos, estes efeitos caracterizam-se principalmente por lacrimejamento, salivação, sudorese, diarréia, tremores e distúrbios cardiorrespiratórios. Estes últimos são decorrentes de broncoconstricção, aumento das secreções brônquicas e bradicardia, bem como de depressão do sistema nervoso central, sendo as principais causas de morbidade e mortalidade por tais produtos11. Alterações estruturais e funcionais observadas nos músculos esqueléticos estão relacionadas com as estruturas químicas dos produtos e com o tipo de músculo, sendo o diafragma o mais afetado em estudos experimentais3, 4, 5, 8, 9, 13, 14, 15. Necrose muscular, semelhante à observada em animais de laboratório, foi encontrada em músculos diafragma e intercostais de indivíduos intoxicados pelo parathion6, diazinon1, triclornato7 e combinação de malathion e diazinon18. Uma vez que a insuficiência respiratória é uma das conseqüências mais graves das intoxicações por organofosforados, é possível que o envolvimento dos músculos da respiração constitua agravante do distúrbio respiratório, o qual é devido à disfunção do sistema nervoso autônomo. O tratamento das intoxicações por organofosforados baseia-se principalmente no uso da atropina, antídoto sintomático e, com menor freqüência, das oximas, antídotos específicos que reativam as colinesterases. No Brasil, a ocorrência de intoxicações por pesticidas do grupo dos organofosforados continua sendo alta, apesar de seu uso ter diminuído em relação à década dos anos oitenta. Os dados estatísticos dos Centros de Toxicologia de Belo Horizonte, Campinas, Florianópolis, Ribeirão Preto, Londrina e Maringá mostram que de 495 casos de intoxicações ocupacionais, cerca de 34,9% foram devidos a organofosforados; de 622 casos de tentativas de suicídio, 38,1% resultaram do uso de compostos deste grupo; de 38 casos de óbitos, 44,7% foram devidos a organofosforados16.
+
+Os objetivos do presente trabalho foram: 1 - padronizar técnicas histoquímicas para avaliar lesões musculares causadas por organofosforados; 2 - comparar a eficácia dos antídotos atropina e pralidoxima na prevenção de tais lesões.
+
+MATERIAL E MÉTODO Animais Ratos albinos machos e fêmeas da linhagem Wistar (225 g + 25 g) foram divididos em 4 grupos. Cada grupo foi constituído por 8 animais (4 machos e 4 fêmeas), mantidos separados durante todo o experimento em gaiolas de plástico, recebendo água e ração ad libitum. Produtos O organofosforado utilizado foi o Paraoxon® (dietilparanitrofenil fosfato) com 98,2% de pureza, fornecido pela Bayer do Brasil, São Paulo. O Sulfato de Atropina® foi proveniente da Sigma e o mesilato de pralidoxima (Contrathion)®, da Rhodia. O paraoxon foi dissolvido em propilenoglicol (0,3 mg/ml); a atropina (0,3 mg/ml) e a pralidoxima (10,0 mg/ml) foram preparadas em solução fisiológica. Administração de Paraoxon, Atropina e Pralidoxima Os produtos foram injetados via intraperitoneal por 4 dias com intervalos de 24 h. O grupo 1 foi tratado apenas com paraoxon (0,3 mg/kg); o grupo 2 com paraoxon (0,3 mg/kg) seguido imediatamente de atropina (0,3 mg/kg); o grupo 3 com paraoxon (0,3 mg/kg) seguido imediatamente de pralidoxima (10,0 mg/kg) e o grupo 4 (Controle) recebeu apenas propilenoglicol (0,25 ml). Observação dos Sinais de Intoxicação Os sinais de intoxicação e sua intensidade foram observados diariamente após a aplicação dos produtos e registrados durante a primeira hora e a cada 30 min das seis horas subseqüentes. Para o registro da intensidade dos sinais de intoxicação estabeleceu-se o seguinte critério: (+) leve, (++) moderado e (+++) intenso. Determinação da Atividade da Colinesterase Plasmática Amostras de 1 ml de sangue foram colhidas por punção do plexo retro-orbitário, 24 h após o último tratamento. O plasma foi separado por centrifugação a 2000 r.p.m. por 15 min, e a atividade da colinesterase foi determinada pelo método espectrofotométrico de Ellman12, 1961 modificado por Wilheim19, 1967. O substrato utilizado foi a acetiltiocolina e a atividade enzimática foi determinada pela variação de absorbância/ml/minuto (∆E/ml/min), sendo feitas leituras no comprimento de onda de 430 nm.
+
+RESULTADOS
+
+Técnicas Histológicas e Histoquímicas Os animas foram anestesiados com éter e decapitados 24 h após o último tratamento e os hemidiafragmas esquerdos foram colhidos e congelados em n-hexano previamente resfriado em nitrogênio líquido, em posição para obter cortes transversais em micrótomo-criostato. Cortes seriados (8 µm de espessura), colhidos em diferentes lâminas para microscopia, foram corados pela hematoxilina-eosina (HE) bem como submetidos às reações histoquímicas para fosfatase ácida e nicotinamida-adeninadinucleotídio-tetrazolium-redutase (NADH-TR) segundo Dubowitz10,1985. Avaliação das Alterações Histológicas Foi observada ao microscópio óptico toda a área do corte histológico e feita semiquantificação das alterações encontradas, seguindo os seguintes critérios: 1) observação pelo HE, no aumento de 100 X, com delimitação dos 5 campos mais alterados; 2) semi-quantificação de fibras alteradas nos 5 campos, no aumento de 400 X, nos cortes seriados submetidos às reações histoquímicas de NADHTR e fosfatase ácida, sendo (+) até 5% de fibras alteradas; (++) de 5 a l5% de fibras alteradas e (+++) acima de 15% de fibras alteradas. Análise Estatística Os resultados da atividade da colinesterase plasmática foram analisados pelo teste de Mann-Whitney-Wilcoxon para amostras não-paramétricas, tomando-se como índice de significância p < 0,01.
+
+269
+
+Sinais de Intoxicação A Tabela 1 mostra os sinais de intoxicação observados. O grupo que recebeu apenas paraoxon (grupo 1) apresentou os sinais mais intensos. A aplicação de atropina diminuiu a intensidade dos sinais, com exceção da fasciculação e flacidez musculares, e preveniu a ocorrência de diarréia (grupo 2). O tratamento com pralidoxima (grupo 3) mostrou-se altamente eficaz, impedindo a manifestação de todos os sinais. Determinação da Atividade da Colinesterase Plasmática Os animais tratados com paraoxon (grupo 1) e paraoxon mais atropina (grupo 2) apresentaram resultados de atividade da colinesterase de 32,2% e 43,8%, respectivamente, revelando diferenças estatisticamente significativas (p < 0,01) em relação ao grupo-controle. Já os animais tratados com paraoxon mais pralidoxima (grupo 3) apresentaram atividade da colinesterase de 94,1%, não havendo diferença estatisticamente significativa em relação ao grupocontrole (Tabela 2). Histopatologia A análise histopatológica mostrou nos animais dos grupos tratados com paraoxon (grupo 1) e paraoxon mais atropina (grupo 2) a presença de fibras musculares necróticas, freqüentemente com fagocitose, que se encontravam próximas umas às outras nas áreas mais afetadas. Essas fibras foram evidenciadas com maior nitidez na reação histoquímica para fosfatase ácida (Fig. 1). A reação de NADH-TR mostrou fibras com diferentes graus de alteração da trama intermiofibrilar, correspondendo a alterações da estrutura normal das fibras muscula-
+
+Tabela 1 - Sinais observados durante o experimento, em ordem de aparecimento, sendo (+) leve, (++) moderado e (+++) intenso. Sinal
+
+Salivação aumentada Lacrimejamento Exoftalmia Tremores Dispnéia Fasciculação muscular Ataxia Prostração Diarréia
+
+Grupo 1 Paraoxon
+
+Grupo 2 Paraoxon + atropina
+
+Grupo 3 Paraoxon + pralidoxima
+
+Grupo 4 Controle
+
++++ +++ +++ +++ +++ +++ +++ +++ +++
+
++ + ++ ++ + +++ ++ + -
+
+-
+
+-
+
+
+
+Tabela 2 - Atividade da colinesterase plasmática (∆E/ml/min) e desvios-padrão. Grupo 1 Grupo 2 Paraoxon Paraoxon + atropina Atividade %
+
+0,48 + 0,092 32,2
+
+0,65 + 0,124 43,8
+
+Grupo 3 Paraoxon + pralidoxima
+
+Grupo 4 Controle
+
+1,38 + 0,241 94,1
+
+1,46 + 0,133 100,0
+
+Figura 1 - Corte transversal de fibras musculares exibindo necrose e fagocitose de algumas delas (setas). Músculo diafragma de rato intoxicado pelo paraoxon. Reação histoquímica pela fosfatase ácida. A barra corresponde a 100 µm.
+
+Figura 2 - Corte transversal de fibras musculares exibindo alteração da estrutura interna das mesmas (a seta indica uma destas fibras). Músculo diafragma de rato intoxicado pelo paraoxon. Reação histoquímica pela Nicotinamida-adeninadinucleotídeo-tetrazolium-redutase (NADH-TR). A barra corresponde a 50 µm.
+
+res (Fig. 2). Com menor freqüência foram observadas fibras atróficas angulares. No grupo tratado com paraoxon mais pralidoxima (grupo 3), fibras necróticas e com alteração da trama intermiofibrilar foram encontradas em pequeno número. Os resultados da análise histopatológica dos músculos diafragma dos animais estudados (analisados em conjunto em cada grupo), expressos semiquantitativamente, encontram-se na Tabela 3.
+
+fosforados seja conhecido de longa data, pouca importância se dá a este fato, haja vista que a avaliação rotineira por estes compostos não inclui protocolos de miotoxicidade. Sabe-se que a principal causa de morbidade e mortalidade nas intoxicações pelos organofosforados é o comprometimento cardiorrespiratório. No entanto, é provável que o comprometimento da musculatura esquelética, sobretudo da musculatura respiratória, contribua tal morbidade, o que reforça a importância da avaliação das lesões musculares nessas intoxicações. Experimentalmente, além dos sinais de intoxicação típicos dos organofosforados, o parâmetro mais utilizado na avaliação do nível de toxicidade desses
+
+DISCUSSÃO Embora o comprometimento do sistema muscular esquelético em intoxicações por alguns organo-
+
+Tabela 3 - Alterações encontradas no músculo diafragma em áreas selecionadas, expressas de forma semiquantitativa: (+) até 5% de fibras alteradas; (++) de 5 a 15% de fibras alteradas; (+++) acima de 15 % de fibras alteradas. Grupo 1 Alterações Necrose/fagocitose Desorganização da trama intermiofibrilar Fibras atróficas angulares
+
+Paraoxon
+
+Grupo 2 Paraoxon + atropina
+
+Grupo 3 Paraoxon + pralidoxima
+
+Controle
+
+Grupo 4
+
++++ +++ +
+
++++ +++ +
+
++ + -
+
+-
+
+
+
+compostos é a medida da atividade da colinesterase plasmática. As doses utilizadas em nosso experimento foram suficientes para desencadear sinais de intoxicação, bem como diminuição da atividade da colinesterase plasmática, o que permitiu avaliar claramente as diferenças entre os grupos tratados. Com relação aos antídotos, a atropina age como inibidor competitivo da acetilcolina em nível dos receptores muscarínicos, porém não tem ação nos receptores nicotínicos, que são os existentes na placa motora. Isto explica o fato de que a atropina não impediu o desenvolvimento da miopatia no diafragma. Dekleva e col.8, 1989, descreveram resultados semelhantes em experimentos com ratos intoxicados pelo organofosforado soman, nos quais verificaram que a atropina não prevenia o desenvolvimento da miopatia mesmo com doses altas (20 mg/kg). No presente estudo, o uso da pralidoxima imediatamente após a administração do paraoxon impediu a inibição da colinesterase plasmática e preveniu o desenvolvimento da miopatia. Ariens e col.2, 1969, em trabalho pioneiro sobre miopatia por organofosforados em ratos, já haviam relatado o papel protetor da pralidoxima com relação a este efeito sobre o músculo esquelético. Em humanos, tem sido relatado que as oximas são capazes de reativar a colinesterase por um período que varia de 24 a 36 horas após a intoxicação11. No entanto, não há relatos quanto ao seu papel preventivo da miopatia no homem. No que se refere à padronização das técnicas histoquímicas para avaliação das lesões muscula-
+
+res, os presentes resultados indicaram que a utilização da reação histoquímica para fosfatase ácida mostra, com bastante nitidez, as fibras alteradas nesta miopatia, já que evidencia atividade lisossomal e, portanto, processo necrótico. A reação para a enzima oxidativa NADH-TR também mostrou-se útil por demonstrar claramente fibras com alteração da trama intermiofibrilar. Os vários autores citados na literatura, que estudaram experimentalmente a miopatia por organofosforados, utilizaram outras técnicas histológicas e histoquímicas, especialmente a coloração pelo tricrômico modificado de Gomori4, 13, 14, 15, 17. Brigth e col.3, 1991, estudaram a expressão da fosfatase ácida em músculos de animais intoxicados, porém sem finalidade de quantificar as lesões. Em conclusão, a proposta foi avaliar o grau de miotoxicidade de organofosforados através de testes em ratos albinos, utilizando doses subletais capazes de produzir sinais de intoxicação e diminuição da atividade da colinesterase, com ou sem uso de antídotos. A análise do músculo diafragma, através de congelação ultra-rápida e avaliação semiquantitativa das lesões musculares em cortes transversais seriados, corados por uma bateria mínima e suficiente de técnicas histológicas e histoquímicas (hematoxilinaeosina, fosfatase ácida e NADH-TR), mostrou-se satisfatória. Baseados nestas observações, considerou-se esta metodologia adequada para avaliação de miotoxicidade por diferentes produtos organofosforados, que pode ser realizada rotineiramente em testes toxicológicos.
+

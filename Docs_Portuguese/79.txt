@@ -1,0 +1,2776 @@
+MÉTODOS ANALÍTICOS SIMPLES PARA QUANTIFICAÇÃO DE: (I) NITRITO EM ALIMENTOS; (II) PESTICIDAS ORGANOFOSFORADOS; (III) METÓXIDO DE SÓDIO EM SOLUÇÕES EM METANOL.
+
+Resumo (1)
+
+Foi desenvolvido um método simples, de baixo custo, sensível e seletivo
+
+para a determinação de nitrito em queijo e carne curada. Foi empregada a técnica de refletância difusa na região do ultravioleta-visível. O método se baseia na reação entre nitrito, a sulfadiazina e o naftol em meio básico. A reação foi realizada diretamente na célula de medição. Para o queijo o limite de detecção em termos de NaNO2 foi estimado em ca. 2,01 mg L-1 (2,91mol L-1). O desvio padrão relativo variou de 5% a 8% dependendo da amostra. Os resultados do método foram comparados com os do método oficial empregando o t de Student e o teste F. (2)
+
+O objetivo deste trabalho é propor um método que permita a análise de
+
+pesticidas organofosforados por meio de um sistema com biossensor enzimático baseado na enzima acetilcolinesterase acoplado à técnica de injeção de análise em fluxo (FIA). A técnica FIA associada ao biossensor enzimático mostrou-se como uma ferramenta analítica para realização de determinação dos pesticidas paraoxon, clorpirifos, diclorvos e malation em procedimento de varredura. Para aumento dos limites de detecção foi feita a oxidação desses organofosforados para a formação de compostos com maior poder inibitório da enzima acetilcolinesterase. A reação de oxidação foi realizada com água de bromo, sendo este um procedimento simples. Este método é específico para inibidores da colinesterase, além de apresentar excelente sensitividade, apesar de sua relativa simplicidade. Além disso, é rápido e de baixo custo se comparado às técnicas geralmente utilizadas, como a cromatografia. (3)
+
+O método proposto para se realizar a determinação de metóxido de sódio é
+
+simples e sensível. O reagente empregado neste método é muito seletivo para metóxido de sódio em presença do hidróxido de sódio. O método desenvolvido oferece vantagens tais como: utilização de pequenas quantidades de produtos químicos, confiabilidade, simplicidade e rapidez além de custo baixo. xv
+
+xvi
+
+
+
+
+
+PARTE I
+
+NITRITO EM ALIMENTOS
+
+Determinação rápida de nitritos em alimentos utilizando o método da refletância difusa na região do UV-visível
+
+1
+
+2
+
+1
+
+Introdução
+
+1.1
+
+O fenômeno da refletância
+
+A refletância (G. Kortüm, 1969) é uma técnica espectroscópica baseada na relação entre a radiação refletida por uma superfície refletora e a radiação que incide sobre ela. O fenômeno envolvido nesta técnica é a reflexão. Esta consiste no retorno da radiação após ter atingido uma dada superfície (amostra) e ser parcialmente absorvida (redução da intensidade) por esta superfície. Quando a radiação é direcionada para uma superfície, dois tipos de reflexão podem ocorrer: a reflexão regular e a reflexão difusa. Caso os raios de luz refletidos mantenham o mesmo paralelismo dos raios de luz incididos, isto é, no caso em que o ângulo de reflexão é igual ao de incidência, o fenômeno recebe o nome de reflexão regular ou especular. Este fenômeno ocorre em superfícies lisas e polidas. Quando os raios refletidos perdem o paralelismo, isto é, o ângulo de reflexão difere do ângulo de incidência, espalhando-se aleatoriamente em todas as direções, o fenômeno recebe o nome de reflexão difusa. Superfícies irregulares são responsáveis por este tipo de reflexão. Os dois tipos de reflexão estão representados na Figura 1.
+
+Figura 1. Reflexão de raios de luz difusa e regular
+
+3
+
+1.2
+
+CONSIDERAÇÕES ACERCA DA REFLETÂNCIA DIFUSA
+
+O desenvolvimento de métodos de análise simples e rápidos é sempre interessante. A espectrofotometria de refletância difusa na região das radiações visível e ultravioleta do espectro permite a análise quantitativa direta de analitos com o mínimo de tratamento, com consequente diminuição na manipulação e no uso de solventes orgânicos e de reagentes químicos (Tubino et al., 2007; Tubino et al., 1997; Lima et al., 2009; Weinert et al.,2007; Ribeiro et al., 2006; Gotardo et al., 2004). O uso da espectrofotometria de refletância como uma técnica analítica quantitativa é muito menos popular que a de transmissão. A dificuldade na preparação homogênea das superfícies refletoras do analito e o efeito do tamanho de partícula podem ser considerados como importantes fatores que contribuem para o pouco uso desta técnica na análise quantitativa (Tubino et al., 1997; Lima et al., 2009; Gotardo et al.,2004; Matias et al., 2003). No entanto, as medidas de refletância são rápidas e fáceis de serem conduzidas (Tubino et al., 2007). A espectrofotometria de refletância é baseada nos fenômenos que ocorrem quando a luz atinge a superfície onde está o analito. Ao incidir sobre um material, a luz pode ser refletida, transmitida ou absorvida pelo mesmo. A intensidade e ocorrência destes fenômenos dependem da natureza do material e, também, do comprimento de onda da luz usada. Materiais opacos não transmitem qualquer comprimento de onda e, portanto, apenas os fenômenos de reflexão e absorção estão associados a eles. Já os objetos translúcidos refletem, transmitem e absorvem luz (Skoog et al., 2002). A refletância é uma técnica espectroscópica baseada na relação entre a energia luminosa refletida por uma superfície refletora e a energia luminosa que 4
+
+incide sobre ela. O fenômeno de reflexão envolvido nesta técnica consiste no retorno da radiação, sem alteração do comprimento de onda, após esta ter atingido a superfície. O uso de espectroscopia de refletância no visível como técnica analítica foi, durante certo tempo, quase que limitado à análises qualitativas. Isto pode ser entendido pelo fato do tamanho das partículas e a superfície da amostra, por exemplo, afetarem o fenômeno de refletância, dificultando a repetibilidade das medidas. Por outro lado, análises utilizando espectrofotômetro, equipado com acessório de refletância difusa com esferas integradoras, podem fornecer bons resultados quantitativos de maneira simples e rápida (Tubino et al., 1997). Em espectrofotometria de transmissão, qualquer turbidez causada por emulsões, implica em uma interferência que irá prejudicar e até invalidar o resultado da análise. Tal situação pode ser facilmente contornada em processo de refletância (Gotardo et al.,2004). Quando a radiação é direcionada para a superfície de uma amostra sólida ou em suspensão numa solução, dois tipos de reflexão da luz podem ocorrer: a reflexão regular (especular) e a reflexão difusa. Se os raios de luz refletidos mantêm o mesmo paralelismo dos raios de luz incididos, o fenômeno recebe o nome de reflexão regular (ou especular). Este fenômeno ocorre em superfícies lisas e polidas como, por exemplo, a de um espelho ou de um lago calmo. A simetria com que a luz se reflete nestas superfícies resulta na formação de imagens dos objetos colocados diante delas. Em medidas de refletância, a leitura realizada pelo espectrofotômetro é um sinal da radiação refletida, também chamada de força de reflexão ou de refletância, TR, a qual é análoga à transmitância em espectrometria de transmissão. A densidade óptica para medidas de refletância é dada, analogamente à absorbância, por: 5
+
+AR= - log TR A refletância, TR, é dada por:
+
+TR = I/I0 sendo I0 a intensidade de energia incidente e I a intensidade de energia refletida pelo meio. Os resultados das medidas de refletância dependem das condições do experimento, principalmente do comprimento de onda da radiação incidente, do ângulo de incidência e do tamanho das partículas refletoras. Como a maioria dos materiais apresenta estruturas irregulares, a espectroscopia de refletância difusa acaba sendo mais empregada e explorada do que a de refletância especular. A espectroscopia de refletância difusa é empregada quando o fenômeno de espalhamento da luz é muito pronunciado, o que geralmente ocorre em espécies sólidas ou em suspensão com áreas superficiais elevadas, nas regiões do infravermelho, do visível e do ultravioleta (Tubino et al., 1997). As amostras de produtos alimentícios envolvidos neste estudo se enquadram perfeitamente nesta descrição, tanto com relação aos queijos como com relação às carnes, os quais se encontravam em suspensão ou em suas respectivas formas sólidas, o que resultou na detecção de características superficiais irregulares. Essas características implicam em dois fenômenos de interesse na quantificação de analitos nos alimentos estudados: a absorção e a reflexão. Parte da amostra analisada absorve a radiação incidente e, simultaneamente reflete outra parte dessa radiação com um espalhamento significativo desses raios de luz pelas amostras, como mostra a Figura 2. 6
+
+Figura 2. Esquema da radiação incidente e a radiação absorvida e refletida de forma difusa, característica de produtos alimentícios.
+
+Quanto maior o espalhamento da luz incidente maior é a queda do sinal analítico. Superfícies muito irregulares tendem a espalhar mais a luz refletida o que diminui a intensidade do sinal luminoso que chega ao detector, levando à menor sensibilidade (Alves et al., 2004; Soares et al., 2008). Se a superfície apresentar cor, o que é função da quantidade de substância colorida absorvente, dependendo do comprimento de onda utilizado, a absorção de luz também estará relacionada com a concentração dessa substância (Tubino et al., 2007; Tubino et al., 1997; Lima et al., 2009; Weinert et al., 2007; Ribeiro et al., 2006; Gotardo et al., 2004; Matias et al., 2003). O modelo teórico de Kubelka e Munk para o fenômeno de refletância foi desenvolvido para descrever em termos quantitativos, e de um modo relativamente simples, a intensidade de luz refletida por uma superfície (Tubino et al., 2007). A teoria de Kubelka-Munk trata de modo simples os processos que ocorrem quando a luz incide sobre um material (absorção, reflexão e transmissão), estabelecendo que o material absorve parcialmente a luz que recebe, sendo o restante refletido. A proporção de luz absorvida depende do coeficiente de absorção do material (K) e a de luz refletida depende do fator de dispersão do 7
+
+material (S). O fundo sobre o qual se situa a amostra que está sendo observada (se é transparente ou translúcido) e a espessura da amostra (densidade de empacotamento) exercem influência sobre os parâmetros K e S. Kubelka e Munk deduziram uma equação que permite obter a seguinte relação entre a luz refletida (TR) e os coeficientes de absorção (K) e de dispersão (S): (1  TR )2 K f(TR )   2TR S
+
+Como K possui uma relação linear com a concentração (K = εC, sendo ε a absortividade molar da amostra) é possível escrever a acima em função da concentração:
+
+(1 - TR )2 ε × C = 2TR S
+
+A aplicação da Equação de Kubelka-Munk estabelece uma relação linear entre a concentração da amostra e a função (f(TR)) para concentrações altas e moderadas.
+
+No
+
+entanto
+
+observa-se
+
+desvio
+
+de
+
+linearidade para
+
+baixas
+
+concentrações. Em virtude disto, muitas vezes, as curvas de calibração são obtidas de forma a se ter um resultado com boa linearidade, isto é, constroem-se os gráficos que relacionam, por exemplo, log (TR – TR’) vs. 1/C (onde TR é a refletância da amostra e TR’ é a refletância do suporte utilizado). É bom ressaltar que a validade da equação de Kubelka-Munk envolve aproximações, uma vez que considera o valor de refletância da referência igual a 1.
+
+8
+
+1.3
+
+Nitritos O ânion nitrito (NO2-) é amplamente utilizado no processo de cura de carnes
+
+em concentrações entre 150-200 mg kg-1 e de até 5 mg kg-1 para queijos, pois o mesmo além de inibir a proliferação de microrganismos, promove o incremento e fixação da cor e o desenvolvimento de sabores característicos (Damodaran et al., 2010). Os nitritos podem reagir no estômago com aminas secundárias ou terciárias e amidas presentes em alimentos, como queijos ou carnes, originando compostos cancerígenos como as nitrosoaminas, podendo culminar em diferentes problemas de saúde (Kirovska-Cigulevska, 2002; Topcu et al., 2006). Todavia, o uso de sais de nitrito na cura de carnes tem seu uso justificado pela capacidade antimicrobiana, em especial quando existe a possibilidade do crescimento de Clostridium botulinum, que está associado a graves casos de contaminação alimentar. Sais de nitrito também têm ocorrência natural em muitos alimentos incluindo vegetais como, por exemplo, o espinafre (Damodaran et al., 2010, Merusi et al., 2010) Ao longo dos últimos anos tem se observado um crescente interesse no tocante à determinação dos níveis de nitrito em produtos alimentares (Simion et al., 2008). Trabalhos têm sido publicados envolvendo a determinação de nitrito por diferentes técnicas analíticas (Moorcroft et al., 2001), no entanto, nem todos os métodos
+
+são
+
+adequados
+
+espectrofotométricos
+
+para
+
+são
+
+determinações
+
+largamente
+
+rotineiras.
+
+empregados
+
+Os
+
+métodos
+
+(Pandurangppa
+
+&
+
+Venkataramanappa, 2011; Rinco et al., 2003; Liu et al., 2011) em função da rapidez e baixos limites de detecção, mas podem gerar resíduos de difícil descarte. Podem ser citados ainda, eletroforese capilar (Merusi et al., 2010; Jastrzebska 2011), voltametria (Shariar & Hinoue 2010) e a cromatografia líquida de alta eficiência (Akyuz& Ata, 2009). 9
+
+Os métodos que empregam a refletância difusa na região do ultravioleta-visível são menos populares do que os de transmitância. A dificuldade na preparação de superfícies refletoras homogêneas do analito pode ser considerada um fator importante que contribui para o pequeno emprego desta técnica na análise quantitativa (Matias et al., 2003).
+
+1.4
+
+Objetivo
+
+O objetivo deste trabalho foi desenvolver um método de refletância difusa na região do ultravioleta-visível que seja simples, confiável e rápido, para realizar a determinação de nitritos em alimentos. O problema relacionado com a superfície foi resolvido do graças à geração da cor diretamente na cela de medição em que a matriz do analito fica suspensa. A reação analítica ocorre diretamente na cela de medição, imediatamente após a mistura, utilizando-se pequenos volumes da solução do analito, e pequenos volumes dos reagentes e das demais soluções. O desempenho do método desenvolvido foi validado em termos de seletividade, linearidade, exatidão, precisão e de impacto ambiental.
+
+10
+
+1.5
+
+Experimental
+
+1.5.1 Reagentes e solventes
+
+Todos os reagentes e solventes utilizados foram de grau analítico. A água empregada no preparo de soluções foi destilada empregando-se destilador de vidro. As amostras de queijos curados e salsicha do tipo Viena e Italiana foram adquiridas no comércio local da cidade de Campinas – SP - Brasil.
+
+1.5.2 Soluções empregadas no método AOAC para queijo
+
+1.5.3 Solução de ácido sulfanílico Ácido 4-aminobenzeno sulfônico (C6H7NO3S), massa molar 173,19 g mol-1: foram dissolvidos 2,1 g do ácido sulfanílico em uma solução aquosa de ácido acético (CH3COOH) com concentração igual a 15% v/v perfazendo 250,0 mL. Para a dissolução foi utilizado banho de água quente à aproximadamente 50 0C, obtendo-se uma concentração final igual a 4,85 × 10-2 mol L-1.
+
+1.5.4 Solução de cloridrato de 1-naftilamina Cloridrato de 1-naftilamina (C10H7NH3Cl), massa molar 179,65 g mol-1: foram dissolvidos 0,521 g de cloridrato de 1-naftilamina em 30 mL de água. Para a dissolução foi utilizado banho de água à aproximadamente 50 oC.
+
+11
+
+1.5.5 Reagente NC
+
+As duas soluções acima, 1.5.3 e 1.5.4, foram misturadas ainda quentes. A solução final foi filtrada em papel de filtro qualitativo quando necessário. Esta solução foi preparada semanalmente. A concentração final obtida foi igual a 9,67×10-2 mol L-1. O armazenamento foi feito em frasco de vidro âmbar e a solução foi mantida sob refrigeração.
+
+1.5.6 Solução de sulfato de zinco
+
+Sulfato de zinco heptahidratado (ZnSO4.7 H2O), massa molar 287,53 g mol-1: foram dissolvidos 120,0 g de sulfato de zinco hexahidratado em água e completou-se o volume para 1000 mL em balão volumétrico, obtendo-se assim a concentração final igual a 0,42 mol L-1.
+
+1.5.7 Solução de hidróxido de sódio Hidróxido de sódio (NaOH), massa molar 40,00 g mol-1: foram dissolvidos 2,0 g de
+
+hidróxido de sódio em 100,0 mL de água,
+
+obtendo-se assim a
+
+concentração final igual a 0,5 mol L-1 (2 % m/v).
+
+1.6
+
+Soluções empregadas no método AOAC para carne curada
+
+1.6.1 Solução de sulfanilamida Sulfanilamida (C6H8N2O2S), massa molar 172,20 g mol-1: foram dissolvidos 0,50 g de sulfanilamida (C6H8N2O2S), em uma solução aquosa de ácido acético 12
+
+(CH3COOH) 15 % (v/v) perfazendo 150,0 mL obtendo-se assim a concentração final igual a 1,9 × 10-2 mol L-1. Quando necessário, a solução final (preparada semanalmente) foi filtrada. O armazenamento foi feito em frasco de vidro âmbar, mantendo-se sob refrigeração.
+
+1.6.2 Solução de N-1-naftil dicloridrato de etilenodiamina (reagente NED)
+
+N-1-naftil dicloridrato de etilenodiamina (C12H14N2.2HCl), massa molar 259,18 g mol-1: foram dissolvidos 0,20 g em uma solução aquosa de ácido acético (CH3COOH) 15 % (v/v) perfazendo 150,0 mL, obtendo-se assim a concentração final igual a 5,1 × 10-3 mol L-1. Sempre que necessário esta solução foi filtrada. O armazenamento foi feito em frasco de vidro âmbar, mantendo-se sob refrigeração.
+
+1.6.3 Solução padrão de nitrito Nitrito de sódio (NaNO2), massa molar 68,995 g mol-1: (A) Solução de NaNO2 (estoque) com concentração igual a 1000 ppm (1,45 × 10-2 mol L-1) - foi dissolvido 1,00 g de NaNO2 em água e realizada a diluição até 1000 mL num balão volumétrico; (B) solução com concentração de NaNO2 intermediária (100,0 mg L-1) - foram diluídos 10,0 mL da solução estoque em água a 100 mL em balão volumétrico; (C) Solução de NaNO2 de trabalho (1,45 × 10-5 mol L-1) - foram diluídos 1,0 mL da solução de concentração intermediária para volume final igual a100 mL, empregado-se balão volumétrico.
+
+1.6.4 Solução de sulfato de zinco (mesma do método para determinação de queijo item 1.5.6)
+
+13
+
+1.7.0 Soluções empregadas no método de refletância difusa para queijo e carne curada
+
+1.7.1 Solução de sulfadiazina Sulfadiazina (C10H10N4O2S), massa molar 250,28 g mol-1: foram dissolvidos 0,125 g de sulfadiazina em 8,5 mL de ácido clorídrico concentrado. A solução obtida foi transferida para um balão volumétrico de 50,0 mL e diluída com água destilada até 50,0 mL (C= 1,0 × 10-2 mol L-1). 1.7.2 Solução de α-naftol α-naftol (C10H8O), massa molar 144,17 g mol L -1: foi dissolvido 0,01 g de α-naftol em 10,0 mL de etanol. Esta solução foi diluída com água destilada até a marca de 50,0 mL, obtendo-se assim a concentração final igual a 1,4 ×10-3 mol L-1.
+
+1.7.3 Solução padrão de nitrito
+
+Nitrito de sódio (NaNO2), foi empregada a mesma solução estoque preparada (item 1.6.3).
+
+1.7.4 Solução de hidróxido de sódio Hidróxido de sódio (NaOH), massa molar 40,00 g mol -1: foram dissolvidos 2,0 g de
+
+hidróxido de sódio em 100,0 mL de água,
+
+concentração final igual a 1,0 mol L-1 (4 % m/v).
+
+14
+
+obtendo-se assim a
+
+1.8
+
+Equipamentos
+
+Foi empregado um espectrofotômetro Femto 600, com celas de quartzo com caminho óptico igual a 1,0 cm, para realizar as medidas de absorbância (em processo de transmissão). As medidas de refletância foram realizadas em refletômetro construído no laboratório, equipado com um diodo emissor de luz vermelha (“LED”) como fonte de luz e um “LDR” (“light dependent resistor”) como detector (Figura 4) (Tubino & Souza, 2006; Matias et al. 2004).
+
+Figura 3. Refletômetro desenvolvido no laboratório: A- fotografia externa do aparelho; B- Fotografia interna do aparelho mostrando a câmara de reflecção, o LED (light emitter diode), que está conectado com seis baterias 1.5 V e o LDR (light dependent resistor, cuja resistência em ohm é medida em um multímetro); Ccelas para reação e leitura, feitas de PTFE branco, colocadas sob o refletômetro.
+
+1.9 Análise de nitrito em amostras de queijo Prato por espectrofotometria (AOAC)
+
+Foram removidos quaisquer resíduos de cera das amostras. A seguir as amostras de quijo (100 g) foram picadas, adiciono-se água (200 mL) e triturou-se em liquidificador. Uma alíquota de aproximadamente 30,0 ± 0,1 g foi retirada e 15
+
+colocada em béquer de 200 mL. Adicionoram-se 70,0 mL de água e aqueceu-se a 50°C, agitando-se ocasionalmente. Então, foram adicionados 10,0 mL da solução de sulfato de zinco e 12,0 mL da solução 2% de NaOH (m/v). A temperatura foi mantida
+
+em
+
+aproximadamente
+
+50°C,
+
+durante
+
+10
+
+minutos,
+
+agitando-se
+
+ocasionalmente. A mistura foi resfriada a temperatura ambiente, empregando-se um banho de água e transferida para um balão de 200 mL, sendo seu volume completado com água e agitou-se vigorosamente. A solução resultante foi filtrada em papel de filtro qualitativo. O filtrado foi transferido para um balão de 250 mL e completou-se o volume com água. Em balões volumétricos de 50 mL, foram colocadas diferentes quantidades (10,0; 20,0; 30,0; 40,0 e 45,0 mL) da amostra e em seguida adicionou-se 10,0 mL do reagente NC. O volume foi completado com água. Foram feitas medidas de absorbância a 540 nm (Horwitz, 2005a).
+
+1.9.1 Curva analítica
+
+Para o preparo das soluções utilizadas na curva analítica foram adicionados 0,0; 1,0; 2,0; 3,0; 4,0; 5,0; 10,0; 15,0; 20,0 e 25,0 mL da solução padrão estoque do nitrito (item 1.6.3) em balões volumétricos de 50 mL. Em seguida, foram adicionados 10 mL do reagente NC homogeneizando-se a solução e completandose o volume com água. A solução foi mantida em repouso por 25 minutos. A leitura de absorbância foi feita em 520 nm. A curva analítica foi construída a partir de 0,1; 0,15; 0,20; 0.25; 0,30 mg mL-1 de NaNO2 na solução final de medida. 1.9.2 Análise de nitrito em amostras de queijo por refletância difusa
+
+Cerca de 100 ± 0,10 g de queijo foram cortados em pedaços pequenos, adicionou-se 20,00 ± 0,01 g de água e triturou-se em liquidificador. Foram 16
+
+transferidos 60 g da suspensão obtida para um béquer de 250 mL, adicionaram-se 70 mL de água e aqueceu-se a 50 °C. Em seguida, foram adicionados 10 mL da solução de sulfato de zinco (C= 0,42 mol L-1), além de 12,0 mL da solução de NaOH (C= 1,0 mol L-1). Esta mistura foi diluída com água até volume final igual a 250 mL em balão volumétrico. Em seguida, foi transferida uma alíquota de 0,3 mL a uma cela de reação e de medida, feita em PTFE (politetrafluoretileno). Por fim, foram adicionados: 0,3 mL da solução de sulfadiazina, 0,3 mL da solução α-naftol e 0,8 mL da solução de NaOH (C= 1,0 mol L-1). A medida de refletância foi feita com o refletômetro portátil.
+
+1.9.3 Curva analítica A partir da solução padrão intermediária de nitrito de sódio, 100,0 mg L-1: 1,00, 3,00, 5,00, 10,0 e 15,0 mL da solução de nitrito foram adicionados a balões volumétricos de 50,00 mL e o volume foi completado com água. As concentrações obtidas foram respectivamente: 0,50, 1,50, 2,50, 5,00 e 7,50 mg L-1. Foram adicionados em diferentes celas de PTFE 0,300 mL de cada uma destas soluções, 0,300 mL de solução de sulfadiazina, 0,300 mL da solução α -naftol e 0,800 mL de solução de NaOH (1,0 mol L-1). O volume foi completado para 2,00 mL com água usando uma micropipeta. Depois de misturar suavemente, utilizando um bastão de vidro, as soluções foram mantidas em repouso por 10 minutos a fim de desenvolver a cor. A refletância foi medida com o refletômetro portátil (Matias et al. 2003).
+
+17
+
+1.9.4 Análise
+
+de
+
+nitrito
+
+em
+
+amostras
+
+comerciais
+
+de
+
+salsicha
+
+por
+
+espectrofotometria (AOAC) Foram misturados 5,00 ± 0,01 g de salsicha cortada em pequenos pedaços num recipiente de 500 mL. Em seguida, foram adicionados 40,0 mL de água aquecida a 80 °C, agitando-se cuidadosamente com um bastão de vidro. A mistura foi transferida para um béquer de 500 mL, sendo que o recipiente e o bastão foram lavados cuidadosamente com alíquotas sucessivas de água quente, que foi recolhida no balão, num total de aproximadamente 300 mL. O béquer foi colocado num banho na temperatura de 80 °C por 2 horas, com agitação ocasional. Em seguida, resfriou-se a mistura à temperatura ambiente, transferiu-se para um balão de 500 mL e completou-se o volume com água. Em casos em que foi observada turbidez, a solução foi filtrada com papel de filtro qualitativo. Alíquotas de 10,0, 20,0, 30,0 40,0 45,0 mL foram colocadas em balões de 50 mL. Foram adicionados 2,5 mL da solução de sulfanilamida em cada balão. Após 5 minutos, foram adicionados 2,5 mL do reagente NED, e completou-se o volume para 50 mL. Aguardou-se 15 minutos até o desenvolvimento de cor. Realizou-se a leitura em 540 nm contra um branco obtido a partir de solução preparada com 45,0 mL de água, 2,5 mL do reagente sulfanilamida e 2,5 mL do reagente NED (Horwitz, 2005b).
+
+1.9.5 Curva analítica
+
+Para o preparo das soluções utilizadas na curva analítica adicionou-se 5,0; 7,5; 10,0; 12,5; 15,0; 17,5; 20,0; 30,0 e 40,0 mL de solução de trabalho de nitrito (1,45 × 10-5 mol L-1) para balões volumétricos de 50 mL. Adicionaram-se 2,5 mL de reagente NED, misturou-se e completou-se o volume. As leituras foram feitas em 540 nm após 15 minutos de repouso. A curva analítica foi construída medindo a 18
+
+absorbância de soluções contendo 0,1; 0,15; 0,20; 0.25; 0,30 mg mL-1 de NaNO2 na solução final de leitura.
+
+1.9.6 Análise de nitrito em amostras de salsicha por refletância difusa
+
+Foram triturados num liquidificador aproximadamente 30,0 ± 0,01 g de salsicha cortada em pequenos pedaços e 50 mL de água. Em seguida 6,0 ± 0,01 g desta mistura foram transferidos para um béquer de 250 mL. Adicionou-se 40 mL de água e aqueceu-se a 800C. Adicionou-se mais cerca de 150 mL de água e aqueceu-se a 800C por duas horas. Transferiu-se para um balão de 250 mL e completou-se o volume com água. Em seguida, foi retirada uma alíquota de 0,300 mL e colocada dentro da cela de refletância de PTFE. Adicionou-se 0,300 mL da solução de sulfadiazina, 0,300 mL da solução de α-naftol e 0,800 mL da solução de NaOH (1,0 mol L-1). Esperou-se 15 minutos e realizou-se a leitura no refletômetro portátil.
+
+1.9.7 Curva analítica
+
+Para o preparo da curva analítica observou o mesmo procedimento para a análise de queijo (item 1.9.5). A partir da solução padrão intermediária de nitrito de sódio, 100,0 mg L-1, 1,00, 3,00, 5,00, 10,00e 15,00 mL da solução de nitrito foram adicionados a balões volumétricos de 50,00 mL e o volume foi completado com água. As concentrações obtidas foram respectivamente: 0,50, 1,50, 2,50, 5,00 e 7,50 mg L-1. Foram adicionados em diferentes celas de PTFE 0,300 mL de cada uma destas soluções, 0,300 mL de solução de sulfadiazina, 0,300 mL da solução α­naftol e 0,800 mL de solução de NaOH (1,0 mol L-1). O volume foi completado para 2,00 mL com água. Depois de misturar suavemente, utilizando um bastão de 19
+
+vidro, as soluções foram mantidas em repouso por 10 minutos até que surgisse a cor. A refletância foi medida com o refletômetro portátil (Matias et al. 2003).
+
+1.10 Resultados e Discussão
+
+O método de refletância difusa proposto envolve a reação de diazotação entre o nitrito e a sulfadiazina, seguido pelo acoplamento em meio alcalino com o α-naftol, resultando na obtenção de uma substância vermelha. Uma vantagem da utilização de sulfadiazina se refere estabilidade das suas soluções em comparação com as dos reagentes empregados no método oficial. Além disso, no método proposto são utilizados sufadiazina, α-naftol, hidróxido de sódio e sulfato de zinco, enquanto que no método oficial são necessários ácido sulfanílico, cloridrato de 1-naftilamina, sulfato de zinco, sulfanilamida, N-1-naftil etilenodiamina e o hidróxido de sódio. O esquema da reação de formação das espécies azo coloridas está indicado na Figura 4.
+
+20
+
+Figura 4. Sequência reacional para a formação do composto de cor vermelha.
+
+No caso do método AOAC, a absorbância do composto azo de cor vermelha foi medida no espectrofotômetro em 540 nm, empregando-se celas de quartzo com caminho óptico igual a 1,0 cm. A curva analítica obtida para amostras de queijo é descrita pela equação de primeira ordem
+
+A = 0,00591 + 0,599 C,
+
+(R=0,9995)
+
+21
+
+Onde C é a concentração de nitrito em mg L-1 na solução e A é a absorbância medida em 520 nm. O limite de detecção, LOD, na solução era igual a 1,2 × 10-2 mg L-1 (1,7 × 10-7 mol L-1), o que significa 4,7 × 10-2 mg kg-1 (6,8 × 10-7 mol L-1) de nitrito, enquanto que o limite de quantificação, LOQ, na solução era igual a 3,6 × 10-2 mg L-1 (5,1 × 10-7 mol L-1), o que corresponde a um valor igual a 0,14 mg kg-1 (2,0 × 10-6 mol kg-1) de nitrito no queijo. A curva analítica foi construída a partir desde um valor de concentração igual a 0,1 mg mL-1, o que é equivalente a 1,5 × 10-6 mol L-1, até um valor de concentração igual a 0,3 mg mL-1 (4,5 × 10-6 mol L-1) de NaNO2 em solução. No caso da salsicha, foi obtida a seguinte curva analítica:
+
+A = 0,0149 + 0,583 C,
+
+(R=0,9997),
+
+em que C, da mesma forma que discutido anteriormente, corresponde a concentração de nitrito em mg L-1 (na solução de medição final), enquanto que A é a absorbância em 540 nm. O limite de detecção LOD, que foi obtido para a solução era igual a 1,3 × 10-2 mg L-1 (1,9 × 10-7 mol L-1), o que significa 5,2 × 10-2 mg kg-1 (7,6 × 10-7 mol L-1), sendo que o limite de quantificação, LOQ é de 3,8 × 10-2 mg L-1 (5,5 × 10-7 mol L-1), o que significa 0,16 mg kg-1 (2,3 × 10-6 mol kg-1) de nitrito na salsicha. Foram empregadas diferentes soluções de NaNO2, cujas concentrações variavam de 0,1 mg mL-1 (1,5 × 10-6 mol L-1) até um valor igual a 0,3 mg mL-1 (4,5 × 10-6 mol L-1)], para se obter a curva analítica. A curva analítica que foi obtida, no caso da salsicha, ao se empregar o refletômetro construído no laboratório, é descrita pela equação:
+
+22
+
+ = 99,36 + 42,86 C,
+
+(R = 0,9983),
+
+em que  é a resistência (Ω), do detector dependente de luz (LED), e C é a concentração de nitrito em mg L-1 na solução. O valor do LOD calculado era igual a 2,0 × 10-2 mg L-1 (2,9 × 10-7 mol L-1), o que significa 0,13 mg kg-1 de nitrito (1,9 × 10-6 mol kg-1). O limite de quantificação, LOQ, era ca. 6,0 × 10-2 mg L-1 (8,7 × 10-7 mol L-1), o que significa 0,39 mg kg-1 de nitrito (5,7 × 10-6 mol kg-1) de salsicha. A curva analítica obtida para o queijo foi descrita pela seguinte equação que, como esperado, está muito próxima a obtida para as amostras de salsicha (descrita acima), sendo  = 102,83 + 48,63 C,
+
+(R = 0,9985),
+
+Onde  é a resistência (Ω), do detector dependente de luz (LED), e C é a concentração de nitrito em mg L-1 na solução. O valor do LOD foi estimado em cerca de 2,0 × 10-2 mg L-1 (2,9 × 10-7 mol L-1) na solução e 0,17 mg kg-1 nitrito (2,5 × 10-6 mol kg-1). O LOQ e 6,0 × 10
+
+-2
+
+mg L-1 (8,7 × 10-7 mol L-1), o que significa
+
+0,51 mg kg-1 de nitrito (7,4 × 10-6 mol kg-1) de queijo. Os resultados obtidos na determinação de nitrito estão representados na Tabela 1.
+
+23
+
+Tabela 1. Comparações entre os resultados obtidos para os métodos proposto e o oficial, empregando-se o teste t de Student e o teste F de Snedecor. AOAC Amostrasa mg kg
+
+-1
+
+SD mg kg-1
+
+RSD Proposto %
+
+mg kg
+
+-1
+
+SD mg kg-1
+
+RSD %
+
+tcalcb
+
+Fcalcb
+
+1
+
+2,68
+
+0,09
+
+3,4
+
+2,52
+
+0,19
+
+7,5
+
+0,57
+
+4,46
+
+2
+
+2,36
+
+0.10
+
+4,2
+
+2,25
+
+0,18
+
+8.0
+
+0,43
+
+3,24
+
+3
+
+2,49
+
+0,10
+
+4,0
+
+2,38
+
+0,12
+
+5,0
+
+0,76
+
+1,44
+
+Média
+
+3,9
+
+Média
+
+6,9
+
+0,59
+
+3,05
+
+4
+
+18,0
+
+0.2
+
+1,1
+
+17,8
+
+0,7
+
+3,9
+
+1,37
+
+12,3
+
+5
+
+15,3
+
+0,2
+
+1,3
+
+15,2
+
+0,6
+
+3,9
+
+1,73
+
+16,0
+
+6
+
+16,4
+
+0,2
+
+1,2
+
+15,9
+
+0,8
+
+5,0
+
+1,47
+
+14,1
+
+Média
+
+1,2
+
+Média
+
+4,3
+
+1,52
+
+14,1
+
+7
+
+10,1
+
+0,2
+
+2,0
+
+9,8
+
+0,6
+
+6,1
+
+1,32
+
+16,0
+
+8
+
+9,22
+
+0,1
+
+1,1
+
+9,1
+
+0,5
+
+5,5
+
+1,00
+
+14,8
+
+9
+
+12,2
+
+0,1
+
+0,8
+
+12,1
+
+0,4
+
+3,3
+
+1,19
+
+16,0
+
+Média
+
+1,3
+
+Média
+
+5,0
+
+1,17
+
+15,6
+
+Média total
+
+2,1
+
+Média total
+
+5,4
+
+1,09
+
+10,9
+
+a
+
+Amostras: 1 a 3, alíquotas de queijo tipo prato; 4 a 6, alíquotas de salsicha tipo
+
+Viena; 7 a 9, alíquotas de salsicha italiana;b a quantidade de determinações por amostra é igual a 3; graus de liberdade  = 4 = (n1+ n2-2); nível de confiança= 95%; valor de t tabelado = 2,78 ; valor de F tabelado= 19,0 (Skoog et al. 1996).
+
+24
+
+1.11 Efeito da concentração do hidróxido de sódio na reação.
+
+No presente trabalho também foi avaliado o efeito da concentração de hidróxido de sódio na reação envolvida no método proposto. Foram avaliados diferentes volumes da solução de hidróxido de sódio (1,0 mol L-1), cujos valores variaram na faixa de 0,1 a 0,8 mL, ou seja, a partir de 0,5 mol L -1 a 1,0 mol L-1 de NaOH na solução final. As investigações mostraram que os valores de refletância eram máximos e constantes com relação à faixa de 0,8 a 1,0 mL de NaOH o que significa concentração 0,4 mol L-1 na solução final. Portanto, para se realizar a análise, foi adotado o volume de 0,8 mL da solução de NaOH de concentração igual a 1,0 mol L-1.
+
+1.12 Efeito da duração da reação
+
+A refletância foi medida após diferentes intervalos de tempo depois da mistura dos reagentes com a amostra. Observou-se que não há um aumento significativo da intensidade do sinal após 10 minutos, à temperatura ambiente, de modo que este tempo foi escolhido para se realizar a análise posterior. A espécie colorida formada apresenta, em relação à cor, estabilidade suficiente à temperatura ambiente para que possa ser aplicado o método analítico (mais do que 1 hora).
+
+1.13 Conclusões
+
+O método proposto para a determinação do nitrito é simples, sensível e de rápida execução, dispensando-se a necessidade de filtração. O reagente utilizado nesse método apresenta como vantagens com relação ao analito, elevadas sensibilidade e seletividade. O método desenvolvido não envolve quaisquer 25
+
+condições severas, sendo vantajoso em termos da elevada estabilidade da cor (mais do que 1 semana), enquanto que o LOD e LOQ são equivalentes para ambos os metodos, ou seja, o oficial (AOAC) e o da reflectância. O novo método foi aplicado com sucesso para se realizar a determinação de pequenas quantidades de nitritos em amostras de queijo (tipo prato) e carnes (embutidos). O dispositivo é portátil e apresenta fácil manipulação, sendo que sua construção é muito simples e de baixo custo. Considerando-se a confiabilidade, a simplicidade e a rapidez de tal método, este pode ser sugerido para se realizar as quantificações de nitrito em amostras de queijo e de carne curada.
+
+26
+
+(II) PESTICIDAS ORGANOFOSFORADOS
+
+Método de varredura por FIA enzimático, com detecção condutivimétrica, para a determinação de pesticidas organofosforados
+
+27
+
+28
+
+2.
+
+2.0
+
+Introdução
+
+Análise por injeção em fluxo (FIA)
+
+A análise por injeção em fluxo é um processo analítico automatizado ou semi-automatizado, que consiste na inserção seqüencial de alíquotas discretas de soluções da amostra em um fluxo líquido não-segmentado, com subseqüente detecção do analito (Stewart., 1981; Decuir et al., 2007). Tal técnica objetiva a mecanização da análise química, através da introdução da solução da amostra em um fluido transportador, não segmentado, o qual conduz a amostra em direção à cela de detecção. É possível, ao longo do processo analítico, receber reagentes e passar por etapas de processamentos, tais como: separações, diluições, extração, líquido-líquido, pré-concentração etc. (Ruzicka & Hansen, 1975; Kronka et al., 1997). Pode-se dizer que a análise por injeção em fluxo é uma técnica de automação que combina essencialmente três princípios: injeção de amostra, dispersão controlada da amostra e a reprodutibilidade no tempo dos eventos. O volume injetado, a vazão do carregador e o tempo de residência são parâmetros que afetam a dispersão da amostra. A extensão da dispersão da amostra é muito importante no desenvolvimento de um método FIA, pois se relaciona diretamente com: a sensibilidade, a frequência de amostragem e o grau de mistura entre os reagentes (Reis et al, 1989; Reis., 1996; Zagatto et al., 1999; Mohr et al, 2009 ). Em 1975, Ruzicka e Hansen publicaram o primeiro artigo de uma sua série clássica de publicações sobre a análise por injeção em fluxo, introduzindo a terminologia “FIA” (“Flow Injection Analysis”) para o processo. Neste artigo (Ruzicka & Hansen., 1975) foi utilizado o conceito de análise em fluxo não29
+
+segmentado que foi demonstrado pela: (i) técnica de titulação ácido-base colorimétrica, empregando-se o alaranjado de metila como indicador;
+
+(ii)
+
+determinação de fosfato pelo método do azul de molibdênio; (iii) determinação potenciométrica da amônia. Para se promover o fluxo das soluções foi utilizada uma bomba peristáltica, enquanto que a injeção das alíquotas foi realizada com seringas e agulhas hipodérmicas. Foi obtida uma elevada frequência analítica (200 amostras por hora), com desvio padrão relativo em torno de 1%. Tubino e Barros (Tubino & Barros.,1991) em 1991 construíram um injetor de válvula rotatória, semelhante ao empregado por (Bergamin et al., 1980), tendo sido empregado o “P.T.F.E. grafitado”, para uso num sistema fortemente oxidante (solução saturada de dicromato de potássio com ácido sulfúrico 6 mol L -1), além de soluções ácidas ou alcalinas concentradas que provocam a degradação das borrachas de vedação (polibutadieno) das válvulas com material acrílico. Os sistemas em fluxo possibilitam a avaliação direta de alguma propriedade do analito na amostra injetada, mas também podem fazer uso de reações químicas ou enzimáticas onde ocorre a conversão da espécie química de interesse em outra com propriedades mais favoráveis com relação à determinação. Os métodos envolvendo e reatores enzimáticos têm sido empregados com esta finalidade. A partir de reações enzimáticas, há formação de novas espécies a serem detectadas (Reis., 1996). Os sensores são modificados com material biológico que se encontra ligado intimamente às superfícies de um transdutor (Marques e Yamanaka., 2008), sendo plenamente compatíveis com os reatores enzimáticos e com os sistemas de fluxo (De La Guardia., 1995). Quando o material que modifica a superfície é uma enzima, estes sensores são denominados biossensores enzimáticos (Marques e Yamanaka., 2008), propiciando o desenvolvimento de análises rápidas, simples e específicas, além de possibilitar economia no tocante às quantidades dos reagentes 30
+
+(Reis., 1996). Para se realizar o preparo de biossensores para pesticidas, pode ser empregada uma variedade de enzimas, tais como: colinesterase, tirosinase, colina oxidase, glicose oxidase, entre outras (Trojanowicz., 2002). No caso da detecção de compostos organofosforados, pode ser empregada a acetilcolinesterase (AChE) (Deo et al., 2005), conferindo resultados satisfatórios (Schulze et al, 2003; Kok Hasirci., 2004; Shi et al., 2006). No presente trabalho, o sistema FIA utilizado contem uma cela de permeação gasosa através da qual o ácido acético, proveniente de uma reação enzimática, permeia, podendo ser obtido o sinal analítico através de sua detecção. O emprego de membranas de difusão gasosa tem sido usado em sistemas FIA proporcionando um aumento de seletividade, uma vez que apenas algumas espécies são suficientemente voláteis a temperatura ambiente (Lazaro, et al., 1988). As membranas podem ser usadas em FIA para se transferir certos compostos voláteis a partir de um fluxo doador (amostra), para um fluxo receptor (detector). O gás absorvido pelo receptor resulta em alteração do seu pH, podendo ser medido, por exemplo, condutimetricamente, situação em que o sinal analítico se baseia na mudança de condutividade da fase receptora (Kuban et al., 1993). O sistema FIA emprega os componentes essenciais usados nesses casos, associados a uma cela de permeação gasosa que contém uma membrana semipermeável (Kuban et al., 1993). Nos sistemas FIA que empregam membranas de difusão gasosa, as variáveis de grande importância são: a vazão, o tipo da membrana e o procedimento de instalação da mesma (Tryzell et al., 1995).
+
+31
+
+2.2
+
+Cromatografia gasosa acoplada à espectrometria de massas (CG/EM).
+
+A cromatografia gasosa (CG) corresponde a uma técnica ímpar e versátil. Originalmente, ela era aplicada com o intuito de se realizar análises de gases e de vapores de componentes muito voláteis. Atualmente é uma ferramenta analítica empregada para se realizar a separação e a análise direta de amostras gasosas, soluções líquidas e de sólidos voláteis (Grob et al., 2004). Na cromatografia gasosa (CG), a amostra é vaporizada e injetada no topo de uma coluna cromatográfica, a qual consiste em uma coluna metálica longa de aço, cobre, vidro ou teflon. A eluição é feita através do fluxo de um gás inerte, o qual atua como fase móvel, que não interage com as moléculas do analito e que apresenta a função de transportá-lo através da coluna. Os gases utilizados como fase móvel devem apresentar elevada pureza, além de serem inertes com relação à fase estacionária, sendo os mais usados: hidrogênio, nitrogênio e o hélio. A Figura 5 apresenta um esquema básico de um cromatógrafo a gás (Skoog et al., 2002).
+
+Figura 5. Componentes básicos de um cromatógrafo a gás (Skoog, et al, 2002).
+
+32
+
+O principal mecanismo de separação relacionado com a cromatografia gasosa se baseia com a partição dos componentes de uma amostra entre a fase móvel gasosa e a fase estacionária líquida. A utilização de fases estacionárias sólidas, as quais levariam à separação por um mecanismo de sorção, apresenta poucas aplicações. A cromatografia gasosa é uma das técnicas analíticas mais utilizadas, pois além de apresentar um elevado poder de resolução, permite a detecção de analitos ao longo do intervalo de nano a picogramas. A grande limitação deste método se relaciona com a necessidade de que a amostra seja volátil ou estável termicamente, embora as amostras não-voláteis ou instáveis possam ser separadas quimicamente (Collins et al., 1997). Os detectores que apresentam maior aplicação são: detector por ionização em chama e o detector de condutividade térmica. Os dados podem ser obtidos através de um registrador potenciométrico, um integrador ou um microcomputador e as amostras podem ser identificadas a partir de seus tempos de retenção. Nesses equipamentos se torna necessário que haja controle da temperatura do injetor, da coluna e do detector, os quais são mantidos em termostatos. Como a temperatura é um fator extremamente importante, grande parte das análises realizadas com o emprego da técnica de cromatografia gasosa é realizada com programação de temperatura, obtendo-se melhor separação, além de picos mais simétricos, considerando-se um intervalo de tempo menor. A quantificação de componentes em uma mistura complexa pode ser realizada através da construção de curvas analíticas para cada substância (Rubiolo et al., 2010). Porém, para amostras muito complexas, como os óleos essenciais, essa pratica se torna inviável, podendo se adotar como estratégia o “fator de resposta” (FR). Um importante feito na química analítica foi quando se tornou possível o acoplamento da cromatografica gasosa (CG) com a espectrometria de massas 33
+
+(EM). Os detectores do tipo EM se constituem em ferramentas poderosas para se realizar a identificação dos componentes de uma amostra, possibilitando informações relacionadas com a pureza dos sinais cromatográficos, além de propiciarem um incremento na detectabilidade de compostos presentes em menores quantidades, resultando em melhores resultados no tocante às análises qualitativas. A “CG-EM” é uma ferramenta que pode ser empregada para separar, quantificar e identificar misturas de componentes voláteis complexos, sendo que o emprego dessa técnica possibilita a realização de análises muito mais rápidas e que proporcionam maior número de informações. Atualmente, é frequente o uso de espectrômetros de massas acoplados a equipamentos de cromatografia gasosa, proporcionando ao químico uma ferramenta poderosa para realizar a identificação de compostos a partir de misturas complexas. A Figura 6 apresenta um esquema de um cromatógrafo à gás acoplado a um espectrômetro de massas (Skoog et al., 2002).
+
+Figura 6. Esquema de um cromatógrafo à gás acoplado a um espectrômetro de massas (Skoog et al., 2002).
+
+34
+
+No espectrômetro de massas, a amostra precisa ser volatilizada e ionizada. Os íons são separados por campos magnéticos ou elétricos em uma câmera de vácuo e a corrente iônica é detectada e registrada em função da massa. O parâmetro medido pela espectrometria de massas (EM) é a razão massa/carga (m/z), a qual corresponde à razão entre o número de massa de uma dada partícula pelo número de unidades de carga eletrostática presente na partícula (Watson, 1997).
+
+2.3
+
+Pesticidas
+
+Existem inúmeras classificações de pesticidas, dependendo do critério empregado e de sua aplicação (Plestina., 2003). Podemos classificar os pesticidas como: inseticidas, fungicidas, etc., com base na aplicação desses, além de, também podermos classificá-los com base na estrutura química do princípio ativo que apresentam: organofosfatos, carbamatos, alifáticos, etc. e, ainda, com base no tipo de formulação empregada (líquidos, sólidos, ou gases) (Plestina., 2003). Existe um importante documento que trata da classificação de pesticidas pelo risco, recomendado pela organização mundial da saúde (WHO., 2009) . Nesse documento, além de vários dados interessantes relacionados com as propriedades de diferentes tipos de herbicidas, há uma explicação sobre as diferentes classificações de pesticidas e dos critérios para a classificação desses compostos, dividindo as diferentes classes de pesticidas nas categorias indicadas na Tabela 2.
+
+35
+
+Tabela 2. Classificação de pesticidas com base em categorias de risco. Classe da WHO
+
+LD50 para um rato (mg / kg) Oral
+
+Dérmico
+
+Ia
+
+Extremamente perigoso
+
+<5
+
+< 50
+
+Ib
+
+Altamente perigoso
+
+5 - 50
+
+50 - 200
+
+II
+
+Moderadamente perigoso
+
+50 - 2000
+
+200 - 2000
+
+III
+
+Ligeiramente perigoso
+
+> 2000
+
+> 2000
+
+U
+
+Improvável risco agudo
+
+≥ 5000
+
+Em termos da classificação química adotada pelo documento da “WHO”, os pesticidas estão divididos nos seguintes grupos: compostos com arsênico, derivados bipiridílicos, carbamatos, derivados da cumarina, compostos com cobre, compostos com mercúrio, derivados nitrofenólicos, organoclorados, compostos organofosforados, organoestânicos, derivados do ácido fenoxiacético, pirazóis, piretroides, derivados triazínicos e tiocarbamatos. Os pesticidas aplicados em solos de regiões agrícolas e seus respectivos resíduos tóxicos são introduzidos em corpos d'água através do processo de lixiviação, de tal forma que eles acabam sendo transportados aos sistemas de tratamentos de esgoto e de efluentes industriais, também podendo ser liberados através dos derramamentos acidentais, o que preocupa os ambientalistas devido à bioacumulação dessa classe de compostos químicos ao longo das cadeias alimentares (Aktar et al., 2009; Alnedhary et al.,2007).
+
+36
+
+2.3.1 Pesticidas organofosforados
+
+Os inseticidas organofosforados (OPs) são amplamente utilizados na agricultura em todo o mundo (Cheng et al., 2007; Kumar et al., 2006; Schöning et al, 2003; Lana et al., 2006; Horne et al., 2002). Estes compostos possuem em sua estrutura um átomo central de fósforo pentavalente ligado a um átomo de oxigênio ou enxofre, por uma dupla ligação possuindo efeito tóxico agudo para seres humanos e outros mamíferos, pois são inibidores da enzima acetilcolinesterase, essencial para a transmissão de impulsos nervosos. Os organofosforados atuam como inibidores da acetilcolinesterase, causando a fosforilação irreversível das esterases presentes no sistema nervoso central dos organismos. Além disto, os organofosforados são lipossolúveis, sendo contaminantes potenciais para diversos tipos de alimentos (Galli et a.l, 2006). O primeiro pesticida organofosforado sintetizado foi o tetraetilpirofosfato (TEEP) em 1854 (Figura 7). Todavia, não se conheciam suas propriedades como pesticida, sendo que a partir de 1932 se começou a investigar esses agentes, inicialmente como pesticidas e mais tarde, como armas químicas.
+
+Figura 7. Pesticida tetraetilpirofosfato (TEEP).
+
+37
+
+O desenvolvimento de gases de guerra está intimamente ligado ao desenvolvimento dos inseticidas. Todos os derivados orgânicos do ácido fosfórico são tóxicos e podem ser absorvidos pela pele, em maior ou menor extensão (Vanin., 1992). Os organofosforados (OPs) também são empregados amplamente na agroindústria ao redor do mundo como inseticidas (Cheng et al., 2007). Os organofosfatos sintéticos (OPs) apresentam três ligações fosfoéster, sendo largamente empregados entre os pesticidas mais tóxicos. A hidrólise de uma das ligações fosfoéster reduz dramaticamente a toxicidade dos pesticidas ao se eliminar as propriedades inativadoras da acetilcolinesterase (Schöning et al., 2003; Lana., 2006; Horne et al., 2002;). Esses pesticidas atuam como inibidores da colinesterase em insetos e em mamíferos, resultando numa fosforilação não-reversível das esterases presentes nos sistemas nervosos centrais dos organismos (Sogorb et al., 2002). Um grande avanço que surgiu na área dos inseticidas organofosforados aplicados na agricultura em termos da relação estrutura-atividade ocorreu em 1944, com a descoberta do composto “paration” por Schrader , que foi o primeiro produto de um novo grupo de inseticidas revolucionários empregados até os dias de hoje. Apesar de sua relativa toxicidade, outros inseticidas menos tóxicos haviam sido desenvolvidos, os quais apresentavam poucas modificações estruturais, como no caso dos compostos: “clortion”, “fention” e “fenitrotion” (Figura 8).
+
+38
+
+Paration
+
+Chlortion
+
+Fention
+
+Fenitrotion
+
+Malation
+
+Demeton-S
+
+Figura 8. Pesticidas organofosforados (Santos, et al, 2007).
+
+O modo de ação dos organofosforados é relacionada com a inibição da enzima acetilcolinesterase nos sistemas nervosos de vertebrados e de invertebrados (Fournier et al., 1994; Jokanovic, 2001). O principal sítio de ação dos inseticidas organofosforados é o sistema nervoso ao nível da junção neuromuscular, interagindo com a AChE que apresenta a função de catalisar a hidrólise da acetilcolina (ACh) em ácido acético e colina (Figura 9), interrompendo assim a
+
+39
+
+transmissão dos impulsos nervosos nas sinapses dos neurônios colinérgicos do sistemas nervosos central e periférico (Gallo et al, 1990; Chambers et al., 1989).
+
+Acetilcolina
+
+Colina
+
+HAC
+
+Figura 9. Reação de hidrólise da acetilcolina.
+
+A acetilcolina é um mediador químico que é necessário para que possa ocorrer a transmissão dos impulsos nervosos, estando presente nos mamíferos e nos insetos. Quando a AChE é inibida ocorre a paralisia e morte (Padilha et al., 1994; Karczmar, 1998).
+
+2.3.2 Pesticidas organofosforados estudados neste trabalho.
+
+2.3.2.1
+
+“Clorpirifos”
+
+O “fosforotioato O,O-dietil O-3,5,6-tricloro-2-piridil” é um inseticida e acaricida cuja fórmula estrutural é apresentada na Figura 10, é muito empregado na agricultura. Ele apresenta a fórmula molecular C9H11Cl3NO3PS e massa molar 350,59 g mol-1. Na temperatura ambiente se apresenta sob a forma de cristais brancos. A solubilidade em água é de 2 mg L-1, sendo solúvel na maioria dos solventes orgânicos. Apresenta DL 50 145 mg Kg-1 (Merk., 1997). 40
+
+Figura 10. Fórmula estrutural da molécula do pesticida “Clorpirifos”.
+
+2.3.2.2
+
+“Malation”
+
+O S-(1,2-dicarbetoxietil) O,O dimetilditiofosfato é um inseticida derivado do ácido succínico, sendo empregado na agricultura. Sua fórmula estrutural está representada na Figura 11, enquanto que sua fórmula molecular e massa molar são: C10H19O6PS2 e 330,36 g mol-1. Em temperatura ambiente é um líquido com cor similar ao âmbar, apresentando odor característico. Sua solubilidade em água é de 145 mg L-1, sendo solúvel na maioria dos solventes orgânicos e apresenta DL 50 de 1375 mg kg-1 (Merk., 1997). Como todo composto organofosforado, age através da inibição da colinesterase, a qual é reversível para doses sub-letais. Dentre seus efeitos sobre o organismo humano ocorrem: bronco-constrição, suor, salivação e outras secreções glandulares, anorexia, náusea, vômito, diarreia, constrição muscular, convulsão e paralisia da respiração. Embora estes efeitos sejam reversíveis, o paciente necessita de alguns dias para se recuperar.
+
+41
+
+Figura 11. Fórmula estrutural da molécula do pesticida “Malation”.
+
+2.3.2.3
+
+“Diclorvos”.
+
+O fosfato de 0,0-dimetil-2,2-diclorovinila é um inseticida cuja fórmula estrutural está representada na Figura 12. Sua fórmula molecular é C4H7Cl2O4P e sua massa molar é 220,98 g mol-1. É um líquido de coloração similar ao âmbar, apresenta odor aromático e sua solubilidade em água de 1 g/100 mL. É solúvel em álcool e na maioria dos solventes não polares, apresentando DL50 de 80,56 mg kg-1 (Merk., 1997). A molécula de diclorvos é estável termicamente, sendo hidrolisada rapidamente em meio alcalino, ao passo que em meio ácido e hidrólisado lentamente. Esse composto resulta num efeito toxicológico leve em seres humanos. Todavia, em elevadas doses ataca o sistema nervoso central, uma vez que é um agente anticolinesterase. O principal problema relacionado com a utilização deste pesticida é que a sua grande utilização, tanto domesticamente (controle de moscas, baratas e pernilongos) quanto na agricultura e na pecuária torna frequente a contaminação humana (Oliveira., 2004).
+
+42
+
+Figura 12. Fórmula estrutural da molécula do pesticida diclorvos.
+
+2.3.2.4
+
+Paraoxon
+
+O dietil 4-nitrofenil fosfato é um inseticida cuja fórmula estrutural está representada na Figura 13. Sua fórmula molecular é C10H14NO6P e sua massa molar é 275,195 mol-1. A inibição da enzima AChE resulta no acúmulo da aceticolina em níveis prejudiciais, o que perturba as transmissões dos estímulos colinérgicos. As moléculas de metil-paraoxon são produzidas através da dessulforação oxidativa mediada pelo citocromo P450, durante a biotransformação do metil-paration (Filho et al., 2004).
+
+43
+
+Figura 13. Fórmula estrutural da molécula do pesticida paraoxon
+
+2.4 Enzimas
+
+As enzimas podem ser obtidas de fontes vegetais, animais e microbianas. Entretanto, a partir do momento que o desenvolvimento da microbiologia permitiu compreender melhor os sistemas que presidem a síntese das enzimas nos microrganismos, a produção industrial das enzimas foi possível com base nos processos de fermentação. As principais vantagens das enzimas obtidas por fermentação sobre as enzimas obtidas por extração são: produção independente de variações climáticas e geográficas, possibilidade de otimização dos processos de produção e redução de custos (Price et al., 1995). As enzimas aceleram as reações bioquímicas pela interação física com os reagentes e produtos, propiciando um caminho mais favorável para a transformação de um no outro. As enzimas aumentam a velocidade das reações, fazendo com que a interação entre os reagentes aumente a probabilidade de a reação completar-se (Voet, et al., 2000). 44
+
+As enzimas biocatalisadoras são constituídas principalmente por cadeias polipeptídicas. A parte protéica da enzima, sem cofatores ou grupos prostéticos, é denominada apoenzima, e não apresenta atividade catalítica. Os cofatores são pequenas moléculas orgânicas como as coenzimas FAD e NAD ou são íons como Fe(II), Mn(II), Cu(II), etc., que se ligam fracamente à apoenzima e estão envolvidos diretamente na atividade catalítica. O grupo prostético, ao contrário, se liga fortemente à apoenzima. A associação do cofator ou grupo prostético à apoenzima forma a holoenzima que é a enzima ativa (Lehninger., 1995; Said et al., 2002). A molécula sobre a qual a enzima atua para formar o produto é chamada substrato. Em geral, o sítio de ligação do substrato consiste de um “entalhe ou sulco” na superfície de uma enzima, que apresenta formato complementar ao dos substratos (complementaridade geométrica). As moléculas que diferem do substrato no formato ou na distribuição de grupos funcionais não podem se ligar produtivamente à enzima. A complementaridade entre as enzimas e seus substratos é a base do modelo “chave e fechadura” da função enzimática proposto por Emil Fischer em 1894 (Voet et al., 2000). A primeira proposta, elaborada em 1894 por Fisher, foi o modelo “chavefechadura”, no qual se considera a existência de uma impressão em formato de negativo fotográfico do substrato sobre a superfície da enzima. O substrato encaixa-se nesse sítio de ligação como uma chave a uma fechadura. Nesse modelo, o sítio ativo apresenta características estruturais rígidas que são complementares àquelas de cada substrato. Porém, a proposta de Fisher não prevê os efeitos de interações alostéricas. Os efeitos alostéricos são aqueles em que a ligação de um ligante a um sítio afeta a ligação de outro ligante a outro sítio; geralmente requerem interações entre subunidades de proteínas oligoméricas.
+
+45
+
+Outro modelo, sugerido por Koshland em 1968, conhecido como ajuste induzido, sugere um ajuste na conformação da superfície da enzima com a aproximação do substrato, formando um sítio de ligação. Neste modelo, os sítios ativos são flexíveis, apresentando uma estrutura complementar àquela do substrato somente quando estiverem ligados à enzima. As reações catalisadas por enzimas ocorrem em velocidades que são da ordem de 100 a 1000 vezes mais rápidas que as reações correspondentes não catalisadas (Lehninger., 1995; Said, et al., 2002).
+
+2.4.1 Acetilcolinaesterase
+
+A colinesterase (AChE) pertence a uma família de serina hidrolases, que fazem parte de uma família de alfa/beta (α/β) hidrolases. As colinesterases se dividem em acetilcolinaesterase (AChE) e butirilcolinaesterase (BuChE), cada uma delas especificidada por seu substrato (Day et al., 2002; Nardini., 1999). A AChE é encontrada principalmente nas hemáceas e sinapses (terminações nervosas) e músculo estriado enquanto que a BuChE é encontrada principalmente no fígado, no plasma, no pâncreas e no intestino delgado sendo a função desta última ainda desconhecida. Outra diferença entre essas colinesterases está na preferência por seus substratos: a AChE hidrolisa a ACh mais rápido enquanto a BuChE hidrolisa a BuCh mais rápido. (Silva., 2005). A estrutura cristalografica da AChE (Figura 14) determinada primeiramente foi aquela de Torpedo californica (TcAChE) encontrada em abundância numa espécie de peixe elétrico (Schumacher., 1986). Esta AChE foi também a primeira a ter sua estrutura cristalográfica tridimensional obtida por difração de raio-x (Sussman.,1991; Castro., 2002).
+
+46
+
+Figura 14. Estrutura tridimensional da acetilcolinaesterase de Torpedo californica.
+
+O mecanismo de ação da AChE no sistema nervoso central e periférico está relacionado
+
+com
+
+a
+
+propagação
+
+dos
+
+impulsos
+
+nervosos
+
+nas
+
+sinapses
+
+neuromusculares (Quinn et al., 1987) sendo que esta enzima catalisa a hidrólise do neurotransmissor acetilcolina (ACh) em colina e ácido acético, reação ilustrada na Figura 15.
+
+Figura 15. Reação da hidrólise do neurotransmissor acetilcolina catalisada pela enzima AChE. 47
+
+2.4.2 Biosensors
+
+Nas últimas décadas as pesquisas de química analítica com aplicação em agricultura vêm aumentando significantemente como resultado da necessidade de acelerar, facilitar e reduzir custos de plataformas analíticas que sejam capazes de fornecer informações quantitativas e qualitativas sobre a composição de uma amostra com o mínimo de pré-tratamento desta (Andreescu et al., 2006). Um biossensor é definido como um tipo de dispositivo analítico que, incorporado a um material biológico, utiliza a seletividade e a detectabilidade do bioreceptor conectado a um sensor base (transdutor). Este transdutor converte o sinal bioquímico e/ou físico-químico num sinal mensurável como resultado do bioreconhecimento entre a molécula biológica e seu respectivo analito (Patel et al ., 2002.), o que o torna uma ferramenta promissora para suplementar técnicas existentes, devido às suas características únicas, tais como: seletividade, relativo baixo custo de construção e estocagem, potencial para miniaturização, facilidade de automação e construção de equipamentos simples e portáteis para um monitoramento "in situ" rápido. Entretanto, é necessário enfatizar que estas ferramentas não podem e não devem ser vistas como alternativas frente às técnicas analíticas clássicas, mas contituíndo um complemento a elas, pois algumas dessas ferramentas ainda podem apresentar problemas de estabilidade (Nistor., 1999; Thevenot., 2001). Geralmente, os biosensores podem ser classificados conforme a natureza do transdutor: potenciométrico, amperométrico, condutimétrico, calorimétrico, piezoelétrico ou óptico.
+
+48
+
+2.4.3 Técnicas de Imobilização
+
+A atividade das enzimas está relacionada à manutenção da integridade de sua conformação terciária, em particular ao nível de seu sítio ativo. Assim, os processos de imobilização devem fazer uso de métodos brandos e bem controlados, respeitando-se a estrutura nativa da proteína. Vários processos de imobilização do material biológico são descritos na literatura e, de modo geral, podem ser incluídos nas seguintes categorias: inclusão ou oclusão em matriz, microencapsulação, fixação por adsorção, fixação por ligação covalente e fixação por ligação covalente cruzada (Alvarez Icasa & Bilitewski., 1993; Fatibello Filho & Capelato., 1992; Oliveira Neto & Yamanaka., 1988). A Figura 16 ilustra essas categorias de imobilização.
+
+Enzima Imobilizada
+
+Oclusão ou Inclusão
+
+Matriz
+
+Ligações
+
+Microencapsulada Adsorvida
+
+Ligação Covalente
+
+Suporte
+
+Enzima
+
+Figura 16. Formas de imobilização enzimática. Fonte: Fatibello & Capelato, 1992. 49
+
+2.4.4
+
+Imobilização por Oclusão em Matriz Polimérica
+
+Na técnica de inclusão ou oclusão em matriz, as moléculas da enzima ficam confinadas na rede tridimensional de um polímero insolúvel em água, como ágar-ágar, carragenatos, álcool polivinílico, poliacrilamida, borracha de silicona, amido e outros. Neste método, a enzima é dissolvida e dispersada numa solução de um monômero e, em seguida, ocorre a polimerização pela ação de um agente de reticulação com a presença de um colóide protetor (albumina, agarose ou dextrana). A estrutura do polímero formada apresenta espaços intersticiais que propiciam a difusão de moléculas do substrato e dos produtos da reação, porém impedem a saída das moléculas da enzima. A vantagem encontrada nesta técnica reside no fato de que a enzima não está ligada diretamente ao suporte e conserva sua integridade molecular, não sendo modificada a sua estrutura. Entretanto, é uma técnica pouco utilizada devido aos fenômenos de difusão através do gel e dificuldade de obtenção de polímeros com tamanho de interstícios uniformes.
+
+2.4.5 Imobilização por Microencapsulação
+
+A técnica de microencapsulação consiste no confinamento da enzima em microcápsulas, delimitadas por membranas semipermeáveis cujos poros podem variar de 5 a 300 m, permitindo assim a livre movimentação de substratos e produtos da reação enzimática sem possibilitar a saída da enzima. Nesta técnica, o aprisionamento de um número de moléculas é maior que o processo anterior e, também, permite a imobilização simultânea de várias enzimas numa única etapa. No entanto, ela exige alta concentração enzimática para a microencapsulação, podendo ocorrer restrição quanto à passagem de alguns substratos 50
+
+através dos poros da membrana e, ainda, podendo haver dificuldade no caso de pequenos biocatalisadores como pequenas enzimas.
+
+2.4.6 Imobilização por Adsorção
+
+A técnica de adsorção de enzimas em suportes sólidos insolúveis é resultado de forças de interação de baixa energia, como ligações de van der Waals, pontes de hidrogênio e ligações iônicas. O processo é simples, brando e não deletério para a maioria das enzimas, sendo desprezíveis os efeitos difusionais. Por outro lado, possui a grande desvantagem de deixar a enzima absorvida extremamente dependente de fatores ligados ao meio reacional, tais como pH, solventes, substratos e temperatura. Os suportes geralmente possuem superfície ativa e funcionam como excelentes adsorventes, sendo que os mais utilizados são o grafite, resinas de troca iônica, vidro, carvão vegetal, sílica gel, alumina, celulose e derivados, amido, bentonita, entre outros.
+
+2.4.7 Imobilização por Ligação Covalente
+
+Na fixação por ligação covalente a enzima é ligada ao suporte inerte por meio de ligações químicas covalentes, as quais são, normalmente, estabelecidas entre os grupos não ativos da enzima (hidroxila, carbonila, amino, fenólico, tiol, imidazólico) com os grupos reativos do suporte presentes na superfície sólida do suporte. Como a reação química de formação da ligação covalente deve ser o menos desnaturante possível para a enzima, é necessária uma ativação prévia dos grupamentos suscetíveis de entrar em reação. Por razões ligadas à dificuldade de manter intacta a atividade da enzima, geralmente, escolhe-se ativar o suporte. No método de ligação covalente, a enzima é mantida num ambiente semelhante ao que 51
+
+ela se encontra na natureza e deste modo possui maior estabilidade frente aos efeitos de pH, força iônica, solvente e temperatura.
+
+2.4.8 Imobilização por Ligação Covalente Cruzada
+
+Esta imobilização baseia-se também na formação de ligações químicas, porém na ausência de suporte. Reagentes bi ou multifuncionais (glutaraldeido; 2- isocianato-4isotiocianato tolueno; 2,4, biscloreto sulfonil fenol; etc.) são empregados tanto para imobilização quanto para a estabilização da enzima. O método baseia-se na formação de partículas microscópicas (ou rede polimérica) em decorrência de ligações covalentes cruzadas, entre moléculas de enzimas com reagentes funcionais. A imobilização da enzima com glutaraldeido é freqüentemente empregada, pois se observa boa estabilidade da enzima frente às variações de pH, força iônica e temperatura. Contudo, a escolha da proporção enzima/glutaraldeído utilizado na imobilização é um fator crítico, pois a insolubilização da enzima deve resultar numa mínima distorção de sua estrutura, preservando assim sua atividade catalítica (Migneault et al., 2004).
+
+2.4.9 Aplicações dos biosensores enzimáticos
+
+Vários trabalhos vêm sendo propostos utilizando biosensores enzimáticos com diferentes elementos transdutores, o que reflete a grande flexibilidade em se adequar a uma aplicação específica. Os transdutores potenciométricos respondem gerando um sinal na superfície de um eletrodo devido a uma espécie produzida na reação entre o analito e o material biológico. No caso da enzima acetilcolinesterase, os transdutores potenciométricos geram sinais que são estudados através da quantificação da concentração do ácido 52
+
+acético formado, a qual é diretamente proporcional à concentração do pesticida presente. Andreescu et al (2002) fizeram a comparação entre três métodos de imobilização da enzima AChe em eletrodos para a determinação de pesticidas organofosforados, apresentando bons resultados quanto aos limites de detecção, reprodutibilidade e estabilidade, desde que estocados em condições apropriadas. Estes métodos foram de fácil operação e foi possível utilizar diferentes modos de imobilização. Uma das vantagens destes métodos é que os eletrodos podem ser facilmente miniaturizados e produzidos em larga escala, usando uma tecnologia relativamente barata. Pogačnik et al (2001) fizeram um estudo da determinação de pesticidas organofosforados e carbamatos com FIA, baseado na inibição da enzima AChe de diferentes origens e da enzima BChe. A imobilização da enzima foi feita em pérolas de vidro de tamanho controlado. Foi feita a otimização do sistema testando várias condições com as diferentes enzimas, verificando-se que as variáveis inerentes ao sistema FIA, como por exemplo a vazão, influenciaram os limites de detecção. A observação mais importante foi que, mantendo-se o mesmo pesticida e variando-se a enzima, obteve-se respostas diferentes com limites de detecção diferentes. Por outro lado, mantendo-se a mesma enzima e mudando os pesticidas os limites também foram afetados. A técnica apresenta-se como uma alternativa para a determinação destes pesticidas, porém é necessário otimizar as diferentes variáveis que podem alterar o sinal analítico. Além disso, não foi feita uma avaliação em relação aos possíveis efeitos de matriz nos limites de detecção usando amostras naturais, ou seja, matrizes um pouco mais complexas. Na agricultura, os biosensores podem detectar e quantificar patógenos de plantas no campo, indicando suas posições geográficas com o auxílio do sistema de posicionamento global (GPS), de modo que o produtor possa realizar aplicações de pesticidas nos pontos de maior necessidade, reduzindo e otimizando o emprego dos 53
+
+agroquímicos (Scottruppa et al., 2008). Nunes et al. (2004), fizeram um estudo comparativo entre diferentes metodologias de imobilização da enzima acetilcolinesterase em eletrodos de grafite, com ligação covalente cruzada e reagente bifuncional glutaraldeído na presença de soro albumina bovina e álcool polivinílico. As técnicas utilizadas para avaliação e detecção de pesticidas n-metil carbamatos foram a cromo-amperometria e a coulometria. A imobilização de AChe com glutaraldeído apresentou maior reprodutibilidade e robustez. Guerrieri e Palmisano (2001) utilizaram um biossensor bi-enzimático como detector de um sistema cromatográfico, imobilizando acetilcolinesterase e colina oxidase em eletrodo de platina, por “crosslink” com glutaraldeído, constituindo uma nova alternativa aos detectores cromatográficos e possível aplicação destes sensores em cromatografia. Pode-se concluir que como vantagem, os biosensores enzimáticos apresentam várias configurações, adequando-se às várias necessidades. São compactos, têm custo relativo baixo, apresentam bom limite de detecção e boa repetibilidade e reprodutibilidade. Entretanto, em grande parte dos trabalhos consultados não foi feito um estudo em matrizes complexas, não havendo, portanto, referência aos possíveis efeitos de matriz e possíveis modos de contornar esses problemas. Outra possível limitação é que a AChe pode ser inibida por outras neurotoxinas, dando falsos positivos.
+
+2.5
+
+Objetivo
+
+O objetivo inicial do presente trabalho foi o de estudar um método com biossensor enzimático, baseado na enzima acetilcolinesterase, acoplado à técnica de injeção de análise em fluxo (FIA), que permitisse a análise quantitativa de 54
+
+pesticidas organofosforados em baixas concentrações. Ele deveria ser seletivo para esta classe de pesticidas e relativamente simples quanto à instrumentação, possibilitando a automação do processo analítico, a economia de reagentes e de amostras, dispensado ainda pré-tratamento laborioso. Também, o procedimento deveria ser rápido e de baixo custo, em comparação com as técnicas geralmente utilizadas para esse tipo de análise como, por exemplo, a cromatografia.
+
+2.6
+
+Equipamentos e reagentes
+
+2.6.1 Equipamentos
+
+Bomba peristáltica. Balança analítica. Registrador: Linear Modelo LR92425. Tubos de Tygon Ismatec Injetor: Construído nas oficinas do Instituto de Química da Unicamp (IQ-Unicamp). (Tubino et al,. 2004). Fita (PTFE) 0.1 mm de espessura. Cela de permeação: Construído nas oficinas do IQ-Unicamp.(Linden., 1983 ) Cromatógrafo GCT-Premier Waters Coluna HP-5 MS 30 mx 0,25 mm × 0,25 m,Temperatura de injeção – 270 oC, Interface – 250 oC. Método cromatográfico: 50 oC (3 min) 15 oC/min - 280 oC (2 min) Faixa de massa do detector= 50-500 Da
+
+55
+
+2.6.2 Reagentes
+
+Todos os reagentes e solventes usados foram de qualidade analítica exceto nos casos particularmente especificados:  1,1’-trimetileno-bis-(4-formil-piridinio-brometo)
+
+dioxina
+
+(TMB-4)
+
+(Sigma).  Enzima acetilcolinesterase de Electrophorus electricus (Fluka).  Pérola de vidro com porosidade controlada (CPG), 240, 80-120 mesh, porosidade 22,6 nm, Sigma Chemical.  Glutaraldeído 25% em água (Nuclear).  Cloreto de acetilcolina 99% (Acros Organics).  3-aminopropil-trietoxi silano 99% (Acros Organics).  Malation 98% (Chem Service).  Clorpirifos 98% (Chem Service).  Paraxon 99,00% (Chem Service).  Diclorvos 99,5% (Chem Service);  Acetona PA (Synth); Xileno PA (Carlo Erba).  Ácido Sulfúrico PA (Synth).  Fosfato de Sódio mono-hidratado (Nuclear).  Fosfato de potássio monobásico (Nuclear).
+
+2.6.3 Preparação da solução tampão fosfato de Sörensen (Na2HPO4 KH2PO4) Preparou-se uma solução de fosfato de potássio monobásico (KH2PO4) dissolvendo-se 7,8 g em água deionizada previamente fervida e resfriada, 56
+
+completando-se o volume para 500 mL em um balão volumétrico. Uma solução do fosfato de sódio dibásico (Na2HPO4) foi preparada a partir da dissolução de 0,91 g do sal em água, completando-se o volume para 500 mL em balão volumétrico. As duas soluções foram misturadas e o pH da solução final foi corrigido para 7,5 (pH metro- eletrodo de vidro conjugado) utilizando solução de hidróxido de sódio 0,1 % (m/v) gota a gota.
+
+2.6.4 Preparação da solução de cloreto de acetilcolina A solução 1,0×10-3 mol L-1 foi preparada em tampão fosfato pH 7,00 de concentração 0,1 mol L-1, pesando-se 0,0454g do sal, dissolvendo-se e completando-se o volume em balão volumétrico de 50 mL. Devido à hidrólise do cloreto de acetilcolina, uma nova solução foi preparada a cada dia de trabalho.
+
+2.6.5 Preparação da solução de TMB-4 A solução de concentração 5,0×10-3 mol L-1 foi preparada pesando-se 0,0223 g, dissolvendo-se e utilizando-se um balão volumétrico de 10 mL com tampão fosfato pH 7,00 de concentração 0,1 mol L-1. Uma nova solução foi preparada a cada dia de trabalho.
+
+2.6.6 Preparação das soluções dos pesticidas estudados
+
+Os pesticidas estudados foram paraoxon, clorpirifos, malation e diclorvos. Para cada pesticida foram preparadas soluções estoque, soluções de trabalho com pesticidas não oxidados e soluções de trabalho com pesticidas oxidados. 57
+
+Soluções com pesticidas não oxidados Soluções estoque – preparadas por dissolução de adequada quantidade dos padrões de pesticidas em certo volume de acetona, de modo a perfazer concentração final de 1,010-1 mol L-1. Soluções de trabalho – preparadas por diluição das soluções estoque, em volumes variados com água deionizada, de modo a se perfazer diferentes valores de concentração (10-3 a 10-18 mol L-1).
+
+Soluções com pesticidas oxidados Soluções de pesticidas oxidados – preparadas por diluição da solução estoque, em volumes variados e adição de 0,5 mL de água de bromo 20 mmol L -1. Completou-se com água deionizada o volume para 5 mL, em balão volumétrico, de modo a perfazer diferentes concentrações (10-3 a 10-18 mol L-1).
+
+2.6.7 Amostras de pimentão vermelho
+
+Amostras de pimentão vermelho foram adquiridas no comércio local da cidade de Campinas. As amostras foram lavadas e deixadas para secar ao ar ambiente. A seguir foram trituradas, sendo que foram empregadas amostras de 131,1 g. Adicionou-se água (pouco menos de 100 mL) e triturou-se em liquidificador por 10 - 20 minutos. Depois se adicionou mais 100 mL de água e homogeneizou-se em liquidificador por mais 10 minutos. A amostra foi filtrada através de filtro de papel qualitativo. Em seguida, completou-se o volume para 200 mL. Para as análises as amostras foram filtradas através de membranas milipore 0,45 µm. Deste filtrado, retirou-se uma alíquota de 0,5 mL e adicionou-se em balão 58
+
+volumétrico de 5 mL. Na sequência, fez-se a adição de 0,5 mL da água de bromo 20 mmol, 0,5 mL de diferentes concentrações dos pesticidas e completou-se o volume com a solução preparada com pimentão.
+
+2.6.8 Imobilização da enzima
+
+Existem vários métodos para obtenção do reator enzimático empregando diversos materiais para a ancoragem da enzima. Baseando-se na literatura e em trabalhos anteriores realizados no grupo, optou-se em utilizar pérolas de vidro com porosidade controlada. A primeira etapa da silanização é o ancoramento de grupos funcionais (grupos amino) nas pérolas de vidro. O reagente empregado nesta etapa foi o 3-aminopropiltrietoxisilano. Na segunda etapa, a ativação, o reagente bifuncional glutaraldeído reage com os grupos amino formando as bases de “Schiff”. A terceira etapa, imobilização da enzima acetilcolinesterase, compreende a reação entre os grupos amino da enzima, com o grupo aldeído livre na sílica das pérolas de vidro. Há informações variadas na literatura sobre o procedimento de imobilização de enzimas em sílica nas pérolas de vidro de porosidade controlada, como será visto a seguir.
+
+59
+
+3-aminopropiltrietoxisilan o
+
+Glutaraldeído
+
+Enzima
+
+Figura 17. Etapas envolvidas na imobilização enzimática.
+
+2.6.9 Imobilização nas esferas de vidro em meio aquoso
+
+A imobilização foi baseada no método apresentado por Leon-Gonzales e Townshend (Leon-Gonzales e Townshed,. 1990). Pesou-se 0,2 g das esferas de vidro e foi realizada a limpeza com a adição de 10 mL de uma solução de ácido nítrico a 5 % (v/v), levando-se à fervura durante 30 minutos, com cuidadosa e constante agitação para não danificá-las. Filtrou-se em funil de vidro de placa porosa com bomba de vácuo e lavou-se três vezes com água destilada. Levou-se à estufa a 95 0C por 1 hora para completa secagem. Para a silanização das esferas de vidro, preparou-se uma solução de 1,0 mL de 3-aminopropiltrietoxisilano e 9,0 mL de água deionizada. O pH foi ajustado 60
+
+para 3,5 com ácido clorídrico 1,0 mol L-1, gota a gota. Nessa solução, foram adicionadas as esferas de vidro. Aqueceu-se a 75 0C em banho maria por 2 horas e meia, com cuidadosa agitação manual a cada 15 minutos, para facilitar a reação de silanização das esferas. Após essa etapa, as esferas foram filtradas, lavadas e secas à temperatura ambiente. Preparou-se uma solução de glutaraldeído 2,5 % (v/v) através da adição de 2,5 mL de solução glutaraldeído 50 % em balão volumétrico de 50 mL e avolumou-se com tampão fosfato 0,1 mol L-1 pH 7,00. Colocou-se, então, as esferas de vidro ativadas pela aminoalquilação para acoplamento com o glutaraldeído. A reação prosseguiu por 30 minutos à temperatura ambiente com constante e cuidadosa agitação manual. As esferas de vidro ativadas foram filtradas e lavadas com água deionizada. O desenvolvimento da cor salmão era sinal do sucesso da reação. Contudo, em meio aquoso a reação eventualmente apresentava cor salmão clara, sendo necessário repetir todo o procedimento. Este problema nos levou a realizar a reação em solvente orgânico (xileno), o que se mostrou muito mais eficiente.
+
+2.6.10
+
+Imobilização nas esferas de vidro em meio orgânico
+
+A imobilização nas esferas de vidro em solvente orgânico foi baseada no método apresentado por Zaitsev, (1991), com algumas modificações. Foi pesado 0,2 g das esferas de vidro e fez-se a limpeza com ácido nítrico, como já descrito no item 2.6.9. Para a reação de silanização, foi preparada uma solução em balão volumétrico de 20 mL com a adição 1,0 mL de 3-aminopropiltrietoxisilano, avolumando-se com xileno. Essa solução foi adicionada sobre as esferas de vidro lavadas e secas. Aqueceu-se por 3 horas a 100 0C sob refluxo e com cuidadosa agitação. Na sequência, lavou-se as esferas de vidro com xileno, etanol e água 61
+
+deionizada, nesta ordem, empregando funil de vidro com placa porosa e auxílio de bomba de vácuo. Secou-se em temperatura ambiente. Em meio orgânico, sempre foi observado o desenvolvimento da cor salmão intenso como indicativo do sucesso de todas as etapas da reação. A segunda etapa, a ativação com o agente bifuncional glutaraldeído, não sofreu modificação e foi realizada como descrito no item 2.6.9.
+
+2.6.11
+
+Imobilização da enzima nas esferas de vidro Para a imobilização pesou-se 2,3 mg de acetilcolinesterase (1,0 mg – 425 U),
+
+obtendo-se 1000 U. Dissolveu-se em 1,0 mL de tampão fosfato 0,1 mol L-1, pH 8,00 resfriado a 4 ºC. Essa solução foi adicionada sobre as esferas de vidro e deixada em repouso por 12 horas, a 4 ºC. Posteriormente, lavou-se com tampão fosfato e água deionizada. A enzima foi estocada em tampão fosfato em geladeira a 4 0C, para uso posterior.
+
+2.6.12
+
+Construção da coluna enzimática
+
+A coluna enzimática foi construída pelo empacotamento em tubos capilares de Tygon® de 1,14 mm diâmetro interno e comprimento de 1,9 cm das esferas de vidro contendo a enzima imobilizada. Nas extremidades colocou-se lã de vidro e tubos de diâmetros menores para impedir a saída da lã de vidro e das esferas (Figura 18). A coluna montada foi estocada imersa em tampão fosfato pH 7,5 e mantida na geladeira a aproximadamente 4º C, para preservar a atividade enzimática da coluna.
+
+62
+
+Figura 18. Figura do reator enzimático empregado com a enzima imobilizada em esferas de vidro. 1- Tubo; 2- Lã de vidro; 3- Esferas de vidro com a enzima imobilizada.
+
+2.7
+
+Método
+
+A capacidade dos pesticidas organofosforados para provocar a inibição da enzima acetilcolinesterase foi utilizada como aplicação analítica no sistema de injeção em fluxo (FIA). O método baseia-se na medida da concentração do ácido acético, formado pela passagem de solução de cloreto de acetilcolina (substrato), através de um reator enzimático contendo a enzima acetilcolinesterase imobilizada em esferas de vidro, antes e depois da passagem da solução dos pesticidas organofosforados estudados, que causam a inibição enzimática. Determina-se a diminuição da produção de ácido acético devido à inibição da enzima. O ácido acético formado permeia através de uma membrana de PTFE, o que resulta em uma mudança da condutividade na solução (constituída por água deionizada de baixa condutividade) que passa pelo detector. A variação da condutividade foi monitorada se empregando um condutivímetro e uma cela de medida, preparados no laboratório (Tubino et al., 1994). O regenerador enzimático que foi empregado era o 1,1‟trimetileno-bis (4-brometo de formilpiridina) dioxima (TMB-4).
+
+63
+
+2.7.1
+
+Sistema de análise por injeção em fluxo
+
+Um diagrama esquemático do sistema de fluxo, para a determinação dos pesticidas está indicado na Figura 19. A solução de acetilcolina (Su) é injetada e se combina com o fluxo transportador (A2). Um sistema tamponante de fosfato com concentração igual a 0,1 mol L-1 e em pH 7,5 é bombeado numa vazão de 1,0 mL min-1, passando através do reator enzimático (ER), localizado em um tubo de polietileno de 1,9 cm de comprimento por 1,14 mm de diâmetro. Depois de passar através do reator enzimático, a solução se mistura com um fluxo de ácido sulfúrico, cuja concentração é 0,5 mol L-1 (A3), passando através da cela de difusão (M). Em seguida, a difusão do ácido acético através da membrana de PTFE (Teflon, DIN EN 751-312mm×12mm×0.1mm) é feita para um fluxo de água deionizada (A1) até a cela condutimétrica (C).
+
+Figura 19. Diagrama esquemático do sistema de injeção em fluxo. A1, fluxo de água deionizada; A2, 0,l mol L-1, fluxo do tampão fosfato; A3, solução de ácido sulfúrico de concentração igual a 0,5 mol L-1; P, bomba peristáltica; S, volume de amostra; ER, reator enzimático; M, cela de difusão; C, condutivímetro; R, registrador. 64
+
+2.8
+
+Resultados e discussão
+
+O método proposto neste trabalho, para a determinação de pesticidas organofosforados, é indireto, estando baseado na reação enzimática entre o substrato (acetilcolina) e a enzima acetilcolinestarase imobilizada em esferas de vidro, que gera ácido acético. O ácido acético formado, ao entrar em contato com a solução de ácido sulfúrico tem a sua difusão incrementada através da membrana de PTFE. É necessário que a solução resultante da reação enzimática seja acidificada com H2SO4 0,5 mol L-1 para diminuir o pH do meio, permitindo, dessa forma, que todo o ácido acético esteja na forma não ionizada, de modo a facilitar a permeação. A confluência onde ocorre a mistura do tampão fosfato contendo o ácido acético formado com o ácido sulfúrico é colocada após a coluna enzimática, de forma que o ácido não passe pelo reator, pois causaria a imediata denaturação da enzima. Fazendo-se a injeção do organofosforado ocorre a inibição da enzima, cuja extensão depende do pesticida e da sua concentração. Em seguida, uma nova alíquota de substrato é introduzida no sistema e de acordo com o grau de inibição temos um novo sinal analítico. A diferença entre a altura de pico antes e depois da inibição enzimática pelo pesticida para uma determinada concentração pode ser utilizada para determiná-lo quantitativamente. Na Figura 20 a seguir, temo-se um fiagrama ilustrando o processo. Para reutilização da coluna enzimática para a próxima determinação do pesticida, a enzima inibida é reativada com TMB-4 em solução aquosa. A reativação da enzima é rápida e completa dentro das condições experimentais usadas. A reação enzimática deve ser realizada em meio tamponado (pH = 7,5), pois é o pH em que a enzima possui a maior atividade. A porcentagem de inibição pode ser calculada pela seguinte fórmula:
+
+65
+
+inibição (%) 
+
+E1  100 E0
+
+E1 representa a diferença entre os picos referentes à enzima não inibida e a inibida. E0 representa o pico obtido com a enzima não inibida, como pode ser visto na Figura 20.
+
+Figura 20. Figura representando a determinação de um pesticida inibidor da enzima acetilcolinesterase: (1) sinais em triplicata do substrato na concentração de 5,0×10 -3mol L-1; (2) sinal de solução contendo um pesticida organofosforado (sem a presença de substrato); (3) sinais em triplicata do substrato após a inibição
+
+66
+
+enzimática; (4) sinal do regenerador enzimático TMB-4; (5) sinais em triplicata do substrato após a regeneração enzimática.
+
+Os picos 1 (triplicata) mostram os sinais correspondentes relacionados à solução de acetilcolina antes da inibição da enzima acetilcolinesterase pelos pesticidas, empregando-se amostragens com volumes de 150 L. A região 2 está relacionada com a introdução da solução do pesticida. Quando a solução de acetilcolina foi novamente injetada na região 3, foi observado que houve um decréscimo na altura do pico devido à diminuição de sítios ativos na acetilcolinesterase. A região 4 se relaciona com a introdução do TMB-4 na solução, quando ocorre a reativação enzimática. O pesticida se liga mais fortemente ao TMB-4 do que com a acetilcolinesterase, o que resulta na regeneração enzimática. A região 5 corresponde à etapa final, onde se observa a regeneração da acetilcolinesterase, pois os picos apresentavam mesma intensidade do que antes da inibição enzimática.
+
+2.8.1 Imobilização enzimática
+
+A imobilização eficiente da enzima sobre o suporte insolúvel com manutenção de sua integridade e estabilidade é fundamental para o perfeito desenrolar do processo biotecnológico envolvido no método analítico empregado (Fágáin et al., 1991). As enzimas imobilizadas por ligação covalente e ligação covalente cruzada, geralmente, são as que apresentam o maior tempo de vida (200 a 1.000 determinações) (Fatibelo Filho e Capelato., 1992). Nestes casos, usam-se agentes
+
+67
+
+silanizantes onde a principal vantagem desta técnica é a redução da lixiviação do reagente pela solução, com maior durabilidade do sensor (Weetall., 1993). A reação de silanização desenvolvida em meio aquoso muitas vezes não se completava de maneira satisfatória, sendo necessário repetir o procedimento exaustivamente até que o produto final da reação, no caso as esferas de vidro, apresentassem cor salmão intensa. Isso nos levou a adotar um método de imobilização, com a etapa da silanização sendo realizada em meio orgânico (xileno), que se mostrou muito mais eficiente e prático, como descrito na parte experimental. A silanização é considerada parte crucial do processo de ligação da enzima ao suporte, sendo fundamental, não somente para a imobilização em si, mas também para a reprodutibilidade do processo (Gorton et al., 1994). A imobilização covalente através da silanização emprega agentes silanizantes, que apresentam moléculas caracterizadas por possuírem dois diferentes centros reativos, um deles sílico-funcional e o outro orgânico-funcional, ou seja, com afinidade pelo vidro e, também, por molécula orgânica. O agente silanizante usado na técnica de imobilização empregada neste trabalho foi o aminopropil-trietoxilano em virtude de permitir uma eficiente ligação entre os reagentes. O amino-silano, quando empregado para ativar a superfície de vidro, em condições anidras reage com os grupos hidroxila da superfície do vidro com uma estequiometria de 1:1 ou 1:2, produzindo neste uma monocamada. Além disso, os silanos não somente se acoplam às hidroxilas do suporte, como também se ligam entre si, formando um polímero na superfície. Isto talvez possa explicar a maior eficiência da silanização em meio orgânico, quando comparada à realizada em meio aquoso. Embora seja formada uma camada menos uniforme, ela apresenta uma capacidade de cobertura maior (Weetall., 1993). A etapa de limpeza das esferas de vidro deve ser feita de forma muito cuidadosa. É necessário que a 68
+
+superfície do vidro fique livre de gorduras e outras sujeiras e que a integridade das esferas seja preservada. Assim, os grupos silanóis (Si-OH) presentes na superfície do vidro podem reagir com o agente silanizante de modo uniforme. Os grupos silanóis capazes de reagir com o agente silanizante são os que se encontram na forma germinal ou isolada (Cass e Ligher, 1998). A Figura 21 mostra diferentes grupos silanóis presentes na superfície do vidro.
+
+Figura 21. Grupos silanóis.
+
+Posteriormente, tem-se a adição de glutaraldeído que permite a ligação entre o vidro ativado e a enzima, conforme a Figura 22.
+
+69
+
+Figura 22. Ativação das pérolas de vidro com reagente bifuncional.
+
+O glutaraldeído forma uma ponte (Figura 23) com o grupamento aminado do suporte ativado e a enzima, o que permite separar o biocatalisador de seu suporte sólido, melhorando a acessibilidade do substrato ao sítio ativo da enzima (Scriban,1985).
+
+Figura 23. Bases de Schiff.
+
+2.8.2 Células de permeação e membrana
+
+Inicialmente, devido à sua resistência mecânica e inércia química,
+
+foi
+
+testada uma membrana de silicone. No entanto, devido à sua espessura não apresentou boa difusão gasosa. A diminuição da sua espessura implicaria na diminuição da resistência mecânica. Assim, o seu uso foi abandonado. Como alternativa passou-se a procurar uma membrana de PTFE que pudesse ser utilizada. Ocorreram problemas com relação à durabilidade da mesma, pois ocorria 70
+
+frequentemente rompimento, sendo necessário parar o sistema para substituí-la da mesma. Foram testadas várias marcas disponíveis no mercado. A que apresentou maior durabilidade uma foi importada da Alemanha (Klasse: FRP). Ela apresentava maior uniformidade e maior espessura do que as nacionais e foi utilizada até o final do trabalho.
+
+2.9
+
+Efeitos da variação das condições do sistema FIA
+
+Foram feitos estudos a seguir apresentados, para obter as condições ótimas dos parâmetros analíticos. No entanto, nem sempre a condição que proporcionou maior sinal foi adotada, pois além do parâmetro em si, outros fatores foram levados em consideração na escolha das condições de trabalho como, por exemplo, a frequência analítica.
+
+2.9.1 Efeito da concentração do substrato (Acetilcolina)
+
+Foi observado aumento da altura do sinal analítico com o aumento da concentração do substrato, o que pode ser atribuído ao maior número de moléculas do substrato em contato com a enzima, com consequente incremento da concentração do produto da reação enzimática, no caso o ácido acético. Assim, maior quantidade de ácido difunde através da membrana provocando aumento do sinal analítico. A concentração adotada para o trabalho foi de 5,0×10 -3 mol L-1, uma vez que esta apresenta resposta analítica satisfatória sem se aproximar muito da concentração de saturação da reação enzimática.
+
+71
+
+2.9.2
+
+Efeito da variação do volume de injeção
+
+Estudou-se o efeito na altura do pico, da variação do volume adicionado, injetando-se volumes entre 50 e 250 μL. Como esperado, o aumento do volume injetado foi acompanhado do aumento da altura do pico (sinal analítico). Buscando a melhora da frequência analítica, optou-se pelo volume de 150 μL, que oferece sinal analítico de intensidade suficientemente grande (>15 cm) e permite menor tempo de lavagem do sistema o que implica em maior frequência analítica. 2.9.3 Efeito da variação da vazão
+
+Foram realizadas medidas variando-se a vazão do sistema. Pode-se observar na Figura 8 que a altura do pico mudou sensivelmente com a variação da vazão: quanto menor a vazão maior o sinal analítico. A Figura 24 mostra a medida da altura dos picos em função da variação da vazão. Para cada vazão, foram feitas três medidas de sinal analítico. O aumento do sinal analítico em função do decréscimo da vazão está relacionado ao aumento do tempo de contato entre a enzima e o substrato, permitindo a formação de uma maior quantidade de produto formado, no caso o ácido acético. Além disso, na cela de permeação com vazão menor, existe maior possibilidade de difusão do ácido. Outro importante fator relacionado com a diminuição da vazão é o aumento da inibição enzimática pelos pesticidas, pois o bloqueio dos sítios ativos da enzima é favorecido pelo aumento do tempo de interação dos pesticidas com a enzima. A vazão adotada foi de 1,0 mL min-1.
+
+72
+
+14
+
+Altura de pico/cm
+
+12
+
+10
+
+8
+
+6
+
+4 1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+Vazão / mL min-1
+
+Figura 24. Gráfico do efeito da variação da vazão sobre o sinal analítico; tampão fosfato pH = 7,5 ; [ácido sulfúrico]=0,5 mol L-1; alça de amostragem = 150 μL ; [substrato] = 5,0×10 -3 mol L-1; temperatura: 25 0C.
+
+2.9.4 Efeito da variação da concentração de H2SO4 Para estudar o efeito da variação da concentração do ácido sulfúrico as medidas foram feitas em triplicata e o desvio padrão médio foi de  0,30 cm. Apesar de o maior sinal ter sido obtido com 1,0 mol L-1 de ácido, a concentração escolhida para trabalhar foi de 0,5 mol L-1, onde houve uma resposta analítica satisfatória ( > 13 cm) com uma menor concentração de ácido sulfúrico.
+
+73
+
+18 16
+
+Altura do pico / cm
+
+14 12 10
+
+0.1 0.3 0.5 1 1.5
+
+8
+
+4 9 13.4 16.4 16.6
+
+6 4 2 0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+Concentraçao de H2SO4 mol / L-1
+
+Figura 25. Efeito da variação da concentração de H2SO4 ; pH do tampão= 7,5; vazão = 1,0 mL min-1 ; alça de amostragem = 150 μL ; Csubstrato = 5,0×10-3 mol L-1; temperatura: 25 0C.
+
+2.9.5 Efeito da concentração de TMB-4
+
+A regeneração da enzima inibida pelos pesticidas aumenta com o aumento da concentração do regenerador TMB-4 até 5,0×10-3 mol L-1. Algumas vezes, a regeneração não era completa numa só passagem do TMB-4. Nesses casos, fez-se necessário a passagem do regenerador por duas ou três vezes, o que era suficiente para completa regeneração, exceto quando a enzima já começava a apresentar perda da atividade.
+
+74
+
+2.9.6 Efeito do pH
+
+Avaliou-se a concentração hidrogeniônica sobre a catálise enzimática. A faixa estudada foi a de pH 6,0 a 8,5 (tampão fosfato 0,1 mol L -1), uma vez que a maioria das enzimas trabalha numa região estreita de pH. Neste estudo o valor que se encontrou foi de 7,5 observando-se decréscimo do sinal acima e abaixo deste pH. Na literatura, as faixas de trabalho de pH variam de 6,00 a 8,00, região de maior estabilidade da enzima.
+
+2.10 Determinação do pesticida clorpirifos
+
+Os sinais foram obtidos em triplicata, e a partir destes foi feito o cálculo da porcentagem de inibição relacionando à concentração conforme os dados apresentados na Tabela 3. A partir desses dados foram obtidas duas curvas (Figura 26). Uma delas representa os sinais obtidos com o pesticida sem a oxidação e outra com a oxidação. Antes da oxidação o limite de detecção estava na faixa de 10-6 mol L-1. Após a oxidação com água de bromo, o limite de detecção melhorou sensivelmente passando para faixa de 10 -14 mol L-1 O único tratamento ao qual a amostra foi submetida foi a adição da água de bromo que provocou a oxidação do pesticida estudado.
+
+75
+
+Tabela 3. Concentração (mol L-1) e porcentagem de inibição do clorpirifos, antes e após oxidação.
+
+Concentração / mol L-1
+
+Inibição antes oxidação
+
+Inibição após DP
+
+/%
+
+oxidação
+
+DP
+
+/%
+
+10-14
+
+0,0
+
+0,00
+
+1,2
+
+0,50
+
+10-13
+
+0,0
+
+0,00
+
+2,4
+
+0,35
+
+10-12
+
+0,0
+
+0,00
+
+5,4
+
+0,50
+
+10-11
+
+0,0
+
+0.00
+
+6,5
+
+0,25
+
+10-10
+
+0,0
+
+0,00
+
+8,2
+
+0,35
+
+10-9
+
+0,0
+
+0.00
+
+9,5
+
+0,11
+
+10-8
+
+0,0
+
+0,00
+
+10,2
+
+0,20
+
+10-7
+
+0,0
+
+0,00
+
+12,9
+
+0,25
+
+10-6
+
+1,9
+
+0,16
+
+15,9
+
+0,20
+
+10-5
+
+4,1
+
+0.20
+
+20,5
+
+0,22
+
+10-4
+
+5,7
+
+0.22
+
+43,2
+
+0,49
+
+10-3
+
+45,0
+
+0,25
+
+75,0
+
+0,25
+
+76
+
+não-oxidado oxidado
+
+80 70 60
+
+Inibição / %
+
+50 40 30 20 10 0 1E-12 1E-11 1E-10
+
+1E-9
+
+1E-8
+
+1E-7
+
+1E-6
+
+1E-5
+
+1E-4
+
+1E-3
+
+Clorpirifos/mol L-1
+
+Figura 26. Relação entre porcentagem de inibição da acetilcolinesterase pelo clorpirifos: (■) antes da oxidação e (●) após oxidação com água de bromo. Concentração de acetilcolinesterase = 5,0×10-3 mol L-1; tampão fosfato pH = 7,5; volume de injeção = 150 μL; concentração de ácido sulfúrico = 0,5 mol L-1; vazão = 1,0 mL min-1
+
+A curva da % inibição versus concentração logarítmica do clorpirifos oxidado vista na Figura 26 é descrita pela equação: S= 23,9 + 1,6059 log M, (R = 0,9908). O desvio padrão relativo é 0,58 % (n = 8) para a faixa de concentração de 1,0×10-14 a 1,0×10-7 mol L-1. Duirk et al., (2008) alertam para os poucos estudos feitos sobre os efeitos dos agentes químicos usados no tratamento da água para abastecimento, especialmente agentes desinfetantes como o cloro, pois este é um composto que pode reagir com pesticidas organofosforados, o que pode resultar em compostos mais tóxicos. Quando o cloro reage com o subgrupo fosforotioato dos pesticidas 77
+
+organofosforados, o grupo funcional tiofosfato (P=S) pode ser oxidado ao seu correspondente oxon (P=O). Como resultado, os pesticidas que apresentam esse grupo oxon são normalmente inibidores mais potentes da acetilcolinesterase. A decomposição do clorpirifos na presença de solução aquosa de hipoclorito foi estudada na faixa de pH de 6,3 a 11. Eles observaram a rápida oxidação do clorpirifos (CP) por OCl-, resultando em um composto mais tóxico, clorpirifosoxon (CPO). Verificaram também a hidrólise do CP e CPO para 3,5,6-tricloro-2piridinol (TCP); a Figura 27 apresenta um esquema dos produtos de degradação encontrados. Entretanto, naturalmente existem outros constituintes em solução aquosa como íons brometo e matéria orgânica que podem afetar as transformações dos pesticidas organofosforados durante o processo de tratamento de água. Fica clara, portanto, a importância de identificar produtos de degradação dos pesticidas organofosforados.No presente trabalho foi feito um estudo de determinação de clorpirifos em amostra de pimentão vermelho por fortificação da solução extraída. Foi usada a adição de água de bromo. As concentrações estudadas foram de 1,0×10-14 e 1,0×107 mol L-1. As porcentagens de inibição foram respectivamente de 2,1 e 13,7 %.
+
+78
+
+Figura 27. Esquema dos caminhos de formação dos produtos de degradação do pesticida clorpirifos na presença de cloro e bromo. A Figura 28 representa os cromatogramas de CG do pesticida clorpirifos (padrão e oxidado). Pode-se concluir que ocorreu a separação de 4 compostos, com base na comparação desses cromatogramas com o banco de dados NIST 2,0. O composto com tempo de retenção de 16,20 minutos se refere ao padrão do pesticida clorpirifos, enquanto que o composto com tempo de retenção de 12,20 minutos foi formado a partir da degradação do pesticida 3,5,6-tricloro-2-piridinol (TCP), o qual é mais tóxico que o padrão e que corresponde a um inibidor, da enzima, mais forte que o último.
+
+79
+
+A
+
+B
+
+Figura 28. Cromatograma do pesticida clorpirifos antes e depois de oxidação.
+
+Kralj et al., (2007) em um estudo de produtos de degradação de pesticidas organofosforados relata que, para o pesticida clorpirifos, um dos produtos ncontrado foi o análogo clorpirifos-oxon. Duirk et al., (2008), também relatam que um dos produtos de degradação do clorpirifos é o clorpirifos-oxon.A Figura 29 mostra diferentes espectros de massa, em que o A corresponde ao padrão, enquanto que B e C foram obtidos a partir da biblioteca de CG-EM. No caso do espectro B, pode ser visto que este confirma o espectro do padrão (A) em 95,6 %, enquanto que C corrobora com o espectro A em 0,95 %. Consequentemente pode ser concluído que o composto relativo ao espectro B corresponde ao composto relacionado com o espectro A. 80
+
+A
+
+B
+
+C
+
+Figura 29. Rota de fragmentação de massas do padrão e comparação com o dado da biblioteca de espectrometria de massas. A Figura 30 mostra os espectros de massa das amostras após a ocorrência do processo oxidativo para o composto relacionado com o tempo de retenção de 12,20 minutos, sendo que a Figura 30 A mostra o espectro do composto anterior após o processo oxidativo, enquanto que os espectros B e C foram obtidos da biblioteca. O composto relativo ao espectro B se relaciona com A em 96,6 %, indicando que aquele corresponde ao composto A, enquanto que C se relaciona com A em 1,35 %. Por fim, pode ser concluído que o composto A foi confirmado com base no espectro do composto B (maior inibidor para a enzima estudada).
+
+81
+
+A
+
+B
+
+C
+
+Figura 30. Rota de fragmentação da amostra e comparação com o dado presente na biblioteca de espectrometria.
+
+2.11
+
+Determinação do pesticida malation
+
+Os sinais analíticos foram obtidos em triplicata, e a partir destes foi feito o cálculo da porcentagem de inibição relacionando à concentração conforme os dados apresentados na Tabela 4. A partir desses dados foram obtidas duas curvas (Figura 31). Uma curva representa o pesticida sem a oxidação e outra com a oxidação. Após a oxidação usando água de bromo o limite de detecção melhorou sensivelmente passando para a ordem de concentração de 10-12 mol L-1. O único tratamento que a amostra foi submetida foi a adição da água de bromo que provocou a oxidação do pesticida estudado.
+
+82
+
+Tabela 4. Concentração mol L-1 e porcentagem de inibição do malation, antes e após oxidação.
+
+Concentração / mol L-1
+
+Inibição antes oxidação
+
+Inibição após DP
+
+/%
+
+oxidação
+
+DP
+
+/%
+
+10-12
+
+0,0
+
+0,00
+
+1,39
+
+0,30
+
+10-11
+
+0,0
+
+0.00
+
+3,2
+
+0,25
+
+10-10
+
+0,0
+
+0,00
+
+6,7
+
+0,35
+
+10-9
+
+0,0
+
+0.00
+
+8,3
+
+0,20
+
+10-8
+
+0,0
+
+0,00
+
+9,2
+
+0,22
+
+10-7
+
+0,0
+
+0.15
+
+10,6
+
+0,30
+
+10-6
+
+0,0
+
+0,49
+
+11,3
+
+0,25
+
+10-5
+
+1,4
+
+0.35
+
+12,5
+
+0,11
+
+10-4
+
+4,2
+
+0.20
+
+15,2
+
+0.22
+
+10-3
+
+5,8
+
+0,25
+
+66,5
+
+0,15
+
+83
+
+não-oxidado oxidado
+
+70 60 50
+
+Inibição / %
+
+40 30 20 10 0 1E-12 1E-11 1E-10
+
+1E-9
+
+1E-8
+
+1E-7
+
+1E-6
+
+1E-5
+
+1E-4
+
+1E-3
+
+Malation / mol L-1
+
+Figura 31. Relação entre a porcentagem de inibição da acetilcolinesterase pelo malation: (■) antes da oxidação e (●) após oxidação com água de bromo. Concentração de acetilcolinesterase = 5,0×10-3 mol L-1; tampão fosfato pH = 7,5; volume de injeção = 150 μL; concentração de ácido sulfúrico = 0,5 mol L-1; vazão = 1,0 mL min-1.
+
+Curva da porcentagem de inibição versus concentração logarítmica do malation oxidado. (●) Para a faixa de concentração de 1,0 ×10-12 até o valor de concentração igual a 1,0 × 10-5 mol L-1 a . A equação da curva é dada pela expressão: S= 23,49 + 1,719 log M (R=0,986). O desvio padrão é 0,8 % (n = 8). Foi feito um estudo de determinação de malation em amostra de pimentão vermelho por fortificação da solução extraída. Foi usada a adição de água de bromo. As concentrações estudadas foram de 1,0×10-5 e 1,0×10-9 mol L-1. As porcentagens de inibição foram respectivamente de 13,3 e 9,2 %. Kralj et al,. (2007) fizeram um estudo da degradação de pesticidas organofosforados, entre eles o malation, e identificaram alguns produtos, a maioria 84
+
+deles pertencia do butano dietil ester. Outros três produtos encontrados pertenciam à família de compostos tóxicos, todos membros do grupo ésteres fosfatos, conforme a Figura 32. Malation
+
+Figura 32. Produtos de degradação do malation.
+
+A Figura 33 representa os cromatogramas de CG do pesticida malation e deste após a oxidação com água de bromo (Br), podendo ser observados três compostos. Com base na comparação dos registros obtidos com o banco de dados NIST 2,0, pode-se notar que ocorreu a formação de dois compostos, os quais são mais tóxicos (pelo menos um deles) do que o padrão, conferindo maior efeito inibitório do que este.
+
+85
+
+A
+
+B
+
+Figura 33. Cromatograma do pesticida malation antes (A) e depois de oxidação (B).
+
+A Figura 34 mostra os espectros de massa relacionados com o pesticida malation. O espectro A corresponde ao padrão, enquanto que B e C foram obtidos da biblioteca de CG-EM. O espectro B corrobora com o espectro do padrão (A) em 98,3 %, enquanto que C corrobora com o espectro A em 0,98 %. Com isso, pode se concluir de que o composto relativo ao espectro B corresponde ao composto associado com o espectro A.
+
+86
+
+A
+
+B
+
+C
+
+Figura 34. Espectro de massa do padrão e comparação com o dado da biblioteca de espectrometria.
+
+A Figura 35 mostra os espectros de massa de amostra após a ocorrência do processo oxidativo para o malation, considerando-se um valor de tempo de retenção de 9,42 minutos, enquanto que a Figura 35 A expressa o espectro desse pesticida, após o processo oxidativo. Os espectros B e C foram obtidos da biblioteca, sendo que o composto relacionado com o espectro B corrobora com A em 94,8 %, indicando que aquele corresponde ao composto A, enquanto que C se relaciona com A em 2,54 %. Por fim, pode ser concluído que a presença do composto A foi confirmado com base no espectro do composto B (maior poder inibitório para a enzima estudada).
+
+87
+
+A
+
+B
+
+C
+
+Figura 35. Espectro de massas de amostra e comparação com a biblioteca de espectrometria.
+
+2.12 Determinação do pesticida diclorvos
+
+Os sinais foram obtidos em triplicata, e a partir destes foi feito o cálculo da porcentagem de inibição, relacionando a concentração conforme os dados da Tabela 5. A partir desses dados foram obtidas duas curvas (Figura 36). Uma curva representa o pesticida sem a oxidação e outra com sua oxidação. Antes da oxidação o limite de detecção estava na faixa de 10-7 mol L-1. Após a oxidação usando água de bromo o limite de detecção melhorou sensivelmente passando para faixa de 1017 mol L-1. O único tratamento ao qual a amostra foi submetida foi a adição da água de bromo, que provocou a oxidação do pesticida estudado. 88
+
+Tabela 5. Concentração mol L-1 e porcentagem de inibição do diclorvos, antes e após oxidação
+
+Concentração / mol L-1
+
+Inibição antes oxidação
+
+Inibição após DP
+
+/%
+
+oxidação
+
+DP
+
+/%
+
+10-17
+
+0,0
+
+0,00
+
+1,2
+
+0,40
+
+10-16
+
+0,0
+
+0,00
+
+2,3
+
+0,25
+
+10-15
+
+0,0
+
+0,00
+
+3,5
+
+0,35
+
+10-14
+
+0,0
+
+0,00
+
+6,3
+
+0,30
+
+10-13
+
+0,0
+
+0,00
+
+8,2
+
+0,20
+
+10-12
+
+0,0
+
+0,00
+
+10,3
+
+0,11
+
+10-11
+
+0,0
+
+0.00
+
+13,4
+
+0,15
+
+10-10
+
+0,0
+
+0,00
+
+16,0
+
+0,10
+
+10-9
+
+0,0
+
+0.00
+
+17,5
+
+0,25
+
+10-8
+
+0,0
+
+0,00
+
+18,1
+
+0,25
+
+10-7
+
+1,5
+
+0.35
+
+21,0
+
+0,35
+
+10-6
+
+2,9
+
+0,40
+
+25,0
+
+0,25
+
+10-5
+
+4,9
+
+0.30
+
+30,1
+
+0,22
+
+10-4
+
+16,1
+
+0.25
+
+69,2
+
+0.10
+
+10-3
+
+71,0
+
+0,21
+
+80,0
+
+0,15
+
+89
+
+não-oxidado oxidado
+
+90 80 70
+
+Inibição / %
+
+60 50 40 30 20 10 0 -10 1E-17 1E-16 1E-15 1E-14 1E-13 1E-12 1E-11 1E-101E-91E-81E-71E-61E-51E-41E-3
+
+Diclorvos/mol L-1
+
+Figura 36. Relação entre a porcentagem de inibição da acetilcolinesterase: (■) antes da oxidação e (●) após o processo oxidativo com o emprego da água de bromo. Cacetilcolinesterase = 5,0×10-3 mol L1; tampão fosfato pH = 7,5; volume de injeção = 150 μL; concentração de ácido sulfúrico = 0,5 mol L-1; vazão = 1,0 mL min-1.
+
+Curva da porcentagem de inibição em função do logarítmico da concentração do diclorvos oxidado, Figura 6 ( ), para a faixa de valores de concentração desde 1,0 ×10-17 até 1,0 × 10-5 mol L-1, sendo que a equação obtida foi: S= 38,48 + 2,289 log M (R=0,990). O desvio padrão é 1,4 % (n = 13), Foi feito um estudo de determinação de diclorvos em amostra de pimentão vermelho por fortificação da solução extraída. Foi usada a adição de água de bromo. As concentrações estudadas foram de 1,0×10-11 e 1,0×10-14 mol L-1. As porcentagens de inibição foram respectivamente de 14,3 e 7,2 %. No estudo dos compostos formados após a oxidação com água de bromo, foi 90
+
+feita a análise por CG-MS, podendo-se observar a presença de 2 picos no cromatograma apresentado na Figura 37, confirmando a existência de diferentes compostos. Na Figura 37 tem-se o cromatograma dos compostos após a oxidação com água de bromo, onde se tem um composto diferente.
+
+A
+
+B
+
+Figura 37. Cromatograma do pesticida diclorvos antes (alto) e depois de oxidação
+
+A Figura 38 mostra os espectros de massa do padrão, onde se observa que o espectro A corresponde ao padrão, enquanto que os espectros B e C foram obtidos da biblioteca de CG-EM. Considerando-se o espectro B, pode ser inferido que este confirma o espectro do padrão (A) em 98,9 %, enquanto que C corrobora com o
+
+91
+
+espectro A em 0,98 %. Consequentemente pode ser concluído que o composto relativo ao espectro B corresponde ao composto relacionado com o espectro A.
+
+A
+
+B
+
+C
+
+Figura 38. Espectro de massa do padrão (A) e comparação com dados da biblioteca de espectrometria.
+
+A Figura 39 mostra os espectros de massas das amostras após a ocorrência do processo oxidativo para o composto relacionado com o tempo de retenção de 13,77 minutos, sendo que a Figura 39 A mostra o espectro do composto após a ocorrência do processo oxidativo, enquanto que os espectros B e C foram obtidos da biblioteca. O composto relacionado com o espectro B é semelhante ao A em 94,5 %, indicando que aquele corresponde ao composto A, enquanto que C se relaciona com A em 5,24 %. Pode-se concluir que a existência do composto A foi 92
+
+confirmada com base no espectro do composto B (resulta numa maior inibição da enzima estudada).
+
+A
+
+B
+
+C
+
+Figura 39. Espectro de massa da amostra e comparação com dados da biblioteca de espectrometria.
+
+2.13 Determinação do pesticida paraoxon
+
+Os sinais foram obtidos em triplicata, e a partir destes foi feito o cálculo da porcentagem de inibição, relacionando a concentração conforme os dados da Tabela 6. A partir desses dados foram obtidas duas curvas (Figura 40). Uma curva representa o pesticida sem a oxidação e outra com sua oxidação. Antes da inibição o limite de detecção estava na faixa de 10-8 mol L-1, após a oxidação usando água
+
+93
+
+de bromo o limite de detecção melhorou sensivelmente passando para faixa de 1018 mol L-1. O único tratamento ao qual a amostra foi submetida correspondia à adição da água de bromo. Tabela 6. Concentração mol L-1 e porcentagem inibição do paraoxon, antes e após oxidação.
+
+Concentração / mol L-1
+
+Inibição antes oxidação
+
+Inibição após DP
+
+/%
+
+oxidação
+
+DP
+
+/%
+
+10-18
+
+0,0
+
+0,00
+
+1,3
+
+0.35
+
+10-17
+
+0,0
+
+0,00
+
+2,7
+
+0,30
+
+10-16
+
+0,0
+
+0,00
+
+3,2
+
+0,30
+
+10-15
+
+0,0
+
+0,00
+
+6,1
+
+0,25
+
+10-14
+
+0,0
+
+0,00
+
+8,9
+
+0,30
+
+10-13
+
+0,0
+
+0,00
+
+10,9
+
+0,20
+
+10-12
+
+0,0
+
+0,00
+
+12,8
+
+0,11
+
+10-11
+
+0,0
+
+0.00
+
+15,2
+
+0,11
+
+10-10
+
+0,0
+
+0,00
+
+18,5
+
+0,10
+
+10-9
+
+0,0
+
+0.00
+
+19,1
+
+0,25
+
+10-8
+
+1,3
+
+0,00
+
+20,5
+
+0,21
+
+10-7
+
+2,7
+
+0.15
+
+23,2
+
+0,25
+
+10-6
+
+5,1
+
+0,49
+
+26,9
+
+0,20
+
+10-5
+
+12,5
+
+0.35
+
+33,0
+
+0,22
+
+10-4
+
+44,2
+
+0.20
+
+73,9
+
+0.11
+
+10-3
+
+75,0
+
+0,25
+
+86,0
+
+0,10
+
+94
+
+não-oxidado oxidado
+
+90 80 70
+
+inibição / %
+
+60 50 40 30 20 10 0 -10 1E-18 1E-17 1E-16 1E-15 1E-14 1E-13 1E-12 1E-11 1E-10 1E-91E-81E-71E-61E-51E-41E-30.01
+
+Paraoxon / mol.L-1
+
+Figura 40. Relação entre a porcentagem de inibição da acetilcolinesterase pelo paraoxon: (■) antes da oxidação e (●) após oxidação com água de bromo. Concentração de acetilcolinesterase =5,0×10-3 mol L-1; tampão fosfato pH=7,5; volume de injeção=150 μL; concentração de ácido sulfúrico=0,5 mol L-1; vazão=1,0 mL min-1.
+
+Curva da porcentagem de inibição versus o logaritmo da concentração do diclorvos oxidado é dada pela equação: S= 41,16 + 2,344 log M, (R=0,997). O desvio padrão é 0,04 % (n = 6), para a faixa de concentração de 1,0×10-16 a 1,0×1011 mol L-1. Foi feito um estudo da determinação do paraoxon em amostra de pimentão vermelho por fortificação da solução extraída. Foi usada a adição de água de bromo. As concentrações estudadas foram de 1,0×10-11 e 1,0×10-16 mol L-1. As porcentagens de inibição foram respectivamente de 16,3 e 4,3 %. 95
+
+A Figura 41 representa os cromatogramas de CG para o pesticida paraoxon, para as seguintes situações: padrão (A) e após a oxidação com água de bromo (B), podendo ser observada a presença de um composto (um pico). Logo, ocorreu a separação de um composto, observação que se baseia na comparação desses cromatogramas com o banco de dados NIST 2,0. Também foi constatado que tal composto é mais tóxico do que o padrão, correspondendo a um inibidor mais forte da acetilcolinesterase.
+
+A
+
+B
+
+Figura 41. Cromatograma do pesticida paraoxon antes e depois de oxidação.
+
+A Figura 42 mostra os espectros de massas do pesticida paraoxon. O espectro A corresponde ao padrão, enquanto que os espectros B e C foram obtidos 96
+
+da biblioteca de CG-EM. No caso do espectro B, pode ser observado que este corrobora com o espectro do padrão (A) em 96,6 %, enquanto que C confirma o espectro A em 91,3 %. Consequentemente pode ser concluído que o composto relativo ao espectro B corresponde ao composto relacionado com o espectro A.
+
+A
+
+B
+
+C
+
+Figura 42. Espectro de massas de padrão e comparação com a biblioteca de dados.
+
+A Figura 43 mostra os espectros de massa das amostras após a ocorrência do processo oxidativo para o paraoxon, considerando-se um valor de tempo de retenção de 12,06 minutos. A Figura 43 A mostra o espectro do composto anterior após o processo oxidativo, enquanto que os espectros B e C foram obtidos da biblioteca. O composto relacionado com o espectro B confirma A em 56,9 %, indicando que aquele corresponde ao composto A, enquanto que C se relaciona 97
+
+com A em 16,7 %. Por fim, pode ser concluído que a presença do composto A foi confirmada com base no espectro do composto B (resulta numa maior inibição da enzima estudada). A
+
+B
+
+C
+
+Figura 43. Espectro de massas da amostra e comparação com a biblioteca de dados.
+
+98
+
+2.14 Comparação de todos pesticidas
+
+Paraoxon Diclorvos Malathion Clorpiripos
+
+80 70 60
+
+Inibição / %
+
+50 40 30 20 10 0 -10 10-14
+
+10-13
+
+10-12
+
+10-11
+
+10-10
+
+10-9
+
+10-8
+
+10-7
+
+10-6
+
+10-5
+
+10-4
+
+10-3
+
+Concentração mol L-1
+
+Figura 44. Relação entre porcentagem de inibição da acetilcolinesterase para os pesticidas estudados antes da adição da água de bromo. Concentração de acetilcolinesterase = 5,0×10-3 mol L-1; tampão fosfato pH = 7,5; volume de injeção = 150 μL; concentração de ácido sulfúrico = 0,5 mol L-1; vazão = 1,0 mL min-1.
+
+99
+
+100
+
+Paraoxon Diclorvos Malathion Clorpiripos
+
+80
+
+Inibição / %
+
+60
+
+40
+
+20
+
+0
+
+10-18
+
+10-17
+
+10-16
+
+10-15
+
+10-14
+
+10-13
+
+10-12
+
+10-11
+
+10-10
+
+10-9
+
+10-8
+
+10-7
+
+10-6
+
+10-5
+
+10-4
+
+10-3
+
+Concentração mol L-1
+
+Figura 45. Relação entre a porcentagem de inibição da acetilcolinesterase para os pesticidas estudados após da adição da água de bromo. Concentração de acetilcolinesterase = 5,0×10-3 mol L-1; tampão fosfato pH = 7,5; volume de injeção = 150 μL; concentração de ácido sulfúrico = 0,5 mol L-1; vazão = 1,0 mL min-1.
+
+Pelos resultados obtidos após a adição da água de bromo, foi observado um aumento significativo nos limites de detecção dos compostos estudados, fato que está relacionado ao aumento do poder de inibição da enzima acetilcolinesterase em pelos produtos formados após a oxidação. Os compostos estudados têm em comum o grupo (P=S), mas após a adição de água de bromo, estes sofrem uma reação de oxidação com a formação de grupos oxons correspondentes (P=O), como no caso do clorpirifos e malation, que em geral potencializam a inibição da enzima acetilcolinesterase. Além da formação do grupo oxon, houve a formação de outros 100
+
+compostos com toxicidade elevada, como no caso do paraoxon que já contem este grupo na sua molécula, contribuindo para o aumento do poder inibitório. Essa técnica permite identificar compostos com alta toxicidade, o que pode ser importante do ponto de vista ambiental, uma vez que possibilita rápida triagem em campo. Entretanto, ressalta-se que só pode ser utilizada para identificação de compostos inibidores de enzima acetilcolinesterase, como os pesticidas organofosforados e os carbamatos.
+
+2.15 Conclusões
+
+A técnica FIA associada ao biossensor enzimático mostrou-se como uma ferramenta analítica para realização de determinação dos pesticidas paraxon, clorpirifos, diclorvos e malation em procedimento de varredura. Para diminuir os limites de detecção foi feita a oxidação desses organofosforados de modo a haver a formação de compostos com maior poder inibitório da enzima acetilcolinesterase. A reação de oxidação foi realizada com água de bromo, sendo este um procedimento simples. Após a adição do bromo a amostra foi deixada em repouso à temperatura ambiente por alguns minutos para eliminar seu excesso. O sistema FIA usado é simples. Como carregador usou-se uma solução aquosa tampão evitando assim o uso de grandes quantidades de solventes orgânicos. Os volumes das soluções das substâncias tóxicas que foram introduzidos no sistema foram pequenos, podem ser coletados para um tratamento adequado. O custo por análise é baixo, sendo, portanto, possível aumentar a quantidade de amostras analisadas dentro de um mesmo orçamento, além de poder aplicar a técnica em regiões onde os recursos financeiros destinados a este tipo de controle não sejam abundantes. Essa técnica pode ser usada para se realizar a varredura ou “screeening” com o objetivo de se identificação as possíveis amostras 101
+
+positivas em regiões onde o uso de pesticidas organofosforados é intenso. Este método é específico para inibidores da colinesterase apesar de sua relativa simplicidade. Além disso, é rápido e de baixo custo se comparado às técnicas geralmente utilizadas, como a cromatografia.
+
+102
+
+PARTE III
+
+(III) Quantificação de metóxido de sódio em soluções de metanol
+
+103
+
+104
+
+3.
+
+Espectrometria UV-VIS
+
+Quando um feixe de luz branca incide sobre uma superfície contendo uma espécie molecular que absorve luz, a radiação resultante emergente será a cor complementar com respeito à radiação absorvida (Figura 46) (Skoog et al., 2002).
+
+Figura 46. Radiação absorvida e a cor complementar emergente (vermelho alaranjado e azul turquesa). As cores e suas respectivas cores complementares, assim como, seus respectivos intervalos de comprimento de onda estão indicados na Tabela 7. Tabela 7. Intervalos de comprimentos de onda (λ), radiações absorvidas e suas respectivas cores complementares.
+
+105
+
+A espectrometria molecular na região do ultravioleta-visível (UV-VIS) é uma técnica analítica que vem sendo empregada há mais de um século com o intuito de se identificar e se determinar quantitativamente muitos tipos de espécies moleculares (inorgânicas, orgânicas e bioquímicas), em diferentes tipos de materiais. Esta técnica está relacionada com o fenômeno de absorção molecular em solução, processo no qual ocorrem transições eletrônicas por ocasião de absorção de energia quantizada na região UV-VIS. Uma relação quantitativa entre o fenômeno de absorção e o número de espécies moleculares que sofrem absorção é dada pela lei de Lambert-Beer descrita na próxima seção (Harris et al, 2005).
+
+3.1
+
+Princípio básico de espectroscopia - Lei de Lambert-Beer.
+
+Quando um feixe de radiação monocromática atravessa uma solução que contém uma espécie absorvente, uma parte da energia radiante é absorvida e a outra é transmitida (Skoog et al., 2005). O quociente da potência radiante (energia do feixe/segundo) do feixe transmitido, P, pela potência radiante do feixe incidente, P0, é conhecido como transmitância, T (Figura 47).
+
+106
+
+Figura 47. Potência da radiação emergente (P0) e da transmitida (P) após a passagem do feixe da radiação emergente através de uma cubeta contendo uma solução absorvente.
+
+Logo, a transmitância é dada pela equação 1:
+
+T = P / P0
+
+(1)
+
+O logaritmo decimal do inverso da transmitância é denominado de absorbância e é calculado através da equação 2:
+
+A = log 1 / T = - log T = log P0 / P
+
+(2)
+
+A Lei de Lambert - Beer ou simplesmente Lei de Beer estabelece uma relação entre a absorbância ou transmitância com a concentração de uma espécie
+
+107
+
+absorvente, quando um feixe de radiação monocromática atravessa um recipiente (não absorvente) contendo a espécie absorvente (equação 3) (Harris et al., 2005):
+
+A = - log T = log P0 / P = abc
+
+(3)
+
+Na equação 3, a é uma constante denominada de absortividade (quando a concentração c é expressa em gramas por litro), enquanto que b é a distância do caminho óptico (distância que a radiação monocromática deve atravessar na cubeta contendo a solução com a espécie absorvente (Figura 47). Quando a concentração da espécie absorvente for expressa em mols por litro, a absortividade é denominada de absortividade molar, ε, sendo que a lei de Beer passa a ser descrita pela equação 4. A = εbc
+
+(4)
+
+A absortividade molar expressa em unidades litro mol -1 cm-1, é uma constante característica de uma espécie absorvente em um meio, a um determinado λ. A sensibilidade de um método espectrométrico é governada pela absortividade molar da espécie absorvente.
+
+3.2
+
+Biodiesel
+
+O biodiesel corresponde a uma fonte renovável e alternativa podendo ser obtido a partir de óleos vegetais e de gorduras animais. A sua produção e utilização podem resultar em impactos econômicos e sociais, além de ocasionar benefícios ambientais (Tubino et al., 2011; Boog et al., 2011; Froehner et al., 2007; Dabdoub et al., 2009). Estima-se que o atual potencial de produção mundial do biodiesel é 108
+
+de 51 bilhões de litros, em 119 países, sendo que o Brasil se encontra entre os dez que são responsáveis por 50% dessa produção (Balat & Balat., 2010). Quimicamente, o biodiesel é uma mistura de alquil ésteres de ácidos graxos derivados de matérias-primas renováveis, tais como óleos vegetais e gorduras animais. A transesterificação é o processo mais utilizado para se obter essa fonte renovável, envolvendo a reação dos triglicerídeos com álcoois de baixa massa molecular tais como metanol e etanol (Meher et al., 2006). De acordo com a lei n º 11.097, que trata da introdução do biodiesel no sistema energético do Brasil, define-se tal fonte renovável da seguinte forma: "é um biocombustível derivado de biomassa renovável para ser utilizado em motores com ignição interna por compressão ou, conforme o regulamento, para a geração de um outro tipo de energia, que pode substituir total ou parcialmente os combustíveis de origem fóssil "(Brasil., 2005). No Brasil, o Programa Nacional de Produção e Uso de Biodiesel (PNPB, 2010) estimula a sua produção por meio do processo de transesterificação. Este processo consiste em uma reação química entre um óleo vegetal ou uma gordura com álcool de pequena cadeia molecular, originando os respectivos ésteres a partir dos correspondentes ácidos graxos (Pinto et al., 2005). O processo global da transesterificação pode ser descrito através de uma sequência de três reações consecutivas e reversíveis na qual o diglicerídeo e o monoglicerídeo são formados como intermediários e o glicerol é formado como subproduto da reação (Figura 48). Apesar destas reações já ocorrerem através da mistura simples dos reagentes, faz-se necessário a utilização de catalisadores para que o equilíbrio químico seja alcançado rapidamente, possibilitando taxas de conversões razoáveis.
+
+109
+
+Figura 48. Esquema representativo da sequência das três reações de transesterificação de um triglicerídeo com um álcool.
+
+3.3
+
+Catalisador
+
+Com relação à catálise, a reação de transesterificação pode ser catalisada em meio ácido ou alcalino. Os catalisadores alcalinos mais utilizados são os hidróxidos e os metóxidos de sódio ou de potássio (Ferrari et al, 2005).Na metanólise dos triglicerídeos, a atividade catalítica se deve aos íons metóxidos que são liberados com a dissociação dos metóxidos alcalinos, ou que são formados através da reação do hidróxido com o metanol (Figura 49).
+
+NaOH
+
++
+
+CH3O- Na+
+
+CH3O
+
+-
+
++
+
+Na
+
++
+
+CH3OH
+
+CH3O-
+
++
+
+H2O
+
++
+
+Na+
+
+Figura 49. Formação do íon metóxido na catálise alcalina 110
+
+A Figura 50 mostra o mecanismo da metanólise catalisada por bases. Os íons –OCH3 atuam como nucleófilos que podem reagir com a carbonila do triglicerídeo gerando um intermediário tetraédrico a partir do qual são formados um ânion do diglicerídeo e o éster metílico. Posteriormente, o catalisador é desprotonado originando o diglicerídeo, também regenerando a espécie ativa que, então, reagirá com o metanol que está em excesso no sistema, iniciando outro ciclo catalítico. Os diglicerídeos e monoglicerídeos são convertidos através do mesmo mecanismo em uma mistura de ésteres metílicos e glicerol.
+
+-
+
+O
+
+OCH3
+
+O R
+
+R
+
+O OCH3
+
+OCH3
+
+OR'
+
+a)
+
+-
+
+R
+
+OR'
+
++
+
+-
+
+R = grupo alquil OR'
+
+R' =
+
+.
+
+OCOR
+
+b)
+
+-
+
+OR'
+
++
+
+CH3OH
+
+-
+
+OCH3
+
++
+
+R'OH
+
+OCOR
+
+Figura 50. Mecanismo de transesterificação do triglicerídeo em meio alcalino com metanol. R= grupo alquílico e R’ = diglicerídeo.
+
+Os hidróxidos de metais alcalinos apresentam menor eficiência em comparação com os metóxidos, já que eles podem promover a saponificação dos triglicerídeos. Por essa razão, os metóxidos alcalinos, como o NaOCH3, são os catalisadores mais ativos e mais utilizados em escala industrial, pois além de reduzir o tempo de reação, podem ser utilizados em baixas concentrações fornecendo altos rendimentos reacionais (> 99 %) sob condições moderadas, embora isso exija o uso de óleos neutros e com baixo teor de água (Dabdoub et al., 2009).
+
+111
+
+.
+
+A maioria dos processos industriais de produção do biodiesel emprega atualmente o metóxido de sódio (ou metilato de sódio) como um catalisador homogêneo. O metóxido de sódio se encontra entre os catalisadores mais ativos, cujo emprego resulta em reações que se completam em tempo relativamente curto (usualmente até 30 minutos). Ele pode ser empregado em baixas concentrações, proporcionando rendimentos elevados (> 99%), sob condições reacionais brandas. Ele pode estar presente como impureza no biodiesel preparado, devido à purificação incompleta do produto (Moura et al., 2010;. Dabdoub et al., 2009). O metóxido de sódio que é empregado comercialmente corresponde a uma solução de NaOCH3 em CH3OH (30% m/m). A determinação da sua concentração e da alcalinidade da solução de NaOCH3 é realizada, indiretamente através de titulação ácido-base associada à titulação Karl-Fischer (BASF., 2010; Rizescu e Lessen., 1974).
+
+3.4
+
+Objetivo
+
+O objetivo deste trabalho se relaciona com o desenvolvimento de um método rápido e de baixo custo para se realizar a determinação do metilato de sódio numa solução metanólica, mesmo que esta contenha hidróxidos metálicos, uma vez que este tipo de solução é empregada na produção do biodiesel.
+
+Estudou-se um
+
+método espectrofotométrico, fundamentado na reação entre a -santonina e o metóxido de sódio, originando um complexo róseo.
+
+112
+
+3.5
+
+Experimental
+
+3.5.1 Materiais / Reagentes
+
+Os reagentes e solventes utilizados eram de grau analítico, com exceção do metanol que era de grau HPLC. Foi empregada, também, uma solução de metóxido de sódio em metanol (30% m/m Vetec) industrial e α­santonina (Sigma Aldrich) com um mínimo de pureza de 99%.
+
+3.5.2
+
+Solução de metóxido de sódio padrão Metóxido de sódio; CH3ONa; massa molar 54,02 g mol-1): foram preparadas
+
+soluções padrão de metóxido de sódio a partir da dissolução de 0,9496 g de sódio metálico em 250 mL de metanol (grau HPLC; teor de água= 0,05%). O valor da concentração final da solução padrão do metóxido de sódio era de 0,165 mol L-1.
+
+3.5.3
+
+Solução de α-santonina α-santonina; C15H18O3; massa molar 246,30 g mol-1): 0,1 g de α-santonina
+
+foram dissolvidos em N,N - dimetilformamida completando-se com o mesmo solvente para 50 mL num balão volumétrico (8,110-3 mol L-1).
+
+3.5.4
+
+Isolamento do composto colorido O composto foi preparado a partir de 15 mL da solução de α-santonina, cuja
+
+concentração era de 8,1  10-3 mol L-1 e de 5,0 mL da solução de metóxido de sódio 0,17 mol L-1 que foram adicionados em um balão volumétrico de 25 mL. 113
+
+Deixou-se o sistema em repouso por 25 minutos e o volume foi então completado com metanol. Esta solução foi transferida para um balão de fundo redondo de 25 mL. Em seguida, o composto foi secado sob vácuo a 70 °C, durante 4 horas se empregando um rotavapor. Por fim, o produto sólido obtido foi analisado empregando diferentes técnicas instrumentais.
+
+3.5.5
+
+Espectrofotômetro UV-visível
+
+Para as medições de absorbância foi empregado um espectrofotômetro (FEMTO 600) com cubeta de quartzo com caminho ótico igual a 1,000 cm.
+
+3.5.6
+
+Espectrômetro de massas
+
+O espectro de massa foi registrado com o emprego de um espectrômetro de massa Quattro micro API da Waters (utilização do aplicativo MassLynx).
+
+3.5.7
+
+Espectrofotômetro infravermelho
+
+Foram obtidos os espectros de FTIR do produto colorido em pastilha de KBr,
+
+através
+
+da
+
+acumulação
+
+de
+
+32
+
+varreduras,
+
+empregando-se
+
+um
+
+espectrofotômetro Bomem MB-Series, ao longo do intervalo de 4000-400 cm-1 e com resolução igual a 4 cm-1.
+
+3.5.8
+
+Micropipetas
+
+Foram empregadas micropipetas Eppendorf (10-100 µL) e Prolina Biohit (100-1000 µL). 114
+
+3.5.9
+
+Balança Balança analítica digital QUIMIS modelo 500L210C,  0,0001 g.
+
+3.6
+
+Resultados e Discussão
+
+O método proposto se baseia na formação de um composto róseo, obtido através da reação entre o metóxido e a α-santonina. A reação do CH3O- com o C(1) da α-santonina resulta na formação de um intermediário (Edward et al., 1978) que reage com outra molécula do intermediário, resultando na formação do produto de cor rosa que apresenta absorbância máxima em λ= 500 nm. O esquema da reação proposto para a formação da espécie rosa está indicado na Figura 51.
+
+Figura 51. Sequência reacional para a formação do composto róseo.
+
+115
+
+A reação entre a α-santonina e o metóxido foi confirmada através da espectroscopia de massa e de FTIR. O espectro infravermelho da α-santorina pura foi comparado com o espectro do composto formado (Figuras 52 e 53). O espectro infravermelho da α-santorina pura apresenta uma banda em 1786 cm-1, correspondente à carbonila cetônica. Após a ocorrência da reação, esta banda desapareceu completamente. No produto é observada a presença de uma banda grande e larga em 3398,3 cm-1 que pode ser atribuída à carboxila do composto final. A banda em 1647 cm-1 correspondente ao estiramento do carbono carbonílico do ácido carboxílico, que apareceu no espectro de IV em valor menor do que ao referente ao estiramento da carbonila do grupo cetônico. No entanto, esta banda estava ausente na α-santonina pura. A banda em 1400 cm-1 é justificada pela ligação COC (Sahoo et al., 2011) entre duas moléculas de α-santonina. Além disso, o espectro de massa molecular do composto formado (579) também sugere que ocorre a condensação da α-santonina, na presença do metóxido (Figura. 54) e a tabela 8 indica as presenças de vários fragmentos de massa originados apos a síntese do composto róseo.
+
+70
+
+60
+
+Transmittance
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+W ave Number / cm
+
+-1
+
+Figura 52. Espectro de FTIR da α-santonina pura. 116
+
+3500
+
+4000
+
+4500
+
+35
+
+30
+
+Transmittance
+
+25
+
+20
+
+15
+
+10
+
+3398.3 cm 1400 cm
+
+5 500
+
+1000
+
+-1
+
+1647 cm
+
+1500
+
+-1
+
+-1
+
+2000
+
+2500
+
+Wavenumber / cm
+
+3000
+
+3500
+
+4000
+
+-1
+
+Figura 53. Espectro FTIR do composto formado na reação entre α-santonina e metóxido.
+
+%
+
+Figura 54. Espectro de massas do produto colorido da reação entre α-santonina e metóxido
+
+117
+
+Table 8. Fragmentos de massa do composto róseo formado. No
+
+Massa molar
+
+Fórmula molecular
+
+Fórmula estrutural H
+
+1
+
+279,15
+
+HO
+
+C16H23O4
+
+OH O O
+
+H Na 5
+
+286,34
+
+OH
+
+C16H23NaO3
+
+O O CH3 O HO CH3
+
+2
+
+301,14
+
+C16H22NaO4 O Na O
+
+Na O
+
+4
+
+318,34
+
+C16H23NaO5
+
+O
+
+OH
+
+HO
+
+O
+
+O
+
+5
+
+452,51
+
+H3C
+
+3.7
+
+O
+
+O
+
+C25H33NaO6
+
+Na
+
+O O
+
+OH
+
+Curva analítica.
+
+Foram adicionados em balões volumétricos de 10,00 mL, diferentes volumes da solução padrão de metilato de sódio (120, 150, 180, 210 e 240 μL), sendo que em seguida foi adicionado 1 mL de α-santonina (8,110-3 mol L-1). Os frascos com 118
+
+as soluções foram mantidos em repouso por 25 minutos. Em seguida, o volume foi completado com metanol (grau HPLC) e as medições de absorbância foram realizadas, empregando-se λ= 500 nm. Os resultados foram obtidos a partir de diferentes concentrações de soluções-padrão do metóxido de sódio (Tabela 8).
+
+Tabela 9. Valores de absorbância de diferentes concentrações de soluções padrão de metóxido de sódio a 500 nm. Solução
+
+Concentração (mol L-1)
+
+Absorbância
+
+1
+
+2,00×10-3
+
+0,274
+
+2
+
+2,50×10-3
+
+0,338
+
+3
+
+3,00×10-3
+
+0,428
+
+4
+
+3,50×10-3
+
+0,520
+
+5
+
+4,00×10-3
+
+0,582
+
+119
+
+0.002 0.0025 0.003 0.0035 0.004
+
+0.60 0.55
+
+0.274 0.338 0.428 0.52 0.582
+
+Absorbância
+
+0.50 0.45
+
+Linear Regression for Data1_B: Y=A+B*X
+
+0.40
+
+Parameter Value Error -----------------------------------------------------------A -0.0504 0.01997 B 159.6 6.47868 ------------------------------------------------------------
+
+0.35
+
+R SD N P -----------------------------------------------------------0.99754 0.01024 5 1.46643E-4 ------------------------------------------------------------
+
+0.30 0.25 0.0020
+
+0.0025
+
+0.0030
+
+0.0035
+
+0.0040
+
+Concentração mol L-1
+
+Figura 55. Curva de calibração para diferentes concentrações de soluções de metóxido de sódio.
+
+Uma concentração igual a aproximadamente 2,50×10-3 mol L-1 foi obtida a partir de uma solução 1% m/m de metóxido de sódio, que foi preparada a partir de uma solução de metóxido de sódio 30% m/m em metanol. Para se preparar uma solução de metóxido de sódio (1% m/m), foram adicionados 0,3300 mL de solução de metóxido de sódio (30% m/m) em um balão volumétrico de 10 mL. O volume foi completado com metanol de grau HPLC. Em seguida, foram retiradas alíquotas de 140 L desta solução (2,50 ×10-3 mol L-1) e se adicionou este volume em quatro balões volumétricos de 10 mL e mais 0, 10, 20, e 30 L de água deionizada, agitando-se bem. Adicionou-se então 1 mL de solução de
+
+α-santonina cuja
+
+concentração era igual a (8,110-3 mol L-1) e se aguardou até 25 minutos. Em seguida, completou-se o volume com o metanol. A absorbância foi registrada após 120
+
+5 minutos, a 500 nm (Tabela 9 ). Por essa tabela podemos ver que o hidróxido formado, pela reação de água com metóxido, não reage com a α-santonina.
+
+Tabela 10 . Absorbância de diferentes soluções preparadas a partir de uma solução padrão estoque de metóxido de sódio 1%.
+
+Água Soluçã
+
+adiciona
+
+o
+
+da / µL
+
+Con
+
+Conc Final
+
+Conca
+
+Água
+
+Initial
+
+aprox.
+
+Pela curva
+
+/ 10-6
+
+aprox.
+
+CH3O-
+
+mol
+
+CH3O-
+
+/ 10-3mol L-1
+
+Abs
+
+CH3O/ 10-3mol
+
+/ 10-3mol
+
+L-1
+
+L-1
+
+a
+
+0
+
+0
+
+0
+
+2,50
+
+2,50
+
+0,301
+
+2,200,04
+
+1
+
+10
+
+0,56
+
+2,50
+
+2,15
+
+0,260
+
+1,940,06
+
+2
+
+20
+
+1,11
+
+2,50
+
+1,85
+
+0,223
+
+1,710,05
+
+3
+
+30
+
+1,66
+
+2,50
+
+1,54
+
+0,186
+
+1,480,04
+
+Médias de três determinações.
+
+3.8
+
+Efeito do tempo
+
+A reação se completa em cerca de 25 minutos, a 25 °C, o que foi verificado pelo aumento de absorbância até este tempo, diminuindo gradativamente a seguir.
+
+121
+
+Tabela 11. Estabilidade do composto róseo formado em relação ao tempo.
+
+Solução de
+
+Tempo / minutos
+
+Absorbância
+
+metóxido
+
+5
+
+0,180
+
+10
+
+0,290
+
+15
+
+0,330
+
+20
+
+0,338
+
+25
+
+0,345
+
+30
+
+0,320
+
+40
+
+0,311
+
+50
+
+0,280
+
+60
+
+0,199
+
+2,5×10-3 mol L-1
+
+3.8.1
+
+Efeito da temperatura.
+
+O efeito da temperatura foi também investigado de 25 ° C até 60 ° C. Notouse que a cor é obtida rapidamente quando a solução é aquecida, sendo que a temperatura ambiente a cor é estável durante 25 minutos, enquanto que para valores mais elevados de temperatura o composto se decompõe mais rapidamente (3 a 5 minutos). Devido a esta razão, o valor de temperatura igual a 25 °C foi selecionado para se realizar os experimentos.
+
+122
+
+3.9
+
+Conclusão
+
+O método proposto para se realizar a determinação de metóxido de sódio é simples e sensível. O reagente empregado neste método é muito seletivo para metóxido de sódio em presença do hidróxido de sódio em solução de metanol. O método desenvolvido oferece vantagens tais como: utilização de pequenas quantidades de produtos químicos, confiabilidade, simplicidade e rapidez além de custo baixo. O método proposto pode ser aplicado com sucesso para se realizar a determinação da concentração da solução de metóxido de sódio em metanol.
+
+123
+

@@ -1,0 +1,164 @@
+
+
+RESUMO Introdução: O presente estudo teve como objetivo avaliar a suscetibilidade de larvas de Culex quinquefasciatus a dois piretróides (Cipermetrina e Deltametrina), dois derivados da Avermectina (ivermectina e abamectina) e a um organofosforado (Temefós). Métodos: Larvas de 3o e 4o instares de C. quinquefasciatus foram expostas a diferentes concentrações destes (onze repetições) seguindo o protocolo da Organização Mundial de Saúde. Uma hora após a exposição, as larvas foram lavadas em água desclorada, transferidas para recipientes plásticos contendo água sem cloro, alimentadas e observadas por períodos de 24h, até se transformarem em adultos. Para a determinação das concentrações letais, os valores foram submetidos à análise de regressão usando o modelo probit pelo programa Minitab 15. Resultados: Diferenças entre as estimativas da CL50 e CL90 justificaram que a população de mosquitos testada apresenta heterogeneidade em resposta aos inseticidas, sendo a maior concentração utilizada para a CL50, a partir da análise de probit para o Temefós. Todos os inseticidas avaliados causaram mortalidade mais acentuada nas primeiras 24h exceto quando expostas à ivermectina. Conclusões: As larvas são suscetíveis a todos os inseticidas testados e há uma necessidade de um monitoramento dos inseticidas utilizados. Palavras-chaves: Culex. Inseticidas. Temefós. Piretróides. Avermectinas.
+
+INTRODUÇÃO De hábitos antropofílicos e endofílicos, particularmente em regiões urbanas, Culex quinquefasciatus Say, 1823 apresenta ampla distribuição geográfica. Suas larvas são capazes de se desenvolverem em diversos tipos de habitats, de esgotos à água limpa, com preferência para os primeiros1-3. Por estar relacionado à transmissão da filariose bancroftiana nas Américas, e em particular no Brasil, este inseto apresenta grande importância em saúde pública, gerando desafios administrativos e públicos para o seu controle4. Inseticidas organoclorados, organofosforados, carbamatos e piretróides têm sido largamente empregados para controlar mosquitos vetores de doenças em diversas partes do mundo. Entretanto, em alguns lugares, organofosforados e carbamatos têm sido ineficazes para o controle efetivo contra C. quinquefasciatus5. Na Ásia, vários graus de tolerância/resistência de caráter tóxico de fenitrotion e vários derivados de carbamatos e piretróides têm sido documentados para esta espécie6. Na América Latina, existem relatos de resistência a organofosforados e carbamatos em populações adultas de C. quinquefasciatus4,7-9. A resistência a inseticidas é um problema crescente nos programas de controles de vetores. Por outro lado, o contínuo monitoramento das populações de mosquito pode ter um importante papel na tentativa de avançar com estratégias de manejo que prevenirão ou minimizarão o desenvolvimento de resistência a inseticidas efetivos10, assim como a utilização de novos produtos para o combate aos insetos. O presente trabalho teve como objetivo avaliar a suscetibilidade de larvas de C. quinquefasciatus a dois piretróides (cipermetrina e deltametrina), dois derivados da ivermectina (ivermectina e abamectina) e um organofosforado (Temefós).
+
+MÉTODOS Insetos As formas imaturas de C. quinquefasciatus foram obtidas da criação semi-natural mantida no laboratório de Taxonomia e Biologia de Invertebrados do Departamento de Parasitologia no Instituto de Ciências Biológicas da Universidade Federal de Minas Gerais. Para tanto, as posturas obtidas foram transferidas para cubas plásticas (50 X 40 X 25cm) contendo 25l de água de torneira desclorada. Após a eclosão, as larvas foram alimentadas com ração para camundongos da marca Purina. A criação foi feita sob condições naturais de temperatura e fotoperíodo11. Inseticidas A partir de soluções estoques preparadas nos dias dos ensaios, foram utilizados o organofosforado Temefós (Fersol 500CE) nas concentrações de 125.000, 62.500, 625, 125 e 6,25ppb; os piretróides cipermetrina (Fersol 200CE) nas concentrações de 50.000, 5.000, 500, 250, 50, 25, 5, 2,5 e 0,5ppb, e deltametrina (Fersol 25CE) 6.250, 625, 62,5, 31,25, 6,25, 3,125 e 0,3125ppb, e as avermectinas ivermectina (Ivomec 1%p/v, Merial), concentrações de 500, 100, 50, 10 e 1,25ppb e abamectina (Vertimec 18CE, Syngenta) 18.000, 1.800, 180, 18 e 1,8ppb. As concentrações foram estabelecidas a partir daquelas que apresentaram resultados para análise de probit. Bioensaio Foram utilizadas 3.520 larvas de 3 o e 4 o instares de C. quinquefasciatus expostas às diferentes concentrações dos inseticidas supracitados durante 1h para se conseguir a melhor concentração sub-letal. Em cada recipiente plástico que continha 100ml de solução foram acrescentadas 10 larvas. Os testes apresentaram onze repetições, em dias diferentes e seguiram o protocolo da Organização Mundial de Saúde12. Uma hora após a exposição, as larvas foram lavadas em água de torneira desclorada, transferidas para recipientes plásticos contendo água sem cloro, alimentadas com ração para camundongos e observadas por períodos de 24h, até se transformarem em adultos. Todo o experimento foi conduzido em temperatura de 26 + 1oC e fotoperíodo de 12h.
+
+Análise estatística Os valores para a determinação das concentrações letais foram submetidos à análise de regressão usando o modelo probit 13 pelo programa Minitab 15. Em todos os modelos ajustados, o efeito das doses foi avaliado como significativo se valor-p<0,05. A qualidade do ajuste dos modelos foi verificada pela análise dos resíduos através de gráficos diagnósticos e pela estatística Deviance, utilizando o teste qui-quadrado. Diferenças significativas (valor-p<0,05) foram consideradas como falta de ajuste do modelo aos dados observados.
+
+RESULTADOS O modelo ajustado, as concentrações letais estimadas CL50 e CL95, os respectivos intervalos de confiança à 95% e a qualidade do ajuste dos modelos estão demonstrados na Tabela 1. Pode-se verificar que todos os modelos foram significativos (p<0,05) e, exceto para ivermectina, todos se mostraram bem ajustados (p>0,05). As diferenças entre as estimativas da CL50 e CL95 indicam que a população de mosquitos testada apresenta heterogeneidade em resposta aos inseticidas. Os testes efetuados em larvas de C. quinquefasciatus procurando determinar as concentrações letais (CL) resultaram em diferentes concentrações para os inseticidas com índice de mortalidade para as menores concentrações que variaram de 2% para abamectina a 1,8ppb a 39% para ivermectina a 1,25ppb (Figura 1). No entanto, a maior concentração utilizada para a CL95, a partir da análise de probit, foi a utilizada para a deltametrina (Tabela 1). Verificou-se que o Temefós, os piretróides e a abamectina causaram mortalidade mais acentuada nas primeiras 24h ao contrário daquelas expostas à ivermectina (Figura 1).
+
+TABELA 1 - Concentração letal (CL) para os inseticidas em ppb, para larvas de Culex quinquefasciatus após 1h de exposição. Inseticidas Temefós
+
+
+
+Modelo ajustado* CL50 π= -2,265+0,624ln(dose)
+
+
+
+Cipermetrina
+
+π= -1,084+0,317ln(dose)
+
+
+
+Deltametrina
+
+π= -1,008+0,244ln(dose)
+
+
+
+Abamectina
+
+π= -2,347+0,594ln(dose)
+
+
+
+Ivermectina π= -0,696+0,507ln(dose)
+
+
+
+69,69 (52,68 ± 92,20) 30,54 (22,15 ± 42,11) 61,77 (38,26 ± 99,71) 51,82 (35,12 ± 76,45) 3,94 (2,75 ± 5,35)
+
+CL95
+
+Ajuste do modelo χ2 Valor-p
+
+972,16
+
+0,59
+
+0,44
+
+(602,04 ± 1.569,82) 5.448,01
+
+10,09
+
+0,12
+
+(2.790,17 ± 10.637,6) 51.544,5
+
+7,47
+
+0,11
+
+(10.708,4 ± 248.107) 824,22
+
+0,97
+
+0,62
+
+(504,25 ± 1.347,23) 100,83
+
+33,59
+
+<0,01**
+
+(65,32 ± 178,81)
+
+*Todos os coeficientes do modelo ajustado foram significativos (p<0,05), **Estatística Deviance: valor-p<0,05 indica falta de ajuste do modelo aos dados observados. 100 Cipermetrina
+
+Temefós
+
+Deltametrina
+
+Ivermectina
+
+Abamectina
+
+80
+
+60
+
+40
+
+20
+
+on tro le C
+
+18 18 0 1. 80 0 18 .0 00
+
+1, 8
+
+0
+
+0
+
+10
+
+50
+
+10
+
+50
+
+1, 25
+
+62 5 6. 25 0
+
+25 3, 12 5 6, 25 31 ,2 5 62 ,5
+
+0, 31
+
+0 50 0 5. 00 0 50 .0 00
+
+25
+
+5
+
+25
+
+0, 5
+
+2, 5
+
+5
+
+62 5 62 .5 00 12 5. 00 0
+
+12
+
+6, 25
+
+0
+
+Concentração dos Inseticidas em ppb 24hs
+
+96hs Cumulativo
+
+FIGURA 1 - Percentual de mortalidade por tempo de larvas de C. quinquefasciatus após 1h de exposição a diferentes concentrações de Inseticidas em ppb.
+
+discussÃO Os dados obtidos no presente estudo indicam necessidade de uma dosagem muito alta de deltametrina para produzir um alto índice de mortalidade de larvas sugerindo resistência destas ao inseticida utilizado. Tal resultado contrasta com estudo anterior que verificou variação de CL50 de 2,95x109ppb para larvas de C. quinquefasciatus obtidas em laboratório a 7,77x107ppb para aquelas oriundas de campo, muito menor que a CL50 obtida no presente trabalho14. Os resultados aqui obtidos indicam também que as larvas podem estar resistentes à cipermetrina e ao Temefós. Considerouse para isso que registros de letalidade com cipermetrina para essa espécie são maiores em concentrações menores: CL50=0,0016ppm inseticida ativo (i.a.) para larvas de uma linhagem suscetível e CL50=0,004ppm i.a. para uma linhagem parental com resistência em populações cubanas15 e registro de uma CL50=0,003ppm e uma CL90=0,01±0,006ppm i.a. deste piretróide para uma colônia resistente de C. quinquefasciatus, no Rio de Janeiro, quando comparada com a CL50=0,0008ppm da linhagem referência16. Um fator que contribui para que a resistência possa ser evidenciada para Temefós é a CL50 utilizada no presente estudo ser 35 vezes maior que a preconizada pela WHO6 para este inseto.
+
+Embora no presente trabalho não tenha sido verificado o mecanismo metabólico envolvido na resistência aos inseticidas, modificações de esterases em populações brasileiras de C. quinquefasciatus para organofosforados já foram relatadas4,9,21. Entretanto, para os derivados da Avermectina, que geralmente são usados como antiparasitários em bovinos, equinos e ovinos e também como pesticidas agrícolas22-24, ainda não há registros na literatura de resistência no Brasil. De fato, temos poucos relatos de utilização de derivados de avermectina em larvas de mosquitos no Brasil. Neste sentido, em estudos anteriores foram verificados em larvas de C. quinquefasciatus paralisia progressiva e altos níveis de mortalidade, provavelmente devido a ação bloqueadora da ivermectina nas junções neuromusculares25. Verificaram-se também alterações no corpo gorduroso das larvas sugerindo sinal de mobilização da reserva energética em resposta ao estresse larval quando estas foram expostas à solução de ivermectina26,27, altos níveis de mortalidade larval e diminuição da performance de adultos originados de geração larval, sendo possível neste caso estar ocorrendo um processo de destoxificação16,17.
+
+A resistência de algumas linhagens de larvas de dípteros à inseticidas tem sido atribuída à ação de enzimas destoxificadoras16,17. Entre os mecanismos envolvidos na resistência aos piretróides, encontram-se o processo de destoxificação pela monoxigenase citocromo P450 ou por esterases18,19, que não confere resistência sistemática aos organoclorados, que são preferencialmente metabolizados pela glutationa-S-transferase20. A mortalidade menor verificada nas 24h posteriores a exposição aos inseticidas sugere a presença de destoxificação nas larvas.
+
+Tais resultados sugerem que os piretróides devam ser utilizados com certo cuidado, já que o aumento dos registros de espécies de artrópodes resistentes aos piretróides, além da possibilidade de resistência cruzada com os organoclorados, é preocupação em todo o mundo, necessitando avaliações periódicas referentes ao seu emprego28,29. Assim, monitoramento da efetividade dos inseticidas a serem usados em programas de controle contra vetores, bem como a utilização de outros pesticidas no combate aos mosquitos devem ser implementadas tendo em vista que mudanças da CL 50 não acompanhadas por mudanças na CL95 podem ser manejadas com a troca temporária do produto30.
+
+Por outro lado, a maior mortalidade entre 24 e 96h após a exposição dos insetos aos derivados da Avermectina sugere uma ação residual maior destes produtos.
+
+Pode-se concluir que as larvas são suscetíveis a todos os inseticidas testados quando em concentrações elevadas e que há uma necessidade de um monitoramento dos inseticidas utilizados.
+

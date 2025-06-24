@@ -1,0 +1,112 @@
+
+
+Suscetibilidade de larvas de Aedes aegypti ao inseticida temefós no Distrito Federal
+
+Resumo Objetivo Estudar o padrão de suscetibilidade do Aedes aegypti ao inseticida organofosforado temefós. Métodos Amostras de larvas de Ae. aegypti foram obtidas com armadilhas para oviposição, em oito cidades do Distrito Federal, nos anos 2000 e 2001. As larvas foram submetidas à dose diagnóstica de 0,012 mg/l de temefós, segundo metodologia padronizada pela Organização Mundial da Saúde. As populações de campo foram testadas em paralelo com a cepa de referência Rockefeller e a cepa DIVAL, do insetário da Diretoria de Vigilância Ambiental. A concentração e a pureza das soluções de temefós foram analisadas por cromatografia gasosa. Os cálculos de correlação foram determinados pelo programa StatView – SAS Institute Inc., versão 5. Utilizouse o teste t de Student para verificar diferenças de suscetibilidade, com níveis de significância, α=0,05. Resultados Em 2000, as populações de larvas de Ae. aegypti nas cidades de Taguatinga, Guará e Núcleo Bandeirante apresentaram-se resistentes ao temefós, com mortalidade de larvas entre 54,1 e 63,4%. As populações do Gama, Planaltina e Sobradinho apresentaram alterações nos níveis de suscetibilidade (mortalidade de 83,6 a 92,8%). A população de Ceilândia foi a única suscetível, com 98% de mortalidade. Em 2001, todas as populações testadas mostraram-se resistentes (44,4 a 66,4% de mortalidade). Nenhuma correlação significativa foi encontrada entre a suscetibilidade das populações e a distância entre essas cidades ou a quantidade de inseticida aplicado nos anos anteriores ao estudo. Conclusões Os níveis de suscetibilidade do Ae. aegypti ao temefós vêm se alterando no Distrito Federal. É essencial a continuidade de programas de monitoramento da resistência desse vetor aos inseticidas para se garantir a eficiência dos programas de controle e a proteção da saúde humana.
+
+
+
+INTRODUÇÃO As doenças transmitidas por mosquitos são responsáveis por elevados índices de morbidade e mortalidade no Brasil. Os coeficientes de incidência de dengue nos últimos anos vêm apresentando uma tendência ascendente. Em 2002, foram notificados no País 672.371 casos de dengue clássico e 2.090 de dengue hemorrágico, dos quais 96 evoluíram para óbito.6 O Brasil tem a maior área de transmissão de febre amarela silvestre do mundo,1 o que favorece a ocorrência de epidemias. Existe também o risco de reurbanização dessa arbovirose, decorrente da possibilidade de pessoas portadoras da doença, contraída nessas regiões, infectarem o Ae. aegypti em áreas urbanas.1 Os vetores da febre amarela urbana e dengue são mosquitos do gênero Aedes, dos quais o mais importante é o Aedes (Stegomyia) aegypti (Linné, 1762). Os primeiros focos do Ae. aegypti no Distrito Federal foram identificados em 1985 e 1986. Entretanto, a partir de 1994 o mosquito se instalou definitivamente na região.16 Os primeiros casos de dengue autóctone surgiram em 1997, com cinco casos notificados. Desde então, a incidência de dengue vem crescendo. Em 2002, foram notificados 6.698 casos, dos quais 1.463 autóctones.5,6
+
+A principal estratégia para controle do Ae. aegypti no Brasil tem sido o uso intensivo de inseticidas. No Distrito Federal, o consumo do inseticida organofosforado temefós, utilizado no controle de larvas, vem aumentando progressivamente nos últimos anos. Os relatórios internos da Diretoria de Vigilância Ambiental (DIVAL), não publicados, mostram que dos 33.833 kg de temefós utilizados entre 1997 e 2001, cerca de 60% foram gastos só neste último ano. O uso freqüente de inseticidas pode levar ao desenvolvimento de resistência do mosquito a estes compostos, comprometendo o controle e favorecendo a transmissão de doenças. O número de casos de resistência aos inseticidas está aumentando em países da Ásia, Caribe e Américas Central e do Sul.14 No Brasil, estudos referentes à resistência do Ae. aegypti a inseticidas foram conduzidos nos Estados de São Paulo, Goiás e Mato Grosso do Sul.10,11 O objetivo do presente estudo foi avaliar a resistência das populações de Ae. aegypti no Distrito Federal ao inseticida organofosforado temefós. MÉTODOS Amostras das populações de mosquitos foram obti-
+
+aos baixos índices de infestação do mosquito, aproximando-se de 1% na estação seca, optou-se por colocar duas ovitrampas em cada imóvel. Adicionalmente, nos meses de maio a setembro (estação seca), aumentou-se o número de imóveis com ovitrampas em 20% para obter amostra mais representativa de mosquitos. Na cidade do Gama, onde outra investigação sobre oviposição de Ae. aegypti estava em curso o número de armadilhas foi maior que nas outras cidades.
+
+N
+
+Sobradinho
+
+As paletas recolhidas foram colocadas em caixas de isopor por três dias para incubação dos ovos, os quais foram contados em microscópio estereoscópio. As paletas positivas foram colocadas em bandejas de polietileno, coletadas. contendo três litros de água desclorada e infusão de alfafa a 1% para facilitar a eclosão das posturas. As larvas geradas foram alimentadas com ração canina autoclavada. Os mosquitos adultos (geração F0) foram alimentados com glicose 10% e sangue de cobaia, e identificados individualmente por espécie em microscópio estereoscópico. Os mosquitos identificados como Ae. aegypti foram destinados à obtenção das gerações F1 e F2. Nos testes realizados com a geração F0 provenientes de Planaltina, Ceilândia, Sobradinho e Gama em 2000, não houve necessidade de identificação das espécies, já que nessas localidades, até o ano 2000, não havia registro no Laboratório de Entomologia da DIVAL do Ae. albopictus, espécie que também é encontrada nas ovitrampas. Em 2000 utilizou-se a geração F2, porque o número de larvas obtido com a geração F1 foi insuficiente para a realização dos testes.
+
+Planaltina
+
+Ceilândia
+
+Taguatinga Guará Candangolândia
+
+N.Bandeirante
+
+Gama
+
+Figura - Cidades do Distrito Federal onde as amostras foram
+
+das a partir de ovos coletados em ovitrampas9 em imóveis escolhidos por sorteio aleatório nas áreas urbanas de oito cidades do Distrito Federal (Figura), durante os anos de 2000 e 2001. As ovitrampas foram colocadas no extra-domicílio, em locais sombreados e próximos a outros criadouros do mosquito, como vasos com plantas, e deixadas por um período de oito a 10 dias. No ano de 2000, as ovitrampas foram instaladas em Planaltina, Sobradinho, Guará, Núcleo Bandeirante, Candangolândia, Gama, Ceilândia e Taguatinga. Em 2001 repetiu-se o procedimento nas mesmas cidades, exceto Gama e Taguatinga. Devido à proximidade das cidades do Núcleo Bandeirante e Candangolândia e ao baixo número de ovos coletados nessa última, as populações dessas duas cidades foram agrupadas em uma só cepa: Núcleo Bandeirante (Tabela 1). Para quantificar o número de imóveis com ovitrampas adotou-se o critério da Fundação Nacional de Saúde (Funasa), que recomenda o mínimo de 50 ovitrampas, para localidades com até 20.000 imóveis e o máximo de 300, para localidades acima de 500.000 imóveis. Devido
+
+Soluções de temefós (3 mg/l) foram fornecidas pela Funasa ou preparadas a partir do padrão temefós 98% (Prodelim Química). A concentração e a pureza das soluções foram checadas por cromatografia gasosa com detectores
+
+Tabela 1 - Número de ovitrampas e ovos por localidade e ano. Cidade (estação)
+
+Recolhidas
+
+Ano 2000 Planaltina (chuva) 296 Sobradinho (chuva) 272 Guará (chuva) 194 Núcleo Bandeirante (chuva) 116 Ceilândia (seca) 297 Gama (seca) 418 Taguatinga (seca) 275 Ano 2001 Planaltina (chuva) 200 Sobradinho (chuva) 204 Ceilândia (seca) 294 Núcleo Bandeirante (seca) 140 IPO: Índice de Positividade de Ovitrampas Ovitrampas positivas x 100 / ovitrampas recolhidas (IPO8)
+
+Ovitrampas
+
+IPO (%)
+
+Ovos (N)
+
+40,9 55,5 40,7 62,1 14,5 23,7 20,0
+
+7.243 7.115 2.172 2.815 2.363 3.163 3.278
+
+60,5 40,2 27,2 25,7
+
+7.337 3.876 4.272 994
+
+625
+
+
+
+
+
+fotométrico de chama e de massa (GC/FPD, Finnigan 9001; GC/Ion Trap Varian Satuno 2000). A concentração calculada não diferiu significativamente da concentração teórica (3 mg/l). Testes em uma mesma população utilizando diferentes soluções de temefós não mostraram diferenças significativas nas taxas de mortalidade (p>0,05). As soluções foram mantidas à temperatura de -5ºC. Os testes de suscetibilidade foram realizados de acordo com a metodologia da Organização Mundial da Saúde.15 Cada teste continha oito repetições para as larvas expostas e quatro para as larvas controle. Em copos plásticos de 400 ml, colocou-se 224 ml de água destilada e 1,0 ml de solução de temefós 3 mg/l (larvas expostas) ou 1,0 ml de etanol PA (larvas controle). Adicionou-se em cada copo 25 larvas de 3º para início do 4º estágio. A concentração final de temefós no sistema é a dose diagnóstica de 0,012 mg/l para larvas de Ae. aegypti, capaz de matar com alta probabilidade, todos os indivíduos suscetíveis em população nunca exposta à pressão seletiva de inseticida e na qual os indivíduos resistentes são raros.14 A mortalidade foi verificada após 24h. Larvas moribundas, incapazes de atingir a superfície da água quando tocadas ou que apresentavam tremores ou rigidez, foram consideradas como mortas.15 Todas as larvas sobreviventes aos testes foram descartadas. Os testes foram feitos em paralelo com uma cepa suscetível de Ae. aegypti Rockefeller (ROCK), fornecida pelo Center for Medical Agricultural and Veterinary Entomology – U.S. Department of Agriculture de Gainesville, FL, e com a cepa DIVAL, gerada a partir de mosquitos do Distrito Federal e mantida no insetário da Diretoria de Vigilância Ambiental do DF desde 1997. Quando a taxa de mortalidade foi igual ou superior a 98%, a população foi considerada suscetível (SS); mortalidade entre 80 e 98%, deve-se verificar a resposta (VR); mortalidade igual ou abaixo de 80%, a população está resistente (RR).12 A percentagem de mortalidade foi corrigida pela fórmula de Abbott quando a mortalidade de lar-
+
+vas no controle atingiu entre cinco e 20%. Os testes foram desconsiderados quando a mortalidade ficou acima de 20% ou o número de pupas chegou a 10%.15 Utilizou-se o programa Excel para os cálculos estatísticos e dos testes de significância. Os cálculos de correlação foram determinados pelo programa StatView – SAS Institute Inc., versão 5. Utilizou-se o teste t de Student para verificar diferenças significativas de suscetibilidade entre as populações. Considerou-se níveis de significância, α=0,005 e p>α, para aceitar a hipótese nula (H0) de que não há diferenças significativas entre duas amostras, e abaixo ou igual a esse valor para rejeitar H0, ou seja concluir que há diferenças entre duas amostras. RESULTADOS A Tabela 1 mostra o número de ovitrampas recolhidas, o índice de positividade de ovitrampas (IPO)8 e o número de ovos coletados em cada cidade nos dois anos do estudo. No total, foram recolhidas 1.867 das 1.941 (96,2%) ovitrampas instaladas em 2000 e 837 das 842 (99,4%) instaladas em 2001. Algumas ovitrampas foram retiradas pela população humana ou estavam sem água. Nos dois anos, o IPO foi maior durante a estação chuvosa quando comparado com os índices da estação seca. Em Planaltina na estação chuvosa e em Ceilândia na estação seca, o IPO foi maior em 2001 quando comparado a 2000. As Tabelas 2 e 3 mostram os dados de mortalidade das larvas de Ae. aegypti das cidades estudadas nos anos 2000 e 2001, respectivamente. Em 2000, todas as populações testadas apresentaram taxas de mortalidade significativamente diferentes das cepas suscetíveis ROCK e DIVAL (0,001<p<0,01) (Tabela 2). As populações de Taguatinga, Guará e Núcleo Bandeirante apresentaram mortalidade inferior a 80%, portanto, resistente ao temefós. As populações do Gama, Sobradinho e Planaltina alteraram o padrão de suscetibilidade e foram incluídas na categoria verificação requerida (83,6 a 92,8% mortalidade). A população de Ceilândia foi a única suscetível (≥98%). Em cada cidade, os coe-
+
+Tabela 2 - Mortalidade (M) das larvas de Aedes aegypti submetidas à dose diagnóstica 0,012 mg/L de temefós em 2000. Cepa
+
+Testes N
+
+Total
+
+Larvas expostas Mortalidade (%)
+
+CV (%)
+
+Larvas controle Total Mortalidade (%)
+
+ROCK 24 4.800 100 0,0 2.300 0,43 DIVAL 3 600 100 0,0 300 0,33 Ceilândia* 14 2.800 98,2 2,2 1.400 0,14 Gama* 9 1.796 92,8 8,5 899 2,2 Planaltina* 16 3.120 88,8 11,8 1.596 0,25 Sobradinho* 13 2.600 83,6 18,5 1.300 0,15 Taguatinga* 12 2.373 63,4 33,9 1.195 0,17 Guará* 12 2.400 61,9 40,2 1.200 0,25 N. Bandeirante* 11 2.200 54,1 44,3 1.100 1,4 *Níveis de suscetibilidade significativamente diferentes das cepas ROCK e DIVAL (0,001<p<0,01) SS: Suscetível; VR: Verificar resposta; RR: Resistente
+
+Nível de suscetibilidade SS SS SS VR VR VR RR RR RR
+
+
+
+Tabela 3 - Mortalidade (M) das larvas de Aedes aegypti submetidas à dose diagnóstica 0,012 mg/l de temefós em 2001. Larvas expostas Larvas controle Cepa Testes Total Mortalidade CV Total Mortalidade Nível de N (%) (%) (%) suscetibilidade ROCK 16 3.200 100 0,13 1.600 1,5 DIVAL 15 3.000 95,4 5,8 1.500 0,13 Ceilândia* 10 1.989 66,4 33,8 983 1,02 Planaltina* 10 1.999 61,5 20,4 997 0,10 Sobradinho* 10 1.999 44,4 58,9 1.000 0,6 N. Bandeirante* 8 1.588 56,4 43,7 792 0,0 *Níveis de suscetibilidade significativamente diferentes das cepas ROCK e DIVAL (0,01<p<0,05)
+
+ficientes de variação (CV) entre os testes de mortalidade das larvas expostas aumentaram à medida que diminui o percentual de mortalidade de cada população, mostrando grande variabilidade genética dos organismos de uma população resistente. Em 2001 (Tabela 3), os níveis de suscetibilidade das populações de campo testadas foram diferentes das cepas ROCK e DIVAL (0,01<p<0,05), sendo consideradas resistentes ao temefós (mortalidade <80%). Os percentuais de mortalidade da maioria das cepas testadas foram inferiores aos do ano 2000 (Tabela 2), com exceção do Núcleo Bandeirante que se manteve praticamente igual nos dois anos (p>0,05). Ceilândia apresentou mudança no padrão de suscetibilidade, sendo suscetível (98,2%) em 2000 e resistente (66,4%) em 2001 (p<0,001).
+
+SS VR RR RR RR RR
+
+Para avaliar se existe alguma relação entre suscetibilidade e pressão seletiva, tomou-se a quantidade total de temefós aplicada em cada cidade no período de um ano anterior à coleta dos mosquitos, disponíveis nos relatórios mensais das Atividades de Controle de Mosquitos da DIVAL e Funasa nos anos de 1999 e 2000. Não havia registro da quantidade de inseticida utilizada nas cidades no período de janeiro a agosto de 1999 e abril a setembro de 2000. De maneira geral, a quantidade do inseticida aplicada um ano antes da amostragem de 2001 foi o dobro da quantidade anterior a 2000 (dados não mostrados). O coeficiente de regressão entre a quantidade de inseticida aplicada em cada cidade e a porcentagem de mortalidade foi R2=0,039, mostrando correlação fraca e não significativa (p=0,56; α=0,05). DISCUSSÃO
+
+O número menor de ovitrampas instaladas em Planaltina e Sobradinho em 2001 quando comparado a 2000 (Tabela 1) não comprometeu a amostragem, pois a distribuição das armadilhas foi homogênea em ambos os anos. Planaltina e Sobradinho tiveram as taxas de mortalidades significativamente reduzidas em 2001 (p<0,001), enquadrando-se na categoria de resistentes. Estes resultados são consistentes com os observados no ano 2000 cujas populações já apresentaram resposta alterada (Tabela 2). A cepa DIVAL apresentou resposta diferente em 2001 quando comparada com a cepa ROCK (Tabela 3). Esta redução de mortalidade não foi detectada em 2000, provavelmente, devido ao número reduzido de testes conduzidos naquele ano (três testes) comparados com 15 testes em 2001. A distância entre as cidades estudadas variam entre cinco e 70 Km (Figura). Para avaliar uma possível relação entre a distância que separa duas cidades e os níveis de significância obtidos na comparação da suscetibilidade entre elas, foi aplicado o teste de regressão linear. O coeficiente de regressão calculado (R2=-0,101; p=0,16) mostra não haver correlação significativa entre a proximidade das cidades e os níveis de suscetibilidade de suas respectivas populações de mosquitos.
+
+Maiores índices de oviposição do Ae. aegypti encontrados na época chuvosa no presente estudo são esperados e já foram reportados por outros autores.5 O mosquito encontra nesse período uma maior abundância de depósitos com água, seu criadouro natural, e condições de temperatura e umidade que favorecem o seu ciclo biológico. O uso de inseticidas associado às ações de manejo ambiental e educativas deveria controlar a infestação do mosquito e levar a uma queda dos índices de oviposição em anos subseqüentes numa mesma estação, o que não ocorreu no período analisado. Cepas resistentes a um determinado produto químico podem surgir como resultado de fatores genéticos, biológicos e operacionais. Os fatores genéticos e biológicos são os característicos das populações, como a freqüência e o caráter dominante dos genes de resistência, o isolamento, a endogamia e o potencial reprodutor da população.12 Os operacionais estão relacionados ao uso de inseticidas, podendo surgir por pressão seletiva ou a partir de fracassos nas operações de controle.2 Os genes da resistência são raros e aparecem depois de uma seleção prolongada, à proporção que os indi-
+
+627
+
+
+
+víduos com alelos suscetíveis vão morrendo.3 O grau de dominância do gene de resistência influencia o crescimento da população sobre pressão seletiva. Quando o gene de resistência é recessivo, o crescimento é mais demorado, quando dominante, a população se recupera mais rápido.7
+
+O presente estudo, porém, não encontrou nenhuma correlação entre os níveis de suscetibilidade e a quantidade do inseticida aplicada e a distância entre cidades. Rawlins13 também relatou diferenças entre os níveis de resistência ao temefós em populações de Ae. aegypti entre localidades próximas.
+
+No ano de 2000 foram detectadas populações com resposta alterada com perfil característico de resistência: Taguatinga, Guará e Núcleo Bandeirante (Tabela 2). As populações de Planaltina e Sobradinho, que apresentaram alteração de resposta em 2000, evoluíram para o perfil de população resistente ao temefós em 2001. Ceilândia, na estação seca, foi a cidade com maior redução de suscetibilidade em 2001, ano em que o IPO e o número de ovos coletados foram quase o dobro que em 2000.
+
+A resistência pode aumentar sobre intensa pressão seletiva do inseticida e declinar na ausência. Como os níveis de infestação do mosquito são influenciados pela sazonalidade, a quantidade de temefós dispendida em cada estação é variada, sendo maior na estação chuvosa, quando os níveis de infestação são maiores. A baixa correlação entre suscetibilidade e quantidade de inseticida aplicada, encontrada no presente estudo, pode ter sido, porém, devido à deficiência de dados disponíveis de aplicação de inseticida em alguns dos meses avaliados.
+
+A diminuição do IPO em Sobradinho em 2001 pode ser conseqüência das medidas de controle adotadas pela população e pelo órgão de saúde. Por outro lado, uma menor eficiência dessas medidas pode ter contribuído para aumento no IPO observado em Planaltina em 2001, quando comparado a 2000. No Núcleo Bandeirante, o IPO e o número de ovos na estação seca (2001) foram, aproximadamente, 60% menores que na estação chuvosa (2000). Este resultado é esperado, já que as chuvas favorecem a formação de criadouros e o aumento da população de mosquitos. Os coeficientes de variação, maiores nas populações mais resistentes, parecem indicar que essas populações são heterogêneas com relação aos genes de resistência. Diferentemente, a cepa ROCK, 100% suscetível, mostra ser uma população homogênea. Os mosquitos que deram origem à população da DIVAL foram coletados em áreas no DF em 1997, já expostas à aplicação de inseticidas, podendo ter chegado ao insetário com genes de resistência. Campos & Andrade4 relataram resistência ou tolerância ao temefós em mosquitos insetário, originários de ambientes nunca expostos à aplicação de inseticidas. Fatores genéticos podem explicar, em grande parte, as diferenças de suscetibilidade existentes entre as populações testadas. Adicionalmente, fatores como a migração e a quantidade de inseticida aplicada, podem também ter impacto sobre o número de indivíduos sobreviventes, e conseqüentemente sobre a evolução da resistência. A influência da migração ocorre se mosquitos suscetíveis de áreas tratadas escapam do tratamento, os quais possibilitam a reminiscência dos alelos suscetíveis na população, ou se ocorre imigração de indivíduos suscetíveis para uma população a qual está sobre pressão seletiva e onde pode está sendo desenvolvido o processo de resistência.7
+
+Os resultados do presente estudo confirmam a detecção de populações de Ae. aegypti com suscetibilidade alterada ao temefós, o que já vem sendo relatado em outras pesquisas realizadas no Brasil.10,11 A evidência de populações de Ae. aegypti resistentes ao temefós no Distrito Federal confirma a necessidade de se implantar o monitoramento da suscetibilidade dessas populações aos inseticidas como uma das estratégias para garantir a eficácia do programa de controle desse vetor na região. Estabelecida a cartografia dos níveis de suscetibilidade e avaliando, no campo, o impacto da resistência sobre o efeito residual do temefós, é possível adotar estratégias diferenciadas de controle, as quais poderão ser peculiares para cada local. Adicionalmente é importante a realização de pesquisas na área de isolamento e caracterização da resistência, para determinar os mecanismos bioquímicos e verificar se os resultados obtidos com a prova diagnóstica são compatíveis com os resultados de alteração desses mecanismos. A confirmação do padrão de perda de suscetibilidade no Distrito Federal pode, por exemplo, indicar a necessidade de mudanças no controle químico. É essencial, porém, que essa mudança seja acompanhada de ações de controle integrado, com monitoramento do meio ambiente, aplicação de inseticidas biológicos e participação da comunidade.
+

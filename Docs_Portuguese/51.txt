@@ -1,0 +1,144 @@
+
+
+Caracterização do controle de Haematobia irritans e Rhipicephalus (Boophilus) microplus no Triângulo Mineiro e Alto Paranaíba, Minas Gerais
+
+RESUMO.- O controle eicaz de Haematobia irritans (mosca-dos-chifres) e Rhipicephalus (Boophilus) microplus (carrapato-do-boi) é um fator crucial à maior rentabilidade da pecuária brasileira, porém ainda constitui-se um desaio. Um maior conhecimento das práticas adotadas no combate destes parasitos faz-se necessário para que se possam estruturar estratégias de controle mais próximas da realidade do produtor rural e mais fáceis de serem executadas.
+
+Este estudo caracterizou, através de entrevistas, as práticas adotadas no controle desses ectoparasitos em 23 propriedades da mesorregião do Triângulo Mineiro e Alto Paranaíba, Minas Gerais. A maioria dos entrevistados reconheceu a importância desses parasitos para a atividade pecuária, entretanto, diversos problemas relativos ao controle parasitário foram observados. O controle da mosca-dos-chifres e do carrapato-do-boi era uma prática rotineira em, respectivamente, 17,4% e 95,7% das propriedades, geralmente realizado em função de elevado grau de infestação dos animais. Mais de seis aplicações de ectoparasiticidas eram realizadas por ano em todas as propriedades que empregavam tratamentos para o controle da mosca e em 76,5% daquelas que combatiam o carrapato. Os produtos eram aplicados principalmente com bombas costais manuais (63,6%) e sem a contenção dos animais em 45,5% das propriedades. A diluição dos produtos segundo recomendações dos fabricantes era realizada por 45,4% dos entrevistados, porém, 63,6% aplicavam um volume de solução por animal menor do que o tecnicamente recomendado. Utilizava-se principalmente a associação de piretróides e organofosforados para o controle de ambos os parasitos. Apesar de utilizar rotineiramente ectoparasiticidas, o uso de equipamento de proteção individual (EPI) não era comum entre os entrevistados. A maioria dos entrevistados conhecia algumas características epidemiológicas dos parasitos, entretanto, o controle parasitário adotado na maior parte das propriedades tende a comprometer não apenas a eicácia dos tratamentos, mas a suscetibilidade dos parasitos e a sustentabilidade do controle. TERMOS DE INDEXAÇÃO: Mosca-dos-chifres, Haematobia irritans, carrapato-do-boi, entrevistas, Rhipicephalus (Boophilus) microplus, controle parasitário.
+
+INTRODUÇÃO As parasitoses dos animais determinam um signiicativo entrave à pecuária nacional, pois causam redução na produtividade, mortalidade de animais e aumento dos custos de produção, além de gastos com as tentativas de controle (Grisi et al. 2002, Bianchin et al. 2006. A mosca-dos-chifres, Haematobia irritans irritans (Linnaeus, 1758) (Diptera: Muscidae), e o carrapato-do-boi, Rhipicephalus (Boophilus) microplus (Canestrini, 1887) (Acari: Ixodidae), são considerados importantes ectoparasitos da pecuária bovina brasileira, causando prejuízos estimados em U$ 865 milhões e U$ 2 bilhões anuais, respectivamente (Grisi et al. 2002, Bianchin et al. 2006. O controle destes ectoparasitos baseia-se primordialmente na aplicação de ectoparasiticidas comerciais. O uso indiscriminado de tais produtos, juntamente com práticas inadequadas para o combate dos parasitos e a falta de especiicidade dos ectoparasiticidas, tem colaborado para a rápida seleção de populações resistentes (Santos Junior et al. 2000, Saueressig & Barros 2003, Rodrigues et al. 2004, Oliveira et al. 2006, Barros et al. 2007, Santos et al. 2009, Mendes et al. 2011). Embora tecnicamente mais complexas, as estratégias de controle integrado de ectoparasitos são mais viáveis econômica e operacionalmente, além de serem mais próximas da
+
+
+
+realidade da maioria das propriedades pecuárias em todo o país. O conhecimento das características culturais e socioeconômicas das propriedades e das práticas adotadas para o controle dos parasitos é essencial para o sucesso no desenvolvimento e implantação de programas integrados de controle no campo. Sendo assim, este estudo caracterizou, através de entrevistas, o controle dos ectoparasitos H. irritans e R. microplus em propriedades pecuárias da mesorregião do Triângulo Mineiro e Alto Paranaíba, estado de Minas Gerais.
+
+MATERIAL E MÉTODOS Em abril/2010, foram realizadas entrevistas semiestruturadas em 23 propriedades localizadas na mesorregião do Triângulo Mineiro e Alto Paranaíba, MG, região com o maior rebanho e produção de leite do estado (IBGE 2009). As propriedades localizavam-se nos seguintes municípios: Água Comprida (n=1), Araxá (n=1), Campo Florido (n=2), Conquista (n=1), Ituiutaba (n=5), Monte Alegre de Minas (n=1), Uberaba (n=4) e Uberlândia (n=8) (Fig.1). As propriedades foram escolhidas com o apoio da Associação Brasileira dos Criadores de Girolando, sendo, portanto, uma amostragem por conveniência. Foram entrevistados proprietários ou funcionários de propriedades onde também foram realizados bioensaios com H. irritans e coletadas teleóginas de R. microplus para avaliação da suscetibilidade destes parasitos à piretróides e organofosforados (Domingues 2011). O intuito das entrevistas foi conhecer e caracterizar as práticas de controle destes parasitos, uma vez que a maneira como este é realizado pode inluenciar nos níveis de suscetibilidade aos ectoparasiticidas. As entrevistas semiestruturadas - isto é, que possuíam questões fechadas e abertas, sendo estas últimas de resposta direta (Rosa & Arnoldi 2006) - se basearam em um questionário previamente utilizado por ATM Barros e colaboradores em pesquisa realizada em diferentes estados do país, entre os anos de 2000 a 2003 (Barros et al. 2012). Os entrevistados foram questionados quanto às características das propriedades (localização, tamanho e tipo do rebanho), conhecimentos sobre a epidemiologia da mosca-dos-chifres e do carrapato-do-boi e práticas adotadas para o controle desses parasitos, tais como: momento da aplicação dos produtos ectoparasiticidas, frequência de tratamento do rebanho, produtos utilizados, modo de aplicação, local onde os animais recebiam os tratamentos, número de animais tratados, critérios de escolha e substituição dos parasiticidas e uso de equipamento de proteção individual (EPI). Em novembro/2009 foram realizadas entrevistas-piloto em cinco propriedades da mesma mesorregião onde a pesquisa foi realizada, buscando-se adequar as questões à região e adaptar a linguagem do entrevistador para que esta fosse a mais clara e próxima possível da realidade do entrevistado (Rosa & Arnoldi 2006). Este foi um estudo descritivo, que não teve caráter de inquérito ou censo. A análise das entrevistas foi realizada pelo sistema de análise quantitativo-descritivo pelo qual se veriicou a frequência simples de ocorrência de cada resposta, seguida pelo cálculo de porcentagem (Rosa & Arnoldi 2006). As respostas relativas ao período de ocorrência de maiores infestações pelos ectoparasitos foram agrupadas em período chuvoso ou período seco, sendo considerados os meses de outubro a março como época chuvosa e, de abril a setembro, como época seca.
+
+RESULTADOS Dentre as 23 propriedades pesquisadas, 18 (78,2%) possuíam um rebanho com mais de 100 animais, destacandoPesq. Vet. Bras. 32(12):1246-1252, dezembro 2012
+
+
+
+Fig.1. (A) Mapa do Brasil com destaque para a mesorregião do Triângulo Mineiro e Alto Paranaíba/ MG. (B) Municípios onde as propriedades visitadas se localizam, 2010.
+
+-se a bovinocultura leiteira como a principal atividade pecuária desenvolvida (Quadro 1). Dentre os entrevistados, sete (30,4%) eram proprietários e 16 (69,6%) eram funcionários. Segundo 22 (95,7%) entrevistados, ambos os parasitos ocorriam nas propriedades, havendo diferença de infestação entre animais de diferentes graus de sangue, por ambos os parasitos. Dentre estes, 18 (81,8%) airmaram que os animais de maior grau de sangue taurino eram preferencialmente acometidos pelos parasitos, enquanto os demais não souberam especiicar o motivo de tal preferência. De acordo com a maioria dos entrevistados, as maiores infestações, por ambos os parasitos, ocorriam no período chuvoso (Quadro 2). Vinte e dois entrevistados (95,7%) reconheceram que a mosca-dos-chifres, assim como o carrapato-do-boi, causa Quadro 1. Tamanho e aptidão dos rebanhos de propriedades pecuárias da mesorregião do Triângulo Mineiro e Alto Paranaíba/MG, 2010 Informação Número de animais Aptidão
+
+Respostas 10-50 51-100 8,7% 13,0% Leite Corte 86,7% 13,3%
+
+Total
+
+101-200 Mais de 200 30,4% 47,8% -
+
+23 30*
+
+* Era permitida mais de uma resposta por entrevistado.
+
+Quadro 2. Período de maior abundância de Haematobia irritans e Rhipicephalus microplus na mesorregião do Triângulo Mineiro e Alto Paranaíba, MG,2010 Época/mês Todo o ano Período chuvoso Período seco
+
+Mosca-dos-chifres FA (FR)
+
+Carrapato-do-boi FA (FR)
+
+0 (0,0%) 17 (73,9%) 6 (26,1%)
+
+1 (4,4%) 17 (73,9%) 5 (21,7%)
+
+FA (FR) = Frequência absoluta (Frequência relativa).
+
+Pesq. Vet. Bras. 32(12):1246-1252, dezembro 2012
+
+prejuízos aos rebanhos bovinos; entretanto, apenas 17,4% airmaram realizar tratamentos especíicos para o controle da mosca-dos-chifres. Segundo estes, os tratamentos eram realizados quando se observava uma alta carga parasitária nos animais, sendo mais de seis tratamentos durante o ano. O controle do carrapato-do-boi era uma prática rotineira em 22 (95,7%) propriedades. A maioria das propriedades (17) empregava ectoparasiticidas comerciais, com variável número de tratamentos; nas demais propriedades era utilizado tratamento homeopático (2) e regulador de crescimento de insetos misturado ao sal (3) , como demonstrado no Quadro 3. Apenas quatro propriedades seguiam um calendário sanitário anual, com diferenças no esquema de aplicação dos produtos: os intervalos entre aplicações variavam de 15, 21, 30 dias ou tratamentos realizados em março, maio e dezembro. A maioria dos entrevistados (76,5%) airmou realizar mais de seis tratamentos anuais para controlar o carrapato-do-boi (Quadro 3). Na única propriedade onde o controle do carrapato-do-boi não era realizado, o rebanho era composto somente por fêmeas, de elevado grau de sangue zebu, receptoras de embriões. Embora este fosse um dos maiores rebanhos dentre as propriedades visitadas, não havia controle de endo e ectoparasitos. Quanto ao modo de aplicação dos ectoparasiticidas comerciais, a aspersão (n=11) e o pour-on (n=6) foram os métodos citados para os tratamentos contra ambos os parasitos. A bomba costal manual foi o principal equipamento utilizado na aplicação por aspersão, geralmente realizada sem a contenção dos animais (Quadro 4). Em relação à diluição dos produtos de aspersão, cinco (45,4%) entrevistados airmaram diluí-los na concentração recomendada pelo fabricante, enquanto os demais (54,6%) utilizavam concentrações diferentes da preconizada (Quadro 4). Em sete (63,6%) propriedades, os animais eram ba-
+
+
+
+
+
+Quadro 3. Controle do carrapato-do-boi Rhipicephalus microplus em propriedades pecuárias da mesorregião do Triângulo Mineiro e Alto Paranaíba/MG, 2010 Informação Controle do carrapato
+
+Momento de aplicação dos ectoparasiticidascomerciais Número de tratamentos realizados por ano
+
+Respostas
+
+Número de propriedades
+
+Tratamento homeopático 2 (9,1%) Grau de infestação do rebanho 12 (70,6%) 1a6
+
+Regulador de crescimento de insetos 3 (13,6%) Calendário Sanitário Anual 4 (23,5%) Mais de 6
+
+3 (17,6%)
+
+13 (76,5%)
+
+Ectoparasiticidas comerciais 17 (77,3%) Tamanho do Carrapato 1 (5,9%) Não soube responder 1 (5,9%)
+
+22 (100%)
+
+17* (100%)
+
+17 (100%)
+
+* Somente propriedades nas quais eram utilizados ectoparasiticidas comerciais.
+
+Quadro 4. Caracterização do uso de produtos para controle de Haematobia irritans e Rhipicephalus microplus em propriedades pecuárias da mesorregião do Triângulo Mineiro e Alto Paranaíba/MG, 2010 Informação Equipamento de aspersão Forma de tratamento por aspersão Concentração do produto Volume de solução/ animal Animais tratados/ dia
+
+Respostas Bomba costal manual 7 (63,6%) Animais soltos no curral 5 (45,5%) Maior do que a recomendada 2 (18,2%) Menos de 4 L 7 (63,6%) Por categoria animal 11 (64,7%)
+
+Número de propriedades
+
+Bomba de trator
+
+Bomba elétrica
+
+1 (9,1%) Tronco
+
+1 (9,1%) Preso no cabresto 2 (18,2%) Menor do que a recomendada 4 (36,4%) Mais de 5 L 0 Mais infestados
+
+2 (18,2%) Recomendada pelo fabricante 5 (45,4%) 4a5L 4 (36,4%) Todos os animais do rebanho 4 (23,5%)
+
+Câmara atomizadora 2 (18,2%) Câmara atomizadora 2 (18,2%) -
+
+2 (11,8%)
+
+11*
+
+11*
+
+11*
+
+11* 17**
+
+-
+
+* Somente propriedades que utilizavam aspersão. ** Somente propriedades nas quais eram utilizados ectoparasiticidas comerciais.
+
+nhados com menos de quatro litros de calda (Quadro 4). Na maioria dos casos, o tratamento era realizado por categoria (animais jovens, lactantes ou solteiros), seguido pelo tratamento de todos os animais da propriedade e, uma menor parcela, tratamento apenas dos mais infestados (Quadro 4). A maioria dos produtos utilizados no controle da mosca-dos-chifres continha princípios ativos da classe dos piretróides (85,7%), principalmente em associações com organofosforados (57,1%). Embora maior diversidade de classes pesticidas fosse empregada no controle do carrapato-do-boi, os piretróides e suas associações com organofosforados representaram 50% dos produtos em uso (Quadro 5). A alternância de produtos antiparasitários era realizada na maioria das propriedades (78,3%), justiicada pela perda da eicácia (55,6%), preço do produto (16,7%), disponibilidade nas lojas (5,5%) e período de carência exigido (5,5%). Alguns entrevistados (16,7%) airmaram desconhecer a inalidade da substituição do produto. O principal motivo atribuído à perda de eicácia foi o surgimento de resistência no carrapato ou na mosca (n=8), seguido de problemas na fabricação dos produtos (n=1). A maioria dos entrevistados (95,7%) airmou haver assistência veterinária na propriedade. Entretanto, os veterinários eram consultados somente em casos de emergência em 52,7% das
+
+propriedades, sendo fonte de informação sobre controle parasitário em apenas sete (31,8%) (Fig.2). Somente em sete propriedades (31,8%) os equipamentos de proteção individual (EPI) eram utilizados, sendo que em apenas três (13,63%), o equipamento completo (roupa, boné, luvas, máscaras e botas) era empregado. Em várias propriedades havia o equipamento de proteção, porém o trabalhador preferia não utilizá-lo. Quadro 5. Composição dos produtos utilizados no controle da mosca-dos-chifres e do carrapato-do-boi em propriedades pecuárias da mesorregião do Triângulo Mineiro e Alto Paranaíba/MG, 2010 Classe dos produtos Piretróides Piretróides + Organofosforados Organofosforados + Organofosforados Avermectinas Reguladores de crescimento de insetos Formamidina Fenilpirazol Dilubenzuron Homeopatia
+
+Mosca-dos-chi- Carrapato-dofres* FA (FR) boi* FA (FR) 2 (28,6%) 4 (57,1%) 1 (14,3%) -
+
+14 (21,9%) 18 (28,1%) 6 (9,4%) 6 (9,4%) 8 (12,5%) 4 (6,2%) 3 (4,7%) 3 (4,7%) 2 (3,1)
+
+FA (FR) = Frequência Absoluta (Frequência Relativa). * Era permitida mais de uma resposta por entrevistado.
+
+
+
+
+
+Luísa N. Domingues et al.
+
+Fig.2. Fonte de informação sobre os métodos de controle dos parasitos em propriedades pecuárias da mesorregião do Triângulo Mineiro e Alto Paranaíba/MG, 2010.
+
+DISCUSSÃO De modo geral, pode-se airmar que a maioria dos entrevistados no presente estudo, tanto produtores quanto funcionários, possuía conhecimento sobre aspectos epidemiológicos da mosca-dos-chifres e do carrapato-do-boi, porém realizava o controle sem critérios técnicos. Os relatos dos entrevistados sobre os períodos de maiores infestações por ambos os parasitos (Quadro 2) estão de acordo com estudos sobre a dinâmica populacional destas espécies em diferentes estados do país (Oliveira & Freitas 1997, Lima et al. 2000, Barros 2001), bem como o reconhecimento da predileção da mosca-dos-chifres e do carrapato-do-boi por animais taurinos (Lima et al. 2000, Veríssimo et al. 2002, Bianchin et al. 2006). Apesar dos produtores relatarem a presença e a importância de Haematobia irritans nos rebanhos, seu controle não consistia em prática rotineira, sendo decorrente das ações de combate ao carrapato. Aqueles entrevistados que realizavam um controle especíico da mosca-dos-chifres, o faziam em função do aumento das infestações no rebanho, totalizando mais de seis ao ano. As recomendações para o controle da mosca-dos-chifres nas regiões Sudeste e Centro-Oeste do Brasil incluem dois tratamentos estratégicos ao ano, em todo o rebanho, sendo um no início e outro no inal da estação chuvosa (Barros 1992, Leite et al. 2010). Portanto, as práticas realizadas nas propriedades estudadas na mesorregião do Triângulo Mineiro e Alto Paranaíba não estão de acordo com o preconizado para o controle da mosca-dos-chifres no País. Além disso, a elevada frequência dos tratamentos realizados aumenta a pressão de seleção e contribui para acelerar o desenvolvimento de resistência nas populações deste parasito (Georghiou & Taylor 1977). O controle do carrapato-do-boi mediante a observação de grande quantidade das formas adultas sobre os bovinos e a realização de mais de seis tratamentos durante o ano, conforme observado no presente estudo (Quadro 3), são práticas comuns em diversos estados brasileiros (Santos Júnior et al. 2000, Rocha et al. 2006, 2011b, Farias et al. 2008, Mendes et al. 2011).
+
+De acordo com diversos autores (Furlong et al. 2003, Pereira et al. 2008, Leite et al. 2010, Cunha 2011), o controle do carrapato-do-boi deve ser realizado considerando-se seus aspectos bioecológicos e de dinâmica populacional, de modo a concentrar as ações de combate em somente um período do ano e reduzir o número de tratamentos anuais, os gastos com mão-de-obra, a quantidade de produtos carrapaticidas, além de prevenir resíduos dos antiparasitários nos produtos de origem animal. Para Furlong et al. (2003) e Pereira et al. (2008), na região Sudeste do Brasil, o controle do carrapato-do-boi deve ser iniciado no período quente e chuvoso do ano (primavera), com intervalos de 21 dias ou de acordo com a duração do ciclo parasitário e o período residual do produto carrapaticida, devendo perdurar por, no mínimo, quatro meses. De modo distinto, Leite et al. (2010) e Cunha (2011) preconizam, para a mesma região, que os tratamentos sejam iniciados em abril e mantidos por 120 dias, com aplicações dos produtos em todo o rebanho sempre que se observar fêmea semi-ingurgitada de tamanho igual ou maior a 3 mm em pelo menos um animal do rebanho. Percebe-se, portanto, que a prática adotada para o controle de Rhipicephalus microplus nas propriedades visitadas neste estudo não está de acordo com as recomendações técnicas disponíveis e ainda contribui para o desenvolvimento de resistência nas populações do parasito. Como demonstrado por Jonsson et al. (2000) e Bianchi et al. (2003), a realização de mais de seis tratamentos durante o ano é um fator de risco para o desenvolvimento de resistência à piretróides no carrapato-do-boi. É interessante ressaltar que mesmo em propriedades que utilizavam diariamente produto homeopático ou regulador de crescimento de insetos, fazia-se uso do controle químico tradicional quando a infestação alcançava níveis considerados inaceitáveis pelo produtor. Esta situação evidencia que tais produtos, da forma como utilizados nessas propriedades, não mantinham as infestações em níveis baixos durante todo o ano. Situação semelhante foi encontrada por Bello (2010), no estado do Rio de Janeiro, na qual a manutenção do uso dos produtos homeopáticos pelos produtores foi atribuída ao acompanhamento mensal feito pelos representantes da empresa fornecedora e à praticidade de seu uso, que exigia apenas que o produto (em pó) fosse espalhado no cocho. Nas regiões Sudeste, Centro-Oeste e Nordeste do Brasil predomina o uso de aspersão com bombas costais, bem como a aplicação de um volume menor de inseticida/acaricida que o recomendado para o controle desses parasitos (Saueressig & Barros 2003, Rodrigues et al. 2004, Rocha et al. 2006, 2011b, Oliveira et al. 2006, Barros et al. 2007, Mendes et al. 2011). O mesmo método e problema de aplicação foram encontrados no presente estudo (Quadro 4) e, em última análise, contribuem para comprometer ainda mais a eicácia dos produtos utilizados. De acordo com Pereira et al. (2008), o uso de quatro a cinco litros de calda inseticida/carrapaticida por animal adulto (cerca de um litro por 100 kg de peso vivo), bem como a contenção dos animais, são práticas obrigatórias para obter-se uma adequada eicácia da aplicação por aspersão.
+
+
+
+
+
+No presente estudo, apenas 23,5% dos entrevistados (Quadro 4) airmaram tratar todos os animais do rebanho em um mesmo dia. Rocha et al. (2006, 2011b) encontraram situação divergente nas propriedades de Passos e Divinópolis, MG, quando aproximadamente 80% dos entrevistados tratavam todos os animais no mesmo dia. A falta de infraestrutura adequada para aplicação dos produtos em larga escala, comum nas propriedades visitadas, pode ter contribuído para a realidade encontrada no Triângulo Mineiro e Alto Paranaíba. De modo geral, os produtos inseticidas utilizados para o controle de H. irritans na região estudada (Quadro 5) coincidem com o observado em outros estados, onde predominam os piretróides e suas associações com os organofosforados (Saueressig & Barros 2003, Rodrigues et al. 2004, Oliveira et al. 2006, Barros et al. 2007). Segundo dados do Compêndio de Produtos Veterinários (2011), existem 95 produtos registrados para o controle da mosca-dos-chifres no Brasil, sendo 29 compostos por piretróides e 25 por associações entre piretróides e organofosforados. Portanto, a realidade encontrada nas propriedades relete o mercado nacional de produtos inseticidas e demonstra a diiculdade que o produtor tem de mudar de classe inseticida, uma vez que as opções são restritas. Em relação aos produtos empregados para o controle do carrapato-do-boi (Quadro 5), Mendes et al. (2011) também encontraram maior frequência de utilização de piretróides e associação de piretróides com organofosforados no estado de São Paulo. No Rio Grande do Sul, os piretróides eram mais utilizados entre 1997 e 2000, quando, então, foram gradativamente substituídos pelas formamidinas (2000 a 2006), devido ao desenvolvimento de resistência a piretróides nas populações de R. microplus em decorrência de seu uso com maior frequência e em menores concentrações, para o controle da mosca-dos-chifres (Farias et al. 2008). A principal justiicativa citada pelos entrevistados para a alternância de produtos foi a perda de eicácia, mesma realidade encontrada por Rodrigues et al. (2004) e Barros et al. (2007) em relação ao controle de H. irritans no Mato Grosso do Sul e por Rocha et al. (2006) em relação ao controle de R. microplus no estado de Minas Gerais. É interessante observar que nenhum entrevistado citou o uso inadequado como causa para a perda de eicácia dos produtos. Este fato demonstra a falta de percepção de produtores e trabalhadores rurais locais de que a grande frequência de tratamentos por ano, a falta de infraestrutura adequada e falhas relacionadas ao preparo e aplicação dos produtos sejam causas primárias de redução de eicácia e problemas de controle. Observou-se, na maioria das propriedades visitadas, uma grande preocupação com a produtividade animal, entretanto, o manejo sanitário do rebanho não recebia semelhante atenção. Diante da pequena participação dos médicos veterinários como fonte de informação sobre os produtos e métodos de controle disponíveis para combate dos ectoparasitos (Fig.2), ressalta-se a necessidade de uma maior participação destes proissionais, bem como de instituições de pesquisa, cooperativas e associações ligadas ao setor,
+
+1251
+
+na divulgação dos programas de controle existentes e na capacitação dos trabalhadores rurais, para que se alcance sucesso na implantação de programas sanitários, conforme também observado por Santos Júnior et al. (2000), Bello (2010) e Rocha et al. (2006, 2011a,b). A falta de uso de EPI pelos trabalhadores rurais, observada no presente estudo, demonstra a pouca preocupação com a saúde laboral destes trabalhadores, o que foi igualmente observado por Rocha et al. (2006, 2011b), em Minas Gerais, e Bello (2010), no Rio de Janeiro. Segundo Bello (2010), os trabalhadores justiicavam o não uso do EPI por calor, falta de hábito ou falta de praticidade na rotina de trabalho, queixas também apresentadas pelos entrevistados no presente estudo. Bello (2010) ressaltou a necessidade de um programa de educação continuada dos trabalhadores rurais, visando sua conscientização sobre a importância do uso de equipamentos de proteção, com esforços concretos para redução dos problemas de saúde nas áreas rurais. Devido ao alto custo e às diiculdades técnicas associadas ao desenvolvimento e registro de novas classes pesticidas, é fundamental a implantação de estratégias mais eicazes de controle de parasitos, que utilizem os antiparasitários de maneira criteriosa, retardando o desenvolvimento de resistência e prevenindo a presença de resíduos tóxicos no ambiente e em alimentos de origem animal. Agradecimentos.- À Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig) (Proc. APQ 0056908) e ao Conselho Nacional de Desenvolvimento Cientíico e Tecnológico (CNPq) (Proc. 140038/2008-6) pelo apoio inanceiro concedido para a realização deste estudo. À Ricardo Canesso Dalla Rosa (Departamento de Medicina Veterinária Preventiva, Escola de Veterinária, UFMG) pelo suporte técnico prestado durante o desenvolvimento deste estudo.
+

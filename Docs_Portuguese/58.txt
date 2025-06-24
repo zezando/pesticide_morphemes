@@ -1,0 +1,546 @@
+
+
+ARTIGO ORIGINAL
+
+OPEN ACCESS
+
+AVALIAÇÃO DE RISCO NA APLICAÇÃO DE AGROTÓXICOS COM PULVERIZADORES COSTAIS NA CULTURA DO CAFEEIRO CONILON
+
+
+
+Aclécia Gonçalves Batista1, Edney Leandro da Vitória2*, Bruno Passigatto Ortelan3, Deborah Hoffmam Crause4 & Élcio das Graça Lacerda5
+
+1 2 3 4Departamento de Engenharias e Tecnologia do Centro Universitário Norte do Espírito Santo da  Universidade Federal do Espírito Santo, Rodovia BR 101 Norte, Km. 60, Bairro Litorâneo, CEP 29932-540, São  Mateus. 5 Instituto Federal do Espírito Santo, Campus Santa Teresa.   1 aclecia.tecseg@live.com  2*edney.vitoria@ufes.br  3 bruno-passigatto@hotmail.com   4 deborahlife2014@hotmail.com  5 elciodgl@ifes.edu.br
+
+ARTIGO INFO.
+
+Recebido em: 01.07.2020
+
+Aprovado em: 18.07.2020
+
+Disponibilizado em: 17.09.2020
+
+Coffea  PALAVRAS-CHAVE: Químico; Proteção Individual.
+
+canéfora;
+
+Risco
+
+KEYWORDS:  Coffea  canephora;  Chemical  Hazard; Individual Protection.
+
+*Autor Correspondente: Vitória, E. L. da
+
+RESUMO
+
+a
+
+uma
+
+torna-se
+
+trabalho
+
+exposição
+
+quantificar
+
+dos  EPIs
+
+Em  um  cenário  de  busca  crescente  por  sistemas  de  produções  com  maior  segurança  de  todo  setor  agrícola,  o  cultivo  do  cafeeiro  Conilon  com  utilização  prática  indispensável  para  o  agricultor.  Objetivou-se  com  dos  este  equipamentos  de  proteção  individuais  (EPIs)  em  diferentes  pontos  de  amostragens  do corpo  humano,  com  utilização  dos  pulverizadores  costais  manual  e  motorizado  levando  em  consideração  os  diferentes  horários  de  aplicação  em  uma  lavoura  de  café  conilon  juntamente  com  avaliações qualitativas dos equipamentos e simulação  de risco de contaminação dos principais agrotóxicos  utilizados  na  cultura  do  café.  Comparando-se  os  resultados  obtidos  no  pulverizador  manual,  para  os  diferentes  braços,  nota-se  uma  exposição  maior  no  braço esquerdo, valor esse significativo e justificado  pela  maior  movimentação  do  membro  para  bombeamento do produto até o bico de pulverização,  ficando  exposto  a  possíveis  derivas,  enquanto  que  o  braço direito apenas movimenta-se para direcionar o  jato  do  equipamento.  O  pulverizador  costal  manual demonstrou  que  os  valores  de  exposição,  foram
+
+(Coffea  canephora),
+
+quanto
+
+superiores
+
+elevados, com maiores riscos de exposição, tanto dos  membros  inferiores.  No  equipamento  motorizado  uma  maior  exposição  ocorreu nos membros superiores, tendo em vista sua  maior  atividade  na  parte  superior  do  cafeeiro  Conilon.  Os  resultados  obtidos  apontaram  elevados  de  risco  na  prática  de  aplicação  de  agrotóxico  tanto para os trabalhadores como para os consumidores.
+
+
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+- 119 -
+
+1.
+
+INTRODUÇÃO
+
+O  Brasil  é  o  maior  produtor  e  exportador  mundial  de  café,  com  uma  produção  de  50,92  milhões  de  sacas  beneficiadas  em  2019  (Conab,  2019.  No  Estado  do  Espírito  Santo  a  cafeicultura é a principal atividade agrícola, estando presente em todos os municípios, exceto  em Vitória (Seag, 2009). O Estado está como segundo maior produtor de café do Brasil, com  cerca  de  25%  da  produção  nacional,  contribuindo  com  mais  de  três  milhões  de  reais  no  Produto  Interno  Bruto  (PIB)  e  empregando  400.000  mil  pessoas  (Cetaf,  2020).  Podendo  ser  considerado um centro de referência nacional e mundial em tecnologias de produção de café Conilon (Daher, et al., 2007).
+
+Dentro da produção cafeeira do Brasil, o Estado do Espírito Santo destaca-se  como o  maior  produtor  de  café  Conilon  (Coffea  canephora),  sendo  colhidos  em  2015,  aproximadamente  9,95  milhões  de  sacas  beneficiadas  (Conab,  2016).  Esse  patamar  de  produção,  bem  como  a  produtividade  das  lavouras,  pode  ser  atribuído  ao  desenvolvimento  e  à  adoção  de  novas  tecnologias que tornaram mais eficientes o processo produtivo, tais como variedades clonais  melhoradas, a poda, o adensamento, o uso eficiente da irrigação e os avanços em nutrição de plantas (Fassio, et al., 2007).
+
+Tendo em vista todos os aspectos abordados, nota-se a importância da cafeicultura,  tanto  no  âmbito internacional como nacional, principalmente na produção de café conilon no norte do  Estado  do  Espírito  Santo,  que  se  destaca  com  os  municípios  de  maior  produção  (Conab, 2016).
+
+A contaminação ocupacional pelos agrotóxicos é observada tanto no processo de formulação  (mistura e/ou diluição dos agrotóxicos para uso),  quanto no processo de utilização.  Embora  atinja uma parcela reduzida da população (os trabalhadores rurais e guardas de endemias, por  exemplo - que manipulam estes produtos em seu processo de trabalho), esta via é responsável  por mais de 80% dos casos de intoxicação por agrotóxicos, dada a intensidade e a frequência  com que o contato entre este grupo populacional e o produto é observado (Adissi, & Pinheiro, 2015).
+
+Diferentes  abordagens  vêm  sendo  adotadas  nas  avaliações  de  risco  por  contaminação  de  agrotóxicos.  Entre  as  abordagens  quantitativas,  destaca-se  a  dosimetria  passiva  empregada  tanto  em  aplicações  reais  com  agrotóxicos  (Hughes  et  al.,  2008)  como  em  aplicações  simuladas com pigmentos coloridos ou fluorescentes ou outros tipos de marcadores (Oliveira,  et al., 2003). Para isso, podem ser empregadas roupas absorventes especiais ou amostradores em situações de trabalho real ou simuladas, com corantes ou outros indicadores (Oecd, 1997).
+
+Segundo  Pinheiro,  et  al.,  (2004),  nas  simulações,  para  garantir  a  fidelidade  operacional  da  atividade, os aplicadores voluntários devem ser trabalhadores habituados ao trabalho, devendo  realizar  suas  tarefas  com  apenas  duas  diferenças  básicas:  a  ausência  de  agrotóxicos,  substituídos por um corante artificial, e, a utilização de uma vestimenta absorvente, composta por macacão com capuz e luvas.
+
+Uma  pesquisa  desenvolvida  com  base  na  abordagem  da  ergo-toxicologia  (Sznelwar,  et  al., 1992;  Mohammed-Brahim,  1996;  Garrigou,  et  al.,  1998;  Mohammed-Brahim,  et  al.,  2003),
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+- 120 -
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+caracterizou  a  contaminação  por  agrotóxicos  (carbamatos)  dos  viticultores  franceses.  Nesta  pesquisa  identificou-se  as  formas  de  contaminação  em  função  da  natureza  da  atividade  de  trabalho  e  de  seus  determinantes,  sejam  eles  de  ordem  técnica,  humana  ou  organizacional (Baldi et al., 2002, Balmachado, 2001).
+
+Objetivou-se  com  este  trabalho  quantificar  a  exposição  dos  equipamentos  de  proteção  individuais (EPIs) em diferentes pontos de amostragens do corpo humano, com utilização dos  pulverizadores  costais  levando  em  consideração  os  diferentes  horários  de  aplicação  em  uma  lavoura  de  café  Conilon  (Coffea  canephora),  juntamente  com  avaliações  qualitativas  dos  equipamentos  e  simulações  de  riscos  de  contaminação  dos  principais  agrotóxicos  utilizados nesta produção.
+
+2.
+
+METODOLOGIA
+
+A  pesquisa  foi  realizada  a  partir  de  uma  propriedade  de  cultivo  comercial  durante  o  ano  agrícola 2015/2016, localizada no córrego da Úrsula no município de São Mateus, Estado do  Espírito  Santo.  As  coordenadas  geográficas  são  18°  42'  15"  de  latitude  sul  e  40°  7'  30"  de  longitude oeste. O clima da região do experimento é Aw segundo a classificação de Koppen,  caracterizado  por  tropical  úmido  com  estação  seca  no  outono-inverno  e  estação  chuvosa  na primavera-verão.
+
+A  área  experimental  é  cultivada  com  café  Conilon,  com  genótipo  denominado  Bamburral  e  apresenta topografia plana. A lavoura foi implantada em maio de 2012 no espaçamento de 3,5 x 1,0 m (2.857 plantas ha-1).
+
+Adotou-se o delineamento  experimental de blocos casualizados em  esquema fatorial 2 x 11,  sendo  dois  pulverizadores  costais  (manual  e  motorizado)  e  11  partes  do  corpo  do  operador  (cabeça,  peito,  costas,  braço  esquerdo  e  direito,  mão  esquerda  e  direita,  coxa  esquerda  e  direita, pé esquerdo e direito), com cinco repetições, que consistiram em diferentes horários de aplicação.
+
+Nas aplicações, utilizou-se os pulverizadores, costal motorizado e costal manual, ambos bem  difundidos  na  atividade  cafeeira  no  norte  do  Espírito  Santo,  e  devidamente  calibrados  com  volume  de  calda  de  400L  ha-1.  As  marcas  dos  equipamentos  utilizados  foram  Yamaho  LS- 937e Kala 20L respectivamente. O pulverizador motorizado, possui um tanque de 25 litros de  capacidade, motor a gasolina de 2 tempos e vazão  máxima de 8 L min-1 e este equipamento  acompanha um esguicho de 0,80 m e um bico de duas saídas, que foi regulado para funcionar  com uma vazão de 4 L  min-1, vazão esta metade da total alcançada pelo Yamaho  LS-937, e  normalmente  utilizada,  na  aplicação  de  produtos  inseticidas,  biorreguladores  entre  outros.    O  pulverizador  costal  manual  utilizado,  possui  capacidade  no  reservatório  para  20  L,  este  regulado  para  o  experimento  com  uma  vazão  de  1,0  L  min-1,  vazão  normalmente  utilizada  para  as  diferentes  atividades  dos  cafeicultores,  principalmente para aplicação de herbicidas.
+
+fungicidas,
+
+foliares,
+
+As  aplicações  foram  realizadas  no  mês  de  abril  de  2016  no  período  da  manhã,  coletando  dados  referentes  a  umidade  e  temperatura,  utilizando  o  termo-higrômetro  digital,  modelo  T 512,  da  marca  Thermo,  e  posteriormente  velocidade  do  vento  e  direção  com  o  termo-
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+- 121 -
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+anemômetro  digital,  modelo  TAD-500,  da  marca  Instrutherm.  Informações  imprescindíveis para melhor entendimento dos resultados obtidos.
+
+A calda de pulverização foi preparada com adição  do corante alimentício azul brilhante (FD  & C nº 1) na dose de 2000 mg L-1   (Palladini, et al., 2005). A cada preparação de uma calda, foi retirada uma amostra para que fosse determinada a concentração real do corante.
+
+Foram confeccionadas etiquetas plásticas quadradas de 25 cm². Essas etiquetas foram fixadas  em 11 pontos diferentes do corpo humano. A fixação foi efetuada com fita adesiva de espuma  dupla  face  sobre  o  Equipamento  de  Proteção  Individual  (EPI),  servindo  de  suporte  para coletas após as realizações das pulverizações com corante alimentício.
+
+Foram  realizadas  aplicações  em  diferentes  horários  no  período  da  manhã,  06h30min,  07h30min, 08h30min, 09h30min e 10h30min. As condições climáticas durante as aplicações  variaram entre: temperatura 25,5 a 26,6 ºC, umidade relativa (UR) de aproximadamente 60% e ventos de 0,9 a 2,1 m s-1 no momento da aplicação.
+
+A  aplicação  com  pulverizador  costal  motorizado  foi  realizada  em  toda  a  planta  do  cafeeiro  simulando a aplicação de um fungicida e/ou acaricida, e no pulverizador costal manual apenas  nas entrelinhas da cultura para simular a aplicação de um herbicida sistêmico ou de contato,  mantendo-se a  lança de pulverização fixa em relação ao solo, prática normalmente realizada nas atividades de manejo fitossanitário em plantas de café.
+
+Após  as  aplicações  as  etiquetas  foram  coletadas  e  acondicionadas  em  sacos  plásticos  identificados, colocados em caixa de isopor, levadas ao Laboratório Agronômico de Análise  de  Solo,  Folha  e  Água  da  Universidade  Federal  do  Espírito  Santo,  Campus  São  Mateus.    A  cada  sacola  plástica  que  continha  as  etiqueta  adicionou-se  50  mL  de  água  destilada,  mantendo-a  por  agitação  por  cerca  de  30  segundos  para  remoção  do  corante.  A  solução  resultante  foi  usada  na  quantificação  do  resíduo  por  espectrofotometria  na  leitura  de absorbância no comprimento de onda de 630 ηm (Quirino, 2010).
+
+Baseando-se  em  indicadores  da  toxicidade  de  produtos  na  determinação  da  toxicologia  em  testes  laboratoriais  com  cobaias  mamíferas  (Nardocci,  2010).  Esses  parâmetros  foram  utilizados  para  a  realização  de  diferentes  simulações  de  deposição  obtidos  nos  diferentes pontos de amostragem.
+
+No  primeiro  parâmetro  utilizado,  infere-se  sobre  as  intoxicações  agudas,  em  que  busca  consignar qual dose é capaz de suscitar a morte de um ser humano, que estaria realizando suas  atividades  de  pulverizações  através  de  uma  única  exposição,  representando  como  dose  letal  dérmica,  seguida  do  número  50  (DL  50),  estimando  a  dose  necessária  para  matar  50%  das  cobaias. Na intoxicação  crônica como segundo indicador de risco, tem o nível de  efeito não  observável (NOEL), este infere a dose diária que o aplicador poderia absorver o produto sem risco a saúde pela via dérmica.
+
+No  intuito  de  estimar  o  risco  de  intoxicação  aguda  e  crônica,  foram  utilizadas  equações  demonstradas por Machado, (2003). No cálculo da quantidade absorvida da exposição (QAE), é  considerado  10%  da  exposição  dérmica  (ED)  e  100%  da  exposição  respiratória  (ER).  Em
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+- 122 -
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+que a ER pode ser considerada 1% da ED. Sendo assim, QAE pode ser estimado como 11% da ED e os riscos calculados através das seguintes equações:
+
+Em que: DT é a dose total, P é o peso corpóreo do trabalhador (costuma-se adotar 70kg como  peso médio de adultos masculinos), FS é um fator de segurança. Pode-se inferir que, a DT(%)  é  um  indicador  do  risco  de  intoxicação  aguda,  e  MS  a  margem  de  segurança,  de  risco  de intoxicação crônica.
+
+Compensando  as  diferenças  de  sensibilidade  humanas  com  cobaias,  é  necessário  incluir  um  fator de segurança (FS) das estimativas toxicológicas obtidas dos diferentes animais segundo  Pinheiro & Adissi (2004).  Existe uma fragilidade neste método segundo os autores, já que o  FS  (kg)  pode  variar,  não  levando  em  consideração  apenas  um  único.  Para  esse  estudo  foi utilizado o FS= 10.
+
+Com a classificação da segurança das condições de trabalho em função do valor MS, segundo Machado (1997), tem-se o seguinte:
+
+-  Se  MS  >  1  -  a  condição  de  trabalho  pode  ser  considerada  segura,  isto  é,  a  exposição  tolerável e o risco aceitável, pois a quantidade absorvível da exposição multiplicada pelo fator de segurança é menor que a exposição tolerável (NOEL x 70 kg),
+
+- Se MS < 1 - a condição de trabalho pode ser considerada insegura, a exposição intolerável
+
+e o risco inaceitável, pois a QAE x FS é maior que a exposição tolerável (NOEL x 70),
+
+No  caso  de  MS  <  1,  condição  insegura,  faz-se  necessário  o  cálculo  da  Necessidade  de  Controle  da  Exposição  (NCE)  e  Tempo  de  Trabalho  Seguro  (TTS)  suficientes  para  tornar  a  condição  de  trabalho  segura  (MS  >  1),  podendo  ser  calculada  pelas  equações  3  e  4 estabelecidas por Machado Neto (1997):
+
+NCE = (1 – MS) x 100 (%) (3)
+
+Esse índice é importante na definição das medidas de proteção mais adequadas ao risco.
+
+TTS = MS x TEE (4),
+
+Em que: TEE = tempo de exposição efetiva do trabalhador durante uma jornada.
+
+Foram  realizadas  avaliações  qualitativas  que  consistiu  da  inspeção  de  58  pulverizadores  manuais  costais  e  motorizados  utilizados  na  aplicação  de  defensivos  agrícolas  no  cafeeiro conilon.
+
+Após a identificação e descrição do equipamento, as avaliações foram realizadas do ponto de  vista  qualitativo  do  estado  geral  do  pulverizador,  seguindo  a  metodologia  proposta  por  Gandolfo & Antuniassi (2003), com algumas modificações. Os itens avaliados foram: marca e  tipo da ponta; existência de vazamentos; sistema de trava do gatilho; estado de mangueiras e  conexões;  ausência  de  extremidades  pontiagudas;  alça  impermeável  e  em  bom  estado  de  conservação; comprimento da mangueira da  lança;  presença e  estado dos filtros do tanque e  dados do bico; válvula reguladora de pressão; abraçadeiras adequadas e vazão da ponta.  Os
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+- 123 -
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+coletados  a  campo  foram  submetidos  à  análise  descritiva.  Todas  as  avaliações  compuseram  um  banco  de  dados,  gerando  relatórios  específicos  para  cada  equipamento.  Para  receber qualificação positiva os itens deveriam estar presentes e funcionando corretamente.
+
+Os vazamentos, quando ocorreram, foram identificados e localizados, independentemente da  quantidade e do  local encontrado. Essa  avaliação foi realizada  colocando o pulverizador em  operação  e  observando  a  ocorrência  dos  mesmos.  Tomou-se  o  cuidado  para  que  os  aplicadores não interferissem na condição original do pulverizador e, assim, não mascarassem o resultado real de funcionamento.
+
+Para avaliar o filtro, após  as avaliações do funcionamento,  este foi retirado procedendo-se a  observação considerando a presença de fissuras e obstruções devido ao acúmulo de resíduos  de produtos aplicados e à má qualidade da água ou outro tipo de dano, tanto na malha, quanto  na carcaça. Os bicos foram avaliados quanto à distribuição do  jato e da vazão. Para receber  uma notificação de não conformidade, a vazão da ponta teria que apresentar um desvio maior  ou  igual  a  10%  em  relação  à  vazão  nominal.  Para  essa  avaliação,  utilizou-se  uma  bomba elétrica acoplada a um reservatório de água limpa e um manômetro.
+
+Para fins de análises estatísticas dos dados obtidos, foram submetidos a análise de variância e havendo diferença significativa, aplicou-se o teste SNK, ao nível de 5% de probabilidade.
+
+3.  RESULTADOS E DISCUSSÃO
+
+Os valores de absorbância lidos pelo espectrofotômetro proporcionaram a sua transformação  em  mg  L-1  de  acordo  com  a  equação  da  curva-padrão  estabelecida  pelas  diluições  das  amostras  (1/50000,  1/20000,  1/10000,  1/5000,  1/2000,  1/1000)  da  calda  de  pulverização coletada no campo.
+
+A  quantificação  do  corante  marcador  das  amostras  diluídas,  na  determinação  de  depósito,  estabeleceu-se  a  equação  Y=  6,4833x  +  0,0074  (R2  =  0,9986),  em  que  “x”  é  a  leitura  da absorvância e “Y” é a concentração em em mg L-1 (Tabela 1).
+
+Tabela 1. Deposição real, segundo as partes do corpo dos trabalhadores.
+
+Partes do corpo
+
+Pulverizador Costal Manual
+
+Pulverizador Costal Motorizado
+
+Cabeça
+
+Peito
+
+Mão Esquerda
+
+Mão Direita
+
+Braço Esquerdo
+
+Braço Direito
+
+Costa
+
+Coxa Esquerda
+
+Coxa Direita
+
+Pé Esquerdo
+
+Pé Direito
+
+6,66  aC
+
+18,07 aC
+
+278,51 aA
+
+96,87 aBC
+
+161,78 aAB
+
+17,04 bC
+
+107,58 aAB
+
+117,61 aAB
+
+265,02 aAB
+
+165,59 aA
+
+166,89 aA
+
+72,23 aA
+
+94,27 aA
+
+47,01 bA
+
+4,33 aA
+
+145,33 aA
+
+140,95 aA
+
+132,88 aA
+
+4,59 aA
+
+47,27 bA
+
+4,33 bC
+
+25,59 bC
+
+Médias seguidas da mesma letra maiúscula nas colunas e médias seguidas da mesma letra minúscula nas linhas, não diferem significativamente entre si a 5% de probabilidade pelo teste de SNK.
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+- 124 -
+
+Exceto para as deposições na cabeça e no peito, o pulverizador costal apresentou significativa  deposição em todas as partes analisadas, como apresentado na Tabela 1. Este fato justifica-se  pela  proximidade  de  pulverização  da  barra,  com  os  membros  analisados,  no  caso  do  pulverizador  motorizado  a  maior  deposição  no  peito  e  cabeça,  justifica-se  pelo  movimento vertical da lança de pulverização que o operador realiza para cobrir toda a planta.
+
+Diferenças  significativas  são  observadas  na  comparação  do  braço  direito  com  os  dois  pulverizadores,  nota-se  que  no  pulverizador  manual  a  exposição  é  12%  menor  quando  comparado com o motorizado. Essa diferença pode ser justificada pela barra de pulverização  do equipamento manual ser menor, e suas atividades normalmente exigem menor movimento  a  proximidade  juntamente  com  derivas  decorrente  de  eventos  naturais  como  velocidade  e direção do vento ocasione maior exposição.
+
+A  influência  que  pode  ocasionar  o  tamanho  da  barra  de  pulverização  juntamente  com  movimentos e intempéries naturais, também foi constatada na análise comparativa entre coxa  direita, no pulverizador  motorizado para o  manual,  esses fatores podem ter contribuído para  uma  diferença  significativa  de  82,16%  menor  na  coxa  direita,  no  pulverizador  mecanizado  para  o  manual.  Em  decorrência  desse  acumulo  na  coxa  direita  com  equipamento  manual,  podemos inferir um possível escorrimento, do ponto citado para o pé direito, elevando o valor  de  exposição.  Já  no  pé  esquerdo  do  pulverizador  motorizado  não  tendo  esse  escorrimento, acarreta em uma diferença de 97,38% menor, valor esse significativo.
+
+Podemos  analisar  na  Tabela  2  os  principais  agrotóxicos  utilizados  na  cultura  do  café,  com  suas respectivas funções, variando de inseticidas, fungicidas e herbicidas, em sua maioria com  grupos químicos diferenciando-se entre organofosforados e neonicotinóide para inseticidas, e bipiridílio até glicina substituída para os herbicidas.
+
+Tabela 2. Agrotóxicos utilizados no cafeeiro conilon, sua função, substância ativa e grupo químico.
+
+Nome Comercial
+
+Função
+
+Substância Ativa
+
+Grupo Químico
+
+Lorsban 480 BR
+
+Inseticida/Acaricida
+
+Clorpirifós
+
+Organofosforados
+
+Verdadero 600 WG  Fungicida/Inseticida
+
+Tiametoxam Cyproconazole
+
+Neonicotinóide + Triazol
+
+Glifosato 720 WG
+
+Herbicida
+
+Glifosato
+
+Glicina Substituída
+
+Baseado  no  conteúdo  supracitado  ilustrado  na  Tabela  3  outras  informações  referentes  aos  produtos já listados na Tabela 2. Nas novas informações são quantificados, as diferentes doses dos produtos, concentração, classe toxicológica, DL50 e o NOEL (Tabela 3).
+
+Tabela 3.  Informações toxicológicas dos agrotóxicos utilizados na cultura do cafeeiro.
+
+Agrotóxico
+
+Concentração
+
+Dose
+
+Lorsban 480 BR
+
+Actara 250 WG
+
+Verdadero 600 WG
+
+Glifosato 720 WG
+
+Gramoxone 200
+
+480 g/l
+
+1,5 L/ha
+
+250 g/kg
+
+1400 a 2000 g/ha
+
+600g/kg
+
+720g/kg
+
+200g/l
+
+700 a 1000 g/ha
+
+20 a 40 g/ha
+
+1,5 a 2 L/ha
+
+Classe  Toxicológica l
+
+DL50 (mg Kg)
+
+3,254 a 4,131
+
+NOEL (mg  Kg) 300,0
+
+lll
+
+lll
+
+l
+
+l
+
+5000
+
+2000
+
+5000
+
+520
+
+0,5
+
+0,5
+
+31,0
+
+5,0
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+- 125 -
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+Com base no que foi relatado pelos produtores, foi considerado o tempo de exposição efetiva  do trabalhador durante uma jornada (TEE) como sendo de 5,0 horas para todas as simulações realizadas.
+
+Na  simulação  realizada  considerando  o  pulverizador  costal  manual,  a  exposição  dérmica  potencial  foi  de  38,81 g dia-1 que resultou em condições inseguras (Margem de Segurança -  MS < 1) para aplicações de todos  os agrotóxicos normalmente utilizados na cultura do café.  As piores situações ocorrem na aplicação do Actara, Verdadeiro, Glifosato e Gramoxone, com   uma  NCE  acima de   90%  e  TTS,  sem equipamentos  de  proteção  individual  (EPIs),  de   no  máximo  30  minutos  no  caso  do  Gramaxone  e  sem  tolerância  de  tempo  para  os  demais.   Ademais o risco de contaminação é elevado nos agrotóxicos citados acima, destacando-se o Gramaxone (Tabela 4).
+
+Tabela 4. simulação para o pulverizador costal manual
+
+Agrotóxico
+
+Lorsban 480 BR  Actara 250 WG  Verdadero 600 WG  Glifosato 720 WG Gramoxone 200
+
+EDS  (mg/dia)  106,5  200,1  251,2  321,3 198,8
+
+Risco  (%DT/dia)  0,38  7,61  19,1  7,78 73,1
+
+MS
+
+0,79  0,010  0,010  0,080 0,013
+
+NCE (%)
+
+TTS (h)
+
+21,2  99,8  99,8  98,4 91,7
+
+2,0  0  0  0 0,5
+
+Na simulação realizada considerando o pulverizador costal motorizado, a exposição dérmica   potencial  foi  19,98 g dia-1 que resultou em condições inseguras (Margem de Segurança - MS  <  1)  para  aplicações  dos  agrotóxicos  Actara  e  Verdadeiro.  O  NCE  elevado,  acima  de  70%,  também foram observados  na aplicação do Actara, Verdadeiro, e   TTS,  sem equipamentos   de  proteção  individual  (EPI),  de  no  máximo 30 minutos no caso do de  aplicação de dos  agrotóxicos Actara, Verdadeiro e Glifosato.  De modo geral o risco de contaminação diária é  baixo ao ser aplicar com o pulverizador costal motorizado (Tabela 5), desde que observados todas as normas de segurança de manuseio e aplicação destes agrotóxicos.
+
+Tabela 5.  Simulação para o pulverizador costal motorizado
+
+Agrotóxico
+
+Lorsban 480 BR  Actara 250 WG  Verdadero 600 WG  Glifosato 720 WG Gramoxone 200
+
+EDS  (mg/dia)  99,8  189,8  230,2  310,0 155,5
+
+Risco  (%DT/dia)  0,55  0,43  0,85  0,50 3,27
+
+MS
+
+17,64  0,03  0,03  1,82 1,30
+
+NCE (%)
+
+TTS (h)
+
+0  80,1  70  51 38,1
+
+12  0,5  0,5  0,5 1,3
+
+Em  experimentos  envolvendo  pulverizações,  sejam  elas  com  equipamentos  costais  manuais  ou  motorizados,  todos  os  fatores  devem  ser  observados,  inclusive  a  forma  como  cada  equipamento é manuseado, normalmente nos pulverizadores motorizados, com aplicações no  cafeeiro, observamos o aplicador com a barra de pulverização direcionada para planta com o  lado  direito  do  corpo,  já  o  esquerdo  para  o  lado  contrário  da  pulverização,  observando  a  aplicação  em  plantas  daninhas  nas  entre  linhas  com  equipamento  manual,  o  operador  movimenta-se  para  vários  lados  e  juntamente  ambos  os  braços.  Nesse  experimento  essa  observação é de grande relevância, quando se observa a diferença significativa de exposição  no braço esquerdo entre os pulverizadores. O braço esquerdo do aparelho  costal motorizado teve uma exposição 16,87% menor em relação ao costal manual.
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+- 126 -
+
+Experimentos  de  pulverizações  envolvendo  a  cultura  do  mamão,  Adissi  &  Pinheiro  (2015)  relatam que a exposição, em sua maior parte, se deu pelo formato da planta e tipo de folha que  não  permite  uma  fácil  aderência  do  produto,  provocando  o  gotejamento  do  produto  sobre  o  aplicador.  Isso  ocorre  principalmente  com  o  pulverizador  costal  manual,  pois  o  aplicador  necessita  trabalhar  muito próximo da planta. Neste  trabalho o aplicador também  se manteve  próximo do cafeeiro, fato este, das plantas estarem curvando-se sentido as entrelinhas, onde o aplicador caminhava.
+
+Comparando-se os resultados obtidos no pulverizador manual, para os diferentes braços, nota- se uma  exposição maior no braço esquerdo, valor  esse significativo  e  justificado pela maior  movimentação do membro para bombeamento do produto até o bico de pulverização, ficando  exposto  a  possíveis  derivas,  enquanto  que  o  braço  direito  apenas  movimenta-se  para direcionar o jato do equipamento.
+
+Em  trabalhos  realizados  por  Adissi  &  Pinheiro  (2015),  envolvendo  a  cultura  da  acerola,  é  relatado  que  nas  condições  de  cultivo  da  pesquisa,  o  espaçamento  no  pomar  avaliado,  teve  influência  na  aplicação,  o  trabalhador  é  forçado  a  ter  contato  do  corpo  com  áreas  contaminadas  da  planta  vizinha.  Esse  efeito  também  foi  observado  nesse  trabalho,  com  o  envergamento  das  hastes  de  algumas  plantas,  o  lado  esquerdo  do  aplicador  manteve-se  em contato com as mesmas.
+
+Dividindo-se as partes do corpo, em membros superiores e inferiores, onde os superiores são:  cabeça,  peito,  mãos,  braços  e  costas,  e  os  membros  inferiores:  coxas  e  pés,  é  notável  a  diferença  existente  entre  os  pulverizadores  costais,  manual  e  motorizado,  enquanto  que  no  manual a maior exposição é encontrada nos membros inferiores, no motorizado esses valores  mais  elevados  são  observado  nos  membros  superiores.  A  diferença  em  questão,  pode  ser correlacionada com o manuseio e utilização de cada equipamento.
+
+Na cafeicultura os pulverizadores costais motorizados são mais difundidos para pulverizações  na  planta  propriamente  dito,  direcionando  o  jato  da  parte  inferior  das  folhas  até  a  copa,  enquanto  que  nos  costais  manuais  é  direcionado  para  atividades  próximas  ao  solo,  como  exemplo  já  mencionado  nesse  trabalho,  controle  de  plantas  daninhas  principalmente.  Sendo  assim  pode-se  inferir  que  os  resultados  estão  relacionado  com  a  forma  de  utilização  dos pulverizadores.
+
+Foi observado nas análises qualitativas que um número elevado de pulverizadores se encontra  em  condições  de  funcionando  inadequado  e  que  a  maioria  dos  operadores,  desconhecem  o  correto  modo  de  reparo  dos  equipamentos.  A  maioria  dos  operadores  mostraram-se  despreparados  para  realizar  a  aplicação  de  defensivos  agrícolas.  Para  Reis  et  al.  (2005),  há  necessidade  de  treinamento  específico  dos  operadores  e  intensificação  da  cobrança  de  responsabilidade  dos  mesmos  com  os  pulverizadores.  Do  total  de  equipamentos  avaliados,  observou-se  que  42%  havia  presença  de  extremidades  pontiagudas,  25%  alças  danificadas  e  40% ausência de abraçadeiras adequadas para o apoio da lança. Em más condições, estes itens  podem trazer riscos de acidentes e contaminação dos aplicadores por se tratarem de peças  de sustentação  do  pulverizador.  Alvarenga  &  Cunha  (2010)  citam  que  um  dos  objetivos  da
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+- 127 -
+
+inspeção de pulverizadores é a preocupação com a saúde e o bem-estar do trabalhador. Nesse  sentido, um país que tenha um programa que demonstre cuidado e monitoramento das etapas  de  produção  pode  ganhar  mercado  e,  consequentemente,  gerar  mais  emprego  e desenvolvimento.
+
+Para  pontas  de  pulverização,  válvula  reguladora  de  pressão  e  o  filtro  de  bico,  os  níveis  de  irregularidades  foram  14,3;  16,0  e  9,9%  respectivamente.  Silva,  et  al.,  (2006)  avaliando  qualitativamente  o  estado  de  conservação  e  o  uso  de  pulverizadores  agrícolas  na  região  de  Cascavel-PR, constataram que 34% das pontas estavam desgastadas. Gandolfo, et al., (2007)  observaram  que  apenas  10%  das  pontas  avaliadas  encontravam-se  em  estado  adequado  de  uso,  sendo  que  as  demais  apresentavam  obstruídas  ou  desgastadas.  Balestrini  (2006), encontrou 59% dos filtros funcionando inadequadamente.
+
+Ramos  &  Cortés  (2006)  verificaram  que  apenas  50%  dos  equipamentos  avaliados  apresentavam filtros limpos e em condições funcionais. Estes componentes são fundamentais  na  aplicação  do  herbicida,  pois  eles  estão  diretamente  ligados  à  qualidade  da  aplicação.  A  escolha  e a manutenção correta destes  itens  é fundamental para o sucesso da operação, pois  participam diretamente no volume de calda utilizado, na cobertura do alvo e na uniformidade  de  aplicação  da  calda.  Para  uma  maior  vida  útil  das  válvulas  reguladoras  de  pressão,  recomenda-se  a  limpeza  constante  dos  filtros  de  bico  e,  para  facilitar  essa  limpeza,  a  utilização do sistema de engate rápido nos corpos dos bicos é fundamental para agilizar esse  processo. Todos os pulverizadores devem ser avaliados regularmente visando identificar todos  os componentes que não estejam atendendo aos parâmetros de operação. Com a adoção dessa  medida,  espera-se  uma  maior  vida  útil  dos  equipamentos,  além  de  garantir  uma  maior  capacidade operacional, reduzindo o tempo parado para reparos e uma maior uniformidade de aplicação.
+
+As  simulações  com  os  principais  agrotóxicos  utilizados  na  cultura  do  café  revelam  preocupação com o risco de exposição e contaminação, evidenciados pelos elevados valores de risco relativo e tempo de exposição.
+
+Embora  o  maior  consumo  de  agrotóxicos  ocorra  nos  países  desenvolvidos,  grande  parte  de  envenenamentos  e  mortes  causados  por  agrotóxicos  ocorre  nos  países  em  desenvolvimento,  sendo  preocupantes  os  quadros  de  contaminação  humana  e  ambiental  observados  no  Brasil.  Acredita-se que essa realidade possa estar associada à utilização desses produtos em excesso,  à  ocorrência  de  inadequados  padrões  ocupacionais  e  de  segurança,  ao  desconhecimento  dos  riscos associados a sua utilização e consequente ineficiente uso de equipamentos de proteção  individual, a elevados níveis de analfabetismo, à regulamentação e rotulagem insuficientes, a  inadequadas  ou  inexistentes  infraestruturas  para  lavagem  dos  utensílios,  ao  manuseio  inadequado dos resíduos e das embalagens, ao aproveitamento dos recipientes para armazenar  alimentos e água, bem como à grande pressão comercial por parte das empresas distribuidoras  e  produtoras.  Podem-se  acrescentar  também  a  existência  de  uma  fiscalização  precária  do  cumprimento  das  leis,  uma  deficiente  assistência  técnica  ao  homem  do  campo  e  a  baixa atenção à saúde (Bócoli, et al., 2012; Ramos, et al., 2010).
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+- 128 -
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+Levigard  &  Rozemberg  (2004)  em  trabalho  realizado  em  Nova  Friburgo  (RJ),  a  partir  de  entrevistas com profissionais da área da saúde, onde foram analisadas as formas de tratamento  prestado às queixas de “nervos” dos agricultores. Os autores ressaltam o fato dos profissionais  na  área  da  saúde  estarem  preocupados  com  os  hábitos  da  população  no  consumo  indiscriminado de calmantes, caracterizando a automedicação. O uso de remédios sem prévia  consulta  com  especialista,  juntamente  com  o  uso  dos  agrotóxicos  utilizados  nas  lavouras, acaba por agravar o processo de intoxicação dos indivíduos.
+
+Investigações no estado do Rio Grande do Sul também apontam os malefícios da utilização de  agrotóxicos  para  o  meio  ambiente  e  população  humana.  Faria,  et  al.,  (2004)  em  estudo  realizado  com  trabalhadores  rurais  cultivadores  da  fruticultura  dos  municípios  de  Antônio  Prado e Ipê, constataram que das famílias entrevistadas, 95% informaram utilizar algum  tipo  de agrotóxico, 73% faziam uso regular de agrotóxicos na agricultura, e que, em média, 75% dos trabalhadores rurais relataram trabalhar regularmente com os agrotóxicos.
+
+Os  autores  acima  constaram  que  a  prevalência  de  exposição  agroquímica  foi  maior  entre  os   homens,  estes  em  86%  dos  casos,  enquanto  em  68%  de  casos  com  mulheres.  Entre  os  agricultores, 35% disseram nunca terem usado luvas, máscaras ou roupas de proteção. Em um  grupo considerado pelos autores sem escolaridade esse índice foi maior. Também se percebeu  que,  as  intoxicações  ocorreram,    na  maioria  das  vezes,  entre  outubro  e  janeiro,  pois  neste  período  devido  às  temperaturas  elevadas,  o    organismo  absorve  mais  as  toxinas  liberadas  pelos agrotóxicos e também pelo fato das aplicações serem  mais intensas nessa época do ano.  A  gravidade  destas  intoxicações  foi  considerada  leve-moderada  em  80%  dos  casos  e  como grave em 20% das ocorrências (Faria, et al., 2004).
+
+4.  CONCLUSÃO
+
+Independente  da  utilização  do  pulverizador  costal  manual  ou  motorizado,  o  equipamento  de  proteção individual (EPI) é indispensável, notando-se o grande risco de contaminação que os produtos oferecem.
+
+O pulverizador costal manual demonstrou que os valores de exposição, foram elevados, com maiores riscos de exposição, tanto dos membros superiores quanto inferiores.
+
+No  equipamento  motorizado  uma  maior  exposição  ocorreu  nos  membros  superiores,  tendo em vista sua maior atividade na parte superior do cafeeiro Conilon.
+
+As simulações de exposição revelaram que todos  os  produtos  usados  nessa  cultura,  por  se  apresentarem  em  altas  concentrações  nas  formulações  usadas,  necessitaram  de  controle   da exposição. Assim, há necessidade da implantação de um programa de avaliação frequente  dos  pulverizadores  costais  utilizados  na  aplicação  de  defensivos  agrícolas  em  cafeeiro conilon.
+
+5.  REFERÊNCIAS
+
+Adissi,  P.J.,  &  Pinheiro,  F.A.  (2015),  “Análise  do  Risco  na  Aplicação  Manual  de  Agrotóxicos: O Caso da Fruticultura do Litoral Sul Paraibano”,  Revista Eletrônica Sistemas & Gestão, 10(1), 172-179.
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+- 129 -
+
+1-9.
+
+Disponível
+
+Agrogeoambiental,
+
+Alvarenga,  C.  B.,  &  Cunha,  J.  P.  A.  R.  (2010).  Aspectos  qualitativos  da  avaliação  de  pulverizadores  hidráulicos  de  barra  na  região  de  Uberlândia,  Minas  Gerais.  Engenharia  Agrícola, 30(3), 555- 562.  Baldi, I. et al., (2002). Assessment of pesticide exposure in vineyard workers. In: Conference  of  the  international  society  of  exposure  analysis/conference  of  the  international  society  of  environmental  epidemiology,  12/14,  Vancouver,  BC,  Canada.  Epidemiology.  Vancouver,  2002. Abstract  Balestrini,  L.  (2006).  Mobile  inspection  and  diagnosis  service  of  sprayers  in  resistance  prevention. results obtained out of inspections performed by a group of producers during the  2004-2005 Season. Resistant Pest Management Newsletter, 16(1), 5-7.  Balmachado  Neto,  J.  G.  (2001).  Segurança  no  trabalho  com  agrotóxicos  em  cultura  de  eucalipto. Funep. Jaboticabal, SP.  Bócoli, M. A., Miranda, G. R. B., Carvalho, A. R., & Alves, A. D. (2012). Quantificação de  depósitos  do  pulverizador  tipo  canhão  em  lavoura  cafeeira  com  espaçamento  convencional.  Revista  em:  4(2),  <http://agrogeoambiental.ifsuldeminas.edu.br/index.php/Agrogeoambiental/article/viewFile/4 45/428>. Acesso em: 15 jun. 2016.  Cetcaf - Centro de Desenvolvimento Tecnológico do Café (2020) Posição do Espírito Santo.  Disponível em: <http://www.cetcaf.com.br/Links/cafeicultura%20capixaba.htm>. Acesso em:  17 set. 2020.   Conab  -  Companhia  Nacional  de  Abastecimento.  Acompanhamento  da  safra  brasileira  de  Café.  Brasília:  CONAB,  em:  n.  <http://www.conab.gov.br/OlalaCMS/uploads/arquivos/16_01_20_17_01_56_boletim_cafe_- _janeiro_2016.pdf>. Acesso em: 17 set. 2020.   Daher,  F.  A.,  &  Tristão,  S.  G.  (2007).  Mercado  e  comercialização  do  café  Conilon.  In:  Ferrão, R. G., Fonseca, A. F. A., Bragança, S. M., Ferrão, M. A. G., & De Muner, L. H. (Ed.).  Café Conilon, Vitória: Incaper. 541-545.  Espanhol-Soares,  M.,  Nocitil,  L.  A.  S.,  &  Machado  Neto,  J.  G.  (2013),  “Procedures  to  Evaluate the Efficiency of Protective Clothing Worn by Operators Applying Pesticide”. Ann.  Occup. Hyg, 57(8), 1041–1053.   Faria,  N.  M.  X.,  Fachini,  L.  A.,  Fassa,  A.  G.,  &  Tomasi,  E.  (2004).  Trabalho  rural  e  intoxicações por agrotóxicos. Caderno de Saúde Pública, 20(5), 1298-1308.  Fassio, L. H.,& Silva, A. E. S. (2007). Importância econômica e social do café Conilon. In:  Ferrão, R. G., Fonseca, A. F. A.; Bragança, S. M., Ferrão, M. A. G., & Muner, L. H. de (Ed.).  Café Conilon. Vitória: Incaper. 37-49.   Gandolfo, M. A., et al., (2007). Avaliação da qualidade da aplicação com diferentes pontas  de  pulverização  e  diferentes  volumes  de  aplicação  na  soja.  In:  I  Simpósio  Em  Engenharia  Rural, 2007, Bandeirantes/PR. Anais... Bandeirantes: UENP. 01. p. 43-47  Gandolfo,  M.  A.,  &  Antuniassi,  U.  (2003).  Inspeção  periódica  de  pulverizadores  agrícolas.  Energia na Agricultura, 18(2), 67-76.   Garrigou,  A.,  Mohammed-Brahim,  B.,  &  Daniellou,  F.  (1998).  Etude  ergonomique  sur  les  chantiers de déflocage d’amiante. Rapport final. OPPBTP/DRT. CT3. Bordeaux.  Hughes,  E.  A.,  Flores,  A.  P.,  Ramos,  L.  A.,  Zalts,  A.,  Glass,  C.  R.  E  Montserrata,  J.  M.  (2008), “Potential dermal exposure to deltamethrin and risk assessment  for manual sprayers: Influence of crop type”. Science of the Total Enviroment, 391, 34–40.
+
+58p.  Disponível
+
+2019.
+
+2,
+
+v.
+
+3,
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+
+Citação (APA): Batista, A. G., Vitória, E. L. da., Ortelan, B. P., Crause, D. H., & Lacerda, É. das G. (2020). Avaliação de risco na aplicação  de agrotóxicos com pulverizadores costais na cultura do cafeeiro conilon. Brazilian Journal of Production Engineering, 6(4), Edição Especial “Tecnologia & Inovação na Agricultura”, 118-130.
+
+- 130 -
+
+Levigard,  I.  E.,  &  Rozemberg,  B.  (2004).  A  interpretação  dos  profissionais  de  saúde  acerca  das  queixas  de  “nervos”  no  meio  rural:  uma  aproximação  ao  problema  das  intoxicações  por  agrotóxicos. Caderno de Saúde Pública, 20(6), 515-1524.  Machado  Neto,  J.  G.  (1997).  Estimativas  do  tempo  de  trabalho  seguro  e  da  necessidade  de  controle  da  exposição  ocupacional  dos  aplicadores  de  agrotóxicos,  tese  de  Livre  Docência  em Ecotoxicologia dos Agrotóxicos e Saúde Ocupacional, Unesp, Jaboticabal, SP.  Mohammed-Brahim  B.  (1996).  Du  point  de  vue  du  travail  ou  comment  sulfater  la  vigne  autrement.  Approche  ergo-toxicologique  des  traitements  phytosanitaires  em  viticulture.  Mémoire de DESS d’ergonomie. France: Université Bordeaux 2.  Mohammed-Brahim, B., Garrigou, A., &  Pasquereau, P. (2003). Quelles formes d’analyse de  l’activité de travail en ergotoxicologie? In: Congres De La Self, 38., Paris, 24-26.  Nardocci, A. C. (2003). Avaliação probabilística do risco da exposição aos hidrocarbonetos  policíclicos  aromáticos  (HPAs)  para  a  população  da  cidade  de  São  Paulo,  Tese  (Livre  docência) em saúde pública da USP – São Paulo.  Oecd.  (1997),  Guidance  document  for  the  conduct  of  studies  of  occupational  exposure  to  pesticides  during  agricultural  application.  Series  on  testing  and  assessment,  No.  9.  OECD/GD (97) 148, Paris, France.  Oliveira,  M.  L.,  &  Machado  Neto,  J.  G.  (2003).  Use  of  manganese  as  tracer  in  the  determination of respiratory exposure and relative importance of exposure routes in the safety  of  pesticide  applicators  in  citrus  orchards.  Bulletin  of  Environmental  Contamination  Toxicology, New York, (70), 415-421.  Palladini, L. A., Raetano, C. G. & Velini, E. D. (2005). Choice of tracers for the evaluation of  <  spray  http://www.scielo.br/pdf/sa/v62n5/25982.pdf>.Acesso em: 26 jun 2016.  Pinheiro,  F.  A.,  &  Adissi,  P.  J.  (2004).  Exposição  aos  agrotóxicos  dos  trabalhadores  da  cultura da uva no vale do Submédio São Francisco. In: Simpósio Internacional de Tecnologia  de Aplicação de Agrotóxicos, Botucatu, SP. CD-ROM.  Quirino,  A.  L.  S.  (2010).  Parâmetros  técnicos  para  aplicação  do  Glyphosate  visando  o  aumento da eficácia segurança ambiental e do aplicador. 2010. 75 p. Dissertação (Mestrado  em Engenharia Agrícola) – Universidade Federal de Viçosa, Viçosa, MG.  Ramos, L. M., et al., (2010), “Potential dermal exposure in greenhouses for manual sprayers:  analysis of the mix/ load, application and re-entry stages”. Science of the Total Environment.  408(19), 4062-4068.  Ramos, F. J. G., & Córtes, M. V. (2006). Inspección técnica de equipos para la aplicación de  fitosanitarios. Vida Rural, 227, 38-42.  Reis,  G.  N.,  et  al.,  (2005).  Manutenção  de  tratores  agrícolas  e  condição  técnica  dos  operadores. Engenharia Agrícola, 25(1), 282-290.  Seag  -  Secretaria  da  Agricultura,  Abastecimento,  Aquicultura  e  Pesca.  (2009).  SEAG  2007- 2009. Vitória: Governo do Estado do Espírito Santo. 151p.  Silveira,  J.  C.  M.,  et  al.,  (2006).  Avaliação  qualitativa  de  pulverizadores  da  região  de  Cascavel, Estado do Paraná. Acta Scientiarum. Agronomy. 28(4), 569-573.  Sznelwar  L.  (1992).  Analyse  ergonomique  de  l’exposition  de  travailleurs  agricoles  aux  pesticides.  Essai  ergotoxicologique.  Thèse  (Doctorat  en  Ergonomie)  –  Laboratoire d’Ergonomie, Conservatoire National des Arts & Métiers, Paris.
+
+440-445. Disponível
+
+deposits. Scientia
+
+Agrícola,
+
+62(5),
+
+em:
+
+Esta obra está licenciada com uma Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. Brazilian Journal of Production Engineering, São Mateus, Editora UFES/CEUNES/DETEC.
+

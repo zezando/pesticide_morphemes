@@ -1,0 +1,126 @@
+ANÁLISE DE PRAGUICIDAS ORGANOFOSFORADOS EM ÁGUA POR EXTRAÇÃO EM FASE SÓLIDA (SPE) UTILIZANDO DISCOS C18 E CROMATOGRAFIA EM FASE GASOSA: AVALIAÇÃO DA CONTAMINAÇÃO DO RESERVATÓRIO DE FURNAS (MG-BRASIL)
+
+INTRODUÇÃO O uso de praguicidas na agricultura é uma das principais causas da contaminação de águas superficiais e subterrâneas. Estas contaminações ocorrem principalmente pela ação das águas da chuva e de irrigação que provocam lixiviação, drenagem e escoamento dos praguicidas presentes nas plantações e no solo, que irão atingir correntes de água ou reservatórios. As contaminações destas águas podem resultar em efeitos tóxicos para a fauna e flora aquáticas e também para a saúde humana, devido à utilização para consumo e práticas de lazer. Conseqüentemente, programas de controle e monitoramento de níveis de contaminação em água são desenvolvidos em países como os Estados Unidos e membros da Comunidade Européia. Contudo, em diversos países, inclusive no Brasil, que é um dos maiores consumidores de pesticidas do mundo, estes programas não são implementados, poucos estudos deste tipo são realizados e a legislação sobre o assunto não é atualizada e clara1-3. Os praguicidas organofosforados (OF) constituem uma classe importante de inseticidas, acaricidas, nematicidas e fungicidas, sendo atualmente os mais utilizados na agricultura. Embora estes compostos sejam degradados em água, existe a possibilidade de restarem resíduos e subprodutos em níveis relativamente nocivos ao consumo humano, além da possibilidade de contaminação aguda, pontual, com altas concentrações4-6. Atualmente, existem diversas técnicas que podem ser aplicadas à extração de praguicidas em água. A extração líquido-líquido (LLE) é a técnica clássica para extração de praguicidas em matrizes aquosas, sendo preconizada por muitos métodos oficiais6,7. A LLE apresenta boa recuperação, no entanto, tem uma série de desvantagens: não é aplicável para automatização, requer grandes quantidades de solventes tóxicos, é demorada e pode formar emulsões estáveis. Uma alternativa é a utilização da extração em fase sólida (SPE), que diminui o tempo de análise, o consumo de solventes, não forma emulsões, promove o enriquecimento de traços e apresenta alto potencial para automatização. A SPE é tradicionalmente usada na forma de cartuchos, porém, com a passagem de grandes volumes de água estes
+
+
+
+podem ser obstruídos (“channeling”), tornando o processo lento. Discos extratores em fase sólida, de introdução mais recente, admitem fluxos mais altos, o que diminui o tempo de extração, além de permitirem a passagem de maior volume de líquido e, assim, maior concentração dos analitos. Tanto os cartuchos como os discos podem ser usados no campo e armazenados para posterior análise no laboratório, o que torna esta técnica muito útil para trabalhos neste local, onde o acesso e o transporte muitas vezes dificultam análise em tempo hábil8,9. Extrações por fluido supercrítico (SFE) são relatadas em poucos trabalhos devido à moderada solubilidade da água no CO2 supercrítico, o que leva a problemas como obstruções e dificuldades para remover a água dos extratos9. Mais recentemente, vem sendo desenvolvida a técnica de microextração em fase sólida (SPME) que apresenta vantagens como a não utilização de solventes e a reutilização das fibras. A SPME é baseada no equilíbrio entre fases, e exceto para volumes pequenos de amostra, não promove uma extração exaustiva da mesma9. A principal técnica para quantificação de praguicidas organofosforados é a cromatografia em fase gasosa, sendo os detectores mais utilizados o fotométrico de chama, no modo fósforo (FPD/P), e o de nitrogênio fósforo (NPD). Pode-se ainda, utilizar a detecção por espectrometria de massas (MS) que, além de técnica sensível, fornece informações sobre a estrutura e composição química do analito; contudo, depende de instrumentação mais sofisticada e cara, ainda inexistente na maioria dos laboratórios do país. Este trabalho teve por objetivo desenvolver e validar um método de extração em discos de fase sólida C18 para os compostos diazinona, parationa metílica, pirimifós metílico, malationa e etiona, seguido de análise por cromatografia em fase gasosa e detecção por FPD. Este método foi então aplicado para monitoramento mensal de águas do reservatório de Furnas, na região de Alfenas, MG. PARTE EXPERIMENTAL Materiais, reagentes e amostras Os padrões diazinona 98,7%, parationa metílica 99%, pirimifós metílico 99,5%, malationa 99% e fenitrotiona 98% foram comprados da Chem Service (West Chester, USA). A solução-padrão 1 mg mL-1 de etiona foi gentilmente cedida pelo Laboratório de análises de praguicidas da NESTLÉ (São Paulo, Brasil). Soluções de concentração 1mg mL -1 em acetato de etila grau HPLC (Mallinckrodt Baker, St. Louis, USA) foram feitas para os demais padrões e uma mistura final diluída em metanol grau análise de resíduos de pesticidas (Grupo Química, Rio de Janeiro, Brasil) foi utilizada para a fortificação da água pura, obtida por um sistema Milli-Q (Millipore, São Paulo, Brasil), e das amostras reais. A fenitrotiona foi utilizada como padrão interno e foi adicionada, sempre na mesma quantidade, na etapa inicial de preparo dos calibradores e amostras. Os discos C18 de 47 mm de diâmetro e 0,6 mm de espessura compostos de partículas irregulares de sílica de 30 µm e poros de 70Å foram adquiridos, juntamente com o suporte de filtração, da Supelco (Bellefonte, USA). Utilizou-se membranas filtrantes de acetato de celulose e suporte de filtração (Millipore, SP, Brasil) para filtração do material particulado presente nas amostras reais. As amostras de águas do reservatório de Furnas foram coletadas em frascos âmbar de 1 L, previamente descontaminados quimicamente, e acidificadas até pH 2,5 com ácido sulfúrico (Merck, Darmstadt, Alemanha) 1:1 em água, adicionadas de 10 mL de metanol, procedimento recomendado por Albanis et al.10. As análises foram processadas em um tempo máximo de 48 h após a coleta das amostras mantidas sob refrigeração à 4 ºC. Os locais de coleta são ilustrados na Figura 1. As coletas foram realizadas mensalmente por um período de um ano, de janeiro a dezembro de 2002.
+
+Figura 1. Mapa da região de Alfenas identificando os locais de coleta
+
+Extração em discos de fase sólida C18 O fluxograma do procedimento de extração é mostrado na Figura 2. Utilizou-se a filtração do eluato da amostra sobre sulfato de sódio anidro (Merck) e ajuste do volume final para 5,0 mL antes da introdução no CG. Estudou-se a influência da vazão dos solventes e seus volumes sobre a recuperação dos analitos, buscando maximizá-la no menor tempo de análise possível.
+
+
+
+
+
+Amostra 1L
+
+Disco C-18
+
+• + H2SO4 até pH 2,5 • + 10 mL metanol • + padrões • + padrão interno • filtrar em membrana de 0,45 µm
+
+• + 5 mL acetato etila (vácuo 15” Hg) • secar 5’ (vácuo 15” Hg) • + 5 mL metanol (vácuo 1,5” Hg) • + 10 mL água milli-Q (vácuo 1,5” Hg) • filtrar (vácuo 10” Hg) • secar 5’ (vácuo 15” Hg)
+
+Eluição 5 mL ac. etila • filtrar sobre Na2SO4 anidro • acertar p/ 5,0mL c/ acetato de etila
+
+1 µL
+
+CG - DFC/P
+
+Figura 2. Fluxograma do sistema de extração de inseticidas organofosforados por discos em fase sólida
+
+mantida por 2,5 min, seguida de rampa de 20 ºC min-1 até 270 ºC, mantida por 2,5 min e vazão do gás de arraste N2 a 8 mL min-1. Validação do método Para estudo da linearidade foram utilizadas amostras “brancas” de água milli-Q fortificadas com concentrações de 2,5; 5,0; 12,5; 25,0; 50,0 µg L-1 para diazinona, parationa metílica e pirimifós metílico, e 5,0; 10,0; 25,0; 50,0; 100,0 µg L-1 para malationa e etiona. Para determinação da repetibilidade foram analisadas 5 replicatas das concentrações: 2,5 e 12,5 µg L-1 e 3 replicatas das concentrações: 5,0; 25,0 e 50,0 µg L-1 para diazinona, parationa metílica e pirimifós metílico, e 5 replicatas das concentrações: 5,0 e 25,0 µgL-1 e 3 replicatas das concentrações: 10,0; 50,0 e 100,0 µg L-1 para malationa e etiona. O limite de quantificação (LQ) do método utilizou como parâmetro de aceitação a menor concentração medida com precisão adequada (desvio padrão relativo menor que 10%) em amostras “brancas” fortificadas com todos os analitos. A recuperação foi medida em comparação a concentrações definidas dos analitos em solução de acetato de etila. Determinouse a recuperação através de 5 replicatas da extração dos analitos com concentrações equivalentes a 5 vezes a concentração do LQ. As análises quantitativas das amostras de água provenientes do reservatório de Furnas foram feitas juntamente com um controle individual de amostra, preparado por adição de quantidade conhecida de cada analito (equivalente a 10 vezes a concentração do LQ) a uma das replicatas da amostra. Foi usada a área relativa ao padrão interno fenitrotiona para a construção das curvas analíticas e determinação da concentração dos analitos. RESULTADOS E DISCUSSÃO
+
+Análise cromatográfica Preparo e extração das amostras As análises foram efetuadas usando um cromatógrafo à gás modelo CG 1000 (Ciola & Gregori, São Paulo, Brasil), no modo sem divisão de fluxo (“splitless”), com coluna de sílica fundida 35% fenilsiloxano (FS) - 65% dimetilsiloxano (DMS) de 30 m x 0,53 mm x 0,5µm (Ciola & Gregori). O cromatógrafo foi acoplado a um computador por meio de uma interface de controle e integração DANI DS 1000. As condições cromatográficas otimizadas foram: temperatura do detector a 240 ºC; temperatura do injetor a 270 ºC; temperatura inicial do forno a 160 ºC com rampa de 2,5 ºC min-1 até 200 ºC,
+
+Acidificou-se a amostra logo após a coleta, ainda em campo, como estabelecido por Albanis et al.10, objetivando estabilizar os compostos OF na água. O transporte até o laboratório e a conservação das amostras foi sob refrigeração a 4 oC, e a análise procedeuse até 48 h após a coleta. Antes de se proceder à passagem no disco de SPE, houve necessidade de se fazer a filtração prévia das amostras sobre membrana de 0,45 µm, pois as mesmas continham partículas em suspensão. A extração de OF utilizando discos C18 deve-se à partição dos
+
+
+
+compostos entre a fase aquosa (polar) e a fase sólida (apolar). Compostos OF com solubilidade em água menor que 300 mg L-1 ou com log Koa (coeficiente de partição octanol-água) maior que 2 geralmente apresentam recuperações aceitáveis quando extraídos por SPE, como demonstrado por Tolosa et al.11. A SPE em discos C18 fornece resultados adequados utilizando, na extração, volumes de água em torno de 1 L. A utilização de volumes maiores pode diminuir a recuperação da extração11. Neste trabalho, o método foi validado utilizando volumes de 1 L de água e, como a passagem da água pura através do disco pode prejudicar o seu desempenho, foi estabelecida a utilização de 10 mL de metanol, mantendo o condicionamento do disco. A passagem de 5 mL de acetato de etila foi necessária para o condicionamento do disco extrator e para remoção de algum possível interferente. Também foram testados volumes de 10 e 15 mL, porém estes não demonstraram influência na performance de extração, uma vez que a finalidade principal do procedimento é condicionar a fase C18 do disco e o volume de 5 mL já é suficiente. A seguir utilizou-se o metanol, solvente miscível tanto no acetato de etila quanto em água. Na adição de água deve-se evitar a secagem do disco para que não haja perda de seu condicionamento. Os volumes de metanol e água testados foram de 5, 10 e 15 mL, porém não foram observadas influências dos volumes na recuperação. O vácuo aplicado nesta etapa, por sua vez, merece atenção adequada, pois se ajustado em valor muito alto, irá resultar na secagem do primeiro solvente antes da adição do seguinte, o que impede o fluxo adequado da amostra e impossibilita uma análise correta. A secagem do disco após a passagem da amostra foi estudada nos tempos de 1, 5 e 10 min. Com 1 min era obtida uma secagem inadequada e o grande volume de água residual impedia uma extração adequada pelo acetato de etila. Com os tempos de 5 e 10 min foram obtidos resultados próximos, optando-se pelo tempo mais curto. O volume de acetato de etila utilizado na eluição foi testado em 5, 10 e 20 mL, e suas recuperações não foram significantemente diferentes com 95% de confiança. Optou-se pelo menor volume pois, assim se evitaria a necessidade de evaporação do solvente e a posterior ressuspensão dos analitos, o que implicaria em maior tempo de análise e inserção de mais uma fonte de erro no procedimento. O fato de maiores quantidades de analito não serem resgatados com maiores volumes deve estar relacionado com a quantidade de analito extraída pelo disco, uma vez que o solvente utilizado e seu volume têm plena capacidade de eluição dos analitos. Os resultados obtidos após otimização serão discutidos a seguir, no item Figuras de mérito. O eluato foi filtrado sobre sulfato de sódio anidro para remoção do remanescente de água, sendo o volume final completado para 5,0 mL. O tempo de extração foi de 28 min/amostra, em média.
+
+749
+
+Tabela 1. Equações de regressão linear e coeficientes de correlação dos OF Composto diazinona parationa metílica pirimifós metílico malationa etiona
+
+Equação de regressão
+
+Coeficiente de correlação (r)
+
+AR = 0,0200.C - 0,0103 AR = 0,0234.C - 0,0066 AR = 0,0177.C + 0,0009 AR = 0,0141.C + 0,0572 AR = 0,0159.C + 0,0221
+
+0,997 1,000 0,995 0,999 0,994
+
+Os dados experimentais obtidos para construção das curvas analíticas foram submetidos ao teste de Huber para rejeição de anômalos. Utilizando-se um k=3, não houve necessidade de rejeição de nenhum dos dados, e os coeficientes de correlação (r) ficaram entre 0,994 e 1,000. Através da análise dos resíduos avaliaram-se discrepâncias entre os valores experimentais e os calculados pela equação de regressão linear, e estes valores experimentais se adequaram ao requerido pela análise em nível de traços. Os coeficientes de variação (CV) obtidos para todos os pontos variaram entre 0,75 e 6,9%, sendo semelhantes ou até inferiores a outros relatados na literatura11,12. A padronização interna foi escolhida por possibilitar a compensação de variações na extração e na introdução manual dos extratos no CG. A Figura 3 ilustra as curvas analíticas de cada composto com as barras de erro de cada conjunto de dados. As recuperações obtidas pelo método proposto foram adequadas às análises nos níveis estudados, e se devem principalmente às características dos compostos, que apresentam Koa próximos de 2 e 3. Tolosa et al.11 e Albanis e Hela12 obtiveram recuperações entre 66-118% e 82-96%, respectivamente, para os mesmos compostos, em condições semelhantes de análise. O limite de quantificação encontrado permite seu uso em análise de águas de Classe 3, segundo a Resolução Conama nº20 (18 de junho de 1986), que se destinam: ao abastecimento doméstico, 1.6
+
+1.4
+
+1.2
+
+área relativa
+
+Vol. 28, No. 5
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+Figuras de mérito 0.0 0.0
+
+As Tabelas 1 e 2 ilustram os parâmetros obtidos na validação do método proposto.
+
+20.0
+
+40.0
+
+60.0
+
+80.0
+
+100.0
+
+concentração (µg L ) -1
+
+Figura 3. Curvas analíticas dos compostos estudados (¡ diazinona,  parationa metílica, S pirimifós metílico, z malationa, ¾ etiona)
+
+Tabela 2. Parâmetros de validação do método proposto Composto diazinona parationa metílica pirimifós metílico malationa etiona
+
+LQ (µg L-1)
+
+Repetibilidade (%)*
+
+Recuperação (%)
+
+Linearidade (µg L-1)
+
+2,5 2,5 2,5 5 5
+
+1,2 1,0 2,3 6,9 2,9
+
+81 95 73 93 79
+
+2,5 a 50,1 2,5 a 50,0 2,5 a 50,1 5,0 a 100,0 5,0 a 100,1
+
+* relativa à concentração do LQ.
+
+
+
+após tratamento convencional; à irrigação de culturas arbóreas, cerealíferas e forrageiras e, à dessedentação de animais3. Por essa Resolução os limites de malationa e parationa são, respectivamente, 100 e 35 µg L-1 e para compostos OF e carbamatos totais são de 100 µg L-1 em parationa. Os intervalos de linearidade estabelecidos foram semelhantes aos reportados por Albanis e Hela12. Não se observou qualquer interferente nas amostras que pudesse afetar a análise dos OF pesquisados, como ilustrado na Figura 4.
+
+Quim. Nova
+
+base nos utilizados na região, exceto a fenitrotiona escolhida, então, como padrão interno. Encontrou-se OF em 10% das amostras coletadas, todas de um mesmo ponto de coleta (Ponto 1), próximo de cafeeiros, nas seguintes concentrações: 7,3 µg L-1 de malationa em fevereiro; 6,7 µg L-1 de pirimifós metílico em março e, 12,3, 13,8 e 27,4 µg L-1 de parationa metílica em agosto, outubro e dezembro de 2002. A concentração de malationa encontrada foi próxima às concentrações de 1,3-13 µg L-1 detectadas em águas do estuário de Cochin, Índia, por Sujatha et al.13, e às relatadas por El-Kabbany et al.14 em águas da região de El-Haram, Giza, Egito. Albanis et al.10 detectaram níveis bastante baixos de diazinona, malationa e parationa metílica, entre 0,02-0,18 µg L-1, em águas da província de Imathia, Macedônia Central, Grécia, entre maio de 1996 e abril de 1997. Nesta pesquisa, a maioria das amostras analisadas não mostrou a presença de OF ou os apresentara em níveis inferiores ao LQ do método. Provavelmente, os achados têm relação não apenas com o uso de praguicidas OF nas culturas de café próximas ao lago, como também com a possibilidade de lixiviação dos mesmos pelas águas de chuvas em determinadas épocas do ano e sua rápida degradação neste meio. CONCLUSÕES O uso de discos de extração de fase sólida C18, seguido de separação por cromatografia em fase gasosa, mostrou-se adequado para análise de amostras de água contendo OF com solubilidade em água inferior a 300 µg L-1 ou com log Koa superior a 2. Este preparo de amostra mostrou-se simples, rápido, eficiente, reprodutível, além de consumir pequeno volume de solventes em comparação com a LLE. Por outro lado, permite o uso em situação de campo. As amostras positivas foram coletadas no ponto de maior proximidade das águas com a cultura onde foi aplicado o OF, e logo após a ocorrência de chuvas na região.
+
+
+
+Figura 4. Cromatogramas obtidos para: (a) branco + PI, (b) padrões + PI, (c) amostra real + PI (1. diazinona, 2. parationa metílica, 3. pirimifós metílico, 4. malationa, 5.etiona, PI. fenitrotiona)
+
+Análise de águas do reservatório de Furnas O estado de Minas Gerais é o 5º maior consumidor de praguicidas do país, e a região de Alfenas é uma das maiores responsáveis pela produção de batata-inglesa e café no estado e no Brasil; estas culturas consomem grandes quantidades de praguicidas. O reservatório de Furnas, além de importância para os 25 municípios lindeiros, possui muitas destas lavouras em suas margens, bem próximas das águas, às vezes chegando a apenas 35 m nos períodos de maior preenchimento do reservatório (fevereiro-junho). Esta situação tem levado à contaminação pontual da represa com praguicidas lixiviados das lavouras, podendo ocasionar a morte de peixes. Os praguicidas avaliados foram escolhidos com
+
